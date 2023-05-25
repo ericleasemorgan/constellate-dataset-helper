@@ -1,0 +1,1021 @@
+7
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+Energy Ethics: Emerging Perspectives 
+in a Time of Transition
+Editorial
+Giovanni Frigo
+University of North Texas, Denton, TX - USA
+doi: http://dx.doi.org/10.7358/rela-2018-001-frig  giovanni.frigo@unt.edu
+1. introduction
+“E” is an algorithm, “energy” is a loaded word. “E” is 
+meaningful only within a formula, “energy” is charged 
+with hidden implications: it refers to a subtle something 
+which has the ability to make nature do work. 
+Ivan Illich, The Social Construction of Energy (2015)
+This special issue grapples with the timely and exciting theme of “energy 
+ethics”. It is a one of a kind publication bringing together 16 intellectuals 
+from 10 different countries. It includes both young researchers and established
+scholars working in disciplines as different as anthropology, sustain-
+ability studies, public policy, theology and, of course, philosophy. Its cosmopolitan
+orientation and the diversity of its contributions offer a wide range 
+of positions together with innovative approaches to the study of energy. 
+The goal of this collective project is threefold. First, it aims at exploring 
+energy’s multifaceted cultural and philosophical dimensions with a specific 
+attention to ethics. For this reason, authors were given significant freedom of 
+inquiry and yet, they have been invited to develop their original work in line 
+with the scope and orientation of the journal. Second, the overall collection 
+shows that the humanities in general, and ethics specifically, can fruitfully 
+contribute to the energy discourse, bringing analytical acumen and reflective 
+depth concerning the moral and socio-cultural implications of energy. Third, 
+despite the fact that such unpredictable engagements with the topic of energy 
+may sometimes appear unusual or challenging, they are aimed at sparkling 
+further dialog across disciplines, enriching the debate about current energy 
+transitions from fossil fuels to clean, renewable and sustainable sources.
+ Giovanni Frigo
+8
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+Following the usual format of Relations. Beyond Anthropocentrism, this 
+special issue is also published in two separated volumes. The present issue, 
+vol. 6.1, will be followed in November 2018 by vol. 6.2. Besides this introduction,
+each edition contains five research papers, two comments, one 
+interview and reviews. In the second issue, the “energy ethics” interview will 
+feature philosopher of technology Carl Mitcham, one of the most influential 
+contemporary thinkers on the topic of energy and ethics. The dialog with 
+Mitcham – a tireless public intellectual internationally recognized for his 
+efforts in bridging the gap between engineering and ethics – will help further
+engage the reader with the theme of energy and ethics from its incep-
+tion in the early 1970s to its recent developments in China and beyond. 
+Since the present editorial serves both volumes, the second issue will 
+not feature a separated introduction. Instead, vol. 6.2 will begin with a 
+broad literature review of the most relevant antecedents in the study of 
+energy and ethics. It will survey past and current scholarly literature in 
+energy humanities, anthropology of energy and ethics of energy, including 
+recent conferences and interdisciplinary projects. It will thus help the readers
+better orient themselves in this new area of intellectual engagement and 
+hopefully intrigue some to explore further.
+In the attempt to present the overarching narrative of this project 
+and introduce the inspiring work of the authors – my patient companions 
+in this one-year-long intellectual journey – this introduction ponders on 
+the exciting opportunity to think philosophically about energy. Section 2 
+suggests an indirect reflection on energy inequality and injustice by presenting
+some implications of contemporary “energivorous” lifestyles, 
+namely those surrounded by techno-science and addicted to fossil fuels. 
+In section 3, I discuss how the modern and scientific concept of energy 
+is a cultural construct emerged during the early Industrial Revolution 
+(Wrigley 2010) through the work of several natural philosophers, later 
+known as disciplinary scientists and engineers (Frigo 2017). Understanding
+the emergence of the scientific conceptualization of energy is 
+pivotal to appreciate, evaluate and then challenge some key assumptions 
+that lie at its basis. For instance, it is rarely appreciated that the energy 
+discourse commonly depends on a rather specific understanding of the 
+human-nature relationship that is tacitly assumed and taken for granted. 
+In section 4, I will fully embrace the spirit of Relations and explore ways 
+to think about energy as if humans were not the center and the measure of 
+everything. Namely I will try to philosophize about energy beyond anthropocentrism.
+This part constitutes the core of the article and supports the 
+thesis that it is time to update and reorient the energy concept in an ecocentric
+direction. I propose that an ecocentric philosophy of energy – or 
+ Energy Ethics: Emerging Perspectives in a Time of Transition
+9
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+an ecocentric energy ethic – can successfully integrate the understanding 
+of energy produced by physics, chemistry and engineering with knowledge
+and insights drawn from ecology, inter-species energy justice and 
+ecocentric environmental philosophy. I argue that an ecocentric energy 
+concept would improve the human-nature-energy relationship, updating 
+humans’ understanding of the fundamental links between energy, ecology 
+and ethics towards the actualization of strong sustainability (Neumayer 
+2013). Section 5 concludes the editorial and clarifies the significance of 
+the project. Throughout the text I also have the honor to introduce the 
+inspiring contents of this collection.
+2. HigH energy societies and tHe conundrum
+ of energy transition
+The commonly accepted basis of our economy is the 
+supposed possibility of limitless growth, limitless wants, 
+limitless wealth, limitless natural resources, limitless 
+energy, and limitless debt.
+Wendell Barry, Faustian Economics (2008)
+Starting in the Western world, modern societies have become high energy 
+socio-political assemblages (Illich 2015). In many parts of the globe, 
+humans are extremely energivorous, addicted to a commodious lifestyle 
+based on abundant and intense power, the availability of which they expect 
+and take for granted (Borgmann 1984). Contemporary lifestyles are based 
+on sophisticated techno-scientific premises and are unthinkable without 
+recurring to ad hoc socio-political and economic apparatuses that guarantee
+an enormous and steady input of resources into the system. 
+Although Homo sapiens has always used the environment to survive 
+(McElroy 2009, 2010; Pain 2017), it is especially over the last two centuries
+that a growing number of humans have extracted from nature larger 
+amounts of fuels and materials, exploiting not only the work of other 
+humans, but especially that of animals and the services of ecosystems at 
+rates that many consider unsustainable (Heinberg 2003, 2015; Elliott 2007; 
+Brown 2009; Meadowcroft 2009). The astonishing rate of population 
+growth has brought humans from 1.6 billion in 1900 to more than 7.6 billion
+in 2018, an almost five-fold increase. In the span of just few decades a 
+new animal has appeared, Homo energeticus who, through techno-scientific 
+domination, reifies, commodifies and prices nature to serve its growing 
+needs (Kowalsky and Haluza-DeLay 2013). 
+ Giovanni Frigo
+10
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+On this regard, Italian “human overpopulation” thinker Andrea 
+Natan Feltrin tackles in his comment “Energy Equality and the Challenges 
+of Population Growth” (second volume) the issue of energy equality in 
+relation to human population growth. He argues that “going beyond the 
+capitalistic myth of never-ending growth becomes a moral duty” if we are 
+to attain a fair distribution of energies on a planet with limited resources. 
+An energy transition to renewables is currently happening worldwide.
+This seems to require the electrification of infrastructures and 
+devices to attain the switch of entire systems (Meadowcroft 2009; Smil 
+2010; Grubler 2012; Araújo 2014) to potentially 100% renewable sources 
+(Delucchi and Jacobson 2011; Jacobson and Delucchi 2011; Jacobson 
+2014; Jacobson et al. 2017). However, the opportunity of providing a 
+reliable system 100% based on renewable sources has raised scientific 
+controversies and feasibility doubts (Clack et al. 2017). An evolution of 
+energy sources has always happened in the history of humanity (Fouquet 
+and Pearson 2012), and in very different ways (O’Connor 2010), but current
+energy transitions imply unprecedented scales and must deal with 
+the addiction to, and dependence on fossil fuels. But, of course, energy 
+transition is not only a policy issue and actually implies and expects 
+behavioral changes of millions of people too. 
+Dealing with a poignant example of such complex struggle, Italian 
+anthropologist Alice Dal Gobbo’s article entitled “Desiring Ethics: Reflections
+on Veganism from an Observational Study of Transitions in Everyday 
+Energy Use”(second issue) adopts observational ethnographic methods to 
+study everyday energy transitions in Northern Italy. Dal Gobbo presents 
+empirical material to “reflect psycho-socially on the potentialities of veganism
+as an energy ethics of sustainability” and warns of the danger of adopt-
+ing a plant-based diet as an abstract moral imperative rather than a situated 
+and nuanced ethical choice.
+Like any systemic transformation, energy transition implies risks. These 
+derive from unpredictable factors, uncertainty or ignorance. Since decisions 
+must eventually be made, it is pivotal to address the ethical implications 
+of just and sustainable energy transitions. In the present issue, Bertrand 
+Andre Rossert’s article “Ethical Risk and Energy” explores the currently 
+grey area between ethics and risk management, focusing specifically on the 
+notion of ethical risk in relation to the energy sector. Rossert agrees that 
+there is an urgent need for an energy ethics as a fundamental tool to evaluate
+risk and proposes both a theoretical clarification of key concepts and 
+a strategic pathway for the creation of a “risk management checklist”. He 
+delves into the nuances of the notions of ethical violations, deterioration, 
+and improvement offering a series of compelling and relatable examples. 
+ Energy Ethics: Emerging Perspectives in a Time of Transition
+11
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+An updated version of ethical risk (perhaps even a biocentric one) provides 
+a richer understanding of uncertain situations often occurring in complex 
+energy projects. Advocating for an energy ethics that begins with a risk 
+approach, Rossert affirms that “when energy ethics is as developed as bioethics
+is today, then energy companies will be able to take it into account”, 
+thus leading to a significant improvement of energy ethics in practice.  
+During this transition toward alternative and more sustainable systems, 
+it is important to understand the premises from which we are moving. In 
+other terms, we need to make sense of what it has meant to live for more 
+than 200 years embedded in petrocultures (Black 2012; LeMenager 2014; 
+Petrocultures Research Group 2016) which have allowed unprecedented, 
+incredible transformations as well as problematic consequences. 
+In the first article of this issue – “Ethics, Nafthism, and the Fossil Subject”
+– Finnish philosophers Tere Vadén and Antti Salminen highlight that 
+the presumed human “victory over nature” – an emblem of modern Western
+thinking – is “supremely ironic” because its essential material condi-
+tions depend on fossil fuels, a very natural occurrence. Expanding a thread 
+of thought they started in their book Energy and Experience (2015), here 
+the authors point out that the ethics of modern subjects is detached, forgetful
+of its dependence on a specific energy regime. Vadén and Salminenhelp 
+us understand humans’ entanglement with fossil fuels through a compelling 
+“nafthology” and argue that a post-fossil energy ethics should ultimately be 
+a-subjective and based on non-modern premises.
+It is nowadays commonly agreed among climate and energy scholars 
+that transitioning away from fossil fuels is the prerequisite for a meaningful 
+worldwide contribution to climate change mitigation (Stephenson 2017) 
+and has the potential to bolster significant technological innovation (Stolten 
+and Scherer 2013). However, we might wonder whether techno-scientific 
+strategies are enough for energy transitions that will take into account also 
+non-human life. The question is not trivial because, again, it concerns the 
+underlying assumptions of individual and collective lifestyles, policies and 
+political decisions as well as the actual existence and wellness of non-human 
+beings, biotic communities and ecosystems. In the wake of several other 
+contemporary thinkers in energy humanities and social sciences, I hold 
+that energy transition is not only a technical affair. Hence, it should not be 
+understood only as a human socio-technological and economic problem, 
+but also at its core as an ecological and philosophical one. Transitioning 
+to clean and sustainable systems is intertwined with other dimensions of 
+individual, social and ecosystemic life. Culturally and philosophically, they 
+imply metaphysical, psychological, sociological, behavioral, gendered, legislative
+and religious considerations. Ecologically, they take place within 
+ Giovanni Frigo
+12
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+complex ecosystems in which also other species require adequate space 
+and resources to thrive. 
+For example, one of the most interesting and yet quite rare perspectives
+on the ethics of energy is that of religion. Expanding her pioneering 
+work on energy ethics from a Christian standpoint (2016), Erin Lothes 
+Biviano contributes to this volume with her comment “Catholic Energy 
+Ethics: Commitments and Criteria”. In it, she lays the foundations for a 
+theocentric theology of energy that is based on the “covenantal economy 
+of creation and salvation”, a proposal that acknowledges humans’ privilege 
+and addresses the irresponsibility for the implementation of an “integrated 
+ecology of family, community, society, and earth”.
+Again, what is important to remember is that both cultural and ecological
+dimensions of the transitions are less visible than wind farms or Tesla 
+Model 3 but, in my opinion, also essential to fully grasp their breadth and 
+depth. If we ignore them by underestimating their influence or sweeping 
+them under the rug as humanistic nuisance or unnecessary environmental 
+alarmism, we run the risk of understanding only part of the story. As Janet 
+Stephenson suggests, “to work effectively across disciplines, social scientists 
+[and philosophers/ethicists] will need to learn something of what energy 
+means, and physical scientists will need to learn something of what energy 
+means” (Stephenson 2017). Environmental ethics, philosophy of technology, 
+energy humanities and social sciences can help integrate the understanding 
+of energy produced in the natural sciences toward a more holistic account.
+In this special issue, three North American scholars specifically enlarge 
+the boundaries of the energy discourse beyond anthropocentrism. In the 
+first volume, Jacob Bethem’s article “Life within Energy Policy” proposes 
+to recognize and integrate the powerful and shared concept of “life” (value 
+and sacredness of, reverence for) in energy policy. Moving from environmental
+philosophy, Bethem bridges his theoretical proposal to the case 
+study of the Navajo Generating Station near Page, Arizona. In this way, he 
+is able to show the possible concrete implications of a life-based philosophy
+of energy within a specific Native American struggle of moving beyond 
+fossil while reimagining the community’s future. 
+On a similar note, Matthew J. Burke’s paper entitled “Mutually-Beneficial
+Renewable Energy Systems” (also in this volume) adopts “a relational 
+view of energy futures, emphasizing and shifting attention toward the role 
+of nonhuman elements of renewable energy systems to explore opportunities
+for rethinking renewable energy systems as processes for restoration 
+and healing of human-nature relationships”. Burke develops the rationale 
+for his proposal addressing four areas: practice, ecology, ethics and culture.
+Then, he discusses several practical energy technologies with the goal 
+ Energy Ethics: Emerging Perspectives in a Time of Transition
+13
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+of not only avoiding or minimizing harm, but also supporting ecological 
+enhancement and mutually-beneficial consequences for both human and 
+non-human nature.
+In the second volume, environmental philosopher Joseph M. Aloi 
+brings us to the rural areas of West Virginia to delve into the intricacies 
+and the trade-offs between the culture of coal extraction and food ethics. 
+His “Coal Feeds My Family: Subsistence, Energy, and Industry in Central 
+Appalachia” presents “the change in land-human relationships through the 
+lens of food”. Aloi analyzes and deconstructs the metaphor “coal feeds my 
+family” and offers a nuanced description of a multifaceted energy reality in 
+which the fossil economy based on the dead (coal) struggles to make sense of 
+its disintegration. Meantime, communities are rediscovering their rich preindustrial
+agricultural energy economy and land-based culture. These three 
+articles contribute significantly to the development of a nuanced philosophy 
+of energy that moves beyond anthropocentrism, one that acknowledges and 
+accounts for essential ecological, economic and socio-cultural interdependencies.
+The relationship between economics, energy and human work is 
+also discussed in Nora Ward’s review of the book Blood and Earth: Modern 
+Slavery, Ecocide, and the Secret to Saving the World by Kevin Bales. Connecting
+past and present types of slavery to the theme of energy, she discusses 
+how “labor of human hands and human (and animal) bodies, occurring in 
+conditions of coercion, poverty, and violence” still supplies “much of the 
+raw energy for even the most advanced economies”. So, current planetary 
+imbalances of energy access and distribution are coupled with a system of 
+exploitation. Ward highlights that “this kind of labor is not only destructive
+to the humans and human communities that it occurs in but also has 
+devastating impacts on animals, plants, and wider ecological communities”.
+3. tHe modern and scientific energy paradigm
+Paradoxically, the term energy, used for the preceding 
+300 years to designate the forcefulness of a face or the 
+liveliness of a statement was first used to designate the 
+“force of nature” precisely at the time when – in all the 
+natural sciences – nature’s vitality, its “Lebenskraft”, 
+was being systematically denied.
+Ivan Illich, The Social Construction of Energy (2015)
+Few topics are as important as energy. Indeed, energy is not so much a 
+distinct topic as it is a thread woven throughout many of today’s most 
+pressing issues – from political economy to ecology to science and tech-
+ Giovanni Frigo
+14
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+nology. As a result, there is no shortage of talk about energy. Especially 
+since the oil crises of the early 1970s, one just needs to open a newspaper 
+or scroll a webpage, to find a wide range of discussions that span from 
+the energy costs of Bitcoin mining to surging wind development in West 
+Texas, to talk of gas pipelines in southern Italy, the miracles of the Shale 
+Revolution, or the promises of Tesla’s Powerwall. Yet, no matter what the 
+topic of conversation, I contend that the discourse is grounded on a problematic
+understanding of “energy”, a forma mentis that has its deep roots 
+in the modern worldview, and specifically in a flawed assumption about 
+the human-energy-nature relationship. I call this assumed understanding 
+“the energy paradigm”, an account that has been produced by the natural 
+sciences and has manifested in practice through the groundbreaking marvels
+of engineering  1. In the discussion of such a paradigmatic worldview, I 
+agree with Lynn White Jr. that what we do depends on what and how we 
+think: “What people do about their ecology depends on what they think 
+about themselves in relation to things around them” (1967). Similarly, the 
+conceptualization of energy has had remarkable material consequences. 
+I will explain that what we practically do in terms of power production, 
+consumption, distribution and waste ultimately depends on what we think 
+about energy. In this special issue, four authors directly challenge different 
+aspects of the common understanding of energy. In very different ways, 
+they suggest alternative outlooks which entail, overall, a profound reflection
+on several ingrained cultural assumptions that are worth unpacking.
+Dutch philosopher of energy Robert-Jan Geerts – one of the few contemporary
+thinkers of techno-science who has engaged the theme of energy 
+from an explicit philosophical perspective (Geerts et al. 2016; Geerts 
+2017) – offers in this first issue a theoretical challenge to a dominant reasoning
+of current energy transition discourse. His “Beyond Scarcity: Perspec-
+tives on Energy Transition” evaluates and criticizes the two usual notions 
+of “boundless consumerism” and “eco-frugality” as they problematically 
+relate to ideas of well-being and good life. Geerts considers both concepts 
+somehow flawed because they share and move from the unappealing and 
+unpopular idea of scarcity. Alternatively, he suggests that a third path is 
+available, namely that of qualitative abundance. Instead of scarcity, qualitative
+abundance is based on ideas of prosperity and simplicity, hence it 
+ 1 I use the term paradigm as a “pattern” or “characteristic way” of conceptualizing 
+energy, and indirectly of seeing the non-human world. This interpretation bridges both 
+Thomas S. Kuhn’s “extended” or “global” meaning of scientific paradigm (Kuhn 1962; 
+Kuhn 1969) and Albert Borgmann’s idea of a “pattern of technology” represented by the 
+devices which constitute the modern way “to take up with the world” (Borgmann 1984).
+ Energy Ethics: Emerging Perspectives in a Time of Transition
+15
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+reframes the notion of a “good” energy system away from “too much or too 
+little” and thus reshapes the lingo of the energy transition discourse.
+The other three articles that challenge ulterior aspects of the energy 
+paradigm will feature in the issue of November. French environmental 
+cyclo-philosopher Damien Delorme challenges the common monopoly of 
+the automobile transportation system in his exciting piece entitled “Contesting
+the Radical Monopoly: a Critical View on the Motorized Culture 
+from a Cyclonaut Perspective”. Delorme shares his six-months-longbike 
+road trip across the United States following an imaginary ligne verte made 
+of surprising intellectual and environmental encounters with both human 
+and non-human animals  2. His journey represents a decentering experience 
+that affords “a critical outlook on the norms and usages brought by the 
+engine culture”. His paper proposes enriching our phenomenological experiences
+of energy through “autonomous movement that broadens our social 
+imagination and contributes to face our current environmental crisis”.
+On a similar note, German philosopher Roman Meinhold moves away 
+from mainstream considerations about energy as electricity or fossil fuels 
+and focuses instead on neglected, yet crucial aspects of human energy. 
+His article concerns the fundamental and often forgotten recognition that 
+humans are active and moving beings. Meinhold deals with four types of 
+human energy: interpersonal/social, movement, intellectual, and spiritual. 
+His philosophical anthropology of energy merges phenomenology, virtue 
+ethics, and a call for activity oriented toward wisdom. His proposal calls 
+for a balanced and wise energy ethics that starts from within and requires 
+practice. 
+Finally, Italian independent intellectual Federico Battistutta’s comment,
+provocatively entitled “Energy of Ethics / Ethics of Energy” chal-
+lenges the culture-nature dichotomy. He adopts insights from thinkers 
+such as Luce Irigaray and Sigmund Freud to inquiry types of psychic and 
+emotional energy that are not very well represented in the literature of 
+energy and ethics but deserve indeed more attention in order to broaden 
+our understanding of energy’s ontology.
+The work of these authors is in tune with, and seems to further support
+my claim that there is indeed a conception of energy that is prevalent 
+and tacitly assumed in the energy discourse generally and in the context of 
+energy transition specifically. This notion implies a great number of features
+typical of the modern period: a certain ideal of progress, assumptions 
+of anthropocentrism linked to the commodification of nature, a strong reli
+2 See his journey – Untaking Space: the U.S. Project – at: https://usproject2016.
+com/.
+ Giovanni Frigo
+16
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+ance on the techno-scientific apparatus, a proactionary approach to risk 
+assessment, free-market capitalism, individualistic and competitive values, 
+and so on.
+The scientific understanding of energy is a cultural construct produced 
+in a very specific context, the Western, modern, and scientific world. 
+Energy has been defined primarily by the natural sciences as a property 
+of objects, that is the capacity of matter to do work. But this and other 
+similar definitions stress only certain measurable, quantifiable and mechanistic
+properties of reality leaving outside everything else. I claim that the 
+modern energy paradigm has been emphasizing anthropocentric ideas 
+and instrumental values within the human-energy-nature relationship. 
+Again, its norms, values, and principles derive from a scientific, mechanistic,
+quantitative, mathematized and even patriarchal approach that 
+accounts only partially for the complexity of energy as a multi-faceted 
+phenomenon  3. Moreover, these characteristics make it not only obviously 
+reductionist but ecologically and philosophically problematic too. The key 
+point is that such modern and scientific understanding of energy has been 
+taken for granted, becoming the “traditional” way in which most people 
+think and act about energy. In practice, the most important implication is 
+that this mentality has been having remarkable consequences (i.e. human 
+population growth, technoscientific advancements but also devastation and 
+ecocides), transforming planet Earth in dramatic ways. Especially over the 
+past two centuries, energy practitioners (policy-makers, engineers, politicians,
+stakeholders) who have been operating according to this worldview 
+have expanded built environments and at the same time drastically affected 
+the non-human world and ecosystemic equilibria.
+Since this Special Issue concerns energy and ethics, it is important 
+to recall that the modern energy paradigm has its roots in the scientific 
+attempt, starting in the 18th century, to “make sense” and name various 
+phenomena related to, for example, heat exchanges, magnetism, light, 
+electricity. The study of these phenomena was accompanied by the idea 
+of improving the efficiency of different engines (e.g. steam, internal combustion),
+and hence the productivity of machines. Therefore, the study of 
+energy bears the weight of its initial aim, namely improving the efficiency 
+of machines. As Vaclav Smil has put it,
+Theoretical energy studies reached a satisfactory (though not a perfect) 
+coherence and clarity before the end of the nineteenth century when, after 
+ 3 For the sake of focus, in this article I will not delve into the last of these characteristics.
+One of the most thorough account of the relationships between patriarchy, control 
+of nature and the scientific revolution is Merchant 1980 (see also Merchant 2006).
+ Energy Ethics: Emerging Perspectives in a Time of Transition
+17
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+generations of hesitant progress, the great outburst of Western intellectual 
+and inventive activity laid down the firm foundations of modern science 
+and soon afterwards developed many of its more sophisticated concepts. 
+The ground work for these advances began in the seventeenth century, and 
+advanced considerably during the course of the eighteenth, when it was 
+aided by the adoption both of Isaac Newton’s (1642-1727) comprehensive 
+view of physics and by engineering experiments, particularly those associated 
+with James Watt’s (1736-1819) improvements of steam engines. (2006, 13)
+The Western conceptualization of energy has depended on the scientific 
+control of the forces of nature through mathematical language and the 
+application of the scientific method: a rather homogeneous conception of 
+energy emerged, which has become predominant and has been reigning 
+substantially unchallenged in educational settings and policy-making. The 
+blooming of the Industrial Revolution, a tremendous population expansion,
+the diffusion of ideas of progress and human exceptionalism have 
+increased human hubris, individualism and greed, with the support of ad 
+hoc socio-economic and ethical theories (Moncrief 1970). These views are 
+so deeply ingrained that they have become normalized, and consequently 
+invisible.
+Another article in this first issue helps us better understand and indirectly
+appreciate the implications of the Western conceptualization of 
+energy. In his “Renewable Energy Issues in Africa Contexts”, Nigerian 
+philosopher Diana-Abasi Ibanga provides an intriguing analysis that begins 
+by criticizing the Western approach as inappropriate or inadequate to fully 
+understand African energy dynamics. Drawing from sources as rich and 
+diverse as Braai filosofie, Bantu and Annang languages, Ibanga develops an 
+“African-specific understanding of the complex nexus of human-environment-posterity”
+and suggests principles and guidelines for ethical energy 
+transitions and investment decisions broad enough and still peculiar to the 
+African continent.
+An ulterior challenge to the modern and scientific energy paradigm 
+comes in this issue through the comment by anthropologist Deepti Chatti. 
+In her “Cows, Cookstoves, and Climate Change: a Non-Anthropocentric 
+View of Household Energy Use in the Rural Indian Himalayas”, Chatti 
+shows how cows, cookstoves and climate change are interconnected in the 
+worldview and in the livelihood of people in the rural Indian Himalayas. 
+The real risk of imposing technological artefacts such as “improved LPG 
+cookstoves” must deal, on the one hand, with the unequal adverse impacts 
+of household burdens on the health of children and women. On the other 
+hand, it faces the existence of profound, complex multi-species entanglements
+between humans and cows, which also entail a specific gendered 
+ Giovanni Frigo
+18
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+care and responsibility for both human and non-human beings. Chatti’s 
+comment thus contributes to a more complex understanding of energy in 
+non-Western contexts and to the articulation of a more inclusive energy 
+ethics.
+Going back to my discussion regarding the modern scientific energy 
+paradigm, I argue that it is problematic for several reasons but, first of all, 
+because of its manifest anthropocentrism. The problem of an anthropocentric
+energy paradigm is not limited to fossil fuels and their socio-environ-
+mental implications. Even current transitions to renewable energy sources 
+perpetuate the energy paradigm, that is, they largely fail to account for the 
+non-human world. Moreover, as mentioned above, this notion of energy 
+emphasizes instrumental, mechanistic, and quantitative properties of 
+nature which are assumed in the study, management and consumption of 
+the natural world. Energy projects and policies are focused on maintaining 
+or expanding the current production of power, or extending its distribution,
+for more human consumption. Questioning the deeper assumptions 
+of such doings, evaluating alternative directions and addressing the related 
+ecological consequences are only minor preoccupations. 
+In the meantime, there are dramatic issues of energy poverty and 
+access worldwide and, of course, it is still essential to provide basic access 
+to electricity to more than one billion people. It is important to clarify 
+upfront that criticizing the anthropocentric nature of the traditional energy 
+paradigm does not conflict with issues of human justice and equity. In 
+fact, although the discourse of energy justice that emerged during the past 
+decade has been tackling these issues, it has also been substantially humancentered.
+Yet, even though there is much good in the ongoing transitions 
+to renewables and in the concerns of energy justice scholarship, they are 
+both still problematically focused on humans and consider everything else 
+as secondary, if at all. 
+A transition to a truly just and sustainable energy future requires a 
+change in mindset – about the human-energy-nature relationship – and not 
+only a change in policies or technologies. Because I maintain that energy 
+transitions should be just also in inter-species terms and ecologically sound, 
+I suggest that a more inclusive and non-anthropocentric account of energy 
+is needed. 
+ Energy Ethics: Emerging Perspectives in a Time of Transition
+19
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+4. toward a pHilosopHy of energy
+ beyond antHropocentrism
+I follow the guidance of Nature […] Not to stray from 
+Nature and to mold ourselves according to her law and 
+pattern – this is true wisdom.
+Seneca, On the Happy Life (about 58 C.E.)
+Some antecedents of the type of reasoning I will outline here began in 
+the mid-1970s in the field of environmental philosophy and ethics. Ecocentrism
+is a philosophical position that acknowledges and promotes the 
+moral centrality and worth of all the species and the inanimate beings that 
+live within different ecosystems of which humans are also considered an 
+essential part. Non-human beings can be understood individualistically 
+(each singular entity) or as part of communities (plants), populations (animals),
+ecosystems, eco-regions, or even the entire Earth (Eckersley 1992; 
+Callicott 2013). Although it has been accused of being excessively radical 
+and even indicted for eco-fascism, ecocentrism need not be misanthropic. 
+Indeed, the vast majority of ecocentric positions typically argue not against 
+humanity, but rather against the centrality or primacy of human beings, 
+and advocate for a reshaping of the human-nature relationship in less hierarchical
+ways. Generally speaking, ecocentrism derives metaphysical and 
+moral implications from the knowledge and insights of the ecological sciences
+(Callicott 1986). Since its emergence in the early 1970s, ecocentrism 
+has branched out into several versions, or philosophical positions. Some of 
+the most influential and “classic” references are North American scholars 
+Holmes Rolston III (1988; 1991) and John Baird Callicott (1989; 1999), 
+along with Norwegian philosopher Arne Naess (1973; 1989), the father of 
+the “Deep Ecology” movement.
+Here, I embrace an ecological definition of energy à la Aldo Leopold, 
+the conservationist and writer who, in “The Land Ethic” proposed the idea 
+that the very functioning of nature depends on the circulation of a “fountain”
+of solar radiation flowing through the land:  
+Plants absorb energy from the sun. This energy flows through a circuit called 
+the biota, which may be represented by a pyramid consisting of layers. The 
+bottom layer is the soil. A plant layer rests on the soil, an insect layer on the 
+plants, a bird and rodent layer on the insects, and so on up through various
+animal groups to the apex layer, which consists of the larger carnivores. 
+[…] Land, then, is not merely soil; it is a fountain of energy flowing through 
+a circuit of soils, plants, and animals. Food chains are the living channels 
+which conduct energy upward; death and decay return it to the soil. The 
+circuit is not closed; some energy is dissipated in decay, some is added by 
+ Giovanni Frigo
+20
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+absorption from the air, some is stored in soils, peats, and long-lived forests; 
+but it is a sustained circuit, like a slowly augmented revolving fund of life. 
+(1949, 182-4)
+This deliberately broad description, for instance, integrates, rather than 
+oppose, the mechanistic definition of physics that reduces energy to the 
+“capacity of doing work”, transforming nature into something to be used 
+for the needs of humans. It is important to consider that thinking about 
+energy from the perspective of environmental philosophy accomplishes 
+two important goals. First, it enriches our understanding of energy in its 
+conceptual and cultural dimensions. Second, and related, the proposal of 
+an ecocentric outlook reshapes and reevaluates our relationships to the 
+planet and its other (in)animate non-human beings. An ecocentric perspective
+can shed light on the theoretical frameworks of the energy discourse, 
+the soundness of its reasoning and the ecological, ethical and socio-political 
+implications of its practical developments in energy policies and projects. 
+4.1. Anthropocentrism vs ecocentrism
+Environmental philosophy typically recognizes several possible ethical positions:
+strong anthropocentrism, weak anthropocentrism, sensiocentrism, 
+biocentrism and ecocentrism. An ecocentric account of energy directly 
+challenges the anthropocentric nature of the modern energy paradigm. 
+Surely enough, ecocentric positions have been developed by several scholars
+in the field of environmental philosophy while others have criticized 
+such “centric” lingo altogether (Samuelsson 2013). Ecocentrism should be 
+understood as among the most radical philosophical positions that emerged 
+during the environmental movement that started in Western countries in 
+the 1960s. In a sort of parallel with the so-called second wave of feminism 
+and the civil rights movement, environmental activism and scholarship initially
+aimed at changing and moving beyond cultural narratives which had 
+been supporting oppression – of women, of minorities, and of nature. 
+In particular, ecocentric thinkers have derived the most radical philosophical
+implications from the findings of the ecological sciences and envi-
+ronmental studies (Frigo 2016). Accordingly, ecocentrists typically start 
+by posing a great ontological and metaphysical challenge: re-defining and 
+re-positioning human beings and their role within ecosystemic functioning 
+rather than considering mankind at the top of the ecological hierarchy. It 
+goes without saying that, if taken seriously, the consequences of this change 
+of perspective would be groundbreaking for both human and non-human 
+beings. It has been argued that humans, thanks to their ability to work in 
+ Energy Ethics: Emerging Perspectives in a Time of Transition
+21
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+groups, organize, cooperate, and eventually develop techno-science have 
+progressively occupied the top ranks of the food chain. But, ecologically 
+speaking, humans are not “top predators” and “dominators” but rather 
+omnivorous animal somewhere in the middle of the food/energy pyramid. 
+An ecocentric perspective challenges the idea that the Earth is necessarily 
+destined to become a “human planet” as the ecomodernists envision. By 
+limiting human hubris, ecocentrism decenters humans and thus provides 
+a paradigm shift similar to that occurred in 16th century astronomy from 
+geocentrism to heliocentrism. 
+Ecocentrists maintain that also modern humans are still dependent 
+on the ecosystems of which they are part and, paradoxically, still know so 
+little about. Ecocentrism borrows from ecology the notion that, in each 
+ecosystem, there is a myriad of different beings who are constantly born 
+or formed, live, die, decay and are cyclically transformed in nutrients by 
+decomposers as part of the biosphere functioning. Simply put, these are animals
+(top predators, carnivores, omnivores, herbivores), primary producers 
+(plants), decomposers (fungi) or detritivores (earthworms, woodlice, and 
+sea cucumbers), minerals, soils, waters, airs  4. In this worldview, humans 
+do not occupy a special place, yet they are considered “special animals” in 
+the sense that their power to dramatically change nature is acknowledged.
+Despite the “convergence hypothesis” of philosopher Bryan G. Norton 
+(1991, 237-243) – “the view that if we have a suitably sophisticated anthropocentrism,
+then in practice, anthropocentrism and nonanthropocentrism 
+will converge” (McShane 2007) – when it comes to policymaking, the 
+policy interests of anthropocentrists and nonanthropocentrists do not ultimately
+nor obviously converge.
+In both anthropocentric and ecocentric perspectives exergy is limited. 
+But for the former, useful energy is primarily destined to benefit humans, 
+while the latter posits that also the non-human world deserves the amounts 
+necessary for its flourishing. Moreover, an ecocentric view suggests that 
+there may exist immaterial, spiritual, or relational forms of energy that 
+fall through the cracks of the old paradigm because they are not epistemologically
+relevant or objectively measurable (they are non-quantitative 
+and therefore non-mathematizable). However, these other more qualitative 
+“dimensions” are relevant and should become part of the current energy 
+debate. 
+Since humans have the possibility to become keenly aware of their 
+power, they can also decide to follow the ecocentric philosophy of energy 
+ 4 I intentionally borrow from Leopold the use of plurals for all these different beings. 
+See his essay “The Land Ethic” in Leopold 1949.
+ Giovanni Frigo
+22
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+and live in ways that are compatible not only with their own survival and 
+growth, but also with the preservation, flourishment, and wellbeing of 
+other non-human beings. If we conceive the fluxes of energy throughout 
+the ecosphere in this inter-dependent and relational way, we begin to better 
+understand the alternative outlook provided by ecocentrism. 
+The type of ecocentrism that I embrace here does not equalize humans 
+with any other beings, but rather attempts to take into account the wellbeing
+of the non-human world as well. It considers humans “special animals” 
+who possess a tendency to become an invasive species. As a disclaimer for 
+possible accusations of eco-fascism, I immediately clarify that humans, in 
+this perspective, are still relevant yet not central. They are not put on a 
+pedestal or glorified as the conquerors of nature. Instead their power is 
+acknowledged upfront and, because of it, they are recognized in the role of 
+ecological companions, or co-inhabitants rather than managerial stewards/
+guardians or mere exploiters (de Groot et al. 2011). But this re-positioning 
+of humans in the ecosphere goes hand in hand with the recognition of the 
+limitedness of key environmental/energy factors, such as space and exergy 
+(or useful energy). In a world currently hosting more than 7.6 billion 
+people and counting, in the future there will inevitably be less available 
+resources and space not only for humans, but also for all other beings who 
+are present in a specific ecosystem. 
+4.2. The balance between instrumental and intrinsic values
+We have seen that the old energy paradigm taught humans to dominate 
+nature and extract from it anything that may benefit them. But I also clarified
+that humans need to use some parts of nature to survive, likewise other 
+biotic organisms. So, the second characteristic of an ecocentric philosophy 
+of energy follows the realization that there are ecological and thermodynamic
+(broadly understood) thresholds. The key point is that they make it 
+physically impossible to instrumentalize all nature for the benefit of some 
+humans and the detriment of everything else. These are limitations inherent
+to the functioning of the ecosphere as well as the technosphere (all 
+machines have efficiency limits), affecting both humans and other beings 
+for they all share, eventually, ecosystemic energy. This is either coming into 
+the system as solar radiation or is already present on the planet in the form 
+of converted solar radiation (e.g. fossil fuels). 
+To better understand the instrumentality of the energy paradigm 
+let’s use the example of a deontological theory and turn to Kant’s second 
+formulation of the Categorical Imperative, known as the “Formula of 
+ Energy Ethics: Emerging Perspectives in a Time of Transition
+23
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+Humanity”  5. In his Groundwork of the Metaphysis of Morals (1785), Kant 
+wrote: “The practical imperative will thus be the following: So act that you 
+use humanity, in your own person as well as in the person of any other, 
+always at the same time as an end, never merely as a means” (Kant 2011, 
+87). Since I propose that the energy paradigm should combine instrumental 
+and intrinsic value (rather than focusing only on the former), the Kantian 
+deontological principle can be expanded to include non-human animals as 
+well as inanimate beings. The re-formulation would be: “So act that you use 
+nature, in your own person as well as in the person of any other (in)animate 
+being (living and non-living), never as an end, and as little as possible as a 
+means”. This extended definition takes into account the non-human world 
+also in an intrinsic way. It recognizes that some reasonable use of nature 
+for human ends is inevitable, but it points to the precautionary principle 
+of non-action whenever the consequences are unclear or possibly dangerous
+(Kriebel et al. 2001; DeFur and Kaszuba 2002; Cooney 2004; Sandin 
+2004; COMEST 2005). Moreover, this formulation would be in tune with 
+traditional conservation (Pinchot 1910; Callicott et al. 1999), radical conservation
+(Adams 2006) as well as preservation (Muir 1911; Howard et al. 
+1991). It would imply, and thus prescribe, that when basic human needs 
+have been met there is no need for any ulterior instrumentalization of the 
+non-human world. Energy-nature should not merely or solely be conceptualized
+as a means, but rather the recognition of intrinsic value should 
+become a priority, leading to actions aimed at preservation and ultimately 
+protection (Norton 1986; Meyer 1997). 
+Energetically speaking, the worldview of modernity pictures scarcity 
+as a temporary inability to obtain more, and it sees limits as chains that 
+constrain an absolute freedom towhich modern humans are somehow 
+entitled. The ab-solutus character of the human-nature relationship is key 
+in understanding the modern energivorous lifestyle. As it will appear more 
+clearly, researching the ontological and axiological dimensions of energy 
+is the first step towards a philosophy of energy that can help improve 
+praxis – energy ethics – that is our practical relationship to energy as it is 
+linked to energy policies, personal choices, preferences and political decisions
+making. 
+ 5 It should be clarified that my “extension” of Kant’s deontological principle is 
+appropriate only if, accordingly, the notion of agency is expanded beyond humans.
+ Giovanni Frigo
+24
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+4.3. A holistic and more qualitative view of energy
+Contrary to the mechanistic view of energy promoted by the traditional 
+energy paradigm, an ecocentric philosophy of energy offers a holistic 
+account. Energy has been understood in multifaceted ways, and in its 
+most material form as fuels and geo-chemical compounds, bio-chemically 
+as the flux of nutrients within organic and inorganic life, metabolically as 
+the transformation of food into movement and heat. However, there are 
+other types of non-quantitative energies that people (and perhaps also 
+other beings) can experience. Since these phenomena are not reducible to 
+a quantitative and therefore measurable form, the traditional energy paradigm
+has disregarded or tacitly ignored them. 
+But isn’t it true that we often speak about a particularly energetic 
+atmosphere in a room, of a special energy in a relationship, or the energy 
+that one can perceive while meditating alone in the middle of a forest? 
+Neuroscience may attempt to reduce also these phenomena to “states of 
+the mind” related to specific chemicals and electric impulses in the brain, 
+but that explanation would be, again, a form of reductionism dependent 
+on a mechanistic and quantitative view. However, other areas of human 
+knowledge are sometimes capable of intercepting these phenomena. 
+In this regard, anthropology and ethnography of energy offer powerful 
+lenses to appreciate a more qualitative side of inquiry. Another big part 
+of human creativity that has been pushed out of the energy discourse are 
+the humanities such as literature and poetry. For this reason, I argue that 
+an ecocentric philosophy of energy and ethics would consider forms of 
+expression such as poetry as qualitative sources of an understanding of 
+energy, as much as the laws of thermodynamics are used to explain energy 
+quantitatively. For example, we can find examples of this kind of work 
+in the emerging field of energy humanities, but also in the poems ofintellectuals
+such as Ralph Waldo Emerson and Henry David Thoreau. Let 
+me conclude this section with one of Thoreau’s poems, Nature, which 
+perfectly merges the theme of intimate connection with the environment 
+with a call for human humility:
+O Nature! I do not aspire
+To be the highest in thy choir, To
+be a meteor in thy sky,
+Or comet that may range on high;
+Only a zephyr that may blow
+Among the reeds by the river low;
+Give me thy most privy place
+Where to run my airy race.
+ Energy Ethics: Emerging Perspectives in a Time of Transition
+25
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+In some withdrawn, unpublic mead
+Let me sigh upon a reed,
+Or in the woods, with leafy din,
+Whisper the still evening in:
+Some still work give me to do, –
+Only – be it near to you!
+For I’d rather be thy child
+And pupil, in the forest wild,
+Than be the king of men elsewhere,
+And most sovereign slave of care;
+To have one moment of thy dawn,
+Than share the city’s year forlorn.
+Finally, borrowing Leopold’s ecocentric perspective, it can be said that 
+an ecocentric philosophy of energy “enlarges the boundaries of the community
+to include soils, waters, plants, and animals, or collectively: the 
+land” (1949, 173). In the meantime, it at least decenters human beings and 
+“charges” them with the role of being the responsible co-inhabitants, companions,
+and tutors of the non-human world.
+5. conclusion: tHe significance of tHis project
+Energy is one of the most debated topics in contemporary public discussions
+and it is the subject of an increasing amount of theoretical and applied 
+research that is carried out especially by the STEM disciplines. Historically 
+speaking, the energy discourse has indeed mostly relied on the expertise of 
+techno-science. Its operative arm, engineering, has played a predominant 
+role in deciding how to tackle and overcome issues related to energy production,
+accessibility, distribution, consumption, and waste. This means 
+that for more than two hundred years the study of energy and its countless
+applications (and by a large extent also energy transition!) have been 
+the domain of the natural sciences and engineering. This fact may appear 
+obvious to many but, again, it depends on an underlying, invisible philosophy
+of energy that has been taken for granted. This understanding affects 
+not only the thinking (or thoughtlessness) of people but what they do in 
+both the private and public spheres. Humans’ energy-related past and 
+present practices, those being individual actions, social choices, or public 
+policies fundamentally depend on the traditional energy paradigm but can 
+be enhanced through the development of a radical ecocentric philosophy 
+of energy provide the theoretical foundations for ecologically sound and 
+just energy transitions.
+ Giovanni Frigo
+26
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+Besides the three goals mentioned in the beginning, I think that the 
+significance of this Special Issue resides in the attempt to offer compelling
+reflections that break the disciplinary model of “purified” academic 
+philosophy (Frodeman 2010; Frodeman and Briggle 2016). Developing 
+new ways of tackling real world problems demands philosophers and social 
+scientists to get out of their comfortable dens. It requires them to become 
+familiar with other branch of knowledge while preserving their curious and 
+inquisitive attitude, methodology, and epistemological autonomy. Hopefully
+the pages of these two volumes will shed some light on what it is like 
+to philosophize about energy, with passion and enthusiasm, in a time of 
+transition.
+references
+Adams, Jonathan S. 2006. The Future of the Wild: Radical Conservation for a Crowded 
+World. Boston: Beacon Press. https://books.google.com/books?id=
+ Iz2O7JBeuFcC&pgis=1.
+Araújo, Kathleen. 2014. “The Emerging Field of Energy Transitions: Progress, Challenges,
+and Opportunities”. Energy Research and Social Science 1. Elsevier: 
+112-21. doi: 10.1016/j.erss.2014.03.002.
+Berry, Wendell. 2008. “Faustian Economics: Hell Hath No Limits”. Harper’s Magazine
+(May): 35-42.
+Biviano, Erin Lothes, David Cloutier, Christiana Z. Peppard, and Jame Schaefer. 
+2016. “Catholic Moral Traditions and Energy Ethics for the Twenty-First 
+Century”. Journal of Moral Theology 5 (2): 1-36.
+Black, Brian. 2012. Crude Reality: Petroleum and World History. Lanham: Rowman & 
+Littlefield Publishers.
+Borgmann, Albert. 1984. Technology and the Character of Contemporary Life: a Philosophical
+Inquiry. Chicago - London: The University of Chicago Press.
+Brown, Lester. 2009. Plan B 4.0. New York - London: W.W. Norton & Co. Inc.
+Callicott, J. Baird. 1986. “The Metaphysical Implications of Ecology”. Environmental 
+Ethics 8 (4): 301-15.
+Callicott, J. Baird. 1989. In Defense of the Land Ethic: Essays in Environmental Philosophy.
+New York: SUNY Press.
+Callicott, J. Barid. 1999. Beyond the Land Ethic: More Essays in Environmental Philosophy.
+New York: SUNY Press.
+Callicott, J. Barid. 2013. Thinking Like a Planet: the Land Ethic and the Earth Ethic. 
+Oxford - New York: Oxford University Press.
+Callicott, J. Baird, Larry B. Crowder, and Karen Mumford. 1999. “Current Normative
+Concepts in Conservation”. Conservation Biology 13 (1): 22-35. doi: 
+10.1046/j.1523-1739.1999.97333.x.
+ Energy Ethics: Emerging Perspectives in a Time of Transition
+27
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+Clack, Christopher T.M., Staffan A. Qvist, Jay Apt, Morgan Bazilian, Adam R. Brandt, 
+Ken Caldeira, Steven J. Davis, et al. 2017. “Evaluation of a Proposal for Reliable
+Low-Cost Grid Power with 100% Wind, Water, and Solar”. Proceed-
+ings of the National Academy of Sciences 114 (26): 6722-6727. doi: 10.1073/
+pnas.1610381114.
+COMEST. 2005. The Precautionary Principle. Paris: UNESCO. http://unesdoc.
+unesco.org/images/0013/001395/139578e.pdf.
+Cooney, Rosie. 2004. The Precautionary Principle in Biodiversity Conservation and 
+Natural Resource Management: an Issues Paper for Policy-Makers, Researchers 
+and Practitioners. http://data.iucn.org/dbtw-wpd/edocs/pgc-002.pdf.
+DeFur, Peter L., and Michelle Kaszuba. 2002. “Implementing the Precautionary 
+Principle”. Science of the Total Environment 288 (1-2): 155-65. doi: 10.1016/
+S0048-9697(01)01107-X.
+de Groot, Mirjam, Martin Drenthen, and Wouter T. de Groot. 2011. “Public Visions 
+of the Human/Nature Relationship and Their Implications for Environmental 
+Ethics”. Environmental Ethics 33 (1): 25-44. doi: 10.5840/
+ enviroethics20113314.
+Delucchi, Mark A., and Mark Z. Jacobson. 2011. “Providing All Global Energy with 
+Wind, Water, and Solar Power. Part II: Reliability, System and Transmission 
+Costs, and Policies”. Energy Policy 39 (3). Elsevier: 1170-90. doi: 10.1016/j.
+enpol.2010.11.045.
+Eckersley, Robyn. 1992. Environmentalism and Political Theory: Towards an Ecocentric
+Approach. London: UCL Press. doi: 10.1007/s13398-014-0173-7.2.
+Elliott, David. 2007. Sustainable Energy: Opportunities and Limitations. New York: 
+Palgrave Macmillan.
+Fay, James A., and Dan S. Golomb. 2012. Energy and the Environment. Oxford - New 
+York: Oxford University Press.
+Frigo, Giovanni. 2016. “Algae Harvesting and Energy Ethics: an Opportunity to 
+Enhance Responsibility Towards Future Generations?”. In Energy Ethics: 
+Intergenerational Perspectives in and for the ASEAN Region, edited by Roman 
+Meinhold, 67-98. Bangkok: Konrad-Adenauer-Stiftung e.V.
+Frigo, Giovanni. 2017. “Energy Ethics, Homogenization, and Hegemony: a Reflection
+on the Traditional Energy Paradigm”. Energy Research & Social Science 30 
+(June): 7-17. doi: 10.1016/j.erss.2017.06.030.
+Frodeman, Robert. 2010. “Experiments in Field Philosophy”. New York Times, 
+November 23. https://opinionator.blogs.nytimes.com/2010/11/23/
+ experiments-in-field-philosophy/.
+Frodeman, Robert, and Adam Briggle. 2016a. Socrates Tenured: the Institutions of 
+21st-Century Philosophy. London: Rowman and Littlefield International.
+Geerts, Robert-Jan. 2017. Philosophical Explorations on Energy Transition. PhD 
+Thesis, Wageningen University. doi: 10.18174/400887.
+Geerts, Robert-Jan, Bart Gremmen, Josette Jacobs, and Guido Ruivenkamp. 2016. 
+“Towards a Philosophy of Energy”. Scientiae Studia 12, Special Issue: 1-12. 
+doi: 10.1590/S1678-31662014000400006.
+ Giovanni Frigo
+28
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+Heinberg, Richard. 2003. The Party’s Over: Oil, War and the Fate of Industrial Societies.
+Gabriola Island, BC: New Society Publisher.
+Heinberg, Richard. 2015. Afterburn: Society Beyond Fossil Fuels. Gabriola Island, BC: 
+New Society Publisher.
+Hopkins, Rob. 2008. The Transition Handbook: from Oil Dependency to Local Resilience.
+White River Junction, VT: Chelsea Green Publishing.
+Howard, George S., Edward Delgado, Deloria Miller, and Sarah Gubbins. 1991. 
+“Transforming Values into Action: Ecological Preservation Through Energy 
+Conservation”. Hispanic Journal of Behavioral Sciences 9 (2): 183-205. doi: 
+10.1177/07399863870092005.
+Illich, Ivan. 2015. “The Social Construction of Energy”. In Beyond Economics and 
+Ecology: the Radical Thought of Ivan Illich, edited by Sajay Samuel, 105-23. 
+London - New York: Marion Boyars Publishers.
+Jacobson, Mark Z. 2014. Powering Countries, States, and the World With Wind, Water, 
+and Sunlight. PowerPoint presentation, February.
+Jacobson, Mark Z., and Mark A. Delucchi. 2011. “Providing All Global Energy with 
+Wind, Water, and Solar Power. Part I: Technologies, Energy Resources, 
+Quantities and Areas of Infrastructure, and Materials”. Energy Policy 39 (3). 
+Elsevier: 1154-69.
+Jacobson, Mark Z., Mark A. Delucchi, Zack A.F. Bauer, Savannah C. Goodman, William
+E. Chapman, Mary A. Cameron, Cedric Bozonnat, et al. 2017. “100% 
+Clean and Renewable Wind, Water, and Sunlight All-Sector Energy Roadmaps
+for 139 Countries of the World”. Joule 1 (1). Elsevier: 108-21. doi: 
+10.1016/j.joule.2017.07.005.
+Kant, Immanuel. 2011. Groundwork of the Metaphysics of Morals: a German-English 
+Edition, edited by Mary Gregor and Jens Timmermann. Cambridge - New 
+York: Cambridge University Press. doi: 10.1017/CBO9781107415324.004.
+Kowalsky, Nathan, and Randolph Haluza-DeLay. 2013. “Homo Energeticus: Technological
+Rationality in the Alberta Tar Sands”. In Jacques Ellul and the Techno-
+logical Society in the 21st Century, 159-75. Dordrecht: Springer. doi: https://
+doi.org/10.1007/978-94-007-6658-7_12.
+Kriebel, D., J. Tickner, P. Epstein, J. Lemons, R. Levins, E.L. Loechler, M. Quinn, 
+R. Rudel, T. Schettler, and M. Stoto. 2001. “The Precautionary Principle in 
+Environmental Science”. Environmental Health Perspectives 109 (9): 871-6. 
+doi: 10.2307/3454986.
+Kuhn, Thomas S. 1962. The Structure of Scientific Revolutions, 4th ed. Chicago: The 
+University of Chicago Press. doi: 10.1017/CBO9780511613975.
+Kuhn, Thomas S. 1969. “Energy Conservation as an Example of Simultaneous Discovery”.
+In Critical Problems in the History of Science. Clagett, MA: The Uni-
+versity of Wisconsin Press.
+LeMenager, Stephanie. 2014. Living Oil: Petroleum Culture in the American Century. 
+Oxford - New York: Oxford University Press.
+Leopold, Aldo. 1949. A Sand County Almanac: and Sketches Here and There. Oxford - 
+New York: Oxford University Press. doi: 10.2307/1319034.
+ Energy Ethics: Emerging Perspectives in a Time of Transition
+29
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+McElroy, Michael B. 2009. Fueling the Planet: the Past, Present, and Future of Energy. 
+Maryland: Recorded Books.
+McElroy, Michael B. 2010. Energy: Perspectives, Problems, & Prospects. Oxford - New 
+York: Oxford University Press.
+McShane, Katie. 2007. “Anthropocentrism vs. Nonanthropocentrism: Why Should 
+We Care?”. Environmental Values 16 (2): 169-185.
+Meadowcroft, James. 2009. “What about the Politics? Sustainable Development, 
+Transition Management, and Long Term Energy Transitions”. Policy Sciences 
+42 (4): 323-40. doi: 10.1007/s11077-009-9097-z.
+Merchant, Carolyn. 1980. The Death of Nature: Women, Ecology, and the Scientific 
+Revolution. San Fransisco: HarperCollins.
+Merchant, Carolyn. 2006. “The Scientific Revolution and the Death of Nature”. Isis 
+97: 513-33. doi: 10.1086/508090.
+Meyer, John M. 1997. “Gifford Pinchot, John Muir, and the Boundaries of Politics in 
+American Thought”. Polity 30 (2): 267-84.
+Moncrief, Lewis W. 1970. “The Cultural Basis for Our Environmental Crisis”. Science 
+170 (3957): 508-12.
+Muir, John. 1911. My First Summer in the Sierra. Boston - New York: Houghton Mifflin 
+Co. - Riverside Press.
+Naess, Arne. 1973. “The Shallow and the Deep, Long-Range Ecology Movement: A 
+Summary”. Inquiry 16 (1): 95-100. doi: 10.1080/00201747308601682.
+Naess, Arne. 1989. Ecology, Community and Lifestyle: Outline of an Ecosophy. 
+ Cambridge - New York: Cambridge University Press. doi: 10.1016/01695347(89)90047-5.
+Neumayer, Eric. 2013. Weak versus Strong Sustainability. Exploring the Limits of Two 
+Opposing Paradigms. Cheltenham, UK - Northampton, MA: Edward Elgar 
+Publishing. doi: 10.4337/9781781007082.
+Norton, Bryan G. 1986. “Conservation and Preservation: a Conceptual Rehabilitation”.
+Environmental Ethics 8 (3): 195-220. doi: 10.5840/enviroethics1986832.
+Norton, Bryan G. 1991. Toward Unity Among Environmentalists. New York - Oxford: 
+Oxford University Press.
+Pain, Stephanie. 2017. “Power through the Ages”. Nature 551 (7682): S134-S137. doi: 
+10.1038/d41586-017-07506-z.
+Petrocultures Research Group. 2016. After Oil: Explorations and Experiments in the 
+Future of Energy, Culture, and Society. Edmonton, AB: Petrocultures Research 
+Group.
+Pinchot, Gifford. 1910. The Fight for Conservation. New York: Doubleday, page & 
+Co.
+Rolston III, Holmes. 1988. Environmental Ethics: Duties to and Values in the Natural 
+Environment. Philadelphia: Temple University Press.
+Rolston III, Holmes. 1991. “Environmental Ethics: Values in and Duties to the Natural
+Environment”. In Ecology, Economics, Ethics: the Broken Circle, edited by 
+F. Herbert Bormann and Stephen R. Kellert, 73-96. New Haven: Yale University
+Press.
+ Giovanni Frigo
+30
+Relations – 6.1 - June 2018
+http://www.ledonline.it/Relations/
+Salminen, Antti, and Tere Vadén. 2015. Energy and Experience: an Essay in Nafthology.
+Chicago: MCM Publishing. doi: 10.1017/CBO9781107415324.004.
+Samuelsson, Lars. 2013. “At the Centre of What? A Critical Note on the CentrismTerminology
+in Environmental Ethics”. Environmental Values 22 (5): 627-
+645. doi: 10.3197/096327113X13745164553879.
+Sandin, P. 2004. The Precautionary Principle in the 20th Century: Late Lessons from 
+Early Warnings. Journal of Risk Research, vol. 7.
+ doi: 10.1080/1366987042000176271.
+Smil, Vaclav. 2006. Energy: a Beginner’s Guide. Oxford: Oneworld Publications.
+Smil, Vaclav. 2010. Energy Transitions: History, Requirements, Prospects. Santa Barbara:
+Praeger ABC-CLIO.
+Stephenson, Janet. 2017. “What Does Energy Mean? An Interdisciplinary Conversation”.
+Energy Research and Social Science 26. Elsevier: 103-6. doi: 10.1016/j.
+erss.2017.01.014.
+Stolten, Detlef, and Viktor Scherer. 2013. Transition to Renewable Energy Systems. 
+Weinheim: Wiley-VCH. doi: 10.1002/9783527673872.indsub.
+White, Lynn Jr. 1967. “The Historical Roots of Our Ecologic Crisis”. Science (New 
+York, N.Y.) 155 (3767): 1203-7. doi: 10.1126/science.155.3767.1203.
+Wrigley, Edward A. 2010. Energy and the English Industrial Revolution. Cambridge: 
+Cambridge University Press.

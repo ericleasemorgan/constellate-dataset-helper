@@ -1,0 +1,1363 @@
+Original Research
+http://www.hts.org.za doi:10.4102/hts.v67i3.944
+Self-transcendence and Eros: The human condition 
+between desire and the infinite
+Author:
+Cornel W. du Toit1
+Affiliation:
+1Research Institute for 
+Theology and Religion, 
+University of South Africa, 
+South Africa
+Correspondence to:
+Cornel du Toit
+Email:
+dtoitcw@unisa.ac.za
+Postal address:
+PO Box 392, Unisa 003, 
+South Africa
+Dates:
+Received: 17 Aug. 2010
+Accepted: 30 Oct. 2010
+Published: 12 July 2011
+How to cite this article:
+Du Toit, C.W., 2011, ‘Selftranscendence
+and Eros: 
+The human condition 
+between desire and the 
+infinite’, HTS Teologiese 
+Studies/Theological Studies 
+67(3), Art. #944, 12 pages. 
+doi:10.4102/hts.v67i3.944
+This article treats self-transcendence – like all transcendence – as a fact of human life. Inter 
+alia this means that the human mind perforce operates in terms of binary concepts such as 
+finitude–infinity, inner world–outside world, self–other, desire–fulfilment, separation–union 
+and the like. We find these concepts in most myths of origin. The concept of desire (Eros), 
+combining unfulfilment and the infinite, particularly epitomises self-transcendence. Ralph 
+Waldo Emerson is cited as a precursor of the mid-19th century transcendentalists, whose ideas 
+are resurfacing in present-day secular spirituality. In this article, we examined desire in the 
+Christian conception of the Fall as envisioned by the Jewish philosopher Martin Buber and by 
+Hegel, who integrates mind and nature in his philosophy of Spirit. The works of Emmanuel 
+Levinas and Paul Ricoeur are used as points of reference to help us understand self and 
+other in a framework of self-transcendence. The impact of these ideas on a postmetaphysical 
+epistemology was also explored. Affectivity is a neglected area in Western thought and 
+displays the same infinitude as rationality. The article concluded with present-day strategies 
+of self-construction in a techno-scientific consumer culture. 
+© 2011. The Authors.
+Licensee: AOSIS 
+OpenJournals. This work
+is licensed under the
+Creative Commons
+Attribution License.
+Introduction 
+Transcendence and post-transcendence 
+Ours is a post-transcendent era. Human dogma has unravelled God, metaphysics has unravelled 
+existence and science has unravelled the cosmos. People have become transparent to each other 
+and no longer relate. The world around us has become explicable and we are left disillusioned in 
+a disenchanted environment. The postmodern mind mourns the loss of mystery, the challenge 
+of the unknown, the desirable and enticing, and the loss of an enchanted world. When we 
+speak of the death of God, the end of metaphysics, the end of subjectivity and the technological 
+transformation of nature, we are actually speaking of a loss of transcendent experience. We do 
+not merely mourn the loss but are continually looking for new experiences of transcendence. Yet 
+does a statement like ‘the death of God’ not rule out any experience of radical transcendence?1 
+We need to redefine transcendence for those who no longer believe that our world is governed 
+by such unknown forces. Metaphysical constructs that were once used to describe supernatural 
+forces (good or evil) have lost their plausibility. Our world is subject to laws of nature and these 
+laws, rather than miracles or supernatural forces, rule our destiny. The role of transcendent 
+forces in people’s personal lives, too, is questioned. We should not look for divine or impersonal 
+agents to explain misfortunes that befall us. Evil, suffering and injustice are part of life, of our 
+particular society, or simply coincidence. Does that mean that human life has become onedimensionally
+immanent, or is it merely a new phase in our mental evolution? The transcendent 
+(unknown forces and influences) has not vanished from human life, but is at most regarded as 
+an immanent factor residing mainly in the self. Transcendence, in the sense of unpredictable, 
+unfathomable but also exciting and innovative forces, is to be found in the unconscious, the 
+imagination, dreams, conscience, desire and fantasy. These are things that constitute our daily 
+lives, a protean driving force. They can be called infinite, for they appear to be inexhaustible 
+and manifest differently in every phase of life. To many, the cardinal form of transcendence 
+remains the God of their religion, to whom they relate. To others it is the interior space of the self, 
+whose unfathomable depths they must plumb. This is done via a mystical ‘journey’ into the self, 
+culminating in a transcendent experience, in which the self encounters God or astonishing ideas.2 
+The contemporary reinterpretation of transcendence and self-transcendence evident in secular 
+spirituality and aspects of the New Age movement has its antecedents in the transcendentalist 
+1.Vattimo (2003:32) writes: ‘Nietzsche had already perceived that belief in God cannot be replaced by belief in an objective truth capable 
+of disproving religion and setting us free from the errors and lies of the priests. This truth more true than the God of the priests would 
+then be the true God, even more dangerous and unacceptable than the one of ecclesiastical tradition.’
+2.Possible criticism of mystical experiences or the ‘inward journey’ is that it eliminates others (and even the self in some of its forms). 
+Is religion possible without the O/other? Certainly ethics is not. Mystical practices are easily reduced to mere techniques to activate 
+certain brain functions (AUB phenomena – Absolute Unitary Being – experienced as euphoric union with the All or the deity through 
+deafferentation (elimination of sensory input) and other meditative techniques. 
+Page 1 of 12
+ Original Research
+http://www.hts.org.za doi:10.4102/hts.v67i3.944
+and Romantic movements in mid-19th century America, in 
+which Ralph Waldo Emerson was a leading figure. 
+My thesis, in a nutshell, is as follows. Transcendence is 
+innately human and manifests itself in desire, which is open 
+and infinite. Christianity attributes transcendence exclusively 
+to the ‘totally other’ dimension of God. It disregards the fact 
+that the human mind is wired for transcendence. Humans – 
+including their openness to the future (desire) – are reduced 
+to sinfulness. The sole, remotely positive characterisation of 
+humans is that they are created in God’s image – and that 
+quality they have lost. In the Old Testament they await the 
+Messiah to bring deliverance; in the New Testament they 
+gain it purely in their attributed (Pauline) status of being ‘in 
+Christ’. The closest it gets to acknowledging openness and 
+desire, which is what I propose doing here, is the dictum: 
+‘Become what you are.’ But even this dictum is hamstrung 
+by the Christian ethos of that age. In our present context 
+of immanent transcendence this fixated anthropology is 
+incongruous. My basic premise, to be developed below, 
+is that we are wired for desire in its open, infinite, futureoriented
+dimension. Transcendence is integrally human; 
+hence religion, imagination, inventiveness, fantasy and 
+constant flux are permanent features of our history. Immanent 
+transcendence is an anthropological datum. It is not confined 
+to Europe and Western culture. Desire in the sense proposed 
+here is common to all cultures: African, Eastern and Western 
+alike.
+I begin my argument by outlining the transcendental 
+tradition that started with Emerson. I then examine human 
+incompleteness between desire and the infinite with 
+reference to the Greek legacy, before looking at Christianity’s 
+relative disregard for desire and infinitude as essential to the 
+human self, with specific reference to the biblical myth of the 
+Fall and some responses to it. The next sections describe the 
+infinitude of the self in relation to that of others and the role 
+of affect as an essential corrective to religious and scientific 
+rationalism, which allows little room for openness. Finally, 
+I offer a critique of the infinite dimension of the self in a 
+consumer culture. 
+Emerson: Transcendence via the 
+unconscious, affect, Eros and nature 
+Emerson’s thinking is an essential background to understand 
+the pertinence of immanent transcendence in our day and 
+age. He was a forerunner of the accent on transcendence 
+as part and parcel of the human self. He not only acted as 
+a counterweight to the rationalism of his time, but paved 
+the way for present-day secular spirituality. Emerson 
+described his time (the mid-19th century) as bogged down 
+in conventional traditions, dogmas and practices, partly as a 
+result of the tyranny of rationalism (experienced at Harvard 
+Divinity School where he studied and in the Unitarian 
+Church where he ministered). The affective side of human 
+nature was suppressed, so the people of his day were cut off 
+from their emotional roots: 
+The primary deficiency of the age was ... its inability to connect 
+with the primal, erotic, instinctive, and intuitional element 
+within, the affective side of humanity that connects us with 
+divinity itself and also binds us to one another. 
+(Gougeon 2007:4) 
+Emerson’s transcendental philosophy3 propounded the 
+dignity, rights and divinity of all human beings. It contributed 
+greatly to the emancipation of slaves and the establishment 
+of women’s rights. Today, human rights are the very core 
+of social ethics. Emerson’s transcendental vision was one of 
+personal harmony and primordial union with nature, God, 
+the unconscious, affect and intuition. Alienation is the result 
+of losing contact with our matrix. In the beginning the gods 
+divided a solitary Human (Man) into many people, just as the 
+hand ramifies into fingers in order to be more efficient. That 
+lost unity can be regained. ‘For Emerson the source of this 
+original unity is still with us. It is the power of Eros, the OverSoul,
+the “divine Reason”’ (Gougeon 2007:6). Our overrated 
+rationality needs to be complemented with all other aspects 
+of existence to restore wholeness: 
+The balanced unity of mind and body, conscious and 
+unconscious, self and nature, is an essential element in reaching 
+transcendence which, for them, was the firsthand experience of 
+divinity. 
+(Gougeon 2007:49) 
+To Emerson’s mind we can overcome our dissatisfaction 
+with overrated rationality4 by means of a transcendental 
+descent into the depths of our nature, which brings 
+fulfilment not attainable in a one-dimensionally rational5 
+existence. In contrast to the Christianity of his day, which 
+he considered oppressive, he did not seek fulfilment in a 
+spiritualised reality. Instead of a transcendental encounter 
+via Holy Scriptures or proclamation, or via a spiritualised 
+‘beyond’ or ‘above’, he proposed a movement, via human 
+corporeality, first inwards, then outwards (see Gill 1989). 
+Human nature, or more specifically the unconscious, affect, 
+intuition, eroticism, the imagination and experience, is the 
+primary route to meaning, a sense of unity, authenticity and 
+one’s ‘true’ self. Emerson contributed greatly to belief in the 
+self and its powers, so typical of the New World and the 
+great American Dream. Faith in yourself leads to discovery 
+of the infinite, nature, Eros, the Over-Soul, the imagination, 
+God within you. Only faith in yourself makes the difference 
+that enables you to change the world around you. Hence the 
+transcendent movement was prerequisite for changing the 
+society of Emerson’s day: ‘sympathy, emotion, imagination, 
+dream, and other life-sustaining functions of the unconscious, 
+3.Prominent transcendentalists included Henry David Thoreau, Amos Bronson Alcott, 
+Orestes Brownson, William Henry Channing, James Freeman Clarke, John Sullivan 
+Dwight, Margaret Fuller, William Henry Furness, Frederick Henry Hedge, Theodore 
+Parker and George Ripley. Emerson drew on the mysticism of Emanuel Swedenborg 
+and on the German idealists. 
+4.Reason and consciousness are seen as linked. ‘When consciousness dominates, 
+one is faced with a society that has lost its capacity to feel and dream due to its 
+repression of emotion and imagination and its desire to preserve an increasingly 
+oppressive economic, social, political, and one might add military, status quo’ 
+(Gougeon 2007:71–72).
+5.Consciousness is regarded as the rational, masculine component, whereas nature 
+and the unconscious, where nature manifests itself, represent the feminine, the 
+source of affect and creativity. Emerson accentuates both aspects and, like Jung, 
+discerns masculine and feminine aspects of the psyche (also see Gougeon 2007:72, 
+115, 119). 
+Page 2 of 12
+ Original Research
+http://www.hts.org.za doi:10.4102/hts.v67i3.944
+could provide the libido ballast to revitalize and redeem his 
+society ...’ (Gougeon 2007:109).
+Emerson laid the foundation for a mentality that, with 
+growing affluence and technological advances, culminated 
+in the present (mainly Western) self-image, which has 
+made self-construction through technological artefacts a 
+practical reality. Today there is renewed interest in a sense of 
+holistic union with nature, a transcendental inward journey 
+(meditative practices), a reappraisal of the corporeal and 
+affective dimensions of life, an accent on imagination and 
+inner creativity, and the like. 
+Human incompleteness between 
+desire and the infinite 
+Transcendence is a mental movement, a thought process: it 
+entails moving from familiar sameness to the new and the 
+unknown; it represents mystery in the mode of strangeness 
+and infinity. Human beings exist in this transcendent mode. 
+Self-transcendence is a tautology because the self exists only 
+in transcendent mode.6 Humans experience themselves as 
+individuals, persons, subjects and see themselves as distinct 
+from other people and things. That accounts for binary 
+contrasts such as inner world and outside world, subject and 
+object, self and other, consciousness and self-consciousness. 
+The distinctions are not absolute, because the ‘autonomous 
+self’ is in fact shaped by people and things outside itself.7 
+Hence self-transcendence does not happen exclusively 
+within the person, between the constructs of ‘I’ and ‘me’.8 
+The way we engage continually in new interactions and see 
+things differently changes our identity. As my insight into 
+people and things changes – a constant ‘self-correction’ – I 
+also change, for I am my insights and beliefs. Without the 
+other self and self-transcendence make no sense.9 Emmanuel 
+Levinas realised this and worked it out in his philosophy of 
+‘the face of the other’, to which we return below. 
+It would be reductive to regard descriptions and experiences 
+of transcendence in a particular theological or religious 
+phase of human culture as paradigmatic for our day and 
+age. Transcendence manifests itself spontaneously in a form 
+permitted by a particular culture and worldview. The specific 
+manifestations of transcendence and self-transcendence vary 
+from age to age, but their underlying biological constant is 
+desire. 
+6.In this context Nancy (2002:40) interprets Hegel as follows: ‘Thought must take 
+the self out of itself; it must extract it from its simple being-in-itself: thought is 
+itself such an extraction, along with the speech in which thinking takes itself out of 
+itself and exposes itself’; and ‘Sense is therefore what makes itself sensed and what 
+gives itself form in passage and as passage … it is incessant movement and activity’ 
+(Nancy 2002:50). 
+7.That determines every self-distinction, as Hegel affirms: ‘If A = A, it is because A 
+posits itself as other than itself. Logos is subject, which means the exposing of the 
+infinite exposing of identity’ (Nancy 2002:21). With reference to the I, he writes: 
+‘The simple position of the I is an abstraction. On the contrary, the concrete 
+awakening of the I is its awakening to the world and by the world – the world of 
+alterity in general’ (Nancy 2002:60).
+8.Interdependence with others is apparent in the distinction between I and me. ‘I’ is 
+what I am in my own experience, ‘me’ is the way others identify me as myself (see 
+Hankiss 2006:331. For more complex examples, see Ryle 1949:180–182). 
+9.Hegel (see 1959:107, 112) puts it thus: ‘Every one is also the other of another and 
+vice versa. If this mutual alienation is comprehended, Being negates its negation 
+and thereby affirms itself as the one in the other. It then remains itself in all changes 
+and transitions. This is true infinity of Being.’
+Aristophanes’s myth about the origin of human nature 
+in Plato’s dialogue Symposium (189c–190c) associates the 
+experience of human incompleteness with our origin. In 
+broad outline the picture is as follows.10 Originally we were 
+very different from what we are today. We were ‘dual’ 
+beings with two heads, four arms, four legs and round 
+bodies that enabled us to roll on the ground at great speed. 
+There were three ‘genders’: a dual female, a dual male, and 
+a man-woman combination. This original state was superior 
+to our present one – we were stronger in the sense of being 
+more complete. By contrast our present situation represents 
+a ‘fall’. The sole problem was human hubris. ‘We desired, 
+in what may be called the pagan version of Original Sin, to 
+overthrow the gods’ (Hyland 1995:113). To punish us Zeus 
+split us into two beings, knotting the skin at the navel so 
+when we look down it will remind us of our former glory 
+and move us to humility. Of course, at the same time Zeus 
+doubled the number of human beings, thus increasing the 
+supply of offerings to the gods. The god Eros was also born 
+to this divided fallen state. He has three ‘elements’. The 
+‘ontological’ element is the imperfect, incomplete human 
+condition. People are erotic but incomplete. The second 
+element of Eros is recognition of the incompleteness, and the 
+third the striving to surmount it by reverting to the original 
+state of fulfilment (completeness). That explains our comical 
+attempts to unite sexually with our other half: 
+We take all those funny positions and get so passionately excited 
+because we want to overcome our physical incompleteness and 
+become whole again ... In principle, all the myriad ways in which 
+we are incomplete, experience that incompleteness, and strive to 
+overcome it, are manifestations of our erotic natures. 
+(Hyland 1995:115)
+Plato’s Symposium tells Socrates’s story of his experience with 
+Diotima to explain the nature of love (Eros). Eros cannot be 
+divine, because he is composed of opposing entities. His 
+father, Poros, the God of plenty, was seduced by Penia 
+(poverty). Because of his parentage he is alternately poor and 
+rich, oscillating between affluence and penury, wisdom and 
+folly. Here Eros symbolises desire, which always oscillates 
+between fulfilment and unfulfilment. This is typical of human 
+beings, who not only oscillate between want and abundance, 
+but remain unsatisfied even in times of plenty and, like Eros, 
+constantly strive for fulfilment, as evidenced by the history 
+of eroticism in human life (see Du Toit 2010:65–67). Thus 
+humans were destined for eroticism, for incompleteness from 
+the outset, and they are aware of it. They are not responsible 
+for their sense of incompleteness and unfulfilment, nor can 
+they control it – it is a result of the ‘original sin’ of their 
+ancestors. Secondly, they cannot but try to surmount their 
+incompleteness; and thirdly, they are doomed to failure 
+(Hyland 1995:118). Aristophanes sees the manifestations of 
+Eros as polysemous: the creation of laws, artistic creativity, 
+philosophy, all the noblest human aspirations. In this sense 
+Eros also offers comfort (Hyland 1995:121, 123). 
+Thus self-transcendence may be seen as erotically driven, for 
+it suggests: 
+10.Here I follow Hyland’s version (1995:111–137), which focuses on tragedy and 
+comedy in philosophy.
+Page 3 of 12
+ Original Research
+http://www.hts.org.za doi:10.4102/hts.v67i3.944
+that behind action lies dissatisfaction with what one has, desire to 
+have something else; behind going lies not wanting to be here, 
+wanting to be there. From the standpoint of the agent ‘there’ is 
+better, ‘here’ is worse. 
+(Barabas 1977:178)11 
+Even though the driving force of self-transcendence is desire, 
+we cannot conceive of life without it. Without desire the world 
+is tedious. An example is Ulysses’s rejection of Calypso’s offer 
+of immortality: he prefers the excitement of being human to 
+the boring perfection of the gods. ‘Here deathlessness and 
+agelessness don’t mean divinity but the never-endingness of 
+hell’ (Barabas 1977:182). Voltaire’s Candide is equally bored 
+in the perfect Eldorado, where nothing is lacking except the 
+thrill of desire (Du Toit 2007:269).12
+In the final analysis, the paradisiacal harmony described in 
+myths of origin is as unending as desire.13 The Old Testament 
+story of the Fall presupposes a paradisiacal state, but who 
+really knows what that was? The notion of paradisiacal bliss, 
+like the notion of infinity, can only be understood in terms of 
+human experience of need and desire. Poros’s abundance is 
+as infinite as Penia’s want. Perfect harmony in its infinitude 
+is unknowable. Plato connects Eros with the idea of creation 
+and, as Paul Riceour (1986:13) states, creation entails a dual 
+infinitude: ‘All things emerge from nothingness and are 
+borne toward the infinite’. The same applies to any science 
+that grows from the nihil of genesis. This mixture of finitude 
+and infinity, of fulfilment and unfulfilment characterises the 
+development of thought from mythos to logos. Logos does 
+not mean unadulterated, unequivocal truth. It is never free 
+of myth. That is why it resorts to metaphors, models and 
+analogies, all strategies indicating that we do not fully know. 
+Sin reinterpreted in the foregoing way is crucial for our 
+notion of transcendence as expounded here; it is vital if 
+religion is to retain its allure. The next section probes this 
+aspect, explaining why human beings must be viewed as 
+open and unfulfilled. The situation is indeed one of non posse 
+non peccare.
+Christianity’s relative disregard of 
+desire and infinitude as essential to 
+the human self
+The same elements of desire, separation, sin, an original state 
+of harmony and nostalgia for it, and infinitude (immortality) 
+feature in the Christian doctrine of the Fall. Desire underlies 
+the fall. Eve finds the tree of knowledge of good and evil 
+desirable (Gn 3:6). The result is separation (from paradise, 
+God, eternal life, humans’ true self as the image of God). 
+11.Nancy (2002:60) sees self-consciousness as desire: ‘Self-consciousness is essentially 
+desire, because it is consciousness of self as and out of its consciousness of the other.’
+12.The erotic drive, marked by separation, unfulfilment and infinitude, is obviously 
+rooted in physical sexuality. But it would be reductive to limit it to that, since it is 
+basic to the entire human psyche. The popular distinction between Eros and agape 
+is misleading, because Eros is not devoid of agape, and vice versa. 
+13.That is why myth is the apposite idiom for speaking about fulfilment and 
+unfulfilment. If we shift from myth to logos, we get bogged down in the paradoxes 
+that often characterise metaphysics. 
+Martin Buber (1939:229) puts it aptly: ‘Through the Fall the 
+unity of being and destiny, or of the “I” and the “Self” has been 
+lost. Hence sinful man is forced continually to seek his Self 
+or himself.’ Buber considers humans to be self-contradictory 
+(the original title of his book was Der Mensch im Widerspruch). 
+They rebel against God, against their divine destiny (Buber 
+1939:169, 171). They cannot return to their perfect origin and 
+each day brings a fresh fall. Human conflict is enacted in the 
+stress-field between our human sinfulness and the image of 
+God in us (Buber 1939:172, 174). Transcendence is intrinsic to 
+humanness: 
+Man contrasts the imperfect world of actual experience, as he 
+knows it, with a perfect existence, a heightened, intensified, ideal 
+existence, freed from the contingent and accidental, the sight of 
+which gives him a satisfaction which is wholly different from 
+that of the experience of any reality in this world as it is. 
+(Buber 1939:175) 
+That is the ‘infinite’ in human beings (given with 
+consciousness) and that is why nature or finitude fails to 
+satisfy us. ‘We long for simplicity, for that which is wholly 
+natural. But is seems as though man, and man alone, were 
+condemned never to find the simple and natural’ (Buber 
+1939:183). Buber rejects recognition of the natural, biological 
+dimensions of humanness as materialism, which he defines 
+as follows: 
+Essentially man is an animal, his instincts as well as his physicopsychical
+organism are the same; the only difference is that 
+through the special development of his brain and of the central 
+nervous system the life-process gains new possibilities of 
+differentiation. It is from such differentiation that ‘culture’ is to 
+be understood, as superstructure – biologically necessary – of the 
+vital functions. The spiritual element serves to regulate the life of 
+this highly developed animal, and to keep its course as even as 
+possible; owing to the special character of this animal, it needs 
+these special measures to protect it. 
+(Buber 1939:189) 
+In Buber’s view the Platonic myth of the Fall is caused by our 
+sensory nature. He repudiates the notion that human conflict 
+is the result of that nature rather than of the human spirit: 
+The spirit is victim of the delusion of the senses. Thus this view 
+is not dealing with an actual contradiction, defiance, rebellion of 
+man against the Creator, but with an unfortunate combination of 
+the elements of which human nature is composed. 
+(Buber 1939:193)
+In this, Buber (1939:198) acknowledges that humans are Eros, 
+which he associates with reason and spirit, but traces it all to 
+the classic conception of the Fall. 
+Here Hegel’s argument remains the most plausible, because 
+unlike Buber (and most theologians of his time), he does 
+not denigrate natural explanations. Hegel (1985:92ff) deals 
+with the Fall under the heading of ‘”Alienation”: Natural 
+humanity’. He accommodates human biological nature in the 
+functioning of the human spirit (mind). Human nature is not 
+evil in itself – that would be a Manichaean dualism: 
+Rather it is when human being constitutes its existence, 
+establishes the criteria for its life, according to the immediacy, 
+particularity, and externality of the physical nature it shares with 
+all created things, that ‘cleavage’ occurs and evil arises. 
+(Hegel 1985:92, n.90)
+Page 4 of 12
+ Original Research
+http://www.hts.org.za doi:10.4102/hts.v67i3.944
+The notion of the Fall and sin is a consequence of human 
+nature as possibility (‘original state’) and the movement 
+to immediate circumstances, of human self-consciousness 
+which is not what it should be (Hegel 1985:95–96). We have 
+the potential (for development, insight, understanding) 
+but Spirit has not yet developed sufficiently to realise 
+that potential fully. The notion of an original state is the 
+representation of humans as the image of God (Hegel 
+1985:96). Philosophically it is: 
+a condition of the highest spiritual perfection, of a human being 
+in unity with nature, hence as an untroubled intelligence, which 
+does not turn away from nature into itself by means of reflection, 
+an intelligence that penetrates nature as its spiritual centre, yet 
+not by standing over against it or separating from it, but as an 
+intelligence that exists as a pure and highest knowledge. 
+(Hegel 1985:97) 
+This primal state is based on affect, instinct and intuition and 
+is not yet governed by reason (Hegel 1985:98). It is thought 
+that gives rise to the host of ideas and thus to the multiplicity 
+and separation with which we live. 
+Evil, then, has to do with our contingent circumstances (with 
+the accent on individual aspects such as personal need, 
+want, desire) and what emerges from our mental processes 
+(cognition, representation, volition): 
+Both good and evil are before the human being; it has a choice 
+between them, and its will is evil. Hence evil is its fault [Schuld]. 
+This evil is self-seeking: its goals relate only to its singularity 
+insofar as it is opposed to the universal, i.e. insofar as it is natural 
+... In a purely abstract natural condition, humanity is neither 
+good nor evil; this means however, that it is not yet actually 
+human ... Thus evil, the will of self-seeking, exists only through 
+consciousness and cognition, and constitutes the first form of 
+will. 
+(Hegel 1985:102–103) 
+Hegel uses this background to put the biblical Fall in a new 
+perspective. He points out the contradictions in the story. 
+Humans are forbidden to eat the fruit of the tree of knowledge 
+of good and evil, yet this knowledge is what distinguishes the 
+human mind from that of animals. The snake promises that 
+eating this fruit will make humans like God (sicut Deus), yet 
+even before they tasted the fruit God had said that they ‘had 
+become like one of us’ (Gn 3:22). God himself acknowledges 
+that the divine in human nature is a product of knowledge 
+(both generally and knowledge of good and evil) (Hegel 
+1985:104–105). Hegel links this with his basic model: 
+For the speculative content is precisely the comprehension of the 
+concept of the thing – which involves the concept’s development 
+– and hence the comprehension of the inner antithesis that the 
+concept contains and through which it moves. 
+(Hegel 1985:105)
+Thought is not possible without a negative, a contrast, 
+and myths of origin are no exception. That is why they are 
+always marked by separation, opposition and the infinite. 
+The question of good and evil is unavoidably part of our 
+thinking and any contradictions must be resolved by that 
+same rationality. Thought both wounds and heals itself! ‘[It] 
+is not that it [sin, evil] ought not to occur: it has occurred 
+because human being is consciousness’ (Hegel 1985:106). 
+Humans are banished from paradise because of knowledge 
+(leaving animals better off!). Originally they were immortal, 
+so why eat the fruit to gain immortality? But the myth is 
+meant to explain mortality as a result of human finitude 
+(Hegel 1985:107). Hence the human mind comprehends the 
+idea of finitude and infinity, of divinity and humanity as part 
+of its substance: 
+This infinite possibility is its subjectivity. In this consciousness 
+humanity knows the divine idea, the universal, and knows itself 
+to be determined for the universal, i.e. elevated above all locality, 
+nationality, condition, life-situation etc.
+(Hegel 1985:109)
+If we apply this to encounter with God, the radically 
+transcendent, we cannot bypass ordinary thought processes. 
+Revelation does not present a Deus nudus but a mental 
+turning point.14 By the same token, the search for a ‘true’ 
+self via self-transcendence can be experienced as intensely 
+meaningful. The act of self-transcendence is our attempt to 
+understand ourselves at a given moment by seeing ourselves 
+‘in terms of…’, ‘in relation to…’ or ‘as responding to…’ – but 
+also by experiencing ourselves as ‘more than…’15 ‘The I is 
+not a being that always remains the same, but is the being 
+whose existing consists in identifying itself, in recovering 
+its identity throughout all that happens to it’ (Levinas 
+1979:36). The self, like God, is infinite and all other aspects 
+of self-experience are part of our mental processes. We speak 
+about the self emerging in language, ideas and experience 
+without abolishing its ‘alterity’ (otherness). Through selftranscendence
+I attain enlightenment and understanding 
+without fully ‘clarifying’ myself.16 The finite cannot know 
+the infinite, yet we ‘know’ ourselves and believers intuitively 
+‘know’ God. Desire is insatiable, but that does not prevent 
+ongoing interaction with the object of desire. It is a possible 
+impossibility, a transcendent experience, a paradox of 
+consciousness, a perpetual self evaluation. The nature of the 
+human mind and its concomitant thought processes (which 
+entail concepts like infinity, unknowability of the Ding an 
+sich) cannot but impose a perennial character on the sciences, 
+from philosophy, epistemology and psychology to physics.17 
+The Kantian transcendental subject, via transcendental 
+imagination, produces syntheses and mental constructs 
+14.One cannot reflect on God without reflecting on humans as transcending and selftranscending
+beings. Dupré (1976:viii) writes: ‘The word “God” appears on every 
+page of Western philosophy. Yet rarely do we find mentioned the inner space 
+out of which the idea of God grew and developed. Instead we encounter mostly 
+descriptions of an ultimate reality, opposed to the self’s being and separated 
+from it in a “supernatural” realm of its own.’ One reason for this is probably the 
+tradition of objectivity that dates back to the ancient Greeks. Dupré (1976:33–34) 
+mentions that the notion of self first emerged in Hellenistic and Roman times 
+when the bonds between the individual and society were loosening – a process 
+completed by Christianity. ‘Thus transcendence came to occupy the very centre 
+of self-awareness.’ 
+15.With reference to the relevant authors Hankiss (2006:204–205) lists 41 definitions 
+of self. The many examples (only well-known authors are mentioned) include: the 
+self as noumenal or phenomenal, transparent, Faustian, implicit, schizophrenic 
+post-self, self-deceptive (Rorty), extended, created (Weber), creative (Maslow), 
+embodied (Kristeva), disenchanted, symbolic, normative, problematic, changeable, 
+minimal, marginal, evolving, transcendent, pre-linguistic, semiotic, and so forth. 
+16.Here I follow the distinction made by Caputo and Vattimo (2007:81–82) between 
+world and event: ‘Thus instead of opposing two worlds, or of opposing God and 
+the world as if these were two realms of being, I distinguish between the world and 
+the event by which the world is disturbed, the unconditional claim that solicits the 
+world from within, that interrupts and summons it, which I think deconstruction 
+is (if it is).’
+17.For the phenomenon that knowledge is increasingly regarded as mystery, see Du 
+Toit (2007:155–156). 
+Page 5 of 12
+ Original Research
+http://www.hts.org.za doi:10.4102/hts.v67i3.944
+that are not empirically observable. We experience these as 
+consciousness of knowledge. But ‘synthesis’ comes at a price: 
+‘As soon as reflection comes on the scene it sunders man, for 
+reflection is essentially dividing, sundering’ (Ricoeur 1986:19, 
+1992:339). The synthesis seeks to connect my inner mental 
+world with the outside world; hence, rationality is marked 
+by the same separation as Aristophanes’s myth of origin. 
+The diverse rational models are no less comical than the 
+postures Aristophanes ascribes to our attempts at achieving 
+perfect union. The separation between subject and object, 
+self and other occurs via human corporeality in the mode of 
+receptiveness. Openness to the outside world is prerequisite 
+for knowing anything and any knowledge I have is always 
+from my particular perspective: ‘Primal finitude consists in 
+perspective or point of view. It affects my primary relation to the 
+world, which is to “receive” objects and not to create them’ 
+(Ricoeur 1986:24). Perspective is simply the angle from which 
+I observe things. Our finitude is determined by our slant on 
+reality. There are many possible perspectives, of which mine 
+is but one. No person or agency can accommodate all possible 
+points of view. My outlook is always finite. The totality of 
+possible perspectives is endless, for there can always be 
+new ones. Our finitude is also emphasised by the fact that 
+we cannot fully express our meaning in language. Moving 
+from myth to logos does not imply that logos represents 
+ultimate or authentic truth. Thus Ricoeur (1986:30), referring 
+to Hegel, writes: ‘We do not actually and absolutely say 
+what in this sense-certainty we really mean.’ Reason is 
+doomed to perpetual transcendence. To Ricoeur (1986:43) 
+the distinction between sensory experience of things that 
+manifest themselves and an attempt to grasp and articulate 
+them intellectually is not solved by a philosophy of finitude, 
+even of self-transcending finitude. It needs a synthesis that 
+links finitude with rationality (including universality and 
+infinity): 
+If man is a mean between being and nothingness, it is primarily 
+because he brings about ‘mediations’ in things; his intermediate 
+place is primarily his function as a mediator of the infinite and 
+the finite in things. 
+(Ricoeur 1986:46) 
+It is via transcendental imagination (the third term) that 
+humans are able to link understanding and sensibility 
+(Ricoeur 1986:73). Transcendental imagination is the hidden 
+synthesis that constitutes the form (understanding) of things 
+(Ricoeur 1986:79ff). 
+Desire, distance, infinity and the 
+other 
+This section highlights the positive aspect of desire and 
+infinitude. The force driving me towards the future can 
+obviously be either negative or positive, but it is certainly not 
+exclusively negative as Christianity would have it. I also look 
+critically at rationalism and unitary (totalitarian) thinking, 
+which leaves no scope for transcendence. At best it separates 
+transcendence dualistically from rational immanent reality. 
+I also focus on Levinas’s location (Platz) of transcendence in 
+the face of the other, which inevitably introduces an ethical 
+dimension. Unfortunately he fails to point out that seeing 
+transcendence in the face of the other cannot be taken for 
+granted, any more than the experience of transcendence 
+within the self or in events around us.
+In the foregoing model, desire, separation and the infinite 
+are metaphysically interconnected; hence, the ‘object’ that 
+arouses my desire is necessarily marked by infinitude. 
+Levinas (1979:50, 62) sees desire as ‘the Desire for the Infinite 
+which the desirable arouses rather than satisfies’. To him the 
+difference between desire and need is that desire is aroused 
+by the other (her face), whereas need centres in the subject 
+(Levinas 1979:62). We can satisfy a need, but not a desire. 
+His view of desire is positive. It is insatiable for the very 
+reason that it is not a matter of need satisfaction but of the 
+infinite, the other: ‘Immortality is not the objective of the 
+first movement of Desire, but the other, the Stranger. It is 
+absolutely nonegoist; its name is justice’ (Levinas 1979:63). 
+To Levinas (1979) the hallmark of metaphysical unitary 
+thought is that separation is unacceptable and must be seen 
+as a fall, privation or temporary rupture of unity – separation 
+is regarded as need: 
+Need indicates void and lack in the needy one, its dependence 
+on the exterior, the insufficiency of the needy being precisely in 
+that it does not entirely possess its being and consequently is not 
+strictly speaking separate. 
+(Levinas 1979:102)
+What makes Levinas’s work remarkable is his criticism of the 
+Western ontology of power and his replacement of egocentric 
+substantialist thought with the dependence of relationality 
+(relationship with the other). This is achieved by shifting the 
+emphasis from totality (unity) to infinity (separation), which 
+makes everyone dependent on infinite desire for the other; 
+hence enabling them to elude the stranglehold of knowledge. 
+Thought is governed by finitude and infinity.18 To Levinas 
+infinity19 is inherent in humanness: it is what inheres in 
+my self ‘as a positing in me’. ‘The distance between me 
+and God, radical and necessary, is produced in being 
+itself’ (Levinas 1979:26, 48). Levinas is opposed to Western 
+unitary thought20 and replaces unity or totality with infinity, 
+as reflected in the title of his Totality and infinity. Infinity 
+manifests itself in alterity, which human beings desire: ‘It is 
+understood as the alterity of the Other and of the Most-High’ 
+(Levinas 1979:34). He refers to a transcendent metaphysical 
+movement, ‘and transcendence, like desire and inadequatio, is 
+necessarily a transascendence (Levinas 1979:35). The notion 
+of an ascending movement has to do with the infinite that 
+manifests itself in me and makes me move beyond myself 
+18.This idea derives from Hegel: ‘How spirit is the finite that finds itself to be infinite 
+in the exposition of its finitude, this is what is to be thought – which is to say, this 
+is what it is to “think”’ (Nancy 2002:31). Hegel (1959:89) links infinity and finitude: 
+‘Thus the failure of all rational theology is clear: It is unable to see that a dialectical 
+negation is also an affirmative relation. If infinity is thought by itself, apart from 
+the finitude of the existing world, then infinity itself becomes something finite; it is 
+limited by the otherness of the world.’
+19.We do not know what infinity means. The concept modifies our experience of 
+finitude. That does not mean we can do without it, any more than we can do 
+without ‘nothingness’ (non-being) and negativity, which serve mainly as catalysts 
+of thought. 
+20.Unitary thinking as a metaphysical motive extends from Parmenides and Plotinus 
+to Spinoza and Hegel. To Levinas (1979:102) the gist of it was that ‘separation and 
+interiority were held to be incomprehensible and irrational. The metaphysical 
+knowledge which puts the same in touch with the other then would reflect this 
+falleness. Metaphysics would endeavor to suppress separation, to unite’. 
+Page 6 of 12
+ Original Research
+http://www.hts.org.za doi:10.4102/hts.v67i3.944
+towards the other. This movement towards the other is not 
+like a mental movement when I approach some object. The 
+other is not an object. That is why Levinas (1979:49) makes a 
+clear distinction between transcendence and objectivity and 
+criticises Western ontological thought, which he regards as 
+a philosophy of power that dominates the other (Levinas 
+1979:45–46).21
+Although human finitude may be experienced negatively, 
+Levinas does not see the experience of finitude and negativity 
+as the driving force behind human transcendence. ‘The idea 
+of the perfect and of infinity is not reducible to the negation 
+of the imperfect; negativity is incapable of transcendence’ 
+(Levinas 1979:41). The notion of infinitude includes 
+separation, symbolised by distance. Infinity always lies ahead 
+of me; I do not coincide with it, which implies separation of 
+finite humans from infinity. We find that separation within 
+ourselves, in our unconscious, creating distance between me 
+and my self,22 but also between me and others.23 Separation 
+is a product of thought. Infinity is inconceivable if I do not 
+exist separately from others (Levinas 1979:54, 79). Because 
+humans are separated from others outside themselves they 
+can elevate themselves to an absolute point of reference. 
+Levinas (1979) sees absolute separation as nonrelationship, 
+introversion into the self and hence atheism: 
+One can call atheism this separation so complete that the 
+separated being maintains itself in existence all by itself, without 
+participating in the Being from which it is separated ... The 
+soul, the dimension of the psychic, being an accomplishment of 
+separation, is naturally atheist. By atheism we thus understand 
+a position prior to both the negation and the affirmation of the 
+divine, the breaking with participation by which the I posits 
+itself as the same and I.
+(Levinas 1979:58)
+That is symbolised by desire. Whereas desire is occupied 
+with the other, the search for happiness is occupied with self. 
+That is why he compares happiness with politics (the search 
+for power) and desire with religion, for:
+religion is Desire and not struggle for recognition. It is the 
+surplus possible in a society of equals, that of glorious humility, 
+responsibility, and sacrifice, which are the condition for equality 
+itself. 
+(Levinas 1979:64) 
+Normally we are unaware of our own transcendent 
+orientation and the transcendent (unknown) dimension 
+in other people, things and events is overlooked and 
+disregarded, because we reduce them to our fixed ideas.24 We 
+21.This includes the ‘objectivity’ of self-knowledge: ‘The subject is “for itself” – it 
+represents itself and knows itself as long as it is. But in knowing or representing 
+itself it possesses itself, dominates itself, extends its identity to what … itself comes 
+to refute this identity’ (Levinas 1979:87). 
+22.Ward (2007:123) puts it thus: ‘Perhaps the closest we get to distance as such 
+is the identification of difference. This distance is implicated then in a common 
+participation, a common recognition of exteriority: I am not the other; the other 
+is not I; the other is not reducible to or measurable by me; and I am not reducible 
+to or measurable by the other. What is intimated in this distance is an excess; the 
+mystery of alterity. Every representation made in this distance must fail if the aim 
+of such representation is to define.’
+23.Frandsen (2007:115) formulates the same idea thus: ‘We can see it in the way that 
+man, in the very moment he discovers his “interior” as something originary, and 
+so takes himself into possession, also and at the same time discovers that this “the 
+most proper” in advance is in relation to some “other” or to some “exterior”, to a 
+transcendence that qualifies the “internal man”.’
+24.The reductive process that confines the infinite other to race, gender, identity, et 
+cetera usually manifests as binary thought (see Du Toit 2004a:442–459).
+ascribe identity, characteristics and attributes to people and 
+gods to give us control over them. We want to know whom 
+we are dealing with and what to expect from them. We want 
+to secure ourselves. We want rules to regulate our interaction 
+with people and things. They are necessary for a structured 
+society, so we pin people down to perceptions. To facilitate 
+the process we classify them according to race, gender, class, 
+culture, literacy, characteristics, and the like. For ourselves 
+we claim the luxury of ‘openness’, self-transcendence, the 
+desire to realise some ideal without being pinned down 
+to particular words or actions. But encountering the other 
+in her infinitude makes this impossible: ‘The face resists 
+possession, resists my powers. In its epiphany, expression, 
+the sensible, still graspable, turns into total resistance to the 
+grasp’ (Levinas 1979:197). 
+Hearing the divine word is not the same as knowing it as 
+an object. It is more like opening up to something different, 
+achieving an encounter, initiating events. Levinas hears 
+God’s voice in encounter with the other: 
+The dimension of the divine opens forth from the human face. A 
+relation with the Transcendent free from all captivation by the 
+Transcendent is a social relation. It is here that the Transcendent, 
+infinitely other, solicits us and appeals to us. The proximity of the 
+Other, the proximity of the neighbor, is in being an ineluctable 
+moment of the revelation of an absolute presence. 
+(Levinas 1979:77–78) 
+Not that God is incarnated in the other, ‘but precisely by 
+his face, in which he is disincarnate, is the manifestation of 
+the height [read infinity] in which God is revealed’ (Levinas 
+1979:79). And: ‘If I can no longer have power over him it is 
+because he overflows absolutely every idea I can have of him’ 
+(Levinas 1979:87). 
+The other’s infinitude makes relationship possible (Levinas 
+1979:196). The face and the affects it expresses are always 
+complemented by appropriate dialogue25: 
+The idea of infinity is produced in the opposition of conversation,26 
+in sociality. The relation with the face, with the other absolutely 
+other which I cannot contain, the other in this sense infinite, is 
+nonetheless my Idea, a commerce ... the face speaks to me and 
+thereby invites me to a relation incommensurable with a power 
+exercised, be it enjoyment or knowledge. 
+(Levinas 1979:197, 198)
+The other enhances my freedom, for instance by evoking 
+my goodness: ‘The face opens the primordial discourse 
+whose first word is obligation, which no ‘interiority’ permits 
+avoiding.’ It is the infinitude of the other which generates 
+ethics (Levinas 1979:201, 204). 
+Desire is tied up with the other. It also includes the other’s 
+desire.27 My self does not coincide with the self of the other. It 
+25.Levinas does not elaborate on this. Today we know that the so-called mirror 
+neurons evoke emotions that we perceive in us as well. Emotion evokes emotion 
+in a widening spiral. Only rational intervention can temper unbridled emotion. But 
+affect and reason (discourse) should complement each other. That is the weakness 
+of over-emotional sermons that usually lack substance. Conversely, overly rational 
+sermons that do not address us emotionally are no more than lectures. 
+26.Levinas (1979:206) refers to the ‘primordial face to face of language’.
+27.‘The I, in conflict with its immediate practical existence (Dasein), is both individual 
+and social. Every practical self is in the same situation, recognizing in the other the 
+same problem which is in itself. The object of desire thus changes and becomes 
+another I. Each I wants to be one with and recognized by another I; concurrently, 
+each I remains an independent individual, an alien object for the other’ (Hegel 
+1959:215).
+Page 7 of 12
+ Original Research
+http://www.hts.org.za doi:10.4102/hts.v67i3.944
+is desire that the other will recognise me as the desire I am, as 
+the infinite self-becoming that I am (Nancy 2002:62). The self 
+is desire. Nancy (2002) describes it thus: 
+Desire is the necessity of consciousness: it is the necessity that the 
+unity of consciousness come and become for consciousness itself. 
+Desire is therefore less the tension of lack, and the projection of 
+a satisfaction that would annul it, than it is the tension of the 
+coming of the other as the becoming of the self ... Desire is neither 
+aspiration nor demand, nor is it lust or voracity. It demands 
+nothing but the other, and is satisfied with nothing other: but the 
+other as such, the veritable other of the self, is not an object one 
+could demand, an object with which one could take satisfaction. 
+(Nancy 2002:61)
+The ‘self’ in self-transcendence
+Augustine, pioneer researcher of the inner world of human 
+thought and conscience, distinguishes between se cogitare (to 
+think about oneself) and se nosse (to know oneself) (Dalferth 
+2007:45). Knowing oneself is knowledge of ‘movements’ of the 
+self rather than of a fixed core. The pursuit of self-knowledge 
+often leads to self-conflict. Levinas (1979:37) puts it thus: 
+‘The I that repels the self, lived as repugnance, the I riveted 
+to itself, lived as ennui, are modes of self-consciousness and 
+rest on the unrendable identity of I and the self.’ Hence I am 
+a stranger, an other to myself (see Levinas 1979:39). 
+What is the mental world of the divided subject like? It is 
+characterised by the unknown (transcendent) nature of the 
+other and oneself. It is, in effect, the dimension of infinity 
+that we attribute to self-knowledge and knowledge of the 
+other. Because we can never know completely, the process 
+of knowing is itself a never ending, ever unaccomplished 
+labour. To the extent that it is successful, my self-knowledge 
+does not imply transparent self-knowledge on the part of the 
+other to whom I am relating. But neither am I transparent 
+to myself and the ego I ‘actually’ am remains an enigma 
+to me.28 There simply is no single ‘core’ I or transcendent I 
+behind my thinking, language and behaviour, who rules the 
+dream world of the unconscious like a demiurge and then 
+surfaces at the conscious level.29 To understand myself in my 
+self-transcendent mode I have to realise that I am never fully 
+accessible to myself (Dalferth 2007:46, 48). 
+The concept of a transcendent self refers to the mysterious, 
+even unfathomable and inexplicable aspects of self. It refers 
+to the enigma of the unconscious, the unknown, Lacan’s objêt 
+petit a,30 the transcendental imagination that is only known 
+28.I am simply not aware which experiences from the past influence my current 
+perceptions (especially my emotions). Hegel (1959:203–204) describes it thus: 
+‘The soul is in tension: On the one hand, it is a subjective centre for itself and, on 
+the other hand, it remains tied to a vast subconscious substantial life. I am a simple, 
+bottomless pit sunk into an infinite abundance of possible or virtual experiences. 
+The individual never knows how many experiences have been experienced and 
+absorbed by him or how many he has forgotten ... As a unique subjective centre of 
+all its functions, the soul is a monad: It carves out of its experience the totality of a 
+particular world-view in which it mirrors itself.’
+29.This does not mean that we cannot assume various ‘roles’: ‘Theatres will never be 
+able to compete with the wealth of roles played by people in their everyday lives’ 
+(Hankiss 2006:313, n.34).
+30.Žižek (2006:67) defines Lacan’s concept of objêt petit a as both the object and 
+the cause of desire. The cause of desire always exceeds its object: ‘[No] matter 
+how close I get to the object of desire, its cause remains at a distance, elusive”’ 
+(Žižek 2006:77). Applied to desire it means that I desire the other’s desire, so desire 
+itself becomes an indeterminate drive (Žižek 2006:42). Hence desire can be seen as 
+perpetually transcendent. That is why Freud’s work is equally dualistic: on the one 
+hand cognisance of our physical apparatus, on the other the hermeneutics of the 
+ever elusive unconscious, attempts to interpret dreams, the phenomenon of slips 
+of the tongue (Žižek 2006:77–78). 
+when it happens, desire that always exceeds the desire for 
+demonstrable objects, one’s alter ego, the unexpected voice 
+of conscience, et cetera. Neither does the transcendent I have 
+an ‘identity’, for then it can be known, be pinned down. 
+The transcendent I manifests itself (an epiphenomenon like 
+consciousness) in what happens. 
+The same applies to the question of which self is transcended 
+in self-transcendence. After all, the self is not a fixed entity that 
+remains the same (idem). In the mode of self-transcendence, 
+self (ipse) does not coincide with the self that I or others 
+construe. Hence it is not self in the idem sense of the word.31 
+If I as a self is characterised by transcendence, we can assume 
+that the other selves (my Gegenüber) that make up my world 
+are similarly structured. The other’s transcendent nature 
+makes knowledge of the other no less complicated than selfknowledge.
+It is primarily the way the O/other features in 
+our consciousness that creates awareness of transcendence, 
+because my self never coincides with hers (Ryle 1949:16–17).
+But clarifying the self does not necessarily affect our 
+experience of ourselves. For example, we do not experience 
+ourselves differently after studying brain scientists’ 
+explanation of self-experience.32 One may surmise that 
+advances in the cognitive and brain sciences will afford 
+greater insight into the biologically structured background to 
+humans as ‘open’, hence self-transcending beings. But even 
+such insight into our biological functioning, especially that 
+of consciousness, does not alter the fact that we cannot live 
+outside our bodies, our consciousness or our brain structures. 
+That is because thought always rises above physicality, even 
+though it is wholly dependent on it. My thoughts emerge 
+from the diverse operations of my brain, yet what I think is 
+not determined by the physicality of my brain but is, at most, 
+made possible by it. That has to do with the distinction between 
+the brain and the mind, an epiphenomenon of brain, which 
+is completely dependent on it but at the same time ‘exceeds’ 
+it. I am my own understanding (Dalferth 2007:48). ‘Being 
+reasonable is trying to overcome our first-person perspective 
+by being neutral, not partial, and open-minded. Reason must 
+govern reflection, and reflection overcomes first-person 
+perspectives’ (Dalferth 2007:49). 
+The human self is never neutral but is always preoccupied. 
+As a rule, the self is seen in terms of a relation to some 
+ideal, problem, need or lack and one’s identity at a given 
+moment is determined by that interaction. But our selfconsciousness
+‘integrates’ all aspects of existence and thus 
+31.This is set forth mainly in Ricoeur’s Oneself as another (1992:115ff).
+32.Self-consciousness is not exclusively biologically determined, otherwise we would 
+still think exactly as our ancestors did. Our brain processes are no different from 
+those of Cro-Magnon man, but we do not think the same or experience ourselves 
+and our world in the same way. That is because our biology is only part of the story 
+and the interpretive ‘how it works’ of the brain sciences tells us nothing about the 
+what and the why of present-day brain contents or about experiences and ways of 
+expressing self-transcendence. An example is human emotions: ‘The emotions of 
+human beings the world over are as innate and as constitutive and as regular as 
+our bone structure, and ... this is manifested in the universality of ways in which we 
+express them’ (Walton 2004:xiii). But the things that people find shameful, what 
+they fear and what makes them happy varies from one culture, era and person to 
+the next. 
+Page 8 of 12
+ Original Research
+http://www.hts.org.za doi:10.4102/hts.v67i3.944
+effects a holistic, ‘unified’ sense of self.33 That sense of unity 
+creates the impression of an ‘isolated’ core identity, in terms 
+of which contingently changing self-perceptions should be 
+interpreted. The self is an ongoing construction determined 
+by our contingent being-in-the-world (Dasein). At a given 
+moment, we do not have an array of diverse self-experiences 
+before us, like childhood photographs that we can compare 
+to determine differences and similarities. We only remember 
+highlights and mentally associate changes of identity with 
+these. 
+Hence self-transcendence does not entail a complete 
+blueprint, a self approaching the outside world as a fixed 
+identity. Self-perceptions are always from a particular 
+perspective. So what the ‘self’ in self-transcendence actually 
+consists of complicates the issue.34 It is not immutable, exactly 
+defined or fixed.35 The ‘self’ that is transcended is, at most, a 
+particular facet of our self-experience at a given moment.36 
+Humans are designs-in-process to the day of their death. 
+Human identity is continually changing, because it emerges 
+every day in a particular challenging context in a unique 
+manner. Self-transcendence merely reflects our intentional 
+structure: we are schemers, forever moving from some 
+state of incompleteness or unfulfilment towards change and 
+a remedy for that state – be it physical (illness, poverty), 
+epistemological (ignorance, error), social (poor human 
+relations), political (oppression, unfreedom), religious (sin), 
+ethical (absence of goodness) or psychological (some kind of 
+‘pathology’). It is expressed by the narrative self.37
+The focus on the interior world, like metaphysical ontotheology,
+is biased. One has to link the quest for the 
+transcendentally mysterious interior world with the reality of 
+33.Poststructuralists have criticised philosophies of consciousness or the subject 
+along with structuralism for introducing a new dualism: ‘Structuralism operates, 
+as we have seen, on the basis of qualitative phenomenological oppositions and 
+dichotomies such as small/large, male/female, odd/even, appearance/reality, 
+false/true, and philosophies-of-the-subject on the basis of differentiations 
+between subject/object, scheme/content, intention/reference and so on’ (see 
+Janz 2004:34). The question is whether it centres on the integrity of human 
+subjectivity or is striving for some totality and unity. I assume that the same 
+physically determined human brain permits the epiphenomenon of thought, 
+which throughout all distinctions and self-definitions that occur remains a single 
+movement that inevitably discriminates between various schemes, some of which 
+may appear to be dualistic. 
+34.The self can be explained from the perspective of language, rationality, existence, 
+the unconscious (psychoanalysis), human biology (brain sciences). The framework 
+in which human identity and self-understanding is viewed is usually reductive, 
+because no single aspect of human nature in isolation can explain all other facets. 
+35.By the same token, the ancient Greek maxim, ‘know yourself’, is not a programme 
+of self-knowledge and self-improvement, but expresses a belief that an unscrutinised
+life is not worth living. 
+36.I do not dwell on Foucault’s notion that the self is a construction, nor on the Buddhist 
+concept of the illusory self (see Du Toit 2004b:1–45). Some structuralists also deny 
+the existence of an autonomous human self and regard it as a conglomerate of 
+structures. Others (e.g. Nikolas Rose) see the language of a particular historical 
+era as a confined space (prison), in which any configuration of the self is possible. 
+Hankiss (2006:92–93, 95) points out the role of consumer society and advertising 
+in constructing the present-day self. 
+37.The story we tell about ourselves (narrative self) is constructed by the imagination 
+that transforms diversity into identity (Ricoeur 1992:127). It is our conception 
+of our ‘character’ which compels us to see identity as sameness (idem) (Ricoeur 
+1992:128). The narrative self is determined by the way we link self and events 
+(Ricoeur 1992:142). Ricoeur (1992:159ff) applies the strategies of a novel to the 
+narrative self. Regarding the relation between author, narrator and characters, he 
+maintains that in my own story I am the narrator and the characters, but regard 
+myself at most as co-author, because other influences in the story also play a role. 
+For us the function of imagination in self-construction is important: ‘It is precisely 
+because of the elusive character of real life that we need the help of fiction to 
+organize life retrospectively, after the fact, prepared to take as provisional and 
+open to revision any figure of employment borrowed from fiction or from history’ 
+(Ricoeur 1992:162). 
+the outside world.38 However unique or enigmatic the inner 
+world, it can never be divorced from the external world. Selfunderstanding
+is not a purely private business but a public 
+enterprise. Consciousness itself is densely populated by 
+the actors and plots that make up the theatre of the mind. 
+Although contingent reality is forever changing, it remains 
+my frame of reference for every self-evaluation. 
+Role of affectivity in objectivity 
+The subject enters the outside world (with intentionality, will 
+and desire), but also receives it (as a gift, an appeal, enigma 
+and challenge). The way we perceive the outside world 
+depends on the mental lens we are using at that point in 
+time. The lens diminishes our expectation and intention. But 
+reality rarely fits into the lens and we are constantly forcing 
+new focuses into our field of vision. If double vision sets in 
+or our view is out of focus, conflict arises, which assumes 
+diverse forms. It is given with desire as an existential mode, 
+in which fulfilment continues to elude us. 
+Naturally, affectivity accompanies every relation with 
+the outside world. ‘Affectivity, an intrinsic dimension of 
+embodiment, is itself intimately linked to a primordial interest, 
+orientation or motivation, animating movement, perception 
+and thought. Affectivity always permeates the cognitive 
+stance’ (Parnas 2007:62–63). Affectivity is a neglected aspect 
+of all epistemologies in our rational, modernistically oriented 
+society. That is because our epistemological models focus 
+on what can be rationally articulated. At most, affectivity 
+features passively in the framework of logical, rational 
+propositions. Rationality is marked by control; when we 
+rationalise something we are in control. But we do not 
+control our emotions – they control us. Emotions are not 
+consciousness, but they inform consciousness. In that sense 
+human affect, like consciousness, has an infinite dimension. 
+Desire evokes affects (jealousy, contempt, happiness, 
+unhappiness). Fear, especially in the form of anxiety, has to 
+do with the unknown. Longing and nostalgia presuppose 
+distance and separation. Our experience of transcendence 
+may be marked by emotions like surprise, fear, guilt feelings 
+and the like. 
+Consciousness is always co-determined by emotion, 
+although as a rule it is ‘neutral’. I cannot decide what mood 
+I want to be in and then it happens. Emotion is the stepchild 
+of the public, rational self. It is the embarrassment of our 
+corporeality, our biology. Yet is emotion not where we are 
+closest to our bodies? That is why we usually confine it to our 
+private space and do not admit it to the daylight of reason. 
+Emotion is the embarrassing fear, jealousy, contempt, pride, 
+admiration, nostalgia informing our rational perspective. 
+It is also the dark area where desire, imagination, intuition 
+and creativity lurk – without which no innovative thought 
+38.Wider (1977:152) cites Edelman’s theory of different neural and cognitive maps 
+that determine how the external and interior worlds feature in the mind. This 
+means that input from both self and the world are necessary for consciousness. He 
+distinguishes between primary consciousness underlying a higher consciousness. 
+It is not personal and does not require language. Here self refers to automatic 
+processes that are necessary for individual self-preservation. It calls for both 
+present and past perceptual categories of self (Wider 1977:140).
+Page 9 of 12
+ Original Research
+http://www.hts.org.za doi:10.4102/hts.v67i3.944
+is possible. To us, it is the often irrational and embarrassing 
+limbic system, which nourishes the ‘disembodied’ sphere of 
+the rational, thinking self that is ‘isolated’ from us. 
+Affectivity determines every epistemology as well as all 
+self-understanding.39 In a sense, epistemological inquiry 
+into knowledge, the role of transcendental reflection in 
+knowledge, the relation of subject to object and the like 
+remain formal and abstract. It does not involve affectivity, 
+practicality (ethos) and the axiological aspect of human 
+knowledge. Feeling and knowing are interdependent. 
+‘Knowing ... exteriorizes and poses its object in being, sets 
+up a fundamental cleavage between the object and the 
+subject. It “detaches” the object or “opposes it” to the I’ 
+(Ricoeur 1986:85). Whereas knowing establishes the duality 
+of subject and object, feeling overcomes it. ‘Feeling is ... 
+the manifestation of a relation to the world that constantly 
+restores our complicity with it, our inheritance and belonging 
+in it, something more profound than all polarity and duality’ 
+(Ricoeur 1986:85). When we attribute feelings to objects (it is 
+desirable, repellent) we appear to be dealing with objective 
+qualities. But they are not qualities that confront the subject 
+like objects – they are rather the intentional expression of a 
+unifying bond with the world. I am affectively present in the 
+world. That is why Ricoeur calls feeling the colour of soul: ‘It 
+is the landscape which is cheerful, and it is I who am elated’ 
+(Ricoeur 1986:89).40 
+If paradox, separation and the finitude–infinity conundrum 
+are part of objective knowledge, they are all the more so when 
+we take into account their affective aspects, where the focus 
+is on the person rather than the thing. Things in themselves 
+have a certain affective value (e.g. they attract, repel or are 
+neutral). This is what motivates the will and directs human 
+intentionality. Ricoeur (1986:151, n.2) puts it thus: ‘Now, 
+the movement of the self, in its prereflective naïveté, lies in 
+the intentional moment through which I break through to 
+the world of possibilities, of eventualities, of novel events.’ 
+The will assumes objects (people and things) extraneous to 
+me in the same way that I perceive objects as extraneous to 
+me. The affective value of things outside the person arouses 
+39.Although rati onality functi ons via emoti on, we are not always aware of it, because 
+as a rule the emotion is ‘neutral’. We could speak of hierarchic rational levels, 
+at which emotion plays a greater or lesser role on the principle that the more it 
+concerns our life world, the more likely that affect will feature. We do not look 
+for an affective dimension in ‘neutral’ scientific activities such as solving a maths 
+problem, working out a formula, or checking the construction of a bridge. Yet these 
+activities, too, are accompanied by constant interaction between human subject 
+and rationally determined object (cf. Hegel). Affect features more noticeably 
+in the human sciences, since they have to do with people. Examples are law, 
+ethics, political science, art and religion. It is very prominent in novels that deal 
+with human relations and most conspicuous when one communicates traumatic 
+personal circumstances. 
+40.It is remarkable that our sense of touch, which is not unassociated with feeling 
+and emotion, has been neglected ever since the time of the Greeks, Christianity 
+and post-Enlightenment philosophy (see Walton 2004:146ff). The sense of sight 
+(vision) is preferred, because it is associated with light, reason and understanding. 
+Sight was symbolised by fire (the sun) and God lived in inaccessible light. Light, 
+like reason, was conceived of as masculine. Plotinus’s One in the Enneads was 
+disembodied, hence not associated with touch. It was symbolised by the sun. 
+Touch was symbolised by earth. It also epitomises emotion, desire and is feminine, 
+capricious. Separation, which includes infinitude and desire, precludes touch and 
+hence intimacy as well. Yet knowledge without touch is not conceivable. My first 
+impulse on seeing something beautiful or new is to pick it up or touch it. What the 
+eye sees and the hand touches is a single movement. Ward (2007:117–118) puts it 
+thus: ‘Through touch there is movement within the soul such that the whole person 
+is caught up in the circulations of desire – the desire of the other as well as that 
+person’s desire for the other ...If, then, such intuition, contemplation, imagination, 
+movement and desire depend upon touch, then the ensouled flesh in not monadic. 
+It only realizes itself in community; in political and erotic communities or ekklesia.’
+desire or revulsion and activates the will. This affirms human 
+finitude in the same way perception does. ‘Accordingly, if 
+desire is a form of receptivity, analogous to that of perception 
+but different in a way, in what does its infinitude consist?’ 
+(Ricoeur 1986:151, n.2).
+His answer read as follows:
+It is an experience of lack of ... an impulse toward ... In desire I 
+am outside myself; I am with the desirable in the world. In short, 
+in desire I am open to all the affective tones of things that attract 
+of repel me. 
+(Ricoeur 1986:52–53) 
+Ricoeur does not look into the reason why something attracts 
+or repels me, why I desire it or not, why it activates or does 
+not activate my will.41 It is probably the result of several 
+complex factors ranging from a particular need that we have 
+at a given time to certain likes and dislikes that develop over 
+a long period. The latter are preferences or tastes acquired 
+over time, which Ricoeur (1986:57ff) calls habit, inertia or a 
+form of perseverance. ‘Each of us has his way of loving and 
+hating, and this love and hate reflect his whole personality’ 
+(Ricoeur 1986:60). Thus affect determines what emerges 
+in our likes and dislikes, and hence our personality and 
+character. Accordingly, character is not ‘not the result of 
+taking a position’ (Ricoeur 1986:62) but something I receive 
+and ‘I do not know the meaning of this gift that makes me the 
+heir to my own life’ (Ricoeur 1986:63).
+The synthesis of desire and reason (power of obligation that 
+comes from practical reason) is respect (Ricoeur 1986:73). 
+Reason is practical only if it influences desire: 
+The important thing is that through this emotion of subdued 
+desire that faculty of desiring is ‘elevated’ to the level of reason, 
+and that in this way self-esteem is born in the heart of this 
+finitude elevated to reason. 
+(Ricoeur 1986:74)
+Self-transcendence in the mode of a 
+secularised consumer culture 
+Emerson’s work is the paradigm for secular spirituality that 
+has emerged in recent years. Secular spirituality has the same 
+emphasis on nature, emotion, the unconscious, freedom, 
+unity and self-construction that we find in Emerson. Does 
+that mean we successfully accommodate affectivity in selfknowledge
+and self-construction? It is a tricky question. 
+In one instance, there is greater emphasis on experience 
+(proliferation of charismatic emotive religions), as well as 
+numerous examples in the field of secular spirituality, with 
+its renewed focus on nature, self, transcendence and the way 
+we can encounter it in meditation and mystical experience. 
+The entertainment industry focuses on experience and 
+the emotion it evokes. The media zoom in on the drama of 
+catastrophes wherever they happen on our planet. We are 
+moved and respond positively. But the media also present 
+a culture of violence and reified sexuality. On the one 
+41.Here one is reminded of Girard’s philosophy of desire, in which desire is aroused 
+by what the other possesses (see Hegel 1959:123. For Girard’s view of desire, see 
+Du Toit 2008:1–33.)
+Page 10 of 12
+ Original Research
+http://www.hts.org.za doi:10.4102/hts.v67i3.944
+hand there is greater recognition of our bodily nature as a 
+means to pleasure. On the other hand our individualised 
+society is marked by a loss of fellowship and collective 
+emotion, with the possible exception of sporting events. The 
+plethora of courses in self-discovery, self-construction, selfassertion,
+self-actualisation and the like certainly promote 
+acknowledgment and a positive image of affectivity. 
+Transcendent experience and self-transcendence are bound 
+to be different in a disenchanted world. Accounts of natural 
+events cannot but affect our concept of God. Western 
+ontology, which grew from philosophical and theological 
+interpretations, was overthrown by science. Science was put 
+at the service of humankind by technology and available 
+technologies became the main factor in the design of new 
+technologies of self that manifest themselves in present-day 
+consumer society. Transcendence comes via both virtual and 
+real experiences that make up our technological rollercoaster 
+society. 
+One could argue that transcendence in present-day consumer 
+society differs from all earlier transcendental movements – 
+outwards (nature), upwards (God) and inwards (thought, 
+metaphysics). Self-transcendence is characterised not by 
+‘movement towards…’ but by ‘movement with…’ We move 
+in, through and with technology, which has become an 
+extension of self. It is not so much that self-transcendence 
+is effected by the unconscious, by affectivity or by inner 
+creativity. It rather concerns the way in which self-identity 
+is governed by the technologically extended self42 (selftranscendence
+is increasingly co-determined by social 
+and technological patterns laid down by the consumer, 
+advertising and IT society in which we live). Morality and 
+dialogue with others and self play a dwindling role in selfconstruction
+(Hankiss 2006:287). 
+Conclusion 
+Self-transcendence is the mode in which we experience 
+ourselves. It is characterised by awareness of desire 
+(Eros) in the form of unfulfilment and incompleteness. 
+Religiously it translates into sin, but it may also be regarded 
+as a natural, inevitable manifestation of consciousness 
+and self-consciousness. Whereas it was once ascribed to 
+transcendent forces acting on human beings, nowadays 
+people are increasingly harnessing it in their attempts at selfconstruction.
+Self-transcendence cannot be explained in isolation; 
+human biology, affectivity and the unconscious come into 
+the picture as well. One also has to take into account the 
+contents of consciousness and their influence on people 
+(concepts like separation, infinitude, desire, the O/other). 
+In addition, cultural artefacts also help us to construct 
+42.Hankiss (2006) mentions everyday things without which self is inconceivable: 
+the first cigarette and coffee in the morning (26ff), mirrors, toothpaste, the gym, 
+coiffure, perfume, makeup, jewellery and shoes (28–43). There are also techniques: 
+etiquette (75ff), the role of ‘white lies’ (78ff), as well as the role of mobile phones 
+and the Internet (84ff). He describes how the workplace (101ff) and the home with 
+its objects (123ff) determine self. These things combine to trigger a renaissance of 
+the proletariat (161ff) and the inescapable demise of self (198ff). 
+diverse selves. In view of all this, it is apparent that human 
+wiring for transcendence cannot be confined to a particular 
+religious tradition or theology. In contrast to modernism, 
+people’s relation to the other (God, world, fellow humans, 
+ideas) is no longer regulated exclusively by concepts such 
+as metaphysical truth, hierarchy, tradition and established 
+value systems, but by self-construction (see Bildung) that 
+assumes a pragmatic, eclectic style – a worldview reinforced 
+by a human rights culture that endorses freedom (of religion, 
+expression, association, the press, minorities) and dignity 
+irrespective of race, gender, sexual orientation, culture and 
+the like.43 
+Perceptions of self and self-transcendence are changing 
+radically. But must we appraise these changes moralistically? 
+Every generation finds transcendence within the interpretive 
+horizons permitted by their culture, science and worldview. 
+There are biological constants (neocortex, lymphatic system) 
+and mental constants (desire, infinity, unfulfilment), but 
+they manifest themselves differently in every era. The 
+remarkable feature of our age is that transcendence is no 
+longer encapsulated in metaphysical ideas, but comes to 
+us via our techno-scientific environment that sweeps us 
+along on its evolutionary current. We cannot artificially 
+perpetuate the enchantment of a world we have outgrown. 
+And why should we? The Middle Ages would have seen our 
+present-day world as a dream come true and many people 
+today undeniably find fulfilment in a virtual, consumer and 
+pleasure-centred environment. As disenchanted as it may be, 
+it is certainly not devoid of transcendence.
+References
+Barabas, M., 1977, ‘Transcending the human’, in D.Z. Philips & T. Tessin (eds.), Religion 
+without transcendence?, pp. 177−232, Macmillan, London.
+Buber, M., 1939, Man in revolt, Westminster Press, Philadelphia.
+Caputo, J.D. & Vattimo, G., 2007, After the death of God, Columbia University Press, 
+New York.
+Dalferth, I.U., 2007, ‘Beyond understanding?’, in A. Grøn, I. Damgaard & S. Overgaard 
+(eds.), Subjectivity and transcendence, pp. 37−54, Siebert Mohr, Tübingen.
+Dupré, L., 1976, Transcendent selfhood. The loss and rediscovery of inner life, Seabury 
+Press, New York.
+Du Toit, C.W., 2004a, ‘Diversity in a multicultural and polyethnic world: Challenges and 
+responses’, Verbum et Ecclesia 25(2), 442−459.
+Du Toit, C.W., 2004b, ‘Technoscience and the integrity of personhood in Africa and 
+in the West: Facing our technoscientific environment, in C.W. du Toit (ed.), The 
+integrity of the human person in an African context: perspectives from science and 
+religion, pp. 1–46 Research Institute for Theology and Religion, Pretoria.
+Du Toit, C.W., 2007, Viewed from the shoulders of God. Themes in science and 
+theology, Unisa, Pretoria.
+Du Toit, C.W., 2008, ‘Is religion grounded in evolution? A critical look at some models’, 
+in C.W. du Toit (ed.), The evolutionary roots of religion: Cultivate, mutate or 
+eliminate?, Research Institute for Theology and Religion, Pretoria. 
+Du Toit, C.W., 2010, ‘Perspectives on an ethics of power sharing in Africa’, in C.W. du 
+Toit (ed.), Power sharing and African democracy, pp. 45−69, Research Institute for 
+Theology and Religion, Pretoria. 
+Faulconer, J.E. (ed.), 2003, Transcendence in philosophy and religion, Indiana 
+University Press, Bloomington.
+Frandsen, H.V., 2007, ‘Transcendence of the appeal – Sovereignty of the subject’, in 
+A. Grøn, I. Damgaard & S. Overgaard (eds.), Subjectivity and transcendence, pp. 
+115−131, Siebert Mohr, Tübingen.
+Gill, J.H., 1989, Mediated transcendence. A postmodern reflection, Mercer University 
+Press, Macon.
+Gougeon, L., 2007, Emerson and Eros. The making of a cultural hero, State University 
+of New York Press, Albany.
+Hankiss, E., 2006, The toothpaste of immortality. Self-constructing in the consumer 
+age, John Hopkins University Press, Baltimore.
+43.‘People have to construct themselves in a world that worships rationality and, at 
+the same time, longs for spirituality and mysticism’ (Hankiss 2006:267). 
+Page 11 of 12
+ Original Research
+http://www.hts.org.za doi:10.4102/hts.v67i3.944
+Page 12 of 12
+Hegel, G.W.F., 1959 [1817], Encyclopedia of philosophy, transl. G.E. Mueller, 
+Philosophical Library, New York.
+Hegel, G.W.F., 1985 [1827], Lectures on the philosophy of religion, vol. III, The 
+consummate religion, University of California Press, Berkeley.
+Hyland, D.A., 1995, Finitude and transcendence in the Platonic dialogues, State 
+University of New York Press, Albany.
+Janz, P.D., 2004, God, the mind’s desire. Reference, reason and Christian thinking, 
+Cambridge University Press, Cambridge.
+Levinas E., 1979 [1969], Totality and infinity, Nijhof, The Hague.
+Malpas, J., 2007, ‘Heidegger’s topology of being’, in S. Crowell & J. Malpas (eds.), 
+Transcendental Heidegger, pp. 119−134, Stanford University Press, Stanford. 
+Nancy, J.-L., 2002, Hegel. The restlessness of the negative, University of Minnesota 
+Press, Minneapolis.
+Parnas J., 2007, ‘Subjectivity in schizophrenia: The minimal self is too small’, in A. 
+Grøn, I. Damgaard & S. Overgaard (eds.), Subjectivity and transcendence, pp. 
+55−70, Siebert Mohr, Tübingen.
+Philips, D.Z. & Tessin, T. (eds.), 1997, Religion without transcendence?, Macmillan, 
+London.
+Ricoeur, P., 1986, Fallible man, Fordham University Press, New York.
+Ricoeur, P., 1992, Oneself as another, University of Chicago Press, Chicago.
+Ryle, G., 1949, The concept of mind, Penguin, Harmondsworth.
+Vattimo, G., 2003, Nihilism and emancipation, Columbia University Press, New York.
+Walton, S., 2004, Humanity. An emotional history, Atlantic, London.
+Ward, G., 2007, ‘The logos, the body and the world: On the phenomenal border’, 
+in K. Vanhoozer & M. Warner (eds.), Transcending boundaries in philosophy and 
+theology, Ashgate, Hampshire.
+Wider, K., 1977, The bodily nature of consciousness, Cornell University Press, Ithaca.
+Žižek, S., 2003, The puppet and the dwarf, Massachusetts Institute of Technology, 
+Cambridge. 

@@ -1,0 +1,895 @@
+Spring 2010                                                                                                            69
+Mac Wellman and the Language Poets: Chaos Writing 
+and the General Economy of Language
+Keith Appler
+Shake the flour can, get the particles.
+You lift the rod one inch too far, and the core’s crazy, you’re 
+plastered on account of the ceiling.
+   —Mac Wellman’s Cellophane
+By the time Marjorie Perloff would write the foreword to the 2001 Cellophane: 
+Plays by Mac Wellman, she would note that, in addition to Bertolt Brecht, Samuel 
+Beckett, Sam Shepard, and Harold Pinter, Mac Wellman also “recalls . . . the 
+language poets–Bruce Andrews, Charles Bernstein, Steve McCaffery–who are his 
+contemporaries.”1 Wellman, a prolific experimental playwright, has corresponded 
+with Bernstein at least since 1977,2 and among Wellman’s extensive bicoastal 
+associates is the Language poet Douglas Messerli, founder of Sun and Moon Press 
+of Los Angeles. Wellman, described as a “language” writer by New York Times 
+reviewer Mel Gussow in 1990,3 is identified as a Language poet in 2008 by Helen 
+Shaw in her foreword to Wellman’s third major play collection. Shaw writes that 
+Wellman “has been the deconstructionists’ mountaintop; he has read the very 
+choppy tablets given down by the Black Mountain gang and the Language Poets 
+(he is one). But he also returns to us [in the theatre] with their message.”4 Shaw’s 
+identification of Wellman as a Language poet in no way diminishes his importance 
+in the theatre, although his first plays were radio plays adapted from his poetry, 
+and his dramatic works, always off-beat, suggest his “poetical” preoccupation 
+with producing unconventional and emphatically non-didactic effects through 
+linguistic and theatrical means. His plays have appeared in New York and on the 
+West Coast since the late 1970s, when he was quickly successful in winning grants 
+and awards for his plays, as well as forming important theatre relationships. The 
+one with En Garde Arts director Anne Hamburger led to the site-specific plays 
+Crowbar, at the Victory Theatre on Broadway, and Bad Penny at Bow Bridge, in 
+Central Park. Wellman and composer David Lang collaborated on The Difficulty 
+of Crossing a Field. Collections of Wellman’s plays have been published by major 
+Keith Appler teaches at the University of Macau and writes on plays and institutionality in the 1980s 
+and 1990s.
+ 70                                                               Journal of Dramatic Theory and Criticism
+academic presses, among them Johns Hopkins University Press and University of 
+Minnesota Press. His prominence as a playwright rose in the mid- to late 1980s 
+with bicoastal productions and important notice in the New York Times and in 
+American Theatre magazine, and publication in Yale’s Theater journal of his first 
+manifesto (“The Theatre of Good Intentions”) attacking middlebrow theatre. The 
+study which follows focuses on two of three plays associated with an experiment 
+in “bad writing,” Cellophane and Terminal Hip, that stand apart in Wellman’s 
+always-experimental drama as his most sustained use of nonsense to produce 
+non-meaningful effects. Less will be said about Three Americanisms, the third 
+play in the bad-writing series, which takes a new direction. However, all three of 
+these plays demonstrate Wellman’s strong affinity with Language poetry, which 
+emerges most clearly in them just as deconstruction and chaos theory are becoming 
+conversant with one another.
+While the Language poets, who emerged in the late 1970s, are a heterogeneous 
+group,5 they have tended to be politically progressive, theory-driven, and 
+modernist in their self-definition. This modernism registers in Charles Bernstein’s 
+1992 declaration that “[w]e can act: we are not trapped in the postmodern 
+condition if we are willing to differentiate between works of art that suggest new 
+ways of conceiving our present world and those that seek rather to debunk any 
+possibilities of meaning.”6 At the same time, the Language poets eschew binary 
+and linear thinking, and have absorbed deconstruction in their poetry and their 
+theories. 
+By way of a notion of the deconstructive “general economy” of language, 
+Bernstein and McCaffery agree that forms of expression (letters, words, images, 
+sounds, gestures–language in its materiality) are of a completely different order 
+from the institutions (contents of expression) in which they are situated or the 
+official narratives (forms of content) with which their writing is engaged. These 
+ideas derive from Georges Bataille and also from the Copenhagen linguist Louis 
+Hjelmslev.7 Bernstein and McCaffery agree that meaning elides the materiality 
+of expression to “refer to” (or to produce the look of) a stable order of reality 
+and that in the postmodern, as power’s meaningful repetitions (or reifications) 
+have saturated everyday life, they must resist power by reasserting the materiality 
+of expression. Unless poetry resists reproducing the “natural” correspondence 
+of expression with content, it would be, like ideologically complicit academic 
+verse,8 part of the problem. Bernstein’s goal is, he writes, “to throw a wedge into 
+this engineered process of social derealization.”9 The Language poet’s goal for 
+cognition and understanding has been, George Hartley explained in 1989, “baring 
+the frame” of the “production of meaning through the syntactical organization of 
+force.”10
+Wellman is equally committed to asserting the materiality of expression in 
+ Spring 2010                                                                                                            71
+its spoken, written, and theatrical forms. He wrote in 1984 that “[a]rtists and 
+thinkers of our time are engaged in a war against . . . the tyrannical domination 
+of meanings so fixed, so absolute, as to render the means of meaning, which is to 
+say the heart and soul of meaning, a mere phantom.”11 Wellman, Bernstein, and 
+McCaffery all have resisted the institutions of their genres while producing, as a 
+kind of surplus value, a powerful affect that can be simultaneously alienating and 
+absorbing for readers and spectators, at least for those who are not merely alienated 
+by the strangeness of some of their work. In ordinary life, affect is an unformed 
+feeling that lasts for half a second: it takes a half second for a stimulus response 
+to form affect into an emotion and a direction within the frames of perception 
+and meaning.12 One effect of Language writing is to extend that half second for 
+the duration of the performance. The Language writer achieves this when his or 
+her forms of expression keep the spectator at the border between meaning and 
+nonsense. In ways that I will develop below, this is the border where meanings 
+that leap into view are overwhelmed by meanings and nonmeaning in the next 
+instant. This is the border between meaning, formed as a restrictive economy and 
+lost in an instant, and the general economy of language.
+The relationship between the general economy as a flow of language 
+expression is staged in this model as a relationship of nonrelation with a restrictive 
+economy, which constrains that flow of expression according to the contents of 
+expression, understood as expressive modes and conduits that conform to forms of 
+content, understood as the ideological order. Meaning expresses that ideological 
+order and, as expression, recedes into the background as language refers itself to 
+objects in the world. However, a practice that exploits the gap between expression 
+and the ideological order to foreground the nonrelation of expression to this order 
+is one that returns expression to the general economy and leaves the spectator at 
+its threshold in an affective state of intensity.
+The affective state of intensity can be apprehended, as I will show in comparing 
+two of Wellman’s plays, Cellophane and Terminal Hip, to Language poetry. But 
+beyond describing the state itself we enter immediately into a host of problems 
+accounting for the connections, if any, among authorial intentions, audience 
+response, and critical interpretation. My purpose here is to explain the production 
+of the affective state, but it is also to engage, if tentatively, with the theories that 
+inspire these uses of language. With the Language poets, Wellman among them, 
+this requires elaborating some important theoretical linkages. Wellman’s embrace, 
+in the early 1990s, of chaos theory is compatible with the deconstructive language 
+practices so far described, if we are to understand the singular enunciation as a 
+convergence of different systems (forms of expression, contents of expression, and 
+forms of content) in relations of nonrelation. The convergence of these systems 
+forms a complex interaction of constraints, producing new potential for variation 
+within a more complex system. Theoretically this convergence of constraints and 
+ 72                                                               Journal of Dramatic Theory and Criticism
+potentials, in the singular enunciation, produces unpredictable effects, potentially 
+at different scales. N. Katherine Hayles writes that deconstruction and chaos theory, 
+deriving as they do from the same episteme, had come, by the early 1990s, into 
+productive conversation with one another.13 It is no surprise then that Wellman, a 
+fellow traveler of the Language poets, should make his “chaos theory turn” at this 
+moment, especially as he was, like Tom Stoppard, under the influence of James 
+Gleick’s 1988 book Chaos: Making a New Science.14 Hayles’s point about the 
+cultural importance of chaos at the time had to do with its appropriation, by cultural 
+critics and artists, as a new way of conceiving and deconstructing the edifices of 
+power. For artists and critics (if not for scientists), the ideas associated with chaos 
+theory gave new credibility to nonrational and nonlinear ways of conceiving the 
+world.15 
+William W. Demastes, writing of the “theatre of chaos,” remarks that “chaos 
+as a paradigm is revolutionary because it asks us to see the world from a different 
+metaphorical stance. It is the metaphor that hits the mark in ways others to varying 
+degrees have not. In fact, often chaos is quite literal and not metaphorical at 
+all.”16 But here I will say that in drama, it is not the metaphorical chaos allegories 
+like Stoppard’s Arcadia and Wellman’s Cat’s Paw, but Wellman’s chaotic, 
+nonmetaphorically effective plays Cellophane and Terminal Hip that, owing to the 
+interplay of expressions and contents, present the chaotic phenomena upon which 
+chaotic Language writing is to be theorized. Theoretically, our route through the 
+Language poets is the straightest route from Wellman’s language practice, consisting 
+in the production of affective intensity, to an understanding of the relevance of his 
+invocations of chaos theory. 
+The Radioactivity of Language
+There is, of course, no escaping meaning, and even cognate lexemes are 
+“radioactive” with meanings, including connotations, which carry their emotional 
+charge. In discussions of poetic nonsense in the last decade many have begun, 
+as does Perloff, with reference to Gertrude Stein, for whom “nonsense” is not 
+the absence of meaning, but the frustration of a total system in which some 
+meanings are advanced and others repressed. Perloff writes, “But words, as even 
+Gertrude Stein recognized, have meanings, and the only way to MAKE IT NEW 
+is not to pretend that meaning doesn’t exist but to take words out of their usual 
+contexts and create new relationships among them.”17 When the Language poet 
+James Sherry complains that poetry’s “old forms are radioactive with the halflives
+that constructed them,’”18 or when, in a similar vein (referring to Bernstein’s 
+“business poems”), Perloff writes that “the pieces of the puzzle are always already 
+contaminated, bearing, as they do, the traces of the media discourses . . . in which 
+they are embedded,”19 “radioactivity” is understood as the toxicity of words, 
+official discourses, and outmoded forms. One cannot detoxify language; one can, 
+ Spring 2010                                                                                                            73
+however, exploit this toxic radioactivity by raising its kinetic level. Although 
+Bernstein is no ideologue, he understands ideology as highly useful for producing 
+what he would consider nonideological effects: he writes that “[i]deology . . . 
+everywhere informs poetry and imparts to it, at its most resonant, a density of 
+materialized social being expressed through the music of the work as well as 
+its multifoliate references.” The connotations–investments and repudiations–
+surrounding culturally and/or politically freighted buzz words and scare words 
+carry their histories with them: they are radioactive with those histories and lend 
+their intensities to the musical flow of language. That Bernstein values mostly the 
+intensification of fragmentary ideological reference is registered in his statement 
+about the poetry scene of the early 1990s: “[t]he state of American poetry can be 
+characterized by the sharp ideological disagreements that lacerate our communal 
+field of action, making it volatile, dynamic, engaging.”20
+For Wellman, ideological meaning is also, in itself, “worthless, as are the 
+foundations of knowledge.”21 In the early 1980s, Wellman appears to have understood
+reification in its larger ideological forms even as he filled his plays with 
+small breaks in the flow of the action, including non sequiturs and other surprises. 
+Ideology was associated in these earlier plays with characters whose modes of 
+thought, owing to the reifications in society, were not fully engaged with reality. 
+Wellman himself explains that his 1983 Bad Infinity was the conclusion of a fiveplay
+series (including Energumen, Diseases of the Well-Dressed, The Professional 
+Frenchman, and The Self-Begotten)22 in which he was interested in contemporary 
+“logic,”23 and we see that this final play features a more or less static Chekhovian 
+lineup of “thinkers”: the affectless (postmodern) artist John Sleight; the messianic 
+Megan; the sentimental bourgeois murderer Ramon; Deborah, a spirit of negation; 
+and Sam, the anarchosocialist (modernist) artist. A countersign to this postmodern 
+disengagement from history was the philosopher Hegel. In Wellman’s plays of the 
+early 1980s, the Hegelian dialectic (dialectics in its “nonideological” form) does 
+not operate well, owing to the reifications Bernstein and others have identified. 
+If in Hegelian terms “spirit” must engage with history as necessity in order to 
+transcend itself in a new synthesis, then history must be available in some more 
+concrete way. Wellman, describing his work as “affective fantasy,” blames “a 
+refusal to accept any kind of dialectic in the workings of society” for “the strange 
+malaise in our playwriting.”24 This is an aspect of a simulacral condition Wellman 
+thematizes as the Hegelian “bad infinity” where, owing to postmodern reifications, 
+spirit (desire, creativity) can get no traction in its nonencounter with history (or 
+necessity): the synthesis of the dialectical process does not take place.25 Or, more 
+in keeping with Bernstein,26 Wellman’s dialectic may correspond more fully with 
+Theodor Adorno’s negative dialectics. According to Adorno, a “successful work . . 
+. is not one which resolves objective contradictions in a spurious harmony, but one 
+which expresses the idea of harmony negatively by embodying the contradictions, 
+ 74                                                               Journal of Dramatic Theory and Criticism
+pure and uncompromised, in its innermost structure.”27 In this case, while there 
+is no escape from the bad infinity of the modern world, art may, through means 
+of embodiment that eschew meaning, offer a more vital engagement with the bad 
+infinity of postmodern reification. Hartley writes that “[i]t is the achievement of 
+many Language poets to think beyond the stalemate of the paradigmatic question 
+[of meaning and ideology] and to pose poetry as an exploration of the syntagmatic. 
+. . . The role of poetry thus shifts from denying to revealing, unveiling, discovery.”28 
+It is their achievement, that is, to exploit the radioactivity of language, which, for 
+Hartley, is to engage “dialectically” with the individual sign and sequence of signs 
+to produce from these a “negative” but ultimately affirmative complexity.
+Extending his concern with dialectics into the writing of work more like 
+Language poetry itself, Wellman took up, a year later in 1984, his experiment in 
+“bad writing,” which carried on for over two years29 alongside the writing and 
+production of plays like Dracula (1987) and Whirligig (1988). The bad-writing 
+experiment resulted in Cellophane and Terminal Hip, and a later third play, Three 
+Americanisms, which is the only one of the three indebted to Gleick’s book. 
+The bad-writing plays, essentially Language poems, are the clearest connection 
+between Wellman’s art and that of the Language poets. In ways I will develop, 
+they are the most chaotic of his plays, so much so that only the most provisional 
+interpretations may be offered by one always fearful of “[b]ark[ing] up the 
+wrong tree.”30 For example, provisional interpretation might suggest that the 
+combination, across the field of writing from which Cellophane and Terminal 
+Hip derive, of the Eliotic wasteland, Whitman’s self-song in the grass, Roethke’s 
+“fragile” “Edenic pastoralism,”31 and no doubt other intertexts besides suggests 
+a tortuous relationship between the self and nature, a troubled connection 
+to the poetic tradition, and even the old affirmation, across a field of garbage 
+(environmental, cultural, political). By way of the ubiquitous letters “X” and “Y” 
+(almost always readable as syntax’s x-axis and grammar’s y-axis, respectively), 
+the writing and reading of poetry, including the violence of interpretation to the 
+poem’s syntactical flow, are also suggested.
+To focus briefly on the individual plays, a reading of Terminal Hip may 
+justify Wellman’s claim that he was seeking religious meaning, but not in the 
+West. Terminal Hip may owe its “structure” (or vague mimicry of signs that, read 
+together, recall a narrative, perhaps the “ghostly narrative” Wellman mentions32) 
+to Walt Whitman’s “Song of Myself” in Leaves of Grass, a poem structured in turn 
+on the career of Christ. Wellman told David Savran that, in the bad-writing plays, 
+he “wasn’t trying to make any sense or tell a story” but that he “found certain 
+patterns emerging. I found a sort of lofty poetic line developing that reminded me 
+of Whitman.”33 While in the play’s conclusion “a panda ghost sinks to the center 
+of the world and sits there and sings,” several pages earlier he has recalled the 
+crucifixion (Whitman’s “Corpses rise, gashes heal, fastenings roll from me. / I 
+ Spring 2010                                                                                                            75
+troop forth replenish’d with supreme power . . .” [969-70]) when he writes:
+How he on X feigned Y, hounded the Savior all his days, inspired 
+his Xification, got Him no gumballs, derided him in His final 
+agony, gambled for His garments at the foot of the cross, the 
+whole kit and kaboodle. Philip Botely shows symptoms of X. 
+Philip Boxley has not been vaccinated against hypofluvia.
+We see here the appropriation of Christ’s passion to “X,” which is identified, 
+never more clearly than here, with syntactical “hypofluvia” or flow. Then, back at 
+the beginning of the poem-play, there are lines like “Men like signs. Signs make 
+sense of things” (Whitman’s “Or I guess [the grass] is a uniform hieroglyphic” 
+[106]). And moving forward, as does Whitman’s speaker (“It is time to explain 
+myself—let us stand up” [1134]): “Gotta move sideways, all balled up like so. . . . 
+Moving sideways to escape detection.” And there is, of course, the pervasive hint 
+of betrayal (Whitman’s “They have left me helpless to a red marauder” [635]): 
+“Pay off X in the name of Y, advance career through artful changes.”34
+Like that of Terminal Hip, the conclusion of Cellophane also echoes the 
+conclusion of another poem to alert one retrospectively to other quotations and 
+echoes: this time it is T. S. Eliot’s “The Love Song of J. Alfred Prufrock” (“We 
+have lingered in the chambers of the sea / By sea-girls wreathed in seaweed red 
+and brown” [129-30]). Wellman writes: “Limos in limo heaven, with little limo 
+wings./Burning limos, in limo holocaust O aer./Dreaming limos at the bottom 
+of the sea. In the first part, “From Mad Tomatoes,” there is a dramatic structure 
+consisting of the speaker, generally identified by the verb form “am”; a “you,” 
+which “am” berates and lectures (Prufrock’s “Let us go then, you and I” [Line 1]); 
+and the “labernath,” which is a powerful liar. “Wow that labernath!” the speaker 
+says, and “Who as has the labernath him do all,” but the labernath cannot be 
+trusted: “You go aks at him labernath. / They tell you some crowe. / They tell 
+you some indeed crowe.” The labernath may be associated with “at cat,” which 
+seems to me to suggest a condition of displacement, dissonance, and alienation, 
+a common condition (“We all was / At cat”) which might have been avoided: “it 
+mighta could if we all hadda been / of one mind.” Perhaps owing to the labernath 
+and the condition of being at cat, the “Mad Tomatoes” denouement seems to 
+consist of Eliot’s dead crossing London Bridge, not in “Prufrock” but in The 
+Waste Land: “The X’s. / The Y’s. / Came across in and out. / All / At cat like 
+they knew,” and the upshot is “Longtime looksee allatime at zero am.” Is this the 
+zero-degree of the “affectless” postmodern world? Meanwhile language becomes 
+thematized by the play of binaries. At cat as “not once at dog am,”35 suggesting 
+the Saussurean description of binary signifiers and its legacy in poststructural 
+difference: in contradiction to “at dog,” “at cat” forms a signifier; as a singular 
+ 76                                                               Journal of Dramatic Theory and Criticism
+signified, “cat” is distinguished from the pack animal signified by “dog”: we are 
+operating on social and linguistic levels, and perhaps others besides, to suggest a 
+condition of—what, anomie? Entropy? Postmodernity? Countercultural failure? 
+The breakdown of the Cold War consensus? The nature of a Language poem? 
+Signs are selected and arranged to evoke questions about patterns of meaning, but 
+these questions go unanswered.
+Cellophane’s next part, “From Hollowness,” continues to gesture toward 
+meanings relating to environmental damage and also to a loss of meaning and 
+spirituality. With respect to the American landscape, this section is filled with 
+scenes of devastation and, in Part 2, it is hard not to associate the polluted 
+river, “Cellophane wrapers all the way to the bank,” not only with the Thames 
+of The Waste Land, but also with the Cuyahoga River flowing into Lake Erie 
+through Cleveland (“Heaps of industrial hooha all the way, yeah! To the bank. 
+Yeah!”), Wellman’s home town, which was so filled with chemicals that in 1969 
+it caught fire (“All the same on fire shall have did am. / By the dump all the way 
+to the bank”). Here it is easy to see the slide from effects (dumps, river fires) to 
+causes (industrialization, banks). With respect to the cultural and the political, 
+“labernath” is a highly ambiguous figure, which could refer to the Borgesian 
+labyrinth or the Language poem. “From ’S Sake,” the play’s third part, suggests 
+that God, the author-god or god-the-subject is missing. However, for the first time 
+in Cellophane, we encounter the word “I,” both in reference to Jesus (“I am the 
+way, Jesus said, and the light and the life”) and in reference perhaps to the speaker: 
+“I don’t know who I am. . . . I am thoroughly at sea in the weariness of prolonged 
+political emptiness.” This mode is much more confessional and metacritical if 
+we keep our focus on a linguistic relationship between X and Y: “[a] well-oiled 
+insoluable conundrum transfixes X in the name of Y while down the road some 
+man is trying to find Y′ in the crowe’s eye strange.” That is, a personal resolution 
+can be effected by being the man down the road looking for meaning in the crow’s 
+eye, here Y-prime or a meaning displaced from the meaning offered by power. Or, 
+on the contrary, the man may encounter the lying “crowe” which turned up earlier 
+in the play. Associated with expression’s escape from power, here there may be an 
+affirmation of the syntactical: “For X belongs”: “X to Y / X′ to somewheres they 
+told of once in error. . . . X upon the uncharted road. / X on the move forever the 
+blue the gasp the.” Parts 3 and 4 introduce a “he” and “she” and, by the beginning 
+of Part 5 (right on schedule?), “am” seems to be, or to have become, “Fortune’s 
+basket case”36—to echo what Megan, in The Bad Infinity, refers to as Romeo and 
+Juliet’s “old-hat dead language.”37 In other words, there seems to be some struggle 
+involving a man and a woman and perhaps even a crisis. But those outlines appear 
+only erratically, if at all.
+ Spring 2010                                                                                                            77
+The Paragram and the General Economy
+To the foregoing remarks about Cellophane and Terminal Hip, Bernstein 
+would say that “[t]he obvious problem is that the poem said in any other way is 
+not the poem”:
+. . . think only
+of the undercurrent of anagrammatical
+transformations, the semantic contribution of
+the visual representation of the text, the
+particular associations evoked by the phonic
+configurations. These features are related to the
+“nonsemantic” effects that Forrest-Thomson
+describes as contributing toward the “total image-complex”
+of the poem.38
+Here Bernstein is describing what Steve McCaffery calls the “paragram” as a 
+form of expression:
+For while assignable to a certain order of production [content 
+of expression], value, and meaning [form of content], the 
+paragram [does] not derive necessarily from an intentionality 
+or conscious rhetoricity and seem[s] an inevitable consequence 
+of writing’s alphabetic, combinatory nature. Seen this way as 
+emerging from the multiple ruptures that alphabetic components 
+bring to virtuality, meaning becomes partly the production of 
+a general economy, a persistent excess, nonintentionality, and 
+expenditure without reserve through writing’s component 
+letters.
+There is no transparency to language and meaning, and the production of meaning, 
+owing to forms of, and even contents of, expression, is always already partly 
+engaged in the production of nonsense, or the flow of the general economy of 
+language. Or again as McCaffery puts it, the paragram is
+that aspect of language which escapes all discourse and which 
+commits writing unavoidably to a general economy and to the 
+transphenomenal paradox of an unpresentability that serves as 
+a necessary condition of writing’s capacity to present. All of 
+this suggests a constitutional nonpresence in meaning itself.39
+ 78                                                               Journal of Dramatic Theory and Criticism
+Because the production of meaning is always also the production of elements and 
+effects that are nonmeaningful, there is no meaning that is not also paragrammatic 
+to a certain degree. The Language poets in their texts and performances and 
+Wellman in his plays—the bad-writing plays especially—are merely directing 
+their energies more than usual to the paragrammatic aspect of language and 
+performance.
+Again, an interpretive descriptive procedure elides the actual process of 
+reception, reading, and spectatorship. This process is chaotic, at least until the 
+text is brought to order through the exercise of reading strategies. I will suggest 
+that Wellman’s lines have an important affinity with Bernstein’s poetic practice. 
+McCaffery quotes a 1979 text by Bernstein, which, while less readable than 
+Wellman’s text, operates in a similar way:
+Ig ak abberflappi. mogh & hmog ick pug eh nche ebag ot eb v 
+joram lMbrp nly ti asw evn dictcr ot heh ghtr rties. ey Ancded 
+lla tghn heh ugrf het keyon. hnny iKerw. in VazoOn uv spAz 
+ah’s ee ‘ook up an ays yr bitder guLpIng sum u pulLs. ig jis see 
+kHe nig MiSSy heh d sogA chHooPp & abhor ih cN gt eGulfer 
+ee mattripg40
+Perloff tells us that, in Bernstein’s business poems, the enemy is the media and 
+all systems of data processing that “suppress ‘redundancy’ or ‘noise’” in favor of 
+a totalitarian monologism. Faced with the mechanical binarism and routinization 
+of computer systems, a Language poet like Bernstein will create a linguistic and 
+cultural countercurrent. Perloff writes,
+The poetic function, in this scheme of things, subordinates 
+the informational axis (language used as a pure instrument 
+of efficient communication) to what we might call the axis of 
+redundancy, “meanings” now being created by all those elements 
+of reference that go beyond the quantifiable communication of 
+data from A to B.41
+The informational axis, like the grammatical axis, is subjected, in this kind of 
+Language poetry, to the noise axis, which corresponds to the syntagmatic. In 
+McCaffery’s reading of Bernstein’s poem, whatever this text tries to mean is 
+accompanied by a great deal of waste that, to the degree that it is not useful or 
+recuperable as meaning, exemplifies the general economy of language. To begin 
+with, this text is sufficiently “English” so that it is not completely separate from a 
+restrictive economy, which is an economy of energy conservation and exchange. 
+With respect to the form of expression, there is, in the materiality of the words 
+ Spring 2010                                                                                                            79
+and word cognates, certain resemblances that loop back to meaningful language 
+forms. Here we recognize the word “abhor” and cognates of other ordinary words, 
+and the more words we recognize the greater our urge to interpret (to form, that 
+is, our own restrictive economies). To do so we would then have to sift through 
+the relentless lexical and typographical anomalies. Starting perhaps with “abhor,” 
+meanings would accumulate, perhaps to the point where we might hazard an 
+overall interpretation. The text baits us in our interpretive habit, and much of 
+the interest and even pleasure of the text is registering the suspicious “words” 
+that even suggest a cryptography and a cipher, lexemes like “dictcr” “‘ook up,” 
+“guLpIng,” “MiSSy,” and so forth. McCaffery himself focuses on “in VazoOn uv 
+spAz” as “‘invasion of space.’”42
+But of course McCaffery’s point is that meaning’s advance and withdrawal 
+prevents “all certainty of meaning.” As McCaffery puts it, the text displays
+a regulating, conservational disposition that limits and organizes 
+the independent letters, pushing them toward the word as a 
+component in the articulated production and accumulation of 
+meaning, and the other disposition that drives the letters into 
+nonsemantic material ensembles that yield no profit.
+Language’s dispositions tend in different directions, first toward meaning as a 
+restrictive economy and second toward its nonmeaningful productivity, the 
+general economy, which arises at the very instant it is trying to mean. The lure 
+of interpretation may keep us interested; however, McCaffery’s point is that, 
+while lexemes and lexical cognates, or typography, may “mean” at the particle 
+level, the passage does not communicate a message but instead effects overall 
+the “general rematerialization of language.” McCaffery writes, for example, that 
+“Capitalization here serves no grammatical purpose but is simply a fortuitous 
+registry of eruption at the meeting of the linguistic sign with its unincorporatable 
+materiality.”43 That eruption is the appearance in our field of reading and 
+interpreting of that in language writing which is unassimilable, impermeable, but 
+also irrepressible: it is the infusion of the general economy into our own reading 
+practice.
+Affectively, what happens is suggested by Bernstein in his description of the 
+poems of Leslie Scalapino:
+it is the rhythm created by permutating the attentional beams, the 
+chordal patterns created by her serial scannings, that create the 
+musical coherence that takes the work beyond any distancing 
+or dislocating devices that serve to build it. The refusal to be 
+absorbed in any single focus on a situation gives way to a 
+ 80                                                               Journal of Dramatic Theory and Criticism
+multifocused absorption that eerily shifts, as an ambiguous 
+figure, from anxious to erotic to diffident to hypnotic.
+The eerie shifts—ambiguity, anxiety, eroticism, diffidence, hypnosis—are all 
+responses of an affective kind, any one of them too inchoate to describe as an 
+emotion. The goal of Language poetry of this kind is to maintain an affective flight 
+along the border between meaning and the general economy, even as it erodes the 
+border. Bernstein says “the reader stays plugged into the wave-like pulse of the 
+writing. In other words, you keep moving through the writing without having to 
+come up for ideational air; the ideas are all inside the process.”44 As we have seen, 
+Wellman’s bad-writing plays demonstrate or feint toward meaning repeatedly and 
+even repeat the same gesture, but meaning is never fully produced. There is the 
+intensity of recognition in the meaning that comes into view, and the intensity 
+of its immediate withdrawal, what Wellman means in referring to the “pulled 
+punch”: he writes that “[a]n incomplete action figures forth a shadow, or limb, 
+that completes itself variously—like the flinch response to a pulled punch—in the 
+imaginary space of an audience member’s consciousness.”45 The unkept promise 
+of the incomplete proposition is a residual question or mystery. In this testimony, 
+the incoherence of the signs and the theatrical effects lead to a spectatorly 
+absorption over the course of the performance in the ephemeral impressions 
+made by repetitions and other recognitions over time. Wellman’s “pulled punch” 
+describes the gesture in which, in lieu of recognition and understanding, the 
+spectator experiences the affective intensity of meaning denied or deferred and 
+supplanted, in the next instance, by a different feint toward meaning.
+Bernstein identifies the affects produced this way as “absorption” and 
+“impermeability”: the first, absorption, he writes, is “engrossing, engulfing / 
+completely, engaging, arresting attention, reverie / attention intensification, 
+rhapsodic, spellbinding, / mesmerizing, hypnotic, total, riveting, / enthralling: 
+belief, conviction, silence.” The second, impermeability, includes “artifice, 
+boredom, / exaggeration, attention scattering, distraction, / digression, interruptive, 
+transgressive, / undecorous, anticonventional, unintegrated, fractured, / 
+fragmented” and so forth. These affects form, Bernstein says, poetry’s “outer 
+limit” and its “inner limit”: in other words, they are constraints on poetic response 
+in the relative absence of meaning. In the relative absence of meaning, absorption 
+and impermeability’s “intersection,” interface, or phase space is, Bernstein says, 
+“flesh,”46 and in this way he suggests that the individual’s recourse is to bodily 
+rhythms, with which absorption and impermeability are involved. As limits, these 
+affects form the range of affect’s variability over the course of a reading or a spell 
+of spectatorship: they form the bounds of chaos along a line running parallel with 
+the flow of the general economy. In this chaotic system, meaning’s emergence and 
+withdrawal can contribute to either absorptive or impermeable effects. Meaning 
+ Spring 2010                                                                                                            81
+is essential as an intensifier so long as its subordination to the nonmeaningful 
+production of affect can be maintained.
+McCaffery and Bernstein theorize the affective flow produced by Language 
+poetry in terms of the forms of expression of the general economy of language 
+and the reader’s contrasting dispositions toward and away from meaning. The 
+Language poet agitates language with a cascade of meaningless and radioactive 
+expressions that together sustain for a time an affective, rather than meaningful 
+or emotional, intensity. The result is an affective and wasteful flow which 
+develops only when power is prevented from enforcing a relation of nonrelation 
+between expression, on the one hand, and, on the other hand, official discourse, 
+including narratives and generic codes. Meaning forms when expression 
+corresponds transparently with official discourse. Meaning forms when, owing 
+to this transparency, an enunciation, always a pragmatic singularity, is made 
+through repetition to appear to transcend its moment to take the form of truth. 
+Language poetry reverses this process by denying expression its transparency, by 
+supplanting repetition and the illusion of transcendence with variation in a series 
+of enunciations, each a singular occasion for the contrastive dispositions toward 
+and away from meaning with absorptive and alienating effects. These dispositions 
+produce a flow of affect, owing to the recurrent pulled punch of meaning, which 
+erodes the border between the general and restrictive economies.
+Writing to the General Economy and Writing to Rule
+This interplay between the general economy and a restrictive economy is the 
+theoretical basis for a nonmetaphorical description of chaos writing offered by 
+McCaffery and assented to by Bernstein. But what is gained, then, by identifying 
+Language writing with a nonlinear complex system? Bernstein is—and is not—
+“suggesting that poetics, or poetry, is a chaotic system.” He writes that poetry 
+is produced by, and complexly related to, a chaotic system. Poetry “charts the 
+turbulent phenomenon known as human being, must reflect this in the nonperiodic 
+flow of its ‘chaotic’ prosody.” Poetry, “in its most ecstatic manifestation,” is 
+indeed a chaotic or “nonlinear dynamic system.” As a chaotic system, poetry is 
+“constrained . . . controllable not in its flowering but in the progression toward 
+chaos or move backward out of it: perhaps this is the narrative of a poem that 
+poetics can address.”47 At most, Bernstein suggests that a chaotic prosody is set 
+going by a combination of aesthetic and referential features, but its “flowering” 
+is beyond apprehension, to say nothing of analysis. What actually goes on in the 
+consciousness of a reader or spectator, once he or she has reached the “flinch” 
+plateau under the incessant impact of pulled punches, is unknown.
+If this affective flight of language is unknowable, this fact would have 
+important implications for understanding the relationship of chaos theory to a 
+reading of Wellman’s plays. At the moment when he turns to chaos theory, 
+ 82                                                               Journal of Dramatic Theory and Criticism
+Wellman writes of the plays’ “fractal” nature.48 In terms of the affective process 
+just described,
+1) the (always singular) enunciation, “radioactive” with meaning, is 
+affectively intense more than it is meaningful; 
+2) owing to the chaos of the meanings of the enunciation, the whole ideological 
+order (form of content) is not repeated. What is repeatable, with variation, is the 
+degree of chaos;
+3) the repetition of a degree of chaos (the fractal)49 is always the repetition of 
+the constraints on the singular enunciation, which include the form of content (the 
+ideological order) and the contents of expression (rhetoric, grammar, body, voice, 
+gesture, theatrical production, institutionality) imposed upon the enunciation.
+Expression is the most variable, while in each new enunciation, the same 
+constraints are operative: the fractal degree of chaos, with some variation from 
+enunciation to enunciation, is maintained. This degree of chaos, registered as 
+affective intensity, is the degree of openness in the relation of nonrelation between 
+expression and content. There is no way to measure this degree, except, perhaps, 
+by wiring spectators to medical equipment to arrive at some kind of somatic 
+signature. We infer from science that this degree of chaos, whatever it is, is selfsimilar
+from enunciation to enunciation, and from scale to scale, beginning with 
+the (corrupted) lexeme and continuing to include the play itself. That the degree 
+of chaos, as an aspect of reception, is unmeasurable is certainly suggested when 
+Hayles herself makes no attempt to measure it. Hayles stresses the importance 
+of “recursive symmetries”50 and the manner in which constraints feed back into 
+each step in the writing and reading processes. She writes of the fundamental 
+importance of ethics in the opening or closing of the writing procedure.51 Yet she 
+never goes further in her description of chaos than to say that the text, in a given 
+phase, is or is not complex.
+I have suggested that the Language poets, and Wellman in Cellophane and 
+Terminal Hip, exploit the gap between expression and content to give materiality 
+back to expression and to resist the suppression of expression in the service of 
+meaning and power. The reader’s and spectator’s dispositions toward and away 
+from meaning maintain an affective intensity. There is, in fact, no part of this 
+model that is knowable except the features of the text or performance, although, 
+as has been noted, Bernstein feels that poetics can describe in general the way that 
+chaos in poetry comes into being. Wellman writes to the general economy in his 
+bad-writing plays of the late 1980s and early 1990s: Cellophane, Terminal Hip, 
+and to a great degree in Three Americanisms. He writes to rule in plays such as 
+Cat’s Paw (1995).
+ Spring 2010                                                                                                            83
+A well-known example of writing to rule is offered by Perloff in Radical 
+Artifice (1991), in which she discusses performances of John Cage’s Lecture 
+on the Weather, once in 1984 in California and again in 1989 in Maryland. 
+Perloff discusses both Cage’s procedure and her observation of the audience’s 
+unconscious, somatic group response to the inclement “weather” to which Cage 
+subjected it. Perloff, in ways implicitly unacceptable to McCaffery and Bernstein, 
+suggests that the effects she describes were caused by the operation of Cage’s 
+procedure. His goal, according to Perloff, was to bypass the law in the name of 
+“discovery” because, as he says, “Of all professions the law is the least concerned 
+with aspiration. It is concerned with precedent, not with discovery.” Using a 
+“strictly planned mathematical system,” Cage extracts passages from the writings 
+of Henry David Thoreau. Cage desires to use Thoreau’s writings, in Perloff’s 
+words, to “[pay] homage to the qualities of American ingenuity, pragmatism, and 
+good sense epitomized for Cage in the person of Thoreau” while avoiding the 
+law (“precedent”) in the form of meaning. By employing a mathematical system 
+for selecting texts from Thoreau, except for selecting the archive on which this 
+system operates to begin with, Cage effaces himself and confounds the law’s 
+operation through him, in the form of interpretation, aesthetic response, and so 
+forth. As Perloff explains, the fixed rule of this mathematical system helped Cage 
+to evade himself as a human system so that Thoreau’s language could be offered 
+to an assembly of other people with diminished mediation. Perloff writes that 
+the performance of Lecture on the Weather “functions as a ‘strange attractor’ or 
+‘unpredictable system’” so that, she continues, “[t]he performance . . . is not about 
+[does not represent] the weather; it is weather.” Perloff writes, “the ‘lecture’ on 
+the weather turns the simulated event into a real one, causing the audience to take 
+shelter from the cruel elements.” In California, she says, the audience, arranged 
+in some disorder in the space, responded to the storm in an interesting way. She 
+reports that “[b]y the time the storm ‘broke,’ lightning flashes appearing on the 
+large screen in the form of briefly projected negatives of drawings by Thoreau, 
+the audience had become something of a football huddle. Everyone wanted to 
+join together to get out of the storm.”52 Here the question is not so much the 
+audience’s behavior, but how much a mathematical procedure had to do with 
+it. Certainly Cage, in Perloff’s account, took every measure, within the rules he 
+made, to eliminate himself from the equation as a subject, and Perloff describes 
+the audience less as subjects, than as a statistical mass—a “huddle.” Yet the causal 
+connection between Cage’s procedure and the group response to ordinary stimuli 
+remains vague and probably insupportable. After all, the mathematical procedure 
+used in arranging Thoreau’s writings cannot determine how spectators process 
+Thoreau’s language in its radioactivity. McCaffery takes issue with the tendency 
+of a rule, as a writing procedure, to maintain the author-subject as author of the 
+ 84                                                               Journal of Dramatic Theory and Criticism
+rule and agent of its implementation. Of Ron Silliman’s similarly procedural 
+poem Ketjak, McCaffery writes,
+What is striking . . . is the work’s double orientation toward, 
+on the one hand, a textual production through a “random” 
+economy or a free play of signification . . . and on the other 
+hand an accumulative, preservational movement committed 
+to the noncontamination of a transcendental “procedure” that 
+seems precisely modeled on the Hegelian aufhebung [sublation, 
+transcendence, or synthesis] and permits the structure to 
+foreground itself as a first-order attention.
+There is in the authorship, in other words, no erosion of the borders between 
+the general economy and the procedure, which, as a transcendent fabrication, 
+in theory would not really achieve the subject’s effacement or dissolution of 
+self-consciousness. In other words, from the standpoint of authorship, it is a 
+restrictive economy, one that does not deliver the consciousness of the spectator 
+to the affective nonmeaning of the general economy. A page earlier, McCaffery 
+writes that “[c]rucial in Hegel’s argument is the inviolable, irreducible status of 
+self-consciousness itself. Transgression and the negative in the Hegelian system 
+do not risk the loss of the subject.” Regarding Cage, McCaffery groups him 
+with Silliman, noting that “[t]his Hegelian aspect applies to most instances of 
+procedural writing.”53 It is suggested, then, that the encounter between the general 
+economy and a mathematically sustained, “Hegelian” restrictive economy does 
+not risk the subject as author in the writing. If Cage’s Lecture on the Weather 
+did indeed, through the performance’s absorptive and impermeable effects, risk 
+the subjectivity of the spectator, the mathematical procedure or rule may have 
+operated for Cage mostly as an especially disciplined form of bad writing. 
+Nor is the subject, either of author or spectator, at risk in Wellman’s Cat’s 
+Paw: A Meditation on the Don Juan Theme.54 Begun in 1995 and first staged in 
+2000, Cat’s Paw is written according to rule even as it produces self-similarity 
+as a metaphor. Like Tom Stoppard’s Arcadia (1993), the playwright’s intentions 
+are clearly heuristic, so that, where chaos is concerned, the play serves more as a 
+model of certain chaotic principles than, like the bad-writing plays, as an actual 
+means of producing chaos. Arcadia was, Demastes tells us, “the first mainstream 
+theatre product consciously designed to be a ‘chaos’ play.” Stoppard’s play is 
+said to be arranged on the principle of fractal self-similarity, which means that 
+the same fractal shape or formula occurs on different scales. Plays written on 
+this principle are thought to be formally nonlinear to suggest the chaotic lives 
+and feelings of individual persons. Concerning Arcadia, Demastes writes, “In the 
+play, we have instances of self-similar repetition between 1809 and 1993, between 
+ Spring 2010                                                                                                            85
+leaf and park, between the formation of Thomasina’s leaf and Bernard’s Byron 
+story, between Septimus’s hermit project and Valentine’s computer calculations.” 
+That is, the parallels are apparently significant. Demastes continues: “[e]ven the 
+algorithmic graphing of the leaf (the smallest-scale system in the play) finds selfsimilar
+parallels in the very nonlinear, seemingly chaotic structure of the play (the 
+largest scale system).”55 But for all the talk of mathematics, Demastes is correct to 
+point to the metaphoricity of this kind of play. Dramaturgically, such a chaos play 
+seems to involve fashioning parallels for the mind, the principal excitement being 
+in contemplating this new chaos paradigm. 
+Wellman’s Cat’s Paw is also a meditation on fractal self-similarity and, while 
+Wellman more or less follows a rule he has made for himself, the play is one of 
+the more realistic and linear plays in his oeuvre. Although this is a Don Juan play, 
+Wellman’s self-imposed rule is that no men will appear in the play and that the 
+women will not discuss men in the play. Men, especially as agents of abuse of 
+women, are a present absence, introduced most apparently through references 
+to experiences so traumatic for the women (occurring in Bermuda, Caracas, and 
+Singapore), that they are the last thing the women wish to talk about. The parallels 
+between traumas and the vertical, gravity-prone settings in which these scenes 
+take place (the observation decks of the Empire State Building and of the World 
+Trade Center; the fist of the Statue of Liberty, where Jo takes her daughter Lindsey 
+by evading the guards; and the hallway of the court building during a hearing on 
+Jo’s trespass the scene before) provide a linear restaging of similar conflicts among 
+characters. Lindsey, too young to have had her Don Juan event, is brimming with 
+Young Republican aspiration, while the adult women, systemically complicated 
+by their Don Juan events, range in dispositional polarity from the paranoid Jane 
+to her ex-hippy mother, who embraced her Don Juan moment in a conscious 
+pursuit of depravity. “Depravity,” she says, “was my object.”56 Jane’s mother is 
+sufficiently self-aware to observe that she is herself “unself-similar”57 and thus 
+unlike her self-similar daughter, who wears men’s clothes and who, ironically, 
+seems much more constrained in her artsy New York City milieu than her mother 
+is in Iowa. Jane’s mother says, “I feel rich and full and large with hopefulness, 
+blood, and a sense of true being.” Even in her depravity she was, she says, “true 
+to my nature, and to the clothes I wore.”58 The suggestion seems to be, not that 
+Jane’s mother is free from constraint, but that her fractal evolution (variation in 
+repetition) has been different from that of anyone else in the play, which makes 
+her in that dramatic context capable of radically troubling her daughter and the 
+worldview with which she is associated. Again, the play presents chaos mostly as 
+a metaphor, the no-man rule notwithstanding.
+Conclusion: Back to the Theatre
+More relentlessly than Cat’s Paw and many other plays, Cellophane and 
+ 86                                                               Journal of Dramatic Theory and Criticism
+Terminal Hip constrain the body by greatly reducing extra linguistic theatrical 
+potential in order to exploit the radioactivity of language. These plays were part of 
+another Wellman experiment. If Wellman may have been in some sense a Language 
+poet all along, the bad-writing experiment brought the poet fully out of the closet. 
+He chose not to take this particular form very far. I have tried here to describe the 
+nonmeaningful exploitation of the radioactivity of language, and, provisionally, its 
+production of an affective state of intensity. Of course the style can be frustrating to 
+those insistent on meaning. “When Terminal Hip appeared in 1992, a Los Angeles 
+Times reviewer concluded, “it may be hip, but why bother and who cares?”59 Yet 
+eight years later, a second Los Angeles reviewer wrote that there “emerges [a] 
+different kind of sense . . . if you concede the all-but-futile battle of trying the parse 
+[the] monologue for linear semantic content, and instead let Wellman’s recurring 
+imagery and the carefully crafted mood shifts in James Martin’s staging guide the 
+experience.”60 They know that they often must preach to the converted. McCaffery 
+writes that “THE TEXTUAL INTENTION PRESUPPOSES READERS WHO 
+KNOW THE LANGUAGE CONSPIRACY IN OPERATION.”61 This raises 
+important questions about the institutional constraints on artistic power. The butterfly 
+effect of avant-gardism has yet to be conclusively established. Meanwhile, I hope 
+I have shown that in the 1990s the Language poets inhabited the same discursive 
+formation as deconstruction and chaos theory, two isomorphic systems. All three 
+were in some sense radioactive, i.e., complex mutual intensifiers, especially for 
+those who needed to appropriate them to imagine an escape from the postmodern. 
+The radioactive or theoretical relation of nonrelation characterizing this discursive 
+(or antidiscursive) formation of expression (Language poetry, deconstruction, chaos 
+theory) engaged with postmodern forms of content to express the impulse to escape. 
+This escape entailed no physical relocation but productive engagement (if that were 
+possible) with the bad infinity of reified postmodern culture. Bernstein’s “poetics” 
+tells us that Language poetry, in the end, exists “to provoke response and to evoke 
+company.”62 The modesty of the Language poets’ claims is striking, as is the note 
+of piety, because nothing is guaranteed. Meanwhile, Wellman’s theatre remains, 
+in its affective intensity, a “theatre of wonders.”63
+Notes
+1.  Marjorie Perloff, Foreword, Cellophane: Plays by Mac Wellman (Baltimore: PAJ, 2001) xi.
+2.  The register of Bernstein’s papers, 1962-2000, at the University of California, San Diego 
+(Mandeville Special Collections Lib., Geisel Lib., mss. 0519, 10 Sept. 2009 <http://orpheus.ucsd.
+edu/speccoll/testing/html/mss0519a.html>) indicates that the archive contains correspondence 
+from Wellman between 1977 and 1993, as well as his unpublished paper submitted for the 
+L=A=N=G=U=A=G=E Book.
+3.  Mel Gussow writes that “Language is reaffirming itself in the American theatre, and the 
+harbingers are Mac Wellman, Eric Overmyer and David Ives. In a reaction against the recent emphasis 
+ Spring 2010                                                                                                            87
+on performance art, they value words—the polysyllabic as well as colorful vernacular. In common, 
+their dialogue has an imaginative intellectual base. By intention, these plays begin with a rational 
+impulse, seem to be written intuitively and generally end at recognizable destinations, but the journey 
+can be outrageous—a trip to a Xanadu of the mind” (“Playwrights Who Put Words at Center Stage,” 
+New York Times 11 Feb 1990: H:5).
+4.  Helen Shaw, “Foreword: Mac Wellman and Things of the Devil,” The Difficulty of Crossing a 
+Field: Nine New Plays by Mac Wellman (Minneapolis: U of Minnesota P, 2008) vii-xii.
+5.  George Hartley, Textual Politics and the Language Poets (Bloomington: Indiana U P, 1989) 6.
+6.  Charles Bernstein, A Poetics (Cambridge, MA: Harvard U P, 1992) 92, emphasis in original.
+7.  Steve McCaffery, in “Writing as a General Economy,” Artifice and Indeterminacy: An 
+Anthology of New Poetics, ed. Christopher Beach (Tuscaloosa: U of Alabama P, 1998), quotes 
+Bataille’s definition of a general economy as that which “‘makes apparent that excesses of energy 
+are produced [that] can only be lost without the slightest aim, consequently without meaning’” (201). 
+With regard to Hjelmslev, McCaffery writes that he “is one of several contemporary linguists who 
+distinguish language as a system from its material support in sound and ink. . . . As its material 
+support, sound and ink are separable from the signifying process, but at the same time the process 
+is unsupportable without it. In light of this one could consider language’s materiality as meaning’s 
+heterological object, as that area inevitably involved within the semantic apparatus that meaning casts 
+out and rejects” (203).
+8.  Hartley writes that Language writing stems from “the rejection of the dominant model 
+for poetic production and reception today [1989]–the so-called voice poem[, which] depends on a 
+model of communication that needs to be challenged: the notion that the poet (a self-present subject) 
+transmits a particular message (‘experience,’ ‘emotion’) to a reader (another self-present subject) 
+through a language which is neutral, transparent, ‘natural’” (xii).
+9.  Bernstein 3.
+10.  Hartley 96.
+11.  Mac Wellman, “The Theatre of Good Intentions,” Performing Arts Journal 13.3 (1984): 59.
+12.  Brian Massumi, in “The Autonomy of Affect,” Cultural Critique 31 (Fall 1995), explains the 
+missing half-second: “Experiments were performed on patients who had been implanted with cortical 
+electrodes for medical purposes. Mild electrical pulses were administered to the electrode and also to 
+points on the skin. In either case, the stimulation was felt only if it lasted more than half a second: a 
+half a second, the minimum perceivable lapse. If the cortical electrode was fired a half-second before 
+the skin was stimulated, patients reported feeling the skin pulse first. The research speculated that 
+sensation involves a ‘backward referral in time’–in other words, that sensation is organized recursively 
+before being linearized, before it is redirected outwardly to take its part in a conscious chain of actions 
+and reactions. Brain and skin form a resonating vessel. Stimulation turns inward, is folded into the 
+body, except that there is no inside for it to be in, because the body is radically open, absorbing 
+impulses quicker than they can be perceived, and because the entire vibratory event is unconscious, 
+out of mind. Its anomaly is smoothed over retrospectively to fit conscious requirements of continuity 
+and linear causality” (89). He continues that “the half-second is missed not because it is empty, but 
+because it is overfull. . . . Will and consciousness are subtractive” (90, emphasis in original).
+13.  N. Katherine Hayles, Chaos Bound: Orderly Disorder in Contemporary Literature and 
+Science (Ithaca: Cornell U P, 1990) 176.
+14.  Wellman not only borrows terms and concepts from Gleick in writing Three Americanisms, 
+but his epigraph to the play quotes from Gleick, Cellophane: Plays by Mac Wellman (Baltimore: 
+Johns Hopkins U P, 2001) 186. Meanwhile, Tom Stoppard acknowledges his debt to Gleick in writing 
+Arcadia in an interview with Mel Gussow (American Theatre [Dec. 1995]: 25). Stoppard said, “I 
+thought that quantum mechanics and chaos mathematics suggested themselves as quite interesting and 
+powerful metaphors for human behavior.”
+15.  Hayles 184.
+16.  William W. Demastes, Theatre of Chaos: Beyond Absurdism, into Orderly Disorder 
+(Cambridge: Cambridge U P, 1998) 10.
+17.  Marjorie Perloff, The Poetics of Indeterminacy: Rimbaud to Cage (Princeton: Princeton U 
+P, 1981) 75.
+ 88                                                               Journal of Dramatic Theory and Criticism
+18.  Hartley 72.
+19.  Marjorie Perloff, Radical Artifice: Writing Poetry in the Age of Media, new ed. (Chicago: U 
+of Chicago P, 1994) 197.
+20.  Bernstein 2, 1.
+21.  Interview with Shawn-Marie Garrett, Theater 27.2-3 (1997): 91.
+22.  Mac Wellman, Cellophane: Plays by Mac Wellman (Baltimore: Johns Hopkins U P, 2001) 
+60.
+23.  Mac Wellman, “Poisonous Tomatoes: A Statement on Logic and the Theater,” The Bad 
+Infinity: Eight Plays (Baltimore: Johns Hopkins U P, 1994) ix.
+24.  Wellman, “The Theatre of Good Intentions” 66, 65..
+25.  Eric Overmyer explains the bad infinity as “a flawed system, which replicates itself forever” 
+(“Mac Wellman’s Horizontal Avalanches,” Theater 21.3 [1990]: 55–56). Wellman, Overmyer writes,
+explores a number of such systems: geopolitics, fashion, economics, 
+international banking, crime, criticism, media, language, and the theatre itself, 
+or rather, the conventions of the conventional theatre. A Bad Infinity if ever 
+there was one. (56)
+And yet, Overmyer also says
+I find Wellman’s work occasionally frustrating, as if he is pursuing an ideology 
+of obfuscation, a strategy of deliberate inaccessibility in order to escape the 
+received ideas of the theatre. But when I connect with his work, I understand 
+it as I understand poetry, on a deep, cellular level. Much in life is unexplained, 
+unexplainable, mysterious. So are Wellman’s plays. (56)
+In Overmyer’s discussion we see an odd tension between his philosophical explanation of Hegel’s phrase 
+and his critical and affective responses to Wellman’s work. If a bad infinity has no productive engagement 
+with anything but itself, wouldn’t the journey into the mysterious and unexplainable (operating on a 
+deep cellular level) lead away from the flawed conventions operating in the bad infinities Overmyer 
+identifies? Mightn’t it lead to a fuller engagement with history?
+26.  Bernstein describes a “strategy of tactics” with which “to think through . . . the relation among 
+formal, antiaccommodationist, group-identified, cultural, regional, and gender-based poetic tactics so that 
+they form a complementarity of critiques, projected onto an imaginary social whole in the manner of a 
+negative dialectics” (164). Negative dialectics is Adorno’s response, Hartley writes, to his understanding 
+that, owing to commodification and reification in modern life, “there is no positive Aufhebung [Hegel’s 
+synthesis, sublation, or transcendence] of the dialectic” (58). In place of Absolute Spirit’s teleological 
+unfolding through Spirit’s engagement with necessity, there is a bad infinity in which opposing objects 
+remain in antagonistic juxtaposition because each object is itself self-contradictory. Each object has 
+been set loose, by reification, from its referent in History to become a signifier/signified and has no 
+absolute positivity with which to engage its other. Poetic tactics can foreground these contradictions or 
+aporias with meaningful and nonmeaningful effect. The “imaginary social whole” Bernstein mentions 
+is a projection that results from innumerable poetic encounters. If one can imagine it, there is a negative 
+whole or totality that stands in opposition to its positive counterpart. 
+27.  Quoted in Hartley (58). 
+28.  Hartley 77.
+29.  Wellman, Cellophane 151.
+30.  Mac Wellman, Terminal Hip, The Bad Infinity: Eight Plays (Baltimore: Johns Hopkins U 
+P, 1994) 263.
+31.  Cary Nelson, Our Last First Poets: Vision and History in Contemporary American Poetry 
+(Urbana: U of Illinois P, 1982) 47.
+32.  Wellman, Cellophane 152.
+33.  Personal Interview with David Savran, American Theatre (Feb. 1999): 19.
+34.  Terminal Hip 277, 270, 259, 267, 269.
+ Spring 2010                                                                                                            89
+35.  Cellophane 184, 159, 156, 153, 158, 159, 154.
+36.  Cellphane, 160, 161, 168, 169, 166, 170, 157.
+37.  Wellman, The Bad Infinity 72.
+38.  Bernstein 16, 11.
+39.  McCaffery 206, emphasis in original.
+40.  Qtd. in McCaffery, “Writing as a General Economy” 211, emphasis added.
+41.  Perloff, Radical Artifice 187.
+42.  McCaffery, “Writing as a General Economy” 211-12.
+43.  210-12.
+44.  Bernstein 81, 60.
+45.  Mac Wellman, “A Chrestomathy of 22 Answers to 22 Wholly Unaskable and Unrelated 
+Questions Concerning Political and Poetic Theater,” Theater (Mar./Apr. 1993): 43.
+46.  Bernstein 29-30, 66, 86.
+47.  167.
+48.  Interview with Shawn-Marie Garrett 88.
+49.  N. Katherine Hayles writes that “[a]n important difference between fractal and Euclidean 
+geometry is the scale-dependent symmetries of fractal norms” (165). Hayles further explains that “[s]
+caling, as Mandelbrot uses the term, does not imply that the form is the same for scales of different 
+lengths, only that the degree of ‘irregularity and/or fragmentation is identical at all scales’” (166). 
+50.  13.
+51.  In Hayles’s discussion of the novels of Stanislaw Lem she explains “his belief that literature 
+must be about something other than textuality if it is to engage ethical questions” (121). Yet ethics as 
+reference to the things of the world and adjudicating right and wrong would seem to be a second-order 
+operation. The first-order operation is to create a space for writing by establishing a dialectic between 
+“chance”–Hayles’s equivalent of the form of expression–and necessity, understood as referential 
+“resistances” (121) to expression. This is “a dialectic that ceaselessly renews itself, wresting rational 
+explanations from the enigmatic silence of the text even as it opens fissures within the text which 
+subvert those explanations” (120).
+52.  Perloff, Radical Artifice 22-27.
+53.  McCaffery 209, 208, 209.
+54.  Mac Wellman, Cat’s Paw: A Mediation on the Don Juan Theme, Cellophane: Plays by Mac 
+Wellman (Baltimore: Johns Hopkins U P, 2001) 337.
+55.  Demastes 85, 102.
+56.  Wellman, Cat’s Paw 353.
+57.  349. In the three-play sequence of the bad-writing plays, Three Americans is, as I suggested 
+at the beginning, a transitional play in that it mostly retains the chaotic aspects of Cellophane and 
+Terminal Hip while incorporating a new discourse of chaos theory and a gesture perhaps toward 
+metaphorical self-similarity, suggested, as in the later play Cat’s Paw, by way of clothes. Three 
+Americanisms, three poems pulled together in 1993 into one performance with three monologues, 
+opposes the body to clothing, and, just as Jane’s mother tells her she should be ashamed of her 
+clothes, it is the clothing of Second Man and First Woman of which they are ashamed. First Man 
+is not ashamed of his clothes, perhaps because he is too chaotically preoccupied with staying alive. 
+First Man, “A strange man,” citing fractal pattern and fractal properties, says, “I am caught forever 
+on a Sierpinski carpet in a region infinitely sparse, infinitely many.” “The pointed hat,” he says, “is 
+my American destiny.” Knowing what to do, he runs, he says, “as fast I can, with all my stuff in a 
+red bandanna.” Second Man, “a bit more well-heeled,” is also less frantic and more apologetic: “I put 
+on someone’s clothes not mine. / The clothes cling to my human nakedness. I am ashamed.” He has 
+been complicit, he seems to be saying (referring again to Whitman), with the fact that “Grasses grow 
+up and while away unexamined”; and, because America refuses to “approve the cut part” of the U.S. 
+Constitution “about dancing–drunk–in the forest at night, howling before strange gods, all before 
+sun-up, in strange hats, aglow?” he proclaims (Romeo and Juliet again) “A pox on all your houses, 
+you.” Second Man is succeeded by First Woman, dressed in “dark clothes, perhaps in mourning,” who 
+speaks of keeping one’s head down owing to a “wall of flying debris.” In contrast to her clothes and her 
+dim view of Second Man, she says, “Being happy is my secret weapon in the war of all against all.” 
+ 90                                                               Journal of Dramatic Theory and Criticism
+Echoing, or prefiguring, Jesus H. Christ, the young African American woman in Sincerity Forever, she 
+makes statements like “If the shoe fits, there’s something radically wrong with you, you loathsome, 
+misnormal dickhead.” Yet her “feminist” spleen, too, resolves itself into the confession that the clothes 
+she wears are not hers, and she is “ashamed” of this ideological betrayal of her “human nakedness” 
+(Three Americanisms 187-205).
+58.  Wellman, Cat’s Paw 349, 353.
+59.  Philip Brandes, “Language Unravels in ‘Terminal Hip,’” Los Angeles Times 10 Nov. 2000: F26.
+60.  Nancy Churnin, “It May Be Hip But Why Bother and Who Cares,” Los Angeles Times 15 
+June 1992: F1.
+61.  Qtd. in Bernstein 64.
+62  164.
+63.  The phrase “theatre of wonders” belongs to a collection of plays, Theatre of Wonders: Six 
+Contemporary American Plays, edited by Wellman, which appeared from Sun and Moon Press (Los 
+Angeles) in 1985. The collection contained plays by Len Jenkin, Jeffrey Jones, Des McAnuff, Elizabeth 
+Wray, and Mac Wellman.

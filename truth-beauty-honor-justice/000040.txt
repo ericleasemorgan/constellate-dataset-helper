@@ -1,0 +1,1175 @@
+OPINION ARTICLE
+   Cancer T-cell therapy: building the foundation for a 
+cure [version 2; peer review: 3 approved]
+Alexander Kamb , William Y. Go
+A2 Biotherapeutics, Agoura Hills, California, 91301, USA 
+First published: 03 Nov 2020, 9:1295  
+https://doi.org/10.12688/f1000research.27217.1
+Latest published: 22 Dec 2020, 9:1295  
+https://doi.org/10.12688/f1000research.27217.2
+v2
+ 
+Abstract 
+T-cell cancer therapy is a clinical field flush with opportunity.  It is part 
+of the revolution in immuno-oncology, most apparent in the dramatic 
+clinical success of PD-1/CTLA-4 antibodies and chimeric antigen 
+receptor T-cells (CAR-Ts) to cure certain melanomas and lymphomas, 
+respectively.  Therapeutics based on T cells ultimately hold more 
+promise because of their capacity to carry out complex behaviors and 
+their ease of modification via genetic engineering.  But to overcome 
+the substantial obstacles of effective solid-tumor treatment, T-cell 
+therapy must access novel molecular targets or exploit existing ones 
+in new ways.  As always, tumor selectivity is the key. T-cell therapy has 
+the potential to address target opportunities afforded by its own 
+unique capacity for signal integration and high sensitivity.  With a 
+history of breathtaking innovation, the scientific foundation for the 
+cellular modality has often been bypassed in favor of rapid advance in 
+the clinic.  This situation is changing, as the mechanistic basis for 
+activity of CAR-Ts and TCR-Ts is backfilled by painstaking, systematic 
+experiments—harking back to last century’s evolution and maturation 
+of the small-molecule drug discovery field.   We believe this trend 
+must continue for T-cell therapy to reach its enormous potential.  We 
+support an approach that integrates sound reductionist scientific 
+principles with well-informed, thorough preclinical and translational 
+clinical experiments.
+Keywords 
+CAR, TCR, cancer, mechanism of action, clinical translation, innovation
+ 
+This article is included in the Preclinical 
+Reproducibility and Robustness gateway.
+Open Peer Review
+Reviewer Status    
+Invited Reviewers
+1 2 3
+version 2
+(revision)
+22 Dec 2020
+report report report
+version 1
+03 Nov 2020 report report report
+John R. James , University of Warwick, 
+Coventry, UK 
+Muna Fuyal , University of Warwick, 
+Coventry, UK
+1. 
+Barbra J. Sasu , Allogene Therapeutics, 
+Inc.,, San Francisco, USA
+2. 
+C. Glenn Begley, BioCurate, Parkville, 
+Australia
+3. 
+Any reports and responses or comments on the 
+article can be found at the end of the article.
+ 
+Page 1 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ Corresponding author: Alexander Kamb (akamb@a2bio.com)
+Author roles: Kamb A: Writing – Original Draft Preparation; Go WY: Writing – Review & Editing
+Competing interests: Both authors (Kamb and Go) are employees and shareholders of A2 Biotherapeutics.com.
+Grant information: This work was supported by A2 Biotherapeutics, Inc. 
+The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Copyright: © 2020 Kamb A and Go WY. This is an open access article distributed under the terms of the Creative Commons Attribution 
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+How to cite this article: Kamb A and Go WY. Cancer T-cell therapy: building the foundation for a cure [version 2; peer review: 3 
+approved] F1000Research 2020, 9:1295 https://doi.org/10.12688/f1000research.27217.2
+First published: 03 Nov 2020, 9:1295 https://doi.org/10.12688/f1000research.27217.1 
+ 
+Page 2 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ If you have built castles in the air, your work need not 
+be lost; that is where they should be. Now put the 
+foundations under them.
+Henry David Thoreau, Walden 1854
+T-cell therapies are the future of oncology
+It is astounding how the contents of the typical pharmacy 
+have changed over the last 100 years. A century ago, pharmacists
+stocked their shelves with aspirin, opiates, mercury, 
+arsenic, magnesium sulfate, iodine and a few other substances 
+of legitimate medical value (Pharmacopoeia of the US, 1907). 
+Since then, hundreds of small-molecule drugs, dozens of recombinant
+antibodies, and even a few nucleic acid therapeutics 
+have been proven by rigorous scientific and clinical studies to 
+treat a wide variety of human ailments. It is likely, however, 
+that for a large number of patients yet to enjoy effective 
+remedies for their disease, including cancer, cell therapy will 
+ultimately provide the solution. 
+This prediction follows from the inherent strengths of cells as 
+therapeutic entities. T cells, for example, are honed by evolution
+to execute numerous complex biological functions, 
+among them identification and elimination of infected or damaged
+tissue (Janeway et al., 1999). They have tremendous 
+natural advantage over other therapeutic modalities that are often 
+limited to a single activity: binding to other molecules. Simple
+binding behavior may be sufficient to trigger salutary 
+physiological changes and, indeed, there are many examples. 
+However, the limitations imposed by having only hundreds of 
+atoms like small molecules, or even thousands like antibodies, 
+is evident. T cells, on the other hand, are composed of thousands
+of different molecules, prewired by evolution to 
+work in concert to accomplish tasks of extraordinary complexity
+(Janeway et al., 1999). Specific killing is one of the 
+simpler cellular behaviors, and is therefore among the first 
+successful achievements of T-cell therapy, exemplified by 
+three CD19-targeting chimeric antigen receptor T-cells (CAR-T 
+cells) registered or close to registration (Abramson, 2020; 
+Neelapu et al., 2017; Neelapu et al., 2020a; Schuster et al., 
+2019). The next frontier for engineered T-cell therapy is solid 
+tumors, which pose additional challenges. Perhaps most dramatically,
+infused T-cell therapeutics directed against solid 
+tumors must extravasate to reach their targets, targets that may 
+be present on a subset of vital normal tissues as well. But cells 
+have a second huge advantage as a therapeutic option: they 
+can be readily manipulated with genetic alterations to augment 
+or suppress their natural behaviors. The methods to do this 
+are now routine and are improving with the advent of newer 
+technologies such as CRISPR/Cas9 (Cong et al., 2013; Jinek 
+et al., 2012). Combined with cellular reprogramming technologies,
+the possibilities to modulate natural cell properties or 
+even create emergent ones are wide open (Takahashi & 
+Yamanaka, 2006; Yu et al., 2007). T cells are naturally endowed 
+with the attributes of (i) outstanding sensitivity, able to detect 
+a handful of molecules on a cell surface; (ii) multivariate
+signal integration, permitting them to react to different 
+environments and discriminate among a variety of cell types; 
+and, (iii) the capacity to proliferate. These traits are exactly 
+those needed to overcome obstacles posed by solid tumor therapy.
+We need to build a robust mechanistic foundation
+To overcome the obstacles to solid tumor therapy, we must 
+first recognize certain facts. A hallmark of the T-cell therapy 
+field is striking innovation, with towering figures such as 
+S.A. Rosenberg who has spent 40 years spearheading the 
+clinical use of T cells in cancer (Fisher et al., 1989; Yron 
+et al., 1980). Others, including G. Gross and Z. Eshhar 
+(CAR), M.R. Roberts and M.H. Finer (Gen2 CAR), and 
+V.D. Fedorov and M. Sadelain (iCAR) have designed robust 
+novel receptors that can substitute for, or extend, T-cell 
+receptor (TCR) function (Fedorov et al., 2013; Gross et al., 
+1989; Roberts et al., 1994). Still others have made substantive
+contributions to understanding, design and development of 
+next-generation CAR-Ts; for example, C. June and P. Greenberg 
+(see for review Guedan et al., 2019).
+Notwithstanding the innovation and clinical success, the field 
+lacks a strong foundation of mechanistic understanding. For 
+example, there is not a broadly accepted model that explains 
+key behavior of TCRs with respect to sensitivity and selectivity
+toward their ligands, peptide major histocompat-
+ibility complexes (pMHCs). CAR signaling, though understood 
+in outline, also lacks important details (see for review 
+Courtney et al., 2018; Nerreter et al., 2019). These gaps 
+impede progress in areas that need to be addressed so that solid 
+tumors can reliably and predictably be treated. It is instructive
+to draw an analogy with small-molecule drug discovery, 
+a field that developed over the 20th century from rudimentary 
+industrial processes to a highly sophisticated discipline of quantitative
+structure-activity relationships based on structural 
+chemistry, computational modeling, and pharmacodynamic 
+analysis in vitro and in vivo (Figure 1).
+As an emerging field, engineered T-cell therapy is not on a 
+similarly solid footing. The standard suite of in vitro assays is 
+crude when compared to those used in modern small-molecule 
+or antibody optimization laboratories. Assays that vary 
+effector:target ratios are convenient, but have high background 
+and poor dynamic range. They are typically insensitive 
+and subject to conflation of important biological variables; 
+for instance, T cell proliferation and cytotoxicity as well as 
+target-cell proliferation over time (Rossi et al., 2018). 
+      Amendments from Version 1
+We thank the reviewers for their constructive comments and 
+believe they have understood our key point: the need for funding 
+agencies/departments to invest in foundational understanding 
+of T-cell therapy, including preclinical mechanistic work. We point 
+out that we intend our paper to be an opinion or perspective, 
+and not a review. Consequently, we have limited some of the 
+references and discussion.
+Any further responses from the reviewers can be found at 
+the end of the article
+REVISED
+Page 3 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ Primary human T cells are heterogeneous and cumbersome 
+to grow, with considerable donor-to-donor variability; and 
+the relationship between them and model cell lines, such as 
+Jurkat, is not well understood (Salter & Creswell, 1986). 
+Murine cancer models must also trade off tractability with 
+relevance, and have some obvious prima facie weaknesses. 
+Assays of therapeutic efficacy and safety in murine models are 
+notoriously unpredictive for clinical behavior (Kamb, 2005). 
+These deficits apply to small- and large-molecule therapeutic
+discovery. In immuno-oncology specifically, even the 
+best models use syngeneic grafts that do not originate in the 
+host and, though matched at MHC, contain hundreds of nonsynonymous
+mutations and elicit immune response1. Many 
+experiments employ chimeric murine models with a complicated
+mixture of murine and human immune components (e.g., 
+humanized murine models, patient-derived xenografts). The 
+human and mouse components of these chimeras, e.g., IL-2 
+and IL-2R, do not mesh perfectly (Nemoto et al., 1995). These 
+models have utility and are chosen for practical reasons, but 
+they are often regarded as decisive in selection of clinical 
+candidates because of presumptive experimental supremacy. 
+In our view this is specious. The ultimate destination of a 
+clinical candidate is the complex milieu of the human body 
+and specifically the tumor microenvironment. But understanding
+the steps that must occur, one by one, to achieve a successful 
+outcome in the clinic should not be dismissed as irrelevant 
+just because they are studied outside the system biology 
+of a human body. In vivo experiments should be used and 
+interpreted judiciously in the context of robust in vitro data. 
+As a T-cell therapy example, simple xenograft models demonstrate
+that therapeutic function is compatible with the 
+environment of a mammalian body; nothing more, but nothing 
+less.
+Referencing small-molecule discovery again, the most successful 
+efforts have involved deliberate construction of a mechanistic 
+picture; from biochemical assays, through cell-based assays, 
+to cautiously interpreted in vivo testing of pharmacodynamics. 
+A clear example is the history of imatinib’s discovery 
+(Buchdunger et al., 1996). T-cell therapy would benefit from 
+adoption of this approach to control as many of the variables as 
+possible within a reasonable timeframe of drug discovery. 
+Only then can the predictability of the discovery process 
+improve to the point needed to address the challenges of 
+solid tumor therapy. If we wish to continue to innovate and 
+Figure 1. Flow scheme of drug discovery, comparing small-molecule to T-cell therapeutic discovery. QSAR, quantitative 
+structure-activity relationship. The goal is to control variables and improve the predictability of substantive advances.
+1 https://www.criver.com/sites/default/files/resources/Whole-ExomeSomaticMutationAnalysisofMouseCancerModelsandImplicationsforPreclinicalImmu-
+nomodulatoryDrugDevelopment.pdf.
+Page 4 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ not settle for incremental advances to CD19-directed therapies 
+where there are currently hundreds of ongoing clinical 
+trials for an unmet need, now estimated at ~6,000 deaths/year 
+in the US, we must improve the mechanistic understanding and 
+economical testing of candidate therapeutics. Otherwise, the 
+opportunity costs will be enormous.
+The acute shortage of solid-tumor drug targets: 
+targeting genetic gains and losses
+Selectivity is the supreme challenge of oncology. At the 
+genetic level, a tumor differs on average at ~10,000 nucleotide 
+positions from the normal tissues from which it arose—less 
+than 0.01% of the human genome (Vogelstein et al., 2013). In 
+contrast, siblings differ by about 10 million nucleotides. Perhaps 
+even worse from a conventional therapeutic perspective, very 
+few of these genetic changes are shared among a significant 
+percentage of cancers. Only a handful of mutations, such as 
+mutant KRAS and P53, occur at frequencies above 5% of cancers. 
+The vast majority are private mutations unique to each tumor. 
+For decades, drug discoverers have searched for “magic 
+bullets” that can discriminate reliably among tumor and normal 
+cells, with some success. Good examples include imatinib 
+for chronic myeloid leukemia, which inhibits the Abl kinase, 
+and rituximab, a CD20 antibody that mediates the destruction
+of B-cell lineage cells such as non-Hodgkin lymphoma 
+(Anderson et al., 1997; Buchdunger et al., 1996). Both these 
+medicines are extremely effective within the subset of cancers 
+they are designed to treat. In solid tumors, there are a few 
+proteins, known loosely as tumor-selective antigens, whose 
+expression is sufficiently limited in adult normal tissues that 
+they continue to attract attention as possible cancer targets. 
+These include CEA, MSLN, PSMA, and the MAGE family 
+members (Lu et al., 2017; Parkhurst et al., 2011).
+In 2001 the complete human gene list of ~20,000 was defined, 
+establishing a boundary for new discoveries. Cancer researchers
+have scoured this gene set for the last two decades 
+with diminishing success, visible in the shrinking, overlapping
+group of cancer targets swarmed by academic research 
+laboratories and pharma/biotech industry R&D organizations. 
+We desperately need new options; and these will likely 
+require utilization of known gene products in novel ways. 
+Immuno-oncology offers prospects for doing so. The large 
+majority of recurrent somatic mutations affect proteins 
+expressed inside cells. Thus, it is necessary to overcome the 
+barrier of the cell membrane that excludes antibodies and most 
+other macromolecules to exploit somatic mutations as a source 
+of selective cancer targets. The immune system has evolved 
+the means to do so through the aegis of antigen presentation. 
+Molecular complexes of major histocompatibility antigens 
+bound to peptides derived from cellular proteins (pMHCs) give 
+T cells a view of the internal contents of cells. Some of these 
+pMHCs are likely the basis for PD-1 antibodies’ and tumor 
+infiltrating lymphocytes’ (TILs) remarkable power to trigger 
+tumor-specific killing by the immune system (Chamoto et al., 
+2020; Hinrichs & Rosenberg, 2014). pMHCs that contain 
+mutant peptides are currently the intended targets for numerous 
+investigational vaccines and T-cell therapy efforts to engineer 
+or select neoantigen-reactive T cells (Castle et al., 2019; Ng 
+et al., 2019). The small number of recurrent mutations constrain 
+the target options on this front. Though there are dozens—even 
+hundreds—more private neoantigens, therapeutic exploitation 
+of these via T cell engineering presents other challenges 
+(Ng et al., 2019).
+Loss of genetic material, rather than gain of somatic mutations, 
+represents another opportunity to achieve absolute discrimination 
+at the genetic level between tumor and normal cells. The 
+most common form of genetic loss in cancer is loss of 
+heterozygosity (LOH). An astonishing 20% of the genome 
+in a typical cancer cell exhibits LOH. These LOH regions 
+include loci that encode polymorphic surface antigens that 
+can be recognized by T cells. Genetic loss is irrevocable and 
+furnishes a basis for discrimination, provided a method can 
+be devised to take advantage of LOH. The workings of a 
+primordial branch of the immune system show the way. Natural
+killer (NK) cells, which evolved before the adaptive 
+immune system, employ a system of signal integration that 
+differentiates self from non-self by combining inputs from 
+families of activating and inhibitory receptors (Bryceson & 
+Long, 2008). The logic of the NK system has been reproduced 
+in an artificial circuit involving CARs (Fedorov et al., 2013). 
+Versions of this basic circuit are capable in principle of utilizing
+LOH as a black-and-white difference between tumor 
+and normal cells (Hamburger et al., 2020). Other approaches 
+are under study, including transcriptional logic circuits and 
+receptor masking (Desnoyers et al., 2013; Roybal et al., 2016). 
+These attempts to widen the target source for selective 
+cancer targets to other targets, including neoantigens and LOH, 
+are in their early stages, but they hold promise to dramatically
+increase the therapeutic options available for solid tumor 
+patients.
+Additional challenges for T-cell therapy
+The justifiable excitement around cancer T-cell therapy 
+must be balanced with acknowledgement that many significant
+challenges remain beyond tumor-selective targeting. 
+Difficulties in T-cell manufacturing and delivery to patients 
+translate into high production costs and time-delays (Fiorenza 
+et al., 2020; Locke et al., 2020). Despite the technical 
+hurdles, we view these issues as solvable through the 
+iterative improvement cycles that are part of the standard 
+practice of engineers. Efforts to automate, miniaturize and 
+accelerate the production of autologous cells are underway 
+(Castella et al., 2020). The opportunity to improve efficiency 
+seems extremely attractive because the current doses of T 
+cells range from 100 million to 100 billion cells—well beyond 
+the number involved in a typical immune response in the 
+body (Gudmundsdottir et al., 1999). Meanwhile, production 
+methods for off-the-shelf allogeneic cell products have 
+demonstrated early clinical success (Neelapu et al., 2020b). 
+Perhaps more significant, efficacy to date in solid tumors is 
+unimpressive and safety issues, either off- or on-target, continue 
+Page 5 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ to plague clinical programs (Lu et al., 2017; Norberg 
+et al., 2020; Parkhurst et al., 2011). We believe these problems
+are also solvable. They will be addressed by biological 
+solutions, as they are not generally the result of limits 
+imposed by laws of physics and chemistry which constrain 
+more mature modalities. Indeed, there are a myriad of levers 
+to pull to improve T-cell therapy outcomes. In some respects, 
+the opportunity set for improved design of T-cell therapeutics
+is so large, that the challenge is to prioritize and test the 
+possibilities efficiently.
+An approach to future T-cell therapeutic discovery
+We do not subscribe to the common view that human 
+testing always trumps preclinical data, not because it is false in 
+concept, but because it is problematic in practice. Variation 
+in the clinic is typically large, the number of observations 
+small, the expense high and timelines long (Locke et al., 
+2020; Silbert et al., 2019). We believe that well-designed 
+preclinical experiments, interpreted within a solid framework 
+of pharmacology and biology, will greatly aid analysis of 
+clinical results, and in the long run support translational 
+innovation that saves lives.
+To this end, we propose a roadmap that begins by reducing 
+the problem of solid tumor cell therapy into its components 
+(Figure 2). These components incorporate essential requirements
+for solid tumor cell therapy to achieve efficacy and 
+safety, including that the engineered cells must: (i) survive 
+in the body post infusion; (ii) migrate through the body’s 
+tissues into the tumor microenvironment; (iii) overcome the 
+potentially anti-inflammatory environment of the tumor; 
+(iv) specifically recognize the tumor cells in a vast excess 
+of normal cells; and, (iv) deliver a sustained cytotoxic blow 
+sufficient to remove most, if not all, of the tumor bulk. These 
+component activities can be parsed into scientific disciplines 
+of biochemistry, pharmacology, cell biology, immunology, 
+and tissue/organismal physiology. 
+There are many potential differences between, for example, 
+TCRs and CARs which have not been tested systematically,
+and the field would benefit from their thorough 
+examination (Table 1). It would be useful to have sufficiently 
+large datasets to delineate the connection between tractable
+models and the more complicated preclinical systems, 
+and ultimately, the clinic. In particular, we believe that quantitative
+assays that measure absolute sensitivity of receptors 
+should be more widely employed, allowing direct comparisons 
+among different targets and receptors. The collective time and 
+expense on the one hand, and risk of irrelevant or non-robust 
+results on the other, create significant overhangs for the field. 
+Effort should be directed toward providing clear evidence to 
+connect receptor properties to function, and T cell lines to 
+primary cells. Given the potential importance of long-term 
+survival and function of T cells for curative treatment of 
+solid tumors, there is a pressing need for plausible in vitro 
+models of chronic T cell activity. It is impractical to funnel 
+large numbers of candidate receptors through in vivo models. 
+This foundation-building work may not be glamorous, but 
+is of great consequence and should be valued by scientific 
+journals. Our strong view is that granting agencies should invest 
+in foundation-building academic research, in part because 
+shorter-term translational work is often attractive to the private 
+sector. If the field as a whole invests to build the infrastructure
+and expertise of better preclinical models and larger 
+Figure 2. Cell therapy for solid tumors: step-wise requirements for success. This diagram illustrates the number and complexity 
+of the steps required to achieve efficacy. Many of these steps can be studied in vitro; for others (e.g., extravasation), in vitro models are 
+inherently problematic. TSA, Tumor Specific Antigen; pMHC, peptide-major histocompatibility antigen; LOH, loss of heterozygosity.
+Page 6 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ Table 1. Potential differences among cell therapy targets, receptors, and regulation not yet rigorously 
+tested by mechanistic data. Experiments to test many of these assumptions are underway.
+Molecule Specific attribute Assumption Basis
+Target
+High tumor expression of 
+target
+Efficacy advantage Higher density increases activation 
+probability
+Solid tissue expression of 
+target
+Safety/tolerability 
+challenge
+No mechanism for tumor/normal 
+discrimination
+Receptor 
+(CAR and 
+TCR)
+Avidity correlation with 
+function
+CAR>TCR TCR known to have disconnects (e.g., pMHC 
+antagonism)
+Target flexibility CAR>TCR TCR uses only pMHCs; CAR can target surface 
+antigens and pMHCs
+Sensitivity TCR>>CAR TCR at the limit of sensitivity 
+(1–10 pMHCs)
+Selectivity TCR>>CAR TCR evolves in body
+Tractable molecular 
+engineering
+CAR>TCR TCR structure highly constrained
+Co-stimulation 
+independence
+CAR>TCR Required for TCR activation
+Checkpoint resistance CAR>TCR TCR sensitive; e.g., PD-1 mAb therapeutic 
+benefit
+Exhaustion susceptibility CAR<TCR CAR short-circuits regulators
+datasets, and allocates time to define key mechanistic details 
+prior to clinical testing, we believe the risks required to develop 
+inventive, differentiated therapies will be rewarded with 
+success.
+Conclusion
+The head of Novartis’ drug discovery organization, J. Bradner, 
+reportedly expressed the opinion last year that “money and 
+scientific resources are being poured into attempts to make 
+incremental progress at a time when there is an urgent need 
+for disruptive change” (Usdin, 2019). We agree with this 
+perspective, but would add that without proper investment in 
+foundational understanding of the science and technology, 
+efforts to innovate further engineered T-cell therapies are likely 
+to bog down in frustrating unpredictability. Risk tolerance 
+must be wedded to broad, deep preclinical datasets that enable 
+better prediction of outcomes on the clinical frontier.
+Data availability
+No data is associated with this article.
+References
+	 Abramson	JS:	Anti-CD19 CAR T-Cell Therapy for B-Cell Non-Hodgkin 
+Lymphoma.	Transfus Med Rev.	2020;	34(1):	29–33.		
+PubMed Abstract |	Publisher Full Text 
+	 Anderson	DR,	Grillo-López	A,	Varns	C,	et al.:	Targeted anti-cancer therapy 
+using rituximab, a chimaeric anti-CD20 antibody (IDEC-C2B8) in the 
+treatment of non-Hodgkin’s B-cell lymphoma.	Biochem Soc Trans.	1997;	25(2):	
+705–8.		
+PubMed Abstract |	Publisher Full Text 
+	 Bryceson	YT,	Long	EO:	Line of attack: NK cell specificity and integration of 
+signals.	Curr Opin Immunol.	2008;	20(3):	344–52.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Buchdunger	E,	Zimmermann	J,	Mett	H,	et al.:	Inhibition of the Abl proteintyrosine
+kinase in vitro and in vivo by a 2-phenylaminopyrimidine 
+derivative.	Cancer Res.	1996;	56(1):	100–4.		
+PubMed Abstract 
+	 Castella	M,	Caballero-Baños	M,	Ortiz-Maldonado	V,	et al.:	Point-Of-Care CAR 
+T-Cell Production (ARI-0001) Using a Closed Semi-automatic Bioreactor: 
+Experience From an Academic Phase I Clinical Trial.	Front Immunol.	2020;	11:	
+482.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Castle	JC,	Uduman	M,	Pabla	S,	et al.:	Mutation-Derived Neoantigens for 
+Cancer Immunotherapy.	Front Immunol.	2019;	10:	1856.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Chamoto	K,	Hatae	R,	Honjo	T:	Current issues and perspectives in PD-1 
+blockade cancer immunotherapy.	Int J Clin Oncol.	2020;	25(5):	790–800.	
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Committee	of	Revision	and	Publication	of	the	Pharmacopoeia	of	the	
+United	States	of	America,	United	States	Pharmacopœial	Convention:	The 
+pharmacopœia of the United States of America.	8th	decennial	revision	/	
+[United	States]:	Board	of	Trustees.	1907.		
+Reference Source
+	 Cong	L,	Ann	Ran	F,	Cox	D,	et al.:	Multiplex genome engineering using 
+Page 7 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ CRISPR/Cas systems.	Science.	2013;	339(6121):	819–23.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Courtney	AH,	Lo	WL,	Weiss	A:	TCR Signaling: Mechanisms of Initiation and 
+Propagation.	Trends Biochem Sci.	2018;	43(2):	108–123.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Desnoyers	LR,	Vasiljeva	O,	Richardson	JH,	et al.:	Tumor-specific activation 
+of an EGFR-targeting probody enhances therapeutic index.	Sci Transl Med.	
+2013;	5(207):	207ra144.		
+PubMed Abstract |	Publisher Full Text 
+	 Fedorov	VD,	Themeli	M,	Sadelain	M:	PD-1- and CTLA-4-based inhibitory 
+chimeric antigen receptors (iCARs) divert off-target immunotherapy 
+responses.	Sci Transl Med.	2013;	5(215):	215ra172.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Fiorenza	S,	Ritchie	DS,	Ramsey	SD,	et al.:	Value and affordability of CAR T-cell 
+therapy in the United States.	Bone Marrow Transplant.	2020;	55(9):	1706–1715.	
+PubMed Abstract |	Publisher Full Text 
+	 Fisher	B,	Packard	BS,	Read	EJ,	et al.:	Tumor localization of adoptively 
+transferred indium-111 labeled tumor infiltrating lymphocytes in patients 
+with metastatic melanoma.	J Clin Oncol.	1989;	7(2):	250–61.		
+PubMed Abstract |	Publisher Full Text 
+	 Gross	G,	Waks	T,	Eshhar	Z:	Expression of immunoglobulin-T-cell receptor 
+chimeric molecules as functional receptors with antibody-type specificity.	
+Proc Natl Acad Sci U S A.	1989;	86(24):	10024–8.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Gudmundsdottir	H,	Wells	AD,	Turka	LA:	Dynamics and requirements of T cell 
+clonal expansion in vivo at the single-cell level: effector function is linked 
+to proliferative capacity.	J Immunol.	1999;	162(9):	5212–23.		
+PubMed Abstract 
+	 Guedan	S,	Ruella	M,	June	CH:	Emerging Cellular Therapies for Cancer.	Annu 
+Rev Immunol.	2019;	37:	145–171.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Hamburger	AE,	DiAndreth	B,	Cui	J,	et al.:	Engineered T cells directed at 
+tumors with defined allelic loss.	Mol Immunol.	2020;	128:	298–310.		
+PubMed Abstract |	Publisher Full Text 
+	 Hinrichs	CS,	Rosenberg	SA:	Exploiting the curative potential of adoptive 
+T-cell therapy for cancer.	Immunol Rev.	2014;	257(1):	56–71.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Janeway	CA	Jr,	Travers	P,	Capra	JD:	Immunobiology: The Immune System in 
+Health and Disease.	Garland	Publishers,	New	York.	1999.		
+Reference Source
+	 Jinek	M,	Chylinski	K,	Fonfara	I,	et al.:	A programmable dual-RNA-guided DNA 
+endonuclease in adaptive bacterial immunity.	Science.	2012;	337(6096):	
+816–2.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Kamb	A:	What’s wrong with our cancer models?	Nat Rev Drug Discov.	2005;	
+4(2):	161–5.		
+PubMed Abstract |	Publisher Full Text 
+	 Locke	FL,	Go	WY,	Neelapu	SS:	Development and Use of the Anti-CD19 
+Chimeric Antigen Receptor T-Cell Therapy Axicabtagene Ciloleucel in Large 
+B-Cell Lymphoma: A Review.	JAMA Oncol.	2020;	6(2):	281–290.		
+PubMed Abstract |	Publisher Full Text 
+	 Lu	YC,	Parker	LL,	Lu	T,	et al.:	Treatment of Patients With Metastatic Cancer 
+Using a Major Histocompatibility Complex Class II-Restricted T-Cell 
+Receptor Targeting the Cancer Germline Antigen MAGE-A3.	J Clin Oncol.	
+2017;	35(29):	3322–3329.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Neelapu,	et al.:	ASCO.	2020b.	
+	 Neelapu	SS,	Jacobson	CA,	Oluwole	OO,	et al.:	Outcomes of older patients in 
+ZUMA-1, a pivotal study of axicabtagene ciloleucel in refractory large  
+B-cell lymphoma.	Blood.	2020a;	135(23):	2106–2109.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Neelapu	SS,	Locke	FL,	Bartlett	NL,	et al.:	Axicabtagene Ciloleucel CAR T-Cell 
+Therapy in Refractory Large B-Cell Lymphoma.	N Engl J Med.	2017;	377(26):	
+2531–2544.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Nemoto	T,	Takeshita	T,	Ishii	N,	et al.:	Differences in the interleukin-2 (IL2)
+receptor system in human and mouse: alpha chain is required for 
+formation of the functional mouse IL-2 receptor.	Eur J Immunol.	1995;	25(11):	
+3001–3005.		
+PubMed Abstract |	Publisher Full Text 
+	 Nerreter	T,	Letschert	S,	Götz	R,	et al.:	Super-resolution microscopy reveals 
+ultra-low CD19 expression on myeloma cells that triggers elimination by 
+CD19 CAR-T.	Nat Commun.	2019;	10(1):	3137.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Ng	AHC,	Peng	S,	Xu	AM,	et al.:	MATE-Seq: microfluidic antigen-TCR 
+engagement sequencing.	Lab Chip.	2019;	19(18):	3011–3021.		
+PubMed Abstract |	Publisher Full Text 
+	 Norberg	S,	Nagarsheth	N,	Sinkoe	A,	et al.:	Safety and clinical activity of geneengineered
+T-cell therapy targeting HPV-16 E7 for epithelial cancers.	J Clin 
+Oncol.	2020;	38(15_suppl):	101.		
+Publisher Full Text 
+	 Parkhurst	MR,	Yang	JC,	Langan	RC,	et al.:	T cells targeting carcinoembryonic 
+antigen can mediate regression of metastatic colorectal cancer but induce 
+severe transient colitis.	Mol Ther.	2011;	19(3):	620–6.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Roberts	MR,	Qin	L,	Zhang	D,	et al.:	Targeting of human immunodeficiency 
+virus-infected cells by CD8+ T lymphocytes armed with universal T-cell 
+receptors.	Blood.	1994;	84(9):	2878–89.		
+PubMed Abstract |	Publisher Full Text 
+	 Rossi	J,	Paczkowski	P,	Shen	YW,	et al.:	Preinfusion polyfunctional anti-CD19 
+chimeric antigen receptor T cells are associated with clinical outcomes in 
+NHL.	Blood.	2018;	132(8):	804–814.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Roybal	KT,	Williams	JZ,	Morsut	L,	et al.:	Engineering T Cells with Customized 
+Therapeutic Response Programs Using Synthetic Notch Receptors.	Cell.	
+2016;	167(2):	419–432.e16.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Salter	RD,	Creswell	P:	Impaired assembly and transport of HLA-A and -B 
+antigens in a mutant TxB cell hybrid.	EMBO J.	1986;	5(5):	943–9.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Schuster	SJ,	Bishop	MR,	Tam	CS,	et al.:	Tisagenlecleucel in Adult Relapsed or 
+Refractory Diffuse Large B-Cell Lymphoma.	N Engl J Med.	2019;	380(1):	45–56.	
+PubMed Abstract |	Publisher Full Text 
+	 Silbert	S,	Yanik	GA,	Shuman	AG:	How Should We Determine the Value of CAR 
+T-Cell Therapy?	AMA J Ethics.	2019;	21(10):	E844–851.		
+PubMed Abstract |	Publisher Full Text 
+	 Takahashi	K,	Yamanaki	S:	Induction of pluripotent stem cells from mouse 
+embryonic and adult fibroblast cultures by defined factors.	Cell.	2006;	
+126(4):	663–76.		
+PubMed Abstract |	Publisher Full Text 
+	 Usdin:	Biocentury.	2019.	
+	 Vogelstein	B,	Papadopoulos	N,	Velculescu	VE,	et al.:	Cancer genome 
+landscapes.	Science.	2013;	339(6127):	1546–58.		
+PubMed Abstract |	Publisher Full Text |	Free Full Text 
+	 Yron	I,	Wood	Jr	TA,	Spiess	J,	et al.:	In vitro growth of murine T cells. V. The 
+isolation and growth of lymphoid cells infiltrating syngeneic solid tumors.	
+J Immunol.	1980;	125(1):	238–45.		
+PubMed Abstract 
+	 Yu	J,	Vodyanik	MA,	Smuga-Otto	K,	et al.:	Induced pluripotent stem cell 
+lines derived from human somatic cells.	Science.	2007;	318(5858):	1917–20.	
+PubMed Abstract |	Publisher Full Text 
+Page 8 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ Open Peer Review
+Current Peer Review Status:    
+Version 2
+Reviewer Report 04 January 2021
+https://doi.org/10.5256/f1000research.31447.r76353
+© 2021 Sasu B. This is an open access peer review report distributed under the terms of the Creative Commons 
+Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the 
+original work is properly cited.
+Barbra J. Sasu   
+Allogene Therapeutics, Inc.,, San Francisco, CA, USA 
+I think that the revised version makes the author's intent in writing the review much more clear 
+and is a valuable perspective.   
+ 
+One small comment that I would suggest is changing the C. June and P. Greenberg mention: ‘nextgeneration
+CAR-Ts' to 'CAR-Ts and TCR-Ts’ to more accurately describe Greenberg's work.
+ 
+Competing Interests: No competing interests were disclosed.
+Reviewer Expertise: T cell biology, CAR T
+I confirm that I have read this submission and believe that I have an appropriate level of 
+expertise to confirm that it is of an acceptable scientific standard.
+Reviewer Report 04 January 2021
+https://doi.org/10.5256/f1000research.31447.r76354
+© 2021 James J et al. This is an open access peer review report distributed under the terms of the Creative 
+Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, 
+provided the original work is properly cited.
+John R. James   
+Warwick Medical School, University of Warwick, Coventry, UK 
+Muna Fuyal   
+School of Life Sciences, University of Warwick, Coventry, UK 
+The authors have done a good job responding to all the comments of the reviewers, and so we are 
+ 
+Page 9 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ happy to approve the article.
+ 
+Competing Interests: No competing interests were disclosed.
+Reviewer Expertise: T cell signalling, signal transduction, reductionist approaches, Synthetic 
+biology
+We confirm that we have read this submission and believe that we have an appropriate level 
+of expertise to confirm that it is of an acceptable scientific standard.
+Reviewer Report 23 December 2020
+https://doi.org/10.5256/f1000research.31447.r76355
+© 2020 Begley C. This is an open access peer review report distributed under the terms of the Creative Commons 
+Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the 
+original work is properly cited.
+C. Glenn Begley  
+BioCurate, Parkville, Vic, Australia 
+Thank you for noting my comments. I have nothing further to add.
+ 
+Competing Interests: No competing interests were disclosed.
+Reviewer Expertise: Translational research - oncology
+I confirm that I have read this submission and believe that I have an appropriate level of 
+expertise to confirm that it is of an acceptable scientific standard.
+Version 1
+Reviewer Report 02 December 2020
+https://doi.org/10.5256/f1000research.30072.r74926
+© 2020 Begley C. This is an open access peer review report distributed under the terms of the Creative Commons 
+Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the 
+original work is properly cited.
+C. Glenn Begley  
+BioCurate, Parkville, Vic, Australia 
+This review highlights the success of the recent advances in immune-oncology focusing 
+ 
+Page 10 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ particularly on cellular therapies, and outlines some of the fundamental scientific criteria that have 
+been ‘by-passed’ in moving into the clinic, but that will likely need to be understood to make the 
+cell-therapy approach applicable to solid tumors. 
+ 
+I note the valuable comments of James et al., and in addition suggest:
+As part of the “revolution in immune-oncology” seen with checkpoint inhibitors, CAR-T cells, 
+the authors should acknowledge another ‘recombinant cellular therapy’ – oncolytic viruses. 
+ 
+1. 
+The authors are appropriately critical of mouse models that “trade off tractability with 
+relevance“ and are then “often regarded as decisive in selection of clinical candidates 
+because of presumptive experimental supremacy. In our view this is specious.” I agree 
+completely! However given the ubiquity of these models regardless of therapeutic modality, 
+it could be helpful to provide additional commentary as to how these models should be 
+appropriately exploited.
+2. 
+ 
+Is the topic of the opinion article discussed accurately in the context of the current 
+literature?
+Partly
+Are all factual statements correct and adequately supported by citations?
+Yes
+Are arguments sufficiently supported by evidence from the published literature?
+Partly
+Are the conclusions drawn balanced and justified on the basis of the presented arguments?
+Yes
+Competing Interests: No competing interests were disclosed.
+Reviewer Expertise: Translational research - oncology
+I confirm that I have read this submission and believe that I have an appropriate level of 
+expertise to confirm that it is of an acceptable scientific standard.
+Author Response 14 Dec 2020
+Alexander Kamb, A2 Biotherapeutics, Agoura Hills, USA 
+As part of the “revolution in immune-oncology” seen with checkpoint inhibitors, CAR-T 
+cells, the authors should acknowledge another ‘recombinant cellular therapy’ – 
+oncolytic viruses. 
+Our focus is on T-cell therapies, and not intended as an inclusive review. We 
+have added “An opinion” to the title to clarify this. We acknowledge the interest 
+of oncolytic viruses but do not see an unobtrusive way to feather them into our 
+opinion piece. 
+ 
+1. 
+The authors are appropriately critical of mouse models that “trade off tractability with 2. 
+ 
+Page 11 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ relevance“ and are then “often regarded as decisive in selection of clinical candidates 
+because of presumptive experimental supremacy. In our view this is specious.” I 
+agree completely! However given the ubiquity of these models regardless of 
+therapeutic modality, it could be helpful to provide additional commentary as to how 
+these models should be appropriately exploited. 
+We appreciate this comment, and now include a statement about xenograft 
+models as an example: As a T-cell therapy example, simple xenograft models 
+demonstrate that therapeutic function is compatible with the environment of a 
+mammalian body; nothing more, but nothing less.
+ 
+Competing Interests: No competing interests were disclosed.
+Reviewer Report 30 November 2020
+https://doi.org/10.5256/f1000research.30072.r74214
+© 2020 Sasu B. This is an open access peer review report distributed under the terms of the Creative Commons 
+Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the 
+original work is properly cited.
+Barbra J. Sasu   
+Allogene Therapeutics, Inc.,, San Francisco, CA, USA 
+The review deals with an important topic in T cell therapy - the use of appropriate methodology to 
+increase mechanistic understanding and hopefully, eventually, translatability to the clinic. 
+ 
+At the outset, the authors quote some pioneers in the field of T cell and CAR therapy. Although it’s 
+not possible to add everyone, I would suggest that the addition of Phil Greenberg for his long 
+history of pioneering work on TCR T cells and understanding how to apply engineering to these 
+cells. Perhaps also Mike Jensen and Carl June for understanding the nature of first and second gen 
+CAR T and scientists such as Malcolm Brenner for insights into competitive expansion of CARs in 
+vivo are some suggestions for additions.  
+Analogy between development of SM and T cell therapeutics is an interesting comparison. Text in 
+diagram should perhaps be bigger and QSAR needs to be defined in the legend. 
+ 
+The paragraph about building PD or mechanistic assays in the same spirit as the SM field is 
+valuable but could be fleshed out more. E.g. The authors comment correctly that most work has to 
+be done with primary cells since Jurkat unable to kill or behave in many other ways like normal T 
+cells. There is reference to heterogeneousness, but perhaps calling out specifically that there is 
+large donor to donor variability would be valuable. 
+Adding to in vivo model difficulties I might talk about mouse cytokine environment not supporting 
+human cells without model modification and in syngeneic models, inherent difficulties between 
+human and mouse T cells such as the need for different signaling strengths.  
+ 
+ 
+Page 12 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ When pointing out shortcomings of screening approaches, say it needs to be more mechanistic. 
+Some for instances might be useful, perhaps discussing possibilities for assays that might apply to 
+parts of diagram 2, rather than the traditional endpoints in the T cell field of cytokine secretion, 
+exhaustion markers or killing. Comments that in vivo assay can’t deal with high throughput of 
+candidates is true, but there is the potential for rapid in vivo assay to potentially look at certain 
+aspects covered in diagram e.g. migration, activation, specificity that are hard to cover in vitro. 
+Perhaps a compare on contrast on this would be useful. 
+ 
+Highlight other potential approaches to increasing tuor specificity e.g. synthetic biology from 
+Wendel Lim or masking would be useful rather than just outlining one approach. 
+ 
+Quotes that cell therapy doses can exceed 100 billion cells - seems like an outlier and more normal 
+ranges should be quoted both for CARs and TCRs, especially in light of the table comparing CARs 
+and TCRs and in fact cell dose could be added to this table.  
+ 
+It was unclear to me if the table is meant to state dogma or the belief of authors. Some of the 
+assumptions already have data challenging them and discussing some of this as a ‘start of the 
+journey’ may be valuable, for example that CARs show good combination with PD-1 Abs in 
+preclinical models. 
+ 
+At the end, the authors make strong statements that better assays are needed, which I can’t argue 
+with. Perhaps compare and contrast some assays and say what areas merit more development 
+would be good. Potentials for solutions would make this review more valuable and might 
+stimulate some of the general advances in the field that the review calls for. 
+The review deals with an important topic in T cell therapy - the use of appropriate methodology to 
+increase mechanistic understanding and hopefully, eventually, translatability to the clinic. 
+ 
+At the outset, the authors quote some pioneers in the field of T cell and CAR therapy. Although it’s 
+not possible to add everyone, I would suggest that the addition of Phil Greenberg for his long 
+history of pioneering work on TCR T cells and understanding how to apply engineering to these 
+cells. Perhaps also Mike Jensen and Carl June for understanding the nature of first- and secondgen
+CAR T and scientists such as Malcolm Brenner for insights into competitive expansion of CARs 
+in vivo are some suggestions for additions.  
+ 
+Analogy between development of SM and T cell therapeutics is an interesting comparison. Text in 
+diagram should perhaps be bigger and QSAR needs to be defined in the legend. 
+ 
+Highlight other potential approaches to increasing tuor specificity e.g. synthetic biology from 
+Wendel Lim or masking would be useful rather than just outlining one approach. 
+ 
+Quotes that cell therapy doses can exceed 100 billion cells - seems like an outlier and more normal 
+ranges should be quoted both for CARs and TCRs, especially in light of the table comparing CARs 
+and TCRs and in fact cell dose could be added to this table.  
+ 
+It was unclear to me if the table is meant to state dogma or the belief of authors. Some of the 
+assumptions already have data challenging them and discussing some of this as a ‘start of the 
+journey’ may be valuable, for example that CARs show good combination with PD-1 Abs in 
+preclinical models. 
+ 
+Page 13 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+  
+At the end, the authors make strong statements that better assays are needed, which I can’t argue 
+with. Perhaps compare and contrast some assays and say what areas merit more development 
+would be good. Potentials for solutions would make this review more valuable and might 
+stimulate some of the general advances in the field that the review calls for.
+ 
+Is the topic of the opinion article discussed accurately in the context of the current 
+literature?
+Partly
+Are all factual statements correct and adequately supported by citations?
+Partly
+Are arguments sufficiently supported by evidence from the published literature?
+Partly
+Are the conclusions drawn balanced and justified on the basis of the presented arguments?
+Partly
+Competing Interests: No competing interests were disclosed.
+Reviewer Expertise: T cell biology, CAR T
+I confirm that I have read this submission and believe that I have an appropriate level of 
+expertise to confirm that it is of an acceptable scientific standard, however I have 
+significant reservations, as outlined above.
+Author Response 14 Dec 2020
+Alexander Kamb, A2 Biotherapeutics, Agoura Hills, USA 
+At the outset, the authors quote some pioneers in the field of T cell and CAR therapy. 
+Although it’s not possible to add everyone, I would suggest that the addition of Phil 
+Greenberg for his long history of pioneering work on TCR T cells and understanding how to 
+apply engineering to these cells. Perhaps also Mike Jensen and Carl June for understanding 
+the nature of first and second gen CAR T and scientists such as Malcolm Brenner for insights 
+into competitive expansion of CARs in vivo are some suggestions for additions. 
+We have mentioned Drs. Greenberg and June in the revision, but ask the reviewer to 
+bear in mind that this is an opinion or perspective, not a review. We have added “An 
+opinion” to the title to clarify this.   
+  
+Analogy between development of SM and T cell therapeutics is an interesting comparison. 
+Text in diagram should perhaps be bigger and QSAR needs to be defined in the legend. 
+We have defined QSAR and requested the additional change in size.  
+ 
+The paragraph about building PD or mechanistic assays in the same spirit as the SM field is 
+valuable but could be fleshed out more. E.g. The authors comment correctly that most work 
+ 
+Page 14 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ has to be done with primary cells since Jurkat unable to kill or behave in many other ways 
+like normal T cells. There is reference to heterogeneousness, but perhaps calling out 
+specifically that there is large donor to donor variability would be valuable. 
+We have included text to call this variability out specifically: …with considerable 
+donor-to-donor variability; 
+ 
+Adding to in vivo model difficulties I might talk about mouse cytokine environment not 
+supporting human cells without model modification and in syngeneic models, inherent 
+difficulties between human and mouse T cells such as the need for different signaling 
+strengths.  
+We have added text to highlight this specific problem (i.e., the mismatch between 
+mouse/human cytokine signaling that can be understood partly as divergence 
+between ligands and receptor pairs over 90 million years of evolutions (e.g., IL-2 ligand 
+and receptor): The human and mouse components of these chimeras, e.g., IL-2 and IL2R,
+do not mesh perfectly (Nemoto et al., 1995). 
+ 
+When pointing out shortcomings of screening approaches, say it needs to be more 
+mechanistic. Some for instances might be useful, perhaps discussing possibilities for assays 
+that might apply to parts of diagram 2, rather than the traditional endpoints in the T cell 
+field of cytokine secretion, exhaustion markers or killing. Comments that in vivo assay can’t 
+deal with high throughput of candidates is true, but there is the potential for rapid in vivo 
+assay to potentially look at certain aspects covered in diagram e.g. migration, activation, 
+specificity that are hard to cover in vitro. Perhaps a compare on contrast on this would be 
+useful. 
+We agree with the reviewer and have pointed out the need to study certain aspects of 
+T-cell biology in vivo, comparing mechanisms that can be studied in vitro with those 
+that require in vivo experimentation. We have added to the legend of Fig. 2 a 
+comment about the need for more mechanistic information. : This diagram illustrates 
+the number and complexity of the steps required to achieve efficacy. Many of these 
+steps can be studied in vitro; for others (e.g., extravasation), in vitro models are 
+inherently problematic. 
+ 
+Highlight other potential approaches to increasing tuor specificity e.g. synthetic biology 
+from Wendel Lim or masking would be useful rather than just outlining one approach. 
+We have mentioned the SynNotch approach of Dr. Lim and colleagues, (Williams et al., 
+2020). We have also referenced ligand-binding domain masking approaches and added 
+one reference (Desnoyers et al., 2013): Other approaches are under study, including 
+transcriptional logic circuits and receptor masking (Roybal et al., 2016; Desnoyers et 
+al., 2013). These attempts to widen the target source for selective cancer targets to 
+other targets, including neoantigens and LOH,… 
+ 
+Quotes that cell therapy doses can exceed 100 billion cells - seems like an outlier and more 
+normal ranges should be quoted both for CARs and TCRs, especially in light of the table 
+comparing CARs and TCRs and in fact cell dose could be added to this table.  
+We have added a range of T-cell therapeutic doses and altered the sentence: …range 
+from 100 million to 100 billion cells—well beyond the number… 
+ 
+ 
+Page 15 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ It was unclear to me if the table is meant to state dogma or the belief of authors. Some of 
+the assumptions already have data challenging them and discussing some of this as a ‘start 
+of the journey’ may be valuable, for example that CARs show good combination with PD-1 
+Abs in preclinical models. 
+We have changed the title of the legend and added a clause that states: Potential 
+differences among cell therapy targets, receptors, and regulation not yet rigorously 
+tested by mechanistic data. Experiments to test many of these assumptions are 
+underway. 
+ 
+At the end, the authors make strong statements that better assays are needed, which I can’t 
+argue with. Perhaps compare and contrast some assays and say what areas merit more 
+development would be good. Potentials for solutions would make this review more valuable 
+and might stimulate some of the general advances in the field that the review calls for. 
+The review deals with an important topic in T cell therapy - the use of appropriate 
+methodology to increase mechanistic understanding and hopefully, eventually, 
+translatability to the clinic. 
+We make general statements about the kind of assays, but have added text indicating 
+that sensitivity in particular is a useful parameter to measure because it provides a 
+connection among different targets and receptors: In particular, we believe that 
+quantitative assays that measure absolute sensitivity of receptors should be more 
+widely employed, allowing direct comparisons among different targets and receptors.  
+Competing Interests: No competing interests were disclosed.
+Reviewer Report 17 November 2020
+https://doi.org/10.5256/f1000research.30072.r74217
+© 2020 James J et al. This is an open access peer review report distributed under the terms of the Creative 
+Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, 
+provided the original work is properly cited.
+John R. James   
+Warwick Medical School, University of Warwick, Coventry, UK 
+Muna Fuyal   
+School of Life Sciences, University of Warwick, Coventry, UK 
+The review article from Kamb and Go provides an overview of how T-cell based therapies are 
+being used in cancer treatment. The challenges arising from this approach and how the 
+foundation of T-cell therapy research can be built for development of more potent treatment of 
+solid tumours are discussed. Their main point is that in the rush to get CAR-T therapy to patients, 
+some of the underlying foundational research has been bypassed, which needs to be ‘filled in’ so 
+the potential benefits of T-cell therapies can be fully realised, which is of course an important 
+concern to raise. 
+ 
+ 
+Page 16 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ There are a few points that should be addressed to improve this version of the manuscript:
+The paper would be clearer if the authors could inform about the distinct challenges of CART
+therapy used for treating blood cancers compared to those of solid tumours. At times, the 
+information is overlapped and slightly unclear. 
+ 
+○
+In the early discussion of significant players in the CAR-T field, it is remiss not to state the 
+contribution of Carl June’s lab. While much of his group’s work has primarily been in 
+leukaemia rather than solid tumours, it has nonetheless provided real impetus that this 
+approach could be transformational in cancer therapies. 
+ 
+○
+There is a slight pessimism to the state of knowledge on the mechanism of TCR triggering; 
+while no true consensus will ever be reached on this question, there is little doubt that the 
+fundamental aspects of this signal transduction have been elucidated. 
+ 
+○
+The authors compare the state-of-the-art development of small-molecule drugs to the 
+equivalent process for T-cell based therapies. They argue that mouse models are not 
+appropriate tools to study (human) immuno-oncology, which is of course strictly true but a 
+charge that can be just as easily levelled at small-molecule drug approaches too and so 
+perhaps unfair for T-cell therapies to be singled out. 
+ 
+○
+There is no mention of BiTE or ImmTAC therapeutics as alternative T-cell based therapies, 
+which do have potentially greater likelihood of being effective in treating solid tumour 
+masses. 
+ 
+○
+The authors have listed four additional requirements for effective and safe solid tumour 
+therapy (page 5 under heading Additional challenges for T-cell therapy) along with 
+identifying drug target. The review could do well with more information on these listed 
+points such as current research being carried out to address these limitations. 
+ 
+○
+There are many labs around the world trying to combine engineering approaches to 
+provide ‘logic-gating’ to CAR-T cell targeting. As the authors state, targets are hard to come 
+by, but the potential for combinatorial CAR-T inputs (AND/NAND/NOT gating) significantly 
+extends the usefulness of some likely targets to more accurately define solid tumour 
+targets.  
+ 
+○
+Table 1 describes some commonly-held assumptions about T-cell therapies “not yet 
+rigorously tested by mechanistic data”. The authors do provide a basis for these 
+assumptions but no references to back these up. Whose “commonly held assumptions” are 
+they?  
+ 
+○
+The authors state: “This foundation-building work may not be glamorous but is of great 
+consequence and should be valued by scientific journals. If the field as a whole invests to 
+build the infrastructure and expertise of better preclinical models and larger datasets and 
+allocates time to define key mechanistic details prior to clinical testing, we believe the risks 
+required to develop inventive, differentiated therapies will be rewarded with success.” This 
+point should be elaborated on to explain the roles of pharmaceutical companies, scientists 
+and research institutes. Who takes the “unglamourous” job of foundation building? We 
+would argue that academia is taking these risks and doing the foundational work; perhaps 
+○
+ 
+Page 17 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ the point is aimed more at Pharma that they should also invest more heavily in this work 
+too?
+ 
+Is the topic of the opinion article discussed accurately in the context of the current 
+literature?
+Partly
+Are all factual statements correct and adequately supported by citations?
+Partly
+Are arguments sufficiently supported by evidence from the published literature?
+Partly
+Are the conclusions drawn balanced and justified on the basis of the presented arguments?
+Partly
+Competing Interests: No competing interests were disclosed.
+Reviewer Expertise: T cell signalling, signal transduction, reductionist approaches, Synthetic 
+biology
+We confirm that we have read this submission and believe that we have an appropriate level 
+of expertise to confirm that it is of an acceptable scientific standard, however we have 
+significant reservations, as outlined above.
+Author Response 14 Dec 2020
+Alexander Kamb, A2 Biotherapeutics, Agoura Hills, USA 
+We thank the reviewers for their constructive comments and believe they have 
+understood our key point. We have attempted to address most of the reviewers’ 
+suggestions in the planned revised publication. We point out that we intend our paper 
+to be an opinion or perspective, and not a review. Consequently, we have limited some 
+of the references and discussion.
+The paper would be clearer if the authors could inform about the distinct challenges 
+of CAR-T therapy used for treating blood cancers compared to those of solid tumours. 
+At times, the information is overlapped and slightly unclear.
+○
+We agree and have added text to clarify the specific challenges of solid tumors. 
+Perhaps most dramatically, infused T-cell therapeutics directed against solid 
+tumors must extravasate to reach their targets, targets that may be present on 
+a subset of vital normal tissues as well.   
+ 
+○
+In the early discussion of significant players in the CAR-T field, it is remiss not to state 
+the contribution of Carl June’s lab. While much of his group’s work has primarily been 
+in leukaemia rather than solid tumours, it has nonetheless provided real impetus that 
+this approach could be transformational in cancer therapies.
+○
+We agree and have included Dr. June’s name and referenced his contributions. ○
+ 
+Page 18 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ Still others have made substantive contributions to understanding, design and 
+development of next-generation CAR-Ts; for example, C. June and P. Greenberg 
+(see for review Guedan et al., 2019). 
+ 
+There is a slight pessimism to the state of knowledge on the mechanism of TCR 
+triggering; while no true consensus will ever be reached on this question, there is 
+little doubt that the fundamental aspects of this signal transduction have been 
+elucidated.
+○
+We do not intend pessimism, and have clarified our view that, though important 
+basic mechanistic questions remain (e.g., altered-peptide ligands, APLs), the TCR 
+and CAR signaling mechanisms are understood in outline at least (a good 
+example is the work of Dr. James): For example, there is not a broadly accepted 
+model that explains key behavior of TCRs with respect to sensitivity and 
+selectivity toward their ligands, peptide major histocompatibility complexes 
+(pMHCs). CAR signaling, though understood in outline, also lacks important 
+details (see for review Courtney et al., 2018; Nerreter et al., 2019). 
+ 
+○
+The authors compare the state-of-the-art development of small-molecule drugs to 
+the equivalent process for T-cell based therapies. They argue that mouse models are 
+not appropriate tools to study (human) immuno-oncology, which is of course strictly 
+true but a charge that can be just as easily levelled at small-molecule drug 
+approaches too and so perhaps unfair for T-cell therapies to be singled out.
+○
+We agree wholeheartedly and have clarified this point: These deficits apply to 
+small- and large-molecule therapeutic discovery. 
+ 
+○
+There is no mention of BiTE or ImmTAC therapeutics as alternative T-cell based 
+therapies, which do have potentially greater likelihood of being effective in treating 
+solid tumour masses.
+○
+We know these modalities well, but believe that cell therapy holds more 
+promise for solid tumor therapies. Cells can be engineered, if they do not do so 
+already, to distribute into tissues. Large molecules (soluble proteins) are much 
+more limited in what they can be engineered to do, beyond binding things, and 
+are constrained by their physico-chemical properties.  
+ 
+○
+The authors have listed four additional requirements for effective and safe solid 
+tumour therapy (page 5 under heading Additional challenges for T-cell therapy) along 
+with identifying drug target. The review could do well with more information on these 
+listed points such as current research being carried out to address these limitations.
+○
+We should be clear that we do not intend to review the topic; our publication is 
+more properly classified as an opinion piece. These topics are beyond the scope 
+of our paper, and there are numerous reviews in the literature. 
+ 
+○
+There are many labs around the world trying to combine engineering approaches to 
+provide ‘logic-gating’ to CAR-T cell targeting. As the authors state, targets are hard to 
+come by, but the potential for combinatorial CAR-T inputs (AND/NAND/NOT gating) 
+significantly extends the usefulness of some likely targets to more accurately define 
+solid tumour targets. 
+○
+ 
+Page 19 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ We have added a sentence to emphasize this point; i.e., that there are other 
+logic systems beyond the AND NOT logic we describe in brief: Other approaches 
+are under study, including transcriptional logic circuits and receptor masking 
+(Roybal et al., 1995; Desnoyers et al., 2013). These attempts to widen the target 
+source for selective cancer targets to other targets, including neoantigens and 
+LOH… 
+ 
+○
+Table 1 describes some commonly-held assumptions about T-cell therapies “not yet 
+rigorously tested by mechanistic data”. The authors do provide a basis for these 
+assumptions but no references to back these up. Whose “commonly held 
+assumptions” are they? 
+○
+We encounter people with different subsets of these assumptions frequently, 
+but it is difficult to provide a suitable reference. We have changed the wording 
+of the Table 1 title and in the text: There are many potential differences 
+between, for example, TCRs and CARs which have not been tested 
+systematically, and the field would benefit from their thorough examination 
+(Table 1). We are certainly open to alternative phrasing.  
+ 
+○
+The authors state: “This foundation-building work may not be glamorous but is of 
+great consequence and should be valued by scientific journals. If the field as a whole 
+invests to build the infrastructure and expertise of better preclinical models and 
+larger datasets and allocates time to define key mechanistic details prior to clinical 
+testing, we believe the risks required to develop inventive, differentiated therapies 
+will be rewarded with success.” This point should be elaborated on to explain the 
+roles of pharmaceutical companies, scientists and research institutes. Who takes the 
+“unglamourous” job of foundation building? We would argue that academia is taking 
+these risks and doing the foundational work; perhaps the point is aimed more at 
+Pharma that they should also invest more heavily in this work too?
+○
+We strongly agree that there should be investment in foundation-building academic 
+research by granting agencies, and have added this opinion explicitly: Our strong view 
+is that granting agencies should invest in foundation-building academic research, in 
+part because shorter-term translational work is often attractive to the private sector.  
+Competing Interests: No competing interests were disclosed.
+ 
+Page 20 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021
+ The benefits of publishing with F1000Research:
+Your article is published within days, with no editorial bias•
+You can publish traditional articles, null/negative results, case reports, data notes and more•
+The peer review process is transparent and collaborative•
+Your article is indexed in PubMed after passing peer review•
+Dedicated customer support at every stage•
+For pre-submission enquiries, contact research@f1000.com
+ 
+Page 21 of 21
+F1000Research 2020, 9:1295 Last updated: 04 JAN 2021

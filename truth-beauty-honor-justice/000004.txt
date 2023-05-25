@@ -1,0 +1,1393 @@
+Ann. Geophys., 32, 485–498, 2014
+www.ann-geophys.net/32/485/2014/
+doi:10.5194/angeo-32-485-2014
+© Author(s) 2014. CC Attribution 3.0 License.
+Annales 
+Geophysicae
+O
+pen A
+ccess
+Faith in a seed: on the origins of equatorial plasma bubbles
+J. M. Retterer1 and P. Roddy2
+1Institute for Scientific Research, Boston College, 140 Commonwealth Avenue, Chestnut Hill, Massachusetts, 02467, USA
+2Space Vehicles Directorate, Air Force Research Laboratory, Kirtland AFB, New Mexico, USA
+Correspondence to: J. M. Retterer (john.retterer@bc.edu)
+Received: 15 November 2013 – Revised: 19 February 2014 – Accepted: 18 March 2014 – Published: 15 May 2014
+Abstract. Our faith in the seeds of equatorial plasma irregularities
+holds that there will generally always be density per-
+turbations sufficient to provide the seeds for irregularity development
+whenever the Rayleigh–Taylor instability is ac-
+tive. When the duration of the time of the Rayleigh–Taylor
+instability is short, however, the magnitude of the seed perturbations
+can make a difference in whether the irregularities
+have a chance to grow to a strength at which the nonlinear
+development of plumes occurs. In addition, the character of
+the resulting irregularities reflects the characteristics of the
+initial seed density perturbation, e.g., their strength, spacing,
+and, to some extent, their spatial scales, and it is important
+to know the seeds to help determine the structure of the developed
+irregularities. To this end, we describe the climatol-
+ogy of daytime and early-evening density irregularities that
+can serve as seeds for later development of plumes, as determined
+from the Planar Langmuir Probe (PLP) plasma density
+measurements on the C/NOFS (Communication and Navigation
+Outage Forecast System) satellite mission, presenting
+their magnitude as a function of altitude, latitude, longitude,
+local time, season, and phase in the solar cycle (within the
+C/NOFS observation era). To examine some of the consequences
+of these density perturbations, they are used as initial
+conditions for the PBMOD (Retterer, 2010a) 3-D irregularity
+model to follow their potential development into larger-
+amplitude irregularities, plumes, and radio scintillation.
+Keywords. Ionosphere (equatorial ionosphere; ionospheric
+irregularities; modeling and forecasting).
+“Though I do not believe that a pla[sma bubble] will
+spring up where no seed has been, I have great faith in a
+seed. Convince me that you have a seed there, and I am
+prepared to expect wonders.” – Henry David Thoreau
+1 Introduction
+There is much that remains poorly understood about the origins
+of plasma density irregularities in the low-latitude region
+of Earth’s ionosphere (Kelley et al., 2011). These irregularities,
+first observed in ionosonde traces, have subsequently
+been observed by incoherent-scatter radars and in airglow
+images of the night sky, in situ measurements of plasma
+density and velocity, and by numerous other means. They
+are believed to begin as small-amplitude density variations
+which are then amplified by the exponential growth in time
+that is characteristic of plasma instabilities like the Rayleigh–
+Taylor (RT) instability of the bottomside of the ionospheric
+F layer (Kelley, 1989) until their amplitudes are large enough
+that nonlinear interactions significantly modify their structure,
+leading to rising plumes of low-density plasma filled
+with turbulence.
+Bubble formation can occur anytime that the Rayleigh–
+Taylor growth rate is large enough for a long enough time
+for significant irregularities to develop. Generally they form
+at night, when the E region conductivity is small (otherwise,
+the E region conductivity will short out the growing polarization
+electric fields and prevent the feedback that leads to
+the instability). Uplift of the F layer aids the instability by
+moving the plasma layer into altitudes where the neutral collision
+frequencies are weaker and the RT growth rate is con-
+sequently larger. Thus, bubbles are often seen shortly after
+sunset, when the prereversal enhancement of the upward drift
+leads to stronger growth rates, but they can be seen at other
+times of night when other mechanisms produce electric fields
+that cause the uplift of the F layer (Yizengaw et al., 2013).
+Because the RT instability initially merely amplifies the
+structure of the perturbations, a number of the characteristics
+of the original irregularities (for example, the zonal spac-
+ing of plumes) are carried over into the developed turbulent
+Published by Copernicus Publications on behalf of the European Geosciences Union.
+ 486 J. M. Retterer and P. Roddy: Faith in a seed
+-50
+0
+50
+100
+150
+200
+250
+V
+z 
+pe
+ak
+Vpre = 3.9 m/s ∆N0/N
+ 0.003
+ 0.01
+ 0.03
+-50
+0
+50
+100
+150
+200
+250
+V
+z 
+pe
+ak
+Vpre = 6.7 m/s
+-50
+0
+50
+100
+150
+200
+250
+V
+z 
+pe
+ak
+Vpre = 12.3 m/s
+18 19 20 21 22 23
+Local Time
+-50
+0
+50
+100
+150
+200
+250
+V
+z 
+pe
+ak
+Vpre = 23.6 m/s
+Fig. 1. The sensitivity of bubble development to the magnitude of
+the initial perturbation as well as the magnitude of the Rayleigh–
+Taylor growth rate. Vz peak is the maximum vertical velocity (in
+m s−1) over the grid of the 2-D simulation of plume development;
+the upward jump in Vz peak indicates the formation of plumes. The
+panels of the plot show the results for the different prereversal ambient
+drifts, which control the strength of the Rayleigh–Taylor growth
+rate. The different color curves represent the results of simulations
+with different initial magnitude perturbations: black, blue, and red
+represent a maximum perturbation 0.003, 0.01, and 0.03 times the
+peak ambient density, respectively.
+plumes. Moreover, when the time interval in the post-sunset
+sector in which the RT growth rate is significant is short, the
+strength of evening irregularities can be as much dependent
+on the initial amplitudes of the irregularities as it is on the
+strength of the RT instability because the stronger the initial
+perturbation is, the less Rayleigh–Taylor growth is re-
+quired to boost the irregularities into the nonlinear regime.
+Figure 1 illustrates this situation. Several (two-dimensional,
+for simplicity) simulations (Retterer, 2010a) of plume formation
+are performed, with both different strengths of the
+RT instability (set by the magnitude of the prereversal vertical
+drift of the ambient plasma – higher drift means stronger
+RT growth rate) and initial density perturbations of different
+magnitudes, with the peak density perturbation 0.003,
+0.01, or 0.03 times the F peak ambient density. The quantity
+plotted is the peak vertical plasma drift within the sim-
+ulation volume as a function of time. A rapid growth of this
+drift indicates that a plume of low-density, rapidly upwardrising
+plasma has formed. The top panel shows that when the
+RT instability is weak, none of these perturbations is sufficient
+to trigger plume formation. With the next largest RT
+growth rate, only the biggest initial density perturbation triggers
+plume development. With stronger RT growth, smaller
+initial perturbations can trigger plume development, but it is
+always the biggest initial perturbation (the red curves) that
+initiates plume formation soonest and produces the strongest
+plumes (as marked by the peak magnitude of the vertical
+drift).
+But what are the origins of the initial density fluctuations?
+What are their expected spatial and temporal scales? What
+are their seasonal, latitudinal, and longitudinal occurrence
+climatologies, and can knowing this help us forecast the
+probability of plume formation and radio scintillation? One
+of the processes that lead to ion density variations is momentum
+exchange with neutral constituents of the thermosphere,
+whereby the friction with the neutral component can induce
+the ions to drift in the same way as the neutral wind. When
+the neutral wind varies periodically as in a wave, the ion drift
+can be found to vary periodically in the same way. As the ion
+drift responds to the varying neutral wind, the plasma density
+responds in the way dictated by the continuity equation,
+producing density perturbations that can be amplified in the
+RT instability.
+Wave perturbations in the winds and density are pervasive
+features of the neutral atmosphere that exist over a wide
+range of spatial and temporal scales. Winds are responsible
+for many of the major electrodynamic features of the ionosphere
+through the production of dynamo current systems
+(Fejer, 2011). In addition to the larger-scale tidal oscillations
+and planetary waves (Maute et al., 2012), there also exist
+smaller-scale gravity waves (Hines, 1974), traveling neutral
+disturbances that induce corresponding wave variations in
+the ionospheric plasma (Hooke, 1968). There are a number
+of sources for these waves, ranging from storm-time energy
+inputs at high latitudes to tropospheric storm systems at low
+and middle latitudes (Hagan and Forbes, 2003).
+Note that as the wave-like plasma density perturbations
+are supported and maintained by polarization electric fields
+that develop within their structure, the notion that, for the
+Rayleigh–Taylor instability, the strength of the growth rate
+and the initial density perturbation are independent quantities
+is illusory. Large-scale wave structures (Tsunoda, 2010)
+can provide both the initial density perturbation and enhancements
+in the upward plasma drift that enhance the Rayleigh–
+Taylor growth rate. Typically, what is seen in the simulations
+(Retterer, 2010a) is that plumes initially develop from the
+points where the bottomside of the F layer is the highest in
+Ann. Geophys., 32, 485–498, 2014 www.ann-geophys.net/32/485/2014/
+ J. M. Retterer and P. Roddy: Faith in a seed 487
+  PB10281   Date: 55477  281  2010 10 8
+-10000
+-8000
+-6000
+-4000
+-2000
+0
+ ∆ Ne
+PLP
+-0.8
+-0.6
+-0.4
+-0.2
+0
+ ∆
+ N
+e 
+/ N
+e
+400
+500
+600
+700
+800
+900
+A
+lti
+tu
+de
+-30
+-20
+-10
+0
+10
+20
+30
+L
+at
+itu
+de
+21.5 21.75 22 22.25 22.5 22.75 23 23.25
+UT
+0
+50
+100
+150
+200
+250
+300
+350
+L
+on
+gi
+tu
+de
+0
+5
+10
+15
+20
+local tim
+e
+Fig. 2. The plasma density perturbation observed by PLP onboard
+the C/NOFS satellite on day 281 of 2010, at around 22 UT. The
+top panel gives the density perturbation (red curve, in number per
+cm3) determined by high-pass filtering of the observations. The second
+panel gives the density perturbation normalized by the ambient
+density. (The gray lines in these panels mark the time of 18:00 LT,
+the yellow lines the time of 06:00 LT.) The third panel gives the altitude
+of the satellite at the time of the observation (black curve) and
+the apex altitude of the observation point mapped back to the geomagnetic
+equator (red curve). The fourth panel gives the latitude of
+the observation, while the bottom panel gives the longitude (black
+curve, left-hand scale) and local time (blue curve, right-hand scale)
+of the observations.
+altitude. As a wave propagates along the F layer, it provides
+both density perturbations and enhanced plasma drifts.
+Empirical knowledge of the phenomenon is the first key
+to understanding it. Here we take advantage of the survey
+of low-latitude plasma densities provided by the Communication
+and Navigation Outage Forecast System (C/NOFS)
+satellite from the solar minimum of 2008 through the rising
+phase of the solar cycle into 2012. We employ a high-pass
+filtering technique to isolate the shorter-term density irregularities
+in which we are interested from the smoother varia-
+tions of the ambient plasma as the satellite moves around its
+low-inclination orbit, sampling the plasma density through
+longitudes and local times. We accumulate statistics of the
+amplitude of the density fluctuations and plot it as a function
+of altitude, latitude, local time, longitude, season, and phase
+  PB10282   Date: 55478  282  2010 10 9
+-10000
+-8000
+-6000
+-4000
+-2000
+0
+ ∆ Ne
+PLP
+-0.8
+-0.6
+-0.4
+-0.2
+0
+ ∆
+ N
+e 
+/ N
+e
+400
+500
+600
+700
+800
+900
+A
+lti
+tu
+de
+-30
+-20
+-10
+0
+10
+20
+30
+L
+at
+itu
+de
+21.5 21.75 22 22.25 22.5 22.75 23 23.25
+UT
+0
+50
+100
+150
+200
+250
+300
+350
+L
+on
+gi
+tu
+de
+0
+5
+10
+15
+20
+local tim
+e
+Fig. 3. The plasma density perturbation observed by PLP onboard
+the C/NOFS satellite on day 282 of 2010, at around 22 UT. The top
+panel gives the density perturbation (red curve, in number per cm3)
+determined by high-pass filtering of the observations. The second
+panel gives the density perturbation normalized by the ambient density.
+(The gray lines in these panels mark the time of 18:00 LT, the
+yellow lines the time of 06:00 LT.) The third panel gives the altitude
+of the satellite at the time of the observation (black curve) and
+the apex altitude of the observation point mapped back to the geomagnetic
+equator (red curve). The fourth panel gives the latitude of
+the observation, while the bottom panel gives the longitude (black
+curve, left-hand scale) and local time (blue curve, right-hand scale)
+of the observations.
+of the solar cycle. Lastly, we use snapshot examples of the
+density perturbations as an initial condition for a 3-D plume
+model to demonstrate how the fluctuations will evolve and
+how irregularity-filled plumes and radio scintillation can develop
+from them.
+2 Data analysis
+The C/NOFS satellite was launched in April 2008 as a component
+of a system to specify and forecast the occurrence of
+radio scintillations that interfere with the systems that rely on
+transionospheric radio propagation (de La Beaujardiere et al.,
+2004). Its orbit was elliptical (400 × 850 km) with low inclination
+(13◦) so as to sample the ionospheric plasma in the re-
+gion near the geomagnetic equator, one of the regions where
+www.ann-geophys.net/32/485/2014/ Ann. Geophys., 32, 485–498, 2014
+ 488 J. M. Retterer and P. Roddy: Faith in a seed
+10-4 10-3 10-2
+Inverse Wavelength [km-1]
+PB10282    PLP data    UT= 22.3375
+104
+105
+106
+107
+108
+109
+PS
+D
+(∆
+N
+e)
+Fig. 4. Power spectrum of the density irregularities around 18:00 LT
+in Fig. 3, illustrating their power-law-like nature, close to k−2 (the
+straight line in this log-log plot). The 1-Hz sampled PLP data were
+used for the spectral analysis; k is the inverse of the wavelength in
+km.
+the density irregularities responsible for the scintillation are
+found. Among the instruments onboard the satellite, we employ
+here the plasma density measurements, Ne(t), from the
+planar Langmuir probe (PLP) (Roddy et al., 2010), at a one
+sample per second resolution.
+To isolate the faster density variations of interest, 1Ne,
+from the longer spatial scale or slower variations of the ambient
+density (considered to be at along-track scales of 300 km
+or more), a smoothed version of the PLP density data series
+is formed, Ne0, which is then subtracted from the original
+data series, Ne, to leave the variations at the shorter scales,
+1Ne = Ne −Ne0. The smoothed density can be estimated either
+by a running mean or, if the irregularities expected are
+overwhelmingly depletions (reductions in density), estimated
+by the envelope of density maxima spaced on an ambientscale
+grid throughout the time series. Dao et al. (2011) em-
+ployed similar techniques, but looked solely at 1Ne/Ne0,
+which is always small in the daytime, to focus on the nighttime
+irregularities. A sample of this density-irregularity cal-
+culation using data from day 281, year 2010, around 18 UT,
+is shown in Fig. 2. The top panel gives 1Ne, the density
+irregularity in number per cm3 as calculated by subtracting
+the smoothed density from the original signal, and the second
+panel gives this density irregularity normalized by the
+ambient density, 1Ne/Ne0. The ambient density in this example
+was determined using a set of density points sampled
+every 40 s, providing a spatial resolution of about 300 km;
+thus, 1Ne includes all spatial scales smaller than that (down
+to the 8 km resolution due to the sampling rate). The other
+panels give information about the time and location of the
+observations. The altitude of the satellite is shown in black in
+panel three, along with the apex altitude, shown in red (the
+altitude at the geomagnetic equator to which the location of
+the satellite maps; where the two curves touch, the satellite
+is at the geomagnetic equator). The fourth panel shows the
+latitude of the satellite, and the fifth panel gives the longitude
+(black curve, with axis on the left) and local time (blue
+curve, with axis on the right) of the satellite. The gray lines
+mark the points where the local time is 18:00 LT, while the
+yellow lines mark the points where the local time is 06:00 LT.
+We first see in this segment of data, at 21.8 UT (around
+10:00 LT), a burst of irregularities with an amplitude of a
+few 1000 cm−3, followed by a few more bursts of smaller
+amplitude through the afternoon. Because the ambient density
+is high during the day, these irregularities have small
+fractional strength, 1Ne/Ne0, and may not have much
+radio-propagation effect themselves, but they persist beyond
+18:00 LT into the early evening, where they can act as seeds
+for the development of stronger irregularities amplified by
+the RT instability, such as can be seen later in the orbit,
+around 22.5 UT (around 20:00 LT).
+Another case, from day 282, 2010, is shown in Fig. 3, in
+exactly the same format as Fig. 2. Here the sampled dayside
+irregularities are smaller, perhaps because the satellite
+is farther away from the geomagnetic equator (note the distance
+between the satellite altitude and apex altitude in the
+third panel), but the early evening irregularities might be
+a little larger and have a slower temporal variation (corresponding
+to larger spatial scales) than the case in Fig. 2.
+The spectral density of the power in these irregularities near
+18:00 LT as a function of wave number (mapping from sampled
+time to space assuming static structures sampled by the
+satellite moving at 8 km s−1) is shown in Fig. 4. We see that
+the spectrum is close to a power law, as comparison with
+the straight line in this log-log plot suggests, with a spectral
+index close to −2. Unfortunately, this seemingly ubiq-
+uitous spectral shape in atmospheric fluid turbulence leaves
+few clues (like a preferred wavelength) as to the origins of
+the waves.
+3 Climatology
+To produce a more general picture of the occurrence of these
+daytime density irregularities, we calculate their climatology,
+the statistical description of how their magnitudes vary with
+parameters such as altitude, local time, latitude, longitude,
+season, and phase of solar cycle, by binning large numbers
+of observations of them over a significant period of time. We
+choose periods of accumulation that are multiples of the orbital
+precession period of the satellite (67 days) to insure bet-
+ter uniformity of sampling.
+Ann. Geophys., 32, 485–498, 2014 www.ann-geophys.net/32/485/2014/
+ J. M. Retterer and P. Roddy: Faith in a seed 489
+ PB08249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+ PB08307  PB09067  PB09123
+ PB09249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+ PB09307  PB10067  PB10123
+ PB10249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+ PB10307  PB11067  PB11123
+ PB11249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+0           Gglon          360
+ PB11307
+0           Gglon          360
+ PB12067
+0           Gglon          360
+ PB12123
+0           Gglon          360
+2 2.5 3 3.5 4 4.5
+log rms∆Ne
+Fig. 5. Climatology of density irregularities as a function of longitude and local time, integrated over altitudes and averaged over seasons
+from (Northern Hemisphere) summer 2008 (upper left) to spring equinox 2012 (lower right). The density scale is logarithmic, ranging from
+102 to 105 cm−3 for the density irregularities.
+Figure 5 shows the climatology of irregularity strength as
+a function of longitude and local time through the first four
+years of the C/NOFS era. Each panel gives the root-meansquare
+magnitude of the irregularities as a function of longi-
+tude and local time, integrated over all altitudes (although we
+will see later that most of the contribution will come from the
+lowest altitudes that the C/NOFS samples). Each row gives
+the results for a year, while each column shows the results for
+a given season: summer (Northern Hemisphere), fall, winter,
+and spring, in order. The sampling for the summer plot was
+over 134 days ending on day 249, the sampling for the fall
+seasons was over 67 days ending on day 307, that for winter
+134 days ending on day 67, and that for spring 67 days ending
+on day 123. Through the course of the C/NOFS era, we
+see the increases in density due to the stronger plasma photoproduction
+in the rising phase of the solar cycle, as well as
+seasonal variations, e.g., the daytime irregularities are weakest
+in the summer season. Throughout the data set we see
+the strong evening and early morning irregularities produced
+by the RT amplification, which appear to follow the wellknown
+climatology for scintillation and equatorial plasma
+bubbles (Gentile et al., 2006): strong through many longitudes
+at the spring and fall equinoxes, strong in the Ameri-
+can sector in winter, strong in the Pacific sector in summer,
+plus the general tendency to increase in intensity as the solar
+activity increases. Note how the daytime irregularities persist
+into the evening, where they can serve as seeds for the
+development of the strong irregularities and plumes under
+the influence of the RT instability. There is some suggestion
+of the four-node pattern in longitude that is a sign of coupling
+with the lower atmosphere (Immel et al., 2006), which
+is even more strongly visible in the longitudinal modulations
+www.ann-geophys.net/32/485/2014/ Ann. Geophys., 32, 485–498, 2014
+ 490 J. M. Retterer and P. Roddy: Faith in a seed
+ PB08249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+ PB08307  PB09067  PB09123
+ PB09249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+ PB09307  PB10067  PB10123
+ PB10249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+ PB10307  PB11067  PB11123
+ PB11249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+0           Gglon          360
+ PB11307
+0           Gglon          360
+ PB12067
+0           Gglon          360
+ PB12123
+0           Gglon          360
+3.5 4 4.5 5 5.5 6
+log Ne0
+Fig. 6. Climatology of the ambient density as a function of longitude and local time, integrated over altitudes and averaged over seasons
+from (Northern Hemisphere) summer 2008 (upper left) to spring equinox 2012 (lower right). The density scale is logarithmic, ranging from
+3 × 103 to 3 × 106 cm−3.
+of the daytime densities in Fig. 6 and the 1Ne/Ne0 perturbations
+plotted in Fig. 7 below.
+For comparison, Fig. 6 presents the climatology of the ambient
+plasma density as a function of longitude and local time
+over the same seasons (all the climatology plots will have
+this same organization). What is notable here is the steady
+increase of densities through the rising phase of the solar cycle,
+as well as the hints of the four-node pattern in longitude.
+Although the daytime irregularities in Fig. 5 appear to
+approximately follow the trends of the ambient density in
+Fig. 6, a detailed look at the ratio of density irregularity to
+ambient density, 1Ne/Ne0, in the daytime as a function of
+local time and longitude in Fig. 7 shows that there is structure
+in the ratio, with a hint of the four-node structure in lon-
+gitude characteristic of E region tidal control, particularly in
+the summer seasons and at solar minimum (2008).
+Figure 8 shows the climatology of the rms densityirregularity
+magnitudes as a function of altitude and local
+time, showing how the irregularities in the midday and afternoon
+taper off in magnitude with altitude. The amplified
+irregularities due to RT growth in the evening and postmidnight
+times are apparent here as well. As the solar cycle
+advances toward its peak, the amplified irregularities extend
+to larger altitudes as freely convecting plumes develop and
+rise to greater heights.
+Finally, Fig. 9 gives the climatology of the rms densityirregularity
+magnitudes as a function of latitude and local
+time. To be able to combine observations from different longitudes,
+the latitude parameter that is used is the latitudinal
+distance from the geomagnetic equator at the satellite longitude.
+We expect that the geomagnetic equator is the center
+point of organization of much of the plasma structure, so by
+Ann. Geophys., 32, 485–498, 2014 www.ann-geophys.net/32/485/2014/
+ J. M. Retterer and P. Roddy: Faith in a seed 491
+ PB08249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+ PB08307  PB09067  PB09123
+ PB09249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+ PB09307  PB10067  PB10123
+ PB10249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+ PB10307  PB11067  PB11123
+ PB11249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+0           Gglon          360
+ PB11307
+0           Gglon          360
+ PB12067
+0           Gglon          360
+ PB12123
+0           Gglon          360
+0 0.01 0.02 0.03 0.04
+rms∆Ne /Ne0
+Fig. 7. Climatology of the ratio of rms density irregularity to ambient plasma density as a function of longitude and local time (LT), integrated
+over altitudes and averaged over seasons from (Northern Hemisphere) summer 2008 (upper left) to spring equinox 2012 (lower right). The
+scale of this dimensionless quantity (0 to 0.05) was chosen to show the daytime irregularities.
+using the distance from that point, we may put equivalent
+points at different longitudes on an equal footing to be combined
+in one picture. Note, however, that offset between the
+geographic and geomagnetic equators and the low inclination
+of the C/NOFS orbit means that the north side of the geomagnetic
+equator is not sampled to distances as great as the south
+side is. There is no consistent seasonal pattern here. There
+are lobes in the daytime irregularities that appear on either
+side of the equator at different times, with a reversed pattern
+the next year. One consistent feature is the lozenge shape of
+the amplified irregularities in the evening, due to the rising
+of the plumes, and thus the spreading out in latitude of their
+motion.
+4 Seeding
+We next use the low-level density irregularities observed just
+before sunset as the initial perturbation in a calculation of
+the development of the RT instability in the evening time sector.
+To follow the development we use the three-dimensional,
+fully nonlinear model of Retterer (2010a). This model assumes
+that the ions are inertia-less to solve the momentum
+equation (an assumption which is appropriate for F layer
+heights). Under this approximation, the ion drifts at an instant
+are specified by the instantaneous accelerations due to
+the electric field and other forces affecting the ions and electrons
+(modified by the mobilities that depend on the colli-
+sion and gyrofrequencies). The electric field, being the solution
+of an elliptic equation with coefficients dependent on
+the conductivities and external driving terms (like gravity and
+www.ann-geophys.net/32/485/2014/ Ann. Geophys., 32, 485–498, 2014
+ 492 J. M. Retterer and P. Roddy: Faith in a seed
+ PB08249
+40
+0 
+   
+   
+   
+ A
+lt 
+   
+   
+   
+85
+0  PB08307  PB09067  PB09123
+ PB09249
+40
+0 
+   
+   
+   
+ A
+lt 
+   
+   
+   
+85
+0  PB09307  PB10067  PB10123
+ PB10249
+40
+0 
+   
+   
+   
+ A
+lt 
+   
+   
+   
+85
+0  PB10307  PB11067  PB11123
+ PB11249
+40
+0 
+   
+   
+   
+ A
+lt 
+   
+   
+   
+85
+0
+0              LT             24
+ PB11307
+0              LT             24
+ PB12067
+0              LT             24
+ PB12123
+0              LT             24
+2 2.5 3 3.5 4 4.5
+log rms∆Ne
+Fig. 8. Climatology of plasma density irregularities as a function of altitude and local time (LT), integrated over all longitudes and averaged
+over seasons from (Northern Hemisphere) summer 2008 (upper left) to spring equinox 2012 (lower right). The density scale is logarithmic,
+ranging from 102 to 105 cm−3 for the density irregularities.
+the neutral winds), in turn is dependent on the variations of
+the plasma density, so the initial condition can be specified
+solely in terms of the plasma density. For this we use the
+C/NOFS observations to describe the longitudinal (east–west
+along the geomagnetic equator) variation of the density, using
+specific cases from particular times and dates since each
+is unique. Because of the satellite’s low-inclination orbit, its
+motion allows it to sample the longitudinal variation of the
+plasma density; because it moves quickly compared to the
+evolution timescales of the plasma, its sequential sampling
+through a time interval can be taken as a snapshot of the variation
+through the range of longitudes it visits through that
+time. With the orbital speeds of low earth orbit (8 km s−1),
+the 1 Hz sampling of the PLP instrument is just about right
+for plume models of this kind, which typically have grid
+spacings of 4–8 km.
+To fully specify the plasma perturbation for the simulation’s
+initial condition, however, we need to specify the vari-
+ation of the perturbation with altitude and latitude as well.
+A linearization of the continuity equation shows that when
+the perturbations are small, the altitude variation is proportional
+to the altitude gradient of the ambient density. (This
+means, for example, that the perturbations are small near the
+F layer peak because any displacement of the layer brings
+plasma of nearly the same density to that height.) For the latitudinal
+variation, we appeal to our climatology and employ
+a Gaussian distribution over latitudes about the geomagnetic
+equator, with a half-width of 5◦. Thus, we first map out the
+perturbations in the equatorial plane, assuming that the dependence
+on altitude and longitude can be regarded as sepa-
+rable. The longitudinal variation is provided by the satellite
+observations while the variation in altitude is specified by the
+Ann. Geophys., 32, 485–498, 2014 www.ann-geophys.net/32/485/2014/
+ J. M. Retterer and P. Roddy: Faith in a seed 493
+ PB08249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+ PB08307  PB09067  PB09123
+ PB09249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+ PB09307  PB10067  PB10123
+ PB10249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+ PB10307  PB11067  PB11123
+ PB11249
+0 
+   
+   
+   
+   
+ L
+T
+   
+   
+   
+   
+ 2
+4
+-20          ∆lateq          20
+ PB11307
+-20          ∆lateq          20
+ PB12067
+-20          ∆lateq          20
+ PB12123
+-20          ∆lateq          20
+2 2.5 3 3.5 4 4.5
+log rms∆Ne
+Fig. 9. Climatology of plasma density irregularities as a function of latitudinal distance from the geomagnetic equator and local time (LT),
+integrated over all longitudes and averaged over seasons from (Northern Hemisphere) summer 2008 (upper left) to spring equinox 2012
+(lower right). The density scale is logarithmic, ranging from 102 to 105 cm−3 for the density irregularities.
+variation of the absolute value of the derivative of the density
+profile with respect to altitude in the equatorial plane,
+normalized by the magnitude of the derivative at the satellite
+observation point. Then, the variation along the length of
+each flux tube crossing the equatorial plane is described by
+the Gaussian function of latitude, because we expect the fast
+flux-tube-aligned parallel transport to maintain correlation of
+densities at points along each flux tube.
+We simulate the ionospheric plasma on days 281 and 282
+of 2010, near the longitude 280◦. The ambient model of PBMOD
+(Retterer, 2005) was run to provide the ambient back-
+ground and to evaluate the strength of the RT instability using
+the formulas of Sultan (1996) in the ambient plasma density
+as determined by PBMOD (Retterer et al., 2005) using the
+C/NOFS Ion Velocity Meter (IVM) vertical drifts (Stoneback
+et al., 2011) as a driver. Figure 10 shows that the plasma was
+mildly unstable on day 281 (minimum exponentiation time
+about 21 min) but stable on day 282.
+We show the results of the simulation of the irregularities
+on the stable day first, in Fig. 11. Six snapshots of the
+plasma density at different times are shown here as a function
+of east–west distance and altitude in the geomagnetic
+equatorial plane. The east–west distances are given in terms
+of geographic longitude. The simulation was performed with
+a 256 × 256 grid in the equatorial plane, thus with grid cells
+about 4 km by 4 km, with 201 points describing the variation
+of the density along the magnetic field line in each flux
+tube intersecting that plane. Because the density variations
+would be too small to discern if the total density were plotted,
+we plot here instead the deviation from the mean density
+at each altitude, which allows the longitudinal structure of
+the small irregularities and their evolution to be seen. The top
+www.ann-geophys.net/32/485/2014/ Ann. Geophys., 32, 485–498, 2014
+ 494 J. M. Retterer and P. Roddy: Faith in a seed
+15 20 25 30 35
+RunID: PB10281  gglon= 280  gglat= -12
+0
+200
+400
+600
+800
+1000
+Altitude
+γ [sec-1]
+0.0005
+0.0006
+0.0007
+0.0008
+0.0009
+15 20 25 30 35
+Universal Time
+RunID: PB10282  gglon= 280  gglat= -12
+0
+200
+400
+600
+800
+1000
+Altitude
+Fig. 10. Plasma density (contours) and RT instability growth rate
+(color shading) calculations for longitude 280◦ on days 281 and 282
+of 2010, performed by PBMOD with assimilation of C/NOFS IVM
+vertical plasma drift. The plasma is mildly unstable on day 281 but
+stable on day 282.
+left snapshot is the initial condition, specified by the C/NOFS
+measurements. Time then advances to the right and then on to
+the lower row of snapshots. With the ambient vertical plasma
+drift employed in this simulation (note that the density structures
+do not rise much in altitude with time), the strength
+of the RT growth rate is minimal and, although the irregularities
+are amplified by about a factor of two, no rapidly
+rising plumes develop. We see the shear in the zonal drift
+of the plasma (Zalesak et al., 1982) shape the original vertical
+perturbations into the characteristic backward “C” shape.
+Other than the modest amplification and some slight diffusive
+smoothing and this zonal-drift shear, the density per-
+turbations propagate with little modification with time. Note
+that periodic boundary conditions are employed in the calculation,
+so that, with the eastward zonal drift, as a struc-
+ture leaves the simulation on the right side of the box, it
+is reintroduced on the left side. Although the amplitude of
+the density irregularities remains small, filamentation of the
+original density structures into shorter-wavelength features
+is apparent at later times in the simulation. The formation
+of these roughly 30 km-long irregularities may be caused by
+collisional shear instabilities driven by the shear in the neutral
+wind and the difference between the wind and the ion
+drifts (Hysell and Kudeki, 2004). (Note that although the observations
+in Fig. 2 show amplified irregularities later in the
+evening, the satellite has moved into a completely different
+longitude sector by then, with different stability conditions.)
+The results of the simulation of the structure on the unstable
+day 281, 2010, are shown in Figs. 12 and 13. Figure 12
+shows snapshots of the density perturbations calculated as
+done for Fig. 11. Note the rapid increase in the range of the
+density variations (about a factor of ten from the initial range)
+as the plume develops around 25 UT. These density variations
+become strong enough to view in a plot of the total
+density (Fig. 13).
+The spectrum of density irregularities in the simulations
+can be extrapolated into the scale range relevant to interaction
+with propagating radio waves to estimate the strength
+of scintillation that they can cause (Retterer, 2010b). We
+do not expect strong scintillation from these daytime irregularities
+because daytime conductivities prevent the occur-
+rence of the Rayleigh–Taylor instability, whose nonlinear development
+leads to the cascade that strengthens the turbu-
+lence at the shorter wavelengths (λ <≈ 1 km) that interact
+with radio propagation at relevant frequencies. Weak scintillation
+(S4 < 0.4) during the daytime is in fact observed at
+the Ancon, Peru site of the US Air Force SCINDA (Scintillation
+Decision Aid) network(Groves et al., 1997) on the days
+presented here. Daytime F region irregularities that produce
+spread-F-like effects have also been observed by radar and
+reported by Woodman et al. (1985), Chau and Woodman
+(2001), and Shume et al. (2013).
+5 Conclusions
+In this paper we have shown how important it is to know
+the initial perturbation of the ionospheric plasma as well as
+the RT growth rate to model the development of equatorial
+plasma plumes and the turbulence embedded within them.
+There are many possibilities for the source of these initial
+perturbations, traveling ionospheric disturbances driven by
+atmospheric gravity waves being one of them. But systematic
+knowledge of the daytime irregularities has been limited, so
+we appealed to observations of densities by the PLP instrument
+on the C/NOFS satellite to provide a climatological de-
+scription of them.
+Using the data, we calculated the mean values of the density
+irregularities as a function of altitude, latitude, longi-
+tude, local time, season, and phase of solar cycle through
+the C/NOFS era: so far, 2008–2012. The next step in the
+analysis will be to calculate occurrence probabilities because
+Ann. Geophys., 32, 485–498, 2014 www.ann-geophys.net/32/485/2014/
+ J. M. Retterer and P. Roddy: Faith in a seed 495
+LT= 17.9513
+300
+400
+500
+600
+A
+lti
+tu
+de
+LT= 18.2847 LT= 18.618
+274 276 278 280 282 284
+LT= 18.9513
+300
+400
+500
+600
+A
+lti
+tu
+de
+Longitude
+274 276 278 280 282 284
+LT= 19.2847
+Longitude
+274 276 278 280 282 284
+LT= 19.618
+Longitude
+-10000 0 10000
+ ∆ Equatorial e- Density
+Fig. 11. Snapshots of the density perturbations taken at a sequence of times in a simulation (in number per cm3) in the plane of the geomagnetic
+equator as a function of longitude and apex altitude, beginning with the density perturbations observed by the C/NOFS satellite around
+23.3 UT on day 282 of 2010 near longitude 280◦ (upper left plot). Time advances looking from left to right, and then continues in the lower
+row of plots. Modified by diffusion and shear, these perturbations do not develop into plumes; the plasma was stable at this location and time.
+the case studies we presented showed that the daytime irregularities
+can be quite variable, being stronger one day
+than the next. (We have hesitated to do this so far because
+unevenness in sampling is a more difficult problem for
+occurrence-percentage calculations than it is for calculations
+of mean values.)
+Our analysis of the data showed a nearly ubiquitous presence
+of density fluctuations in the low-latitude ionosphere
+with sufficient amplitude to form reasonable seeds for the
+formation of equatorial plumes as these irregularities get amplified
+by the Rayleigh–Taylor instability. We used the ir-
+regularities observed on two days to seed a plume model to
+demonstrate the nature and properties of the mature irregularities
+that can form from them, on both stable and RT-
+unstable days – the spacings of the plumes, etc. The next
+step here would be to perform these calculations for a large
+number of days to get a statistical characterization of such
+parameters to compare to the observational database. The
+near ubiquity of the density fluctuations may explain the success
+of calculations of the probability of equatorial plasma
+bubbles within the DMSP (Defense Meteorological Satellite
+Program) satellite data set using bubble simulations employing
+uniform seeding with longitude and season (Retterer and
+Gentile, 2009).
+We isolated relatively small (shorter than 300 km) wavelengths
+in our separation of finer scales from ambient scales
+(to better characterize the local structure of the irregularities).
+It has been suggested (Tsunoda, 2005) that very long wavelength
+waves are responsible for the seeding, and indeed it
+would be possible to extend the present study to look for
+these. In fact, the hints of coupling with the lower atmosphere
+within the data suggest that it would be interesting
+to look for planetary-wave scale variations in the ionospheric
+density measurements, which might help explain some of the
+long-term variations in scintillation occurrence.
+It has recently come to be appreciated that because the spatial
+filtering of the upward propagating gravity waves (Fritts
+and Vadas, 2008) limits the spectrum of gravity waves that
+reach ionospheric heights to those of 100 km wavelengths or
+longer, it is practical to conduct a simulation of the whole atmosphere
+(Fuller-Rowell et al., 2008) with reasonably sized
+grids that permits these waves to affect the ionosphere. Using
+these gravity waves to produce the ionospheric disturbances
+that can be amplified by plasma instabilities in a plume simulation
+(Retterer et al., 2014) removes the need to specify an
+artificially imposed initial perturbation altogether. It remains
+to be seen whether the variability in irregularity occurrence
+produced by this lower-atmospheric driving is sufficient to
+explain the observed day-to-day variability of scintillation
+occurrence.
+www.ann-geophys.net/32/485/2014/ Ann. Geophys., 32, 485–498, 2014
+ 496 J. M. Retterer and P. Roddy: Faith in a seed
+LT= 18.4813
+300
+400
+500
+600
+A
+lti
+tu
+de
+∆N limit: 40000
+LT= 18.9813
+∆N limit: 40000
+LT= 19.4813
+∆N limit: 80000
+274 276 278 280 282 284
+LT= 19.9813
+300
+400
+500
+600
+A
+lti
+tu
+de
+∆N limit: 160000
+Longitude
+274 276 278 280 282 284
+LT= 20.4813
+∆N limit: 320000
+Longitude
+274 276 278 280 282 284
+LT= 20.9813
+∆N limit: 320000
+Longitude
+∆ Equatorial e- Density
+-∆N limit             0            ∆N limit
+Fig. 12. Snapshots of the density perturbations taken at a sequence of times in a simulation in the plane of the geomagnetic equator as a
+function of longitude and apex altitude, beginning with the density perturbations observed by the C/NOFS satellite around 23.8 UT on day
+281 of 2010 near magnetic longitude 280◦. Note the changing scale from snapshot to snapshot for the density perturbations (permitted to vary
+to capture all the variations of the density); the magnitude of the limits of the range of density perturbations (in number per cm3) spanned by
+the color bar are indicated in each panel. In this case, plumes do develop.
+LT= 18.4813
+300
+400
+500
+600
+A
+lti
+tu
+de
+LT= 18.9813 LT= 19.4813
+274 276 278 280 282 284
+LT= 19.9813
+300
+400
+500
+600
+A
+lti
+tu
+de
+Longitude
+274 276 278 280 282 284
+LT= 20.4813
+Longitude
+274 276 278 280 282 284
+LT= 20.9813
+Longitude
+104 105 106
+Equatorial e- Density
+Fig. 13. Snapshots of the density taken at a sequence of times in a simulation in the plane of the geomagnetic equator as a function of
+longitude and apex altitude, beginning at the time of the density perturbations observed by the C/NOFS satellite around 23.8 UT on day 281
+of 2010 near magnetic longitude 280◦. (These density snapshots correspond to the density perturbations in Fig. 12.)
+Ann. Geophys., 32, 485–498, 2014 www.ann-geophys.net/32/485/2014/
+ J. M. Retterer and P. Roddy: Faith in a seed 497
+Acknowledgements. We thank the C/NOFS instrument teams for
+making their data available for this study. Support for this work was
+provided by AFRL and NASA.
+Topical Editor F. Rodrigues thanks E. Shume and one anonymous
+referee for their help in evaluating this paper.
+References
+Chau, J. L. and Kudeki, E.: Discovery of two distinct types of equatorial
+150 km radar echoes, Geophys. Res. Lett., 40, 4509–4514,
+doi:10.1002/grl.50893, 2013.
+Chau, J. L. and Woodman, R. F.: Interferometric and dual
+beam observations of daytime Spread-F-like irregularities
+over Jicamarca, Geophys. Res. Lett., 28, 3581–3584,
+doi:10.1029/2001GL013404, 2001.
+Dao, E., Kelley, M. C., Roddy, P., Retterer, J., Ballenthin, J. O.,
+de La Beaujardiere, O., and Su, Y.-J.: Longitudinal and seasonal
+dependence of nighttime equatorial plasma density irregularities
+during solar minimum detected on the C/NOFS satellite, Geophys.
+Res. Lett., 38, L10104, doi:10.1029/2011GL047046, 2011.
+de La Beaujardiere, O. and the C/NOFS Science Definition Team:
+C/NOFS: A mission to forecast scintillations, J. Atmos. SolarTerr.
+Phys., 66 (17 SPEC. ISS.), 1573–1591, 2004.
+Fejer, B. G.: Low Latitude Ionospheric Electrodynamics, Space Sci.
+Rev., 158, 145–166 doi:10.1007/s11214-010-9690-7, 2011.
+Fritts, D. C. and Vadas, S. L.: Gravity wave penetration into the
+thermosphere: sensitivity to solar cycle variations and mean
+winds, Ann. Geophys., 26, 3841–3861, doi:10.5194/angeo-263841-2008,
+2008.
+Fuller-Rowell, T. J., Akmaev, R. A., Wu, F., Anghel, A., Maruyama,
+N., Anderson, D. N., Codrescu, M. V., Iredell, M., Moorthi, S.,
+Juang, H.-M., Hou, Y.-T., and Millward, G.: Impact of terrestrial
+weather on the upper atmosphere, Geophys. Res. Lett., 35,
+L09808, doi:10.1029/2007GL032911, 2008.
+Gentile, L. C., Burke, W. J., and Rich, F. J.: A global climatology
+for equatorial plasma bubbles in the topside ionosphere, Ann.
+Geophys., 24, 163–172, SRef-ID: 1432–0576/ag/2006–24–163,
+2006.
+Groves, K. M., Basu, S., Weber, E. J., Smitham, M., Kuenzler,
+H., Valladares, C. E., Sheehan, R., MacKenzie, E., Secan, J. A.,
+Ning, P., McNeill, W. J., Moonan, D. W., Kendra, M. J.: Equatorial
+scintillation and systems support, Radio Sci., 32(5), 2047–
+2064, doi:10.1029/97RS00836, 1997.
+Hagan, M. E. and Forbes, J. M.: Migrating and nonmigrating
+semidiurnal tides in the upper atmosphere excited by tropospheric
+latent heat release, J. Geophys. Res., 108, 1062,
+doi:10.1029/2002JA009466, 2003.
+Hines, C. O.: The Upper Atmosphere in Motion, AGU Publications,
+Washington, DC, 1974.
+Hooke, W. H.: Ionospheric irregularities produced by internal atmospheric
+gravity waves, J. Atmos. Terr. Phys., 30, 795–823, 1968.
+Hysell, D. L. and Kudeki, E.: Collisional shear instability in the
+equatorial F region ionosphere, J. Geophys. Res., 109, A11301,
+doi:10.1029/2004JA010636, 2004.
+Immel, T. J., Sagawa, E., England, S. L., Henderson, S. B., Hagan,
+M. E., Mende, S. B., Frey, H. U., Swenson, C. M.,
+and Paxton, L. J.: Control of equatorial ionospheric morphology
+by atmospheric tides, Geophys. Res. Lett., 33, L15108,
+doi:10.1029/2006GL026161, 2006.
+Kelley, M. C.: The Earth’s Ionosphere: Plasma Physics and Electrodynamics,
+Academic Press, San Diego, Calif, 1989.
+Kelley M. C., Makela, J. J., de La Beaujardiere, O., and Retterer,
+J.: Convective Ionospheric Storms: a Review, Rev. Geophys., 49,
+RG2003, doi:10.1029/2010RG000340, 2011.
+Maute, A., Richmond, A. D., and Roble, R. G.: Sources of lowlatitude
+ionospheric ExB drifts and their variability, J. Geophys.
+Res., 117, A06312, doi:10.1029/2011JA017502, 2012.
+Retterer, J. M.: Physics-based forecasts of equatorial radio
+scintillation for the Communication and Navigation Outage
+Forecasting System (C/NOFS), Space Weather, 3, S12C03,
+doi:10.1029/2005SW000146, 2005.
+Retterer, J. M.: Forecasting Low-Latitude Radio Scintillation with
+3-D Ionospheric Plume Models: I. Plume Model, J. Geophys.
+Res., 115, A03306, doi:10.1029/2008JA013839, 2010.
+Retterer, J. M.: Forecasting Low-Latitude Radio Scintillation with
+3-D Ionospheric Plume Models: II. Scintillation Calculation, J.
+Geophys. Res., 115, A03307, doi:10.1029/2008JA013840, 2010.
+Retterer, J. M. and Gentile, L. C.: Modeling the climatology of
+equatorial plasma bubbles observed by DMSP, Radio Sci., 44,
+RS0A31, doi:10.1029/2008RS004057, 2009.
+Retterer, J. M., Decker, D. T., Borer, W. S., Daniell Jr., R. E., and Fejer,
+B. G.: Assimilative modeling of the equatorial ionosphere for
+scintillation forecasting: Modeling with vertical drifts, J. Geophys.
+Res., 110, A11307, doi:10.1029/2002JA009613, 2005.
+Retterer, J. M., Fuller-Rowell, T., Tzu Wei, and Fei Wu: Seeding of
+Ionospheric Irregularities by Whole Atmosphere Model Dynamical
+Fields, in preparation, 2014.
+Roddy, P. A., Hunton, D. E., Ballenthin, J. O., and Groves, K. M.:
+Correlation of in situ measurements of plasma irregularities with
+ground-based scintillation observations, J. Geophys. Res., 115,
+A06303, doi:10.1029/2010JA015288, 2010.
+Shume, E. B., Rodrigues, F. S., de Paula, E. R., Batista, I.S., Butala,
+M. D., Galvan, D. A.: Day-time F region echoes observed
+by the Sao Luis radar, J. Atmos. Sol. Terr. Phys., 103, 48–55,
+doi:10.1016/j.jastp.2013.02.003, 2013.
+Stoneback, R. A., Heelis, R. A., Burrell, A. G., Coley, W. R., Fejer,
+B. G., and Pacheco, E.: Observations of quiet time ver-
+tical ion drift in the equatorial ionosphere during the solar
+minimum period of 2009, J. Geophys. Res., 116, A12327,
+doi:10.1029/2011JA016712, 2011.
+Sultan, P. J.: Linear theory and modeling of the Rayleigh–Taylor instability
+leading to the occurrence of equatorial spread F, J. Geo-
+phys. Res., 101, 26875–26891, doi:10.1029/96JA00682, 1996.
+Tsunoda, R. T.: On the enigma of day-to-day variability
+in equatorial spread F, Geophys. Res. Lett., 32, L08103,
+doi:10.1029/2005GL022512, 2005.
+Tsunoda, R. T.: On equatorial spread F: Establishing a
+seeding hypothesis, J. Geophys. Res., 115, A12303,
+doi:10.1029/2010JA015564, 2010.
+Woodman, R. F., Pingree, J. E. and Swartz, W. E.: Spread-F-like
+irregularities observed by the Jicamarca radar during the daytime,
+J. Atmos. Sol. Terr. Phys., 47, 867–874, doi:10.1016/0021-
+9169(85)90061-3, 1985.
+www.ann-geophys.net/32/485/2014/ Ann. Geophys., 32, 485–498, 2014
+ 498 J. M. Retterer and P. Roddy: Faith in a seed
+Yizengaw, E., Retterer, J., Pacheco, E., Groves, K., Caton, R.,
+and Baki, P.: Post-midnight Bubbles and Scintillations in the
+Quiet-Time June Solstice, Geophys. Res. Lett, 40, 5592–5597,
+doi:10.1002/2013GL058307, 2013.
+Zalesak, S. T., Ossakow, S. L., and Chaturvedi, P. K.: Nonlinear
+equatorial spread F: The effect of neutral winds and back-
+ground Pedersen conductivity, J. Geophys. Res., 87, 151–166,
+doi:10.1029/JA087iA01p00151 1982.
+Ann. Geophys., 32, 485–498, 2014 www.ann-geophys.net/32/485/2014/

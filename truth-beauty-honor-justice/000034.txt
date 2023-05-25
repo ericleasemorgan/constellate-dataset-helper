@@ -1,0 +1,824 @@
+Constructing Indigeneity: Postcolonial 
+Dynamics in Charles Brockden Brown's 
+Monthly Magazine and American Review 
+Steven Frye 
+Charles Brockden Brown was the first professional author in the United 
+States, one of the early lights in the tradition of the American novel, and the 
+founder and major contributor to a number of early American periodicals such 
+as The Monthly Magazine and American Review and The Literary Magazine and 
+American Register. In this regard, he provides a gauge of the conflicts, tensions, 
+and issues that characterize American culture in the decades following the 
+Revolutionary War. Brown was born in Philadelphia in 1771 in the midst of 
+increasing political conflict. The son of Quaker parents, he experienced both 
+religious training and exposure to the practical realities of eighteenth-century 
+urban mercantile culture. His father, Elijah, entertained radical political sympa­
+thies, but like other Quakers he did not actively support the Revolution. The 
+family business suffered as a result, and Brown grew up in an environment where 
+both Christian and political idealism clashed in a conflict of ambivalent values. 
+Brown reached early adolescence as the war came to a close, and after an 
+education in law he embarked upon the precarious career as a man of letters. His 
+literary efforts lasted for about a decade—from 1792 to 1802—a period 
+following the constitutional crisis between Federalists and Anti-Federalists, but 
+a time still reflecting many of its ideological tensions. Brown's editorial work 
+in The Monthly Magazine and American Review reflects the temper of the age, 
+mirroring the uncertainty of a nation split by political battles and party faction, 
+by the conflicts that naturally arise as a new nation attempts to construct a 
+cultural identity through the appropriation and modification of imperial influ­
+ences. 
+0026-3079/98/3903-069$2.00/0 American Studies, 39:3 (Fall 1998): 69-88 
+69 
+ 70 Steven Frye 
+Figure 1: Portrait of Charles Brockden Brown by James Sharpies, circa 
+January 1798. (Provided courtesy of the Worcester Art Museum, Worces­
+ter, Massachusetts.) 
+Critics and literary historians have debated Brown's politics and social 
+philosophy. Scholars in the 1950s and 1960s point to the influence of Godwinian 
+social radicalism. William Godwin (1756-1836) was the father of Mary Shelley 
+and husband of Mary Wollstonecraft.l He was an anarchist and foundational 
+influence for romantic poets such as William Wordsworth, Samuel Taylor 
+Coleridge, and Percy Bysshe Shelley. Godwin argued that human beings were 
+creatures of environment and that governmental institutions were inherently 
+corrupt. In 1950, Lulu Rumsey Wiley traced the influence of Godwin's ideas on 
+Brown's gothic romances.2 Donald Ringe referred to the influence of Godwin in 
+ Constructing Indigeneity 71 
+his 1966 study of Brown's works. Also in 1966, Warner Berthoff wrote that 
+"When Brockden Brown, erstwhile Godwinian, abandoned the novel and turned 
+to political journalism, this, broadly speaking, was the point of view he instinc­
+tively adopted."3 But critics also observe a dissonant, more conservative perspec­
+tive. In the same article, Berthoff argued that Brown's editorial sympathies were 
+also strongly influenced by an "enlightened conservatism."4 The exploration of 
+Brown's implicit conservatism, his support of Federalist politics, his antipathy to 
+the Jefferson administration, continues among recent critics. Shirley Samuels 
+reacts against the assumption that Brown was uniformly radical, stating that 
+"underlying his more radical gothic sensibilities is a rather conservative concen­
+tration on education and the family—a concentration which anticipates the focus 
+on the family in succeeding American novels."5 
+This critical debate suggests that a persistent ambivalence regarding political 
+issues informs Brown's literary efforts, creating a conflict of sensibility that 
+appears not only in his fiction but also in his editorial work. William Hedges 
+points to the "ambivalence of his political feelings—his joint attraction to and fear 
+of radical utopianism."6 This conflict leads to a dramatic tension that strengthens 
+and empowers Brown's use of the gothic mode in novels such as Wieland and 
+Edgar Huntly, which is a concern specific to literary critics and Brown scholars 
+in particular. But upon close scrutiny these tensions are pertinent to cultural 
+historians, theorists, and Americanists in general. Brown's ambivalent views on 
+political and social matters reflect a broader conflict in late eighteenth- and early 
+nineteenth-century American culture as a whole. The popular journalistic litera­
+ture of the new nation, as contained in The Monthly Magazine and American 
+Review, provides an invaluable guide to the political and epistemological per­
+spectives that existed in the American early national period. During this era, the 
+cultural phenomena theorized as "postcoloniality" are clearly operative, as 
+Brown's literary efforts reveal noticeable conflicts between the hegemonic 
+discourses of the imperial power and the emerging counter-narratives of the new 
+nation. 
+Many theorists have characterized American literature as "postcolonial," but 
+working critics have too often ignored this assertion. Applications of postcolonial 
+theories have been largely limited to dialect studies in "local color" fiction.7 
+Although some critics, such as Lawrence Buell and Janet Gabler-Hover, resist the 
+notion of postcoloniality in early American texts, the cultural and political 
+situation in America during Brown's time, the last three decades of the eighteenth 
+century and the first decade of the nineteenth century, mirrors in specific ways the 
+regions and nationalities that recent postcolonial theorists explore. In a remark­
+able study entitled The Empire Writes Back: Theory and Practice in Postcolonial 
+Literatures, Bill Ashcroft, Gareth Griffiths, and Helen Tiffin provide a useful 
+descriptive study of postcolonial regions and literatures. These theorists distin­
+guish between two different kinds of colonies: the "native" colony, the region 
+where the colonizer establishes political and economic dominance over indig­
+enous populations, and the "settler" colony, where the colonial settler, while 
+ 72 Steven Frye 
+alienating, suppressing, and controlling native peoples and remaining tenuously 
+linked to Europe, establishes a political independence while struggling for 
+cultural autonomy separate from the colonizer.8 These two forms of colonial 
+arrangement affect the historical process of cultural development. Ashcroft, 
+Griffiths, and Tiffin point to America as a site of postcolonial dynamics: 
+. . . the literatures of African countries, Australia, Bangladesh, 
+Canada, Caribbean countries, India, Malaysia, Malta, New 
+Zealand, Pakistan, Singapore, South Pacific Island countries, 
+and Sri Lanka are all post-colonial literatures. The literature of 
+the USA should also be placed in this category. Perhaps 
+because of its current position of power, and the neo-colonizing
+role it has played, its post-colonial nature has not been 
+generally recognized. But its relationship to the metropolitan 
+centre as it evolved over the last two centuries has been 
+paradigmatic for post-colonial literatures everywhere.9 
+American literature quite clearly manifests all the features of the settler 
+colony, displaying the same cultural processes of regions more universally 
+recognized as postcolonial. D. E. S. Maxwell cites the United States as the 
+prototypical postcolonial situation, a region displaying the basic features of the 
+settler colonies of Canada, New Zealand, and Australia.10 These countries, as well 
+as various Latin American countries in their early years of nationhood and 
+independence, involve a crisis of identity, as they attempt to construct indigenous 
+cultures through the process of appropriation, abrogation, and syncreticity. The 
+appropriation of colonial influence—in politics, art, literature, philosophy—the 
+abrogation or rejection of other aspects of colonial culture, as well as the 
+combination of colonial and native influence, typify the postcolonial situation in 
+the settler colony. Ashcroft, Griffiths, and Tiffin mention Brown specifically, 
+stating that "the works of Charles Brockden Brown in the United States provide 
+excellent examples of such a conflict."11 
+Brown's editorial selections in The Monthly Magazine and American Review 
+reveal a crisis of identity typical of an author both inscribed within yet marginalized 
+by a dominant literary and cultural tradition. In Kenneth Dauber's terms, Brown's 
+work was "unsure of itself from the beginning," and was primarily concerned 
+with its own nature, its own identity as a historically and geographically specific 
+cultural production.12 Brown was torn between a tendency to appropriate English 
+political ideals, epistemological systems, and social values, and a desire to 
+abrogate the influence of the imperial power, thereby reconstituting his emerging 
+culture through an identity rooted in "place."13 
+This is a discursive phenomenon common in the postcolonial context. It is 
+manifest in the work of Irish writers such as W. B. Yeats, James Joyce, Seamus 
+Heaney, and Stewart Parker, as well as in the work of Indian authors such as R. 
+K. Narayan and the Trinidadian V. S. Naipaul. Like these writers, Brown's 
+ Constructing Indigeneity 73 
+literary efforts provide important insights into a new and emerging literary and 
+cultural consciousness, a consciousness that reflects precisely the same conflicts 
+and contradictions that have historically appeared among settler colonies world­
+wide. To apprehend these conflicts and contradictions, selections from The 
+Monthly Magazine must be precisely and carefully analyzed, but they must first 
+be situated within the cultural context of postcolonialism. This essay will 
+therefore involve a discussion of 1) American historical context and 
+postcolonialism; and 2) discourse and counter-discourse in The Monthly Maga­
+zine. 
+I 
+Before beginning an analysis of the discursive conflicts in Brown's editorial 
+work, it is necessary to situate the texts within a cultural moment, not within the 
+"objective" world of a history previously received, but within a history re­
+configured by the concerns of postcolonial theorists.14 Albert Memmi suggests 
+that any writer in the postcolonial realm must be considered as an artist situated 
+within a special world, an environment characterized by the cultural influences 
+of the colonizer, yet a world that constructs the postcolonial artist in a manner 
+influenced by "place," by a specific set of cultural influences that emanate from 
+historical, political, geographical, and intellectual factors.15 The sense of dis­
+placement typical of people living in a postcolonial situation, the simultaneous 
+attachment to an unfamiliar place and an oddly familiar yet still somehow foreign 
+cultural tradition, is precisely the experience reflected in Brown's social world. 
+The political discourse and ideology of Brown's time was defined by earlier 
+European thinkers such as Jean-Jacques Rousseau and John Locke, but it was 
+expressed and reconsidered in an American context by political figures like 
+Thomas Jefferson. Jefferson was an older contemporary of Brown who wrote 
+during Brown's youth. Upon close inspection Jefferson himself expressed some 
+of the paradoxical attitudes associated with the developing identity of the settler 
+colony. Egalitarian revolutionary though he was, Jefferson in Notes on the State 
+of Virginia (1785) displays an aristocratic sensibility directly appropriated from 
+the European colonizer. He expresses an ambivalence and fear of the liberties 
+achieved through revolutionary conflict. Jefferson contemplated the fragility 
+inherent in democracy and the transience of the individualistic fervor upon which 
+a people's government depends. He suggested that the values that fueled the 
+Revolution must be codified while a humane temper still remained. Even 
+democracy could not protect the masses from their own complacency and from 
+political corruption. 
+Implicit in Jefferson's political ambivalence is a respect for European 
+intellectual culture coupled oddly with a desire to create a new nation in a new and 
+distinctive landscape. The anxiety characteristic of this situation is central to the 
+work of the Trinidadian postcolonial writer, V. S. Naipaul, particularly in The 
+Mimic Men. Through his narrator Kripal Singh, Naipaul explores the tension 
+ 74 Steven Frye 
+inherent in the postcolonial writer between the competing ideologies of imperial 
+metropolitan "center" and colonial "margin." As he recalls his early school lesson 
+about the "weight" of the king's crown, Singh creates a contrast between the order 
+created through colonizing culture and the disorder that characterizes not only the 
+social world but also the consciousness of the postcolonial subject. While Naipaul 
+displays keen insight into this power/language/order nexus, he remains oddly 
+attracted to the ideologies of the colonizer, even though they construct his culture 
+as nothingness and disorder.16 In America, this attraction and split consciousness 
+is apparent in Jefferson, and it found its way further into the political sphere, 
+leading to the final phase of polemical writing of the Revolutionary era that 
+informed Brown as a youth, resulting in The Federalist Papers. These polemics 
+appeared in the New York newspapers between October 1787 and April 1788 and 
+were written by Alexander Hamilton, John Jay, and James Madison. The essays 
+contain a clear and lucid analysis and assertion of Federalism and the separation 
+of powers, and they further theorize the distinction between direct and represen­
+tative democracy. They reflect an anxiety about the limits, practicability, and 
+purpose of the new American democracy, displaying an attraction to European 
+imperial and aristocratic culture. Here the postcolonial dynamics of empire and 
+nationhood are central to the very debates that characterize the early national 
+period. 
+These political conflicts were augmented in Brown's time by philosophical 
+debates that dealt specifically with epistemology. Questions about the nature and 
+validity of knowledge were at the center of the European enlightenment, and the 
+epistemological questions that preoccupied the American intelligentsia did not 
+originate on this continent. But whenever a people achieve political independence 
+in a new place, their first problem becomes how to incorporate that place into a 
+known frame of reference. Questions related to how one "knows" the new region, 
+how one "knows" one's place within it, become immediate and crucial. Intensi­
+fied epistemological conflicts are characteristic of the postcolonial situation, and 
+certain rifts, junctures, and subtle differences can be observed between colonizer 
+and colonized. 
+This heightened concern with epistemological issues is often expressed by 
+postcolonial writers in varying degrees of subversiveness. As Ashcroft, Griffiths 
+and Tiffin suggest: "in the questions post-colonial texts posed, in their radical 
+attempts to address the issues of language, reality, and their inherited and now 
+troubling epistemological assumptions, there was a necessary subversive ele­
+ment."17 There is always a political and social dimension to any process of 
+epistemological questioning. As Edward Said writes: "No one has ever devised 
+a method for detaching the scholar from the circumstances of life, from the fact 
+of his involvement (conscious or unconscious) with a class, a set of beliefs, a 
+social position, or from the mere activity of being a member of a society."18 The 
+political dynamics typical of the postcolonial situation in America affected in 
+noticeable ways the stances American authors such as Brown took on the 
+philosophical issues related to the creation of knowledge.19 
+ Constructing Indigeneity 75 
+The eighteenth and early nineteenth centuries in America can be seen as a 
+period which evolved from a theologically based set of epistemological systems, 
+such as Quakerism and Calvinism, to Deism and the empiricist skepticism of the 
+Enlightenment period.20 In considering Brown's work, Roland Hagenbiichle 
+complicates this by observing the influence of David Hume (1711-1776). Hume 
+was the British philosopher, historian, and economist who wrote A Treatise of 
+HumanNature (1739,1740) and An Enquiry Concerning Human Understanding 
+(1758), among other works. He called into question aspects of Lockean epistemology
+in his criticism of causality. Causal relationships among perceived 
+objects in the natural world were not verifiable in the objects themselves but were 
+observed by human minds and conditioned by the habits and natural processes of 
+those minds. Causal relationships were understood not through observation and 
+perception alone but by habitual association and custom. While early nineteenthcentury
+English novelists rely on Locke's epistemological optimism, Brown's 
+work in America tends to reflect Hume's skepticism, his attack on causality and 
+substance.21 
+The circumstances that focused these issues for Brown in America evolved 
+out of the political debates of the Federalists and Anti-Federalists. Though the 
+debates had ended on the floor of Congress by the time Brown came of age as a 
+man of letters, the contested issues remained central to American politics until the 
+Civil War. The constitutional crisis of the 1780s revolved implicitly around 
+epistemological assumptions regarding the validity of human perception. Humean 
+skepticism, the critique of objective causality (which accounts to some degree for 
+Brown's later Federalist sensibilities), must call into question the public's 
+capacity to analyze and understand their own cultural circumstances, and thereby 
+implicitly challenges the notion of egalitarian democracy. What characterizes 
+these conflicts is a preoccupation and attraction typical of the settler colony with 
+colonial influence in the realm of speculative philosophy. But what further 
+characterizes these debates is the heightened preoccupation with epistemological 
+questions that often appear in postcolonial societies, together with the initial signs 
+of juncture and difference, reflected in subversiveness, that lead to new cultural 
+identity through appropriation, abrogation, and syncreticity. Political indepen­
+dence does little to relieve the crisis of identity of the settler colony, a crisis that 
+finds dramatic expression in the world of ideas, in debates revolving around 
+epistemological questions. 
+These are some of the tensions that appear in Brown's work. As William 
+Hedges suggests, Brown was "forced to borrow essentially alien narrative 
+devices and situations" and he was "able to adapt them to native conditions only 
+imperfectly." Yet like Yeats, Naipaul, and Narayan, he is instrumental in 
+establishing a new native tradition in the context of the settler colony, since "He 
+is credited with being the first to sense the peculiar suitability of such derivative 
+and discredited fictional forms as romance and melodrama to what are more and 
+more alleged to be the deepest American impulses."22 Of course critics through-
+ 76 Steven Frye 
+out the twentieth century have recognized these conflicts in Brown. Richard 
+Chase paraphrased Marius Bewley, who discusses the "opposition between 
+tradition and progress or between the past and the future; between Europe and 
+America, liberalism and reaction, aggressive acquisitive economics and benevo­
+lent wealth."23 But with the advent of cultural studies and postcolonial theory, 
+which became truly widespread among literary scholars in the late 1970s, we can 
+see that these tensions reflect the broader social phenomenon referred to as 
+postcolonialism. To echo the ideas of Maria Bulgheroni, Brown's modernity, his 
+prototypical existential alienation, display similar sensibilities to colonized 
+peoples worldwide.24 
+II 
+An analysis of periodicals such as Brown's Monthly Magazine and American 
+Review is particularly revealing when considering the American postcolonial 
+situation. A study of his primary texts such as Wieland and Edgar Huntly reveals 
+an interesting amalgam of hegemonic and counter-discursive elements. But the 
+author's attempt to produce works of artistic merit lead to a necessary focus on 
+form, genre, style, and language. In addition, as Richard Terdiman asserts in his 
+analysis of nineteenth-century French literature, the literature of any postcolonial 
+period often defines the condition of its existence as counter-discursive, and, in 
+designating itself as oppositional, it marginalizes itself and does not lend itself to 
+a ready identification of the mainstream hegemonic discourses that function 
+within the culture.25 
+To seize and understand the dominant discursive patterns is a complicated 
+process, and to grasp these patterns one must move outside the realm of high 
+culture. Popular periodicals offer a more fruitful area of analysis, since by 
+necessity they directly reflect the social and political climate. Terdiman, in his 
+discussion of early nineteenth-century French newspapers, stated that in their 
+"ubiquity," in their tendency toward the banal, commercial presses functioned as 
+a medium for the dominant ideas of a culture.26 
+In the late eighteenth century in America, the periodical was a comparatively 
+new literary form. In its identity as a "popular" or "commercial" literature, and 
+in its effort to appeal directly to its audience, this literature functioned to reflect 
+the enigmatic and complicated cultural demographics of the American postcolonial 
+situation. Like the newspaper in Terdiman's analysis, American periodicals 
+manifested the "dynamics of resistance," reflecting both hegemonic and counterdiscursive
+narrative elements. As a new form yet to be fully appropriated by high 
+culture, these journals reflected a multiplicity of cultural voices. (Brown in fact 
+singlehandedly wrote much of The Monthly Magazine, but his own conflicting 
+political and theological sensibilities and his desire to create a successful journal 
+led to the heterogenous nature of the various selections). In the first two issues of 
+The Monthly Magazine and American Review, published in April and May, 1799, 
+these various viewpoints become apparent in Brown's selection of non-fiction 
+and polemic materials, didactic and moral essays, and informal epistolary pieces. 
+ Constructing Indigeneity 77 
+Conflicting perspectives in the inaugural issue first become apparent in the 
+epistle entitled "Original Communications" (April 1799) in which a "CANDIDUS" 
+criticizes Brown's aims for the periodical (Dunlap, in his early biography of 
+Brown, suggests that CANDIDUS is probably Brown himself). This criticism 
+points to the conflicts and contradictions in the editorial position Brown adopts, 
+and in it Brown pokes fun at his own conflicted sensibilities. In reminding the 
+editor of "an old fable of a farmer," CANDIDUS warns Brown that "in his 
+eagerness to please all, he displeased every body, and, most of all, himself "27 
+CANDIDUS refers to Brown's apparent egalitarian sensibilities, his desire to 
+produce a publication that responds to an audience that includes people of all 
+classes, tastes, values, and occupations. The author of the epistle asserts that the 
+TUB 
+MONTHLY MAGAZINE, 
+AMD 
+AMERICAN REVIEW, 
+raR THE YEAR 
+1 7 9 9 = 
+FROM APRIL TO DECEMBER INCLUSIVE. 
+Fimfu etfùrit undo. 
+V i t c n . 
+VOL. L 
+W 
+N E W - Y O R K » 
+PrifltfJiadfoMbjT.«t J.SWORJDS, K* 99 PotMtfcM. 
+iSoo. 
+Figure 2: Title page of the inclusive 1799 issue of The Monthly Mag­
+azine and American Review, edited by Charles Brockden Brown, printed 
+by T & J Swords. 
+ 78 Steven Frye 
+"disciples of all the professions, the students of all the sciences, the lovers of 
+literature and poetry," are invited to Brown's "banquet."28 
+Certainly, one of Brown's primary goals is the financial success of his 
+journal. But in conceiving of a publication that will achieve this success, he 
+apparently embraces a rather egalitarian view of his audience. Brown would 
+certainly not expect a tradesman or a farmer to purchase a journal that is too 
+general in nature, and as such addresses their concerns in a severely limited way. 
+Brown seems to believe that these people must possess, in addition to their 
+utilitarian concerns, an interest in literature, poetry, and the empirical sciences. 
+Conversely, people of "taste," whose central interests are intellectual, must also 
+be concerned with the problems and issues that confront the merchant and 
+working classes. Brown seems to assume a consistency of taste and values in his 
+audience, reflecting the historically specific values of one segment of the 
+population during the early national period. In attempting to "appeal to all," 
+Brown's egalitarian sensibilities lead him to normalize the audience, investing 
+the "all" with the values, interests, and merits of divergent cultural and social 
+groups. 
+These sentiments must be contextualized considering the political and social 
+debates that were occurring in America at the time. Brown, though he later 
+became a Federalist, seems clearly influenced in this piece by Jeffersonian 
+politics and the egalitarian social principles and assumptions Jefferson supported. 
+But one can also observe here what so many critics have observed elsewhere— 
+the appropriation of European thought, in the influence of the radical social 
+philosophy of William Godwin (who through Brown's father was in some sense 
+the hero of Brown's youth).29 
+Godwin subverts the notion that humanity in its fallen state must submit to 
+social authority and government. The contrary is in fact true. Human beings are 
+corrupted by the manipulations and artifices of any socially constructed institu­
+tion. It follows then that the ideologies implicit in those institutions, whether 
+political or epistemological, function to re-constitute individuals, bringing them 
+from a "natural" to a social state of being. Godwin's early romanticism and 
+radicalism becomes manifest in Brown's egalitarian sensibility. By implication, 
+Godwin celebrates the egalitarian ideals of agrarianism and the lower classes, 
+who are not constructed socially out of institutional values. Brown's tendency to 
+normalize his audience reflects both romantic and radical sentiments (appropri­
+ated largely from European social philosophy) as well as the essential principles 
+of Jeffersonian politics that were operative in America at the time. 
+Brown's editorial intentions, however, are not consistent in this regard. His 
+skepticism of "liberty," which becomes so apparent in Wieland and other of his 
+works, appears also as CANDDDUS continues his epistolary response to Brown. 
+The editor apparently intends to "speculate on the manners and morals in the style 
+of Addison and Johnson." In this intention there is no direct adherence to the elitist 
+and aristocratic principles these writers support and defend. But considering 
+Brown's well-noted skepticism of pure "liberty," his desire to appropriate the 
+ Constructing Indigeneity 79 
+"styles" of European models reveals an attraction to the colonizing culture. This 
+becomes apparent because Brown promises to "extract the quintessence of 
+European wisdom; to review and estimate the labors of all writers, domestic and 
+foreign; to exercise, by turns, the pencils of Richardson and Tacitus."30 The 
+editor's attraction to the wisdom of antiquity betrays a faith in the political and 
+epistemological systems of a more aristocratic segment of the European intelli­
+gentsia, viewpoints that are fundamentally anti-egalitarian in nature. The epistle 
+of CANDIDUS reveals in Brown a peculiar combination of conflicting values. 
+These values emanate both from Europe, from the cultural circumstances in early 
+America, and from Brown's urban world. Philadelphia was the center of the 
+political debate that attempted to bring order to the chaos of the American 
+postcolonial era. In this environment, aristocratic and egalitarian principles, 
+shaped into discourses by literature, oratory, and debate, struggled to re-consti­
+tute the new nation. Thus Brown's editorial intentions reflect the tensions of an 
+American postcolonial situation. 
+These tensions are quite similar to those expressed by the contemporary 
+postcolonial Indian author, R. K. Narayan, whose The Vendor of the Streets is 
+deeply rooted in native traditions but embodies an irony clearly based in modern 
+British literature. Irony is in fact central to the work. The novel tells the story of 
+a shopkeeper, Jagan, and his complex relationship with his society's rituals and 
+traditions, which are complicated by his son Mali, who is determined to modern­
+ize them. In his home, Jagan has a portrait of the District Tax Collector. Children 
+pull the picture from its frame, make fun of the image within it, and finally leave 
+it amongst the family junk pile. 
+This novel could be viewed as a comic attack on colonial influence. But 
+Narayan directs an irony typical of modern British authors at Indian traditional 
+institutions as well, specifically through Mali. In The Vendor in the Streets, the 
+voice and style of the colonizer act upon issues and traditions drawn from native 
+materials. British and native Indian traditions reflect divergent political values, 
+yet both inform the complex texture of Narayan's novel. Like the CANDIDUS 
+piece, the author's perspective is split and hybridized, both stylistically and 
+thematically. 
+In The Monthly Magazine and American Review, an epistemological conflict 
+that characterized the intellectual environment of the eighteenth and nineteenth 
+centuries is outlined in an essay entitled "Parallels between Hume, Robertson, 
+and Gibbon" (May 1799). The author of this piece establishes these intellectuals 
+as representative of three related but separate epistemological views and asserts 
+that "the studious or lettered part of mankind may, at present, be divided into two 
+sects, one of which is friendly, and the other hostile to religion."31 After locating 
+the epistemological conflict in relation to theology, and establishing Christianity 
+as the frame of reference for intellectual debate, the author outiines the compo­
+nents of the confrontation. 
+Edward Gibbon (1737-1794) was the British historian who wrote the 
+monumental work The History of the Decline and Fall of the Roman Empire 
+ 80 Steven Frye 
+(1776, 1781, 1788). He explained the "origin and progress of the Christian 
+system" and in the process of doing so he "attacked the truth of this system with 
+the dangerous weapons of sarcasm and irony."32 Hume, on the other hand, while 
+sympathetic to Gibbon's views, approached the problem from a more radical 
+point of view. He was "led by his nature into somewhat different tracts" as he was 
+"the enemy, not of any particular form of religion, but of religion itself."33 David 
+Hume's thinking becomes important when considering the epistemological 
+issues both in other pieces within the journal and in Wieland. But in his selection 
+of this piece, Brown simply challenges a dominant theological perspective, and 
+becomes party to an intense debate which deals openly with epistemological 
+issues. 
+The author continues this process as he discusses William Robertson (17211793),
+the Scottish historian and Presbyterian minister who wrote History of 
+Scotland during the Reigns of Queen Mary and of James VI until his Accession 
+to the Crown of England, (1759), History of the Reign of Emperor Charles the 
+Fifth (1769), and History of America (1788). Robertson approaches the newly 
+acknowledged "problem" of religion by performing a kind of late eighteenthcentury
+version of cultural criticism. Robertson distinguishes between the "sub­
+stance" and "semblance" of religion, pointing out that the culture specific 
+prejudices of individual societies, the "ignorance and ambition of the middle 
+ages,"34 led to the misinterpretation of Christian precepts. 
+The ideas of all three men were central to the theological conflicts which 
+were occurring during the Enlightenment period. Gibbon provided a historical 
+account of the rise of Christianity and in the process launched a pointed critique 
+of Christianity. Hume, in his response to Lockean empiricism, criticized the 
+assumption of objective causality upon which all religions were based. Robertson, 
+more moderate in his thinking, preserved in his system of thought an "ideal" 
+Christianity, but criticized the various forms, expressions, and doctrinal misinter­
+pretations that evolved as a result of socialization processes. 
+The theological conflicts represented by these three figures exist within the 
+context of a larger conflict of epistemological views, and Brown's selection of 
+this piece reflects his concern for what in the American postcolonial era has 
+become epistemological "crisis." The thinking of Hume, Robertson, and Gibbon 
+on the issue of religion was reflected and amplified in Brown's time. America was 
+a site of intense theological conflicts that were fueled by the rising emphasis on 
+empiricism and the epistemological debates that occurred as a result, and these 
+concerns had a significant affect on the formation of cultural values. In Democ­
+racy in America, Alexis de Tocqueville commented on the relationship between 
+religion and American cultural identity 
+It must never be forgotten that religion gave birth to AngloAmerican
+society. In the United States, religion is therefore 
+mingled with all the habits of the nation and all the feelings of 
+Patriotism, whence it derives a peculiar force In the United 
+ Constructing Indigeneity 81 
+States, Christian sects are infinitely diversified and perpetually 
+modified; but Christianity itself is an established and irresist­
+ible fact. . . ,35 
+American Puritanism, in its purest form, had perhaps taken its last gasp with 
+the Great Awakening. America was still, however, an intensely religious nation. 
+The Quakers remained influential in Brown's home city of Philadelphia. Through­
+out the eighteenth century, vast numbers of Scotch-Irish Presbyterians migrated 
+into the Delaware Valley and into the Appalachian hill country. In the 1790s and 
+into the nineteenth century, the Second Great Awakening emerged among 
+Baptists and Methodists, especially in the southern backcountry and the Old 
+Southwest regions of Kentucky, Tennessee, and Missouri. This renewed reli­
+gious fervor involved a new revivalism, typified by charismatic and emotionbased
+preaching styles and various forms of "enthusiasm," all of which became 
+essential characteristics of American Protestantism throughout the nineteenth 
+and twentieth centuries.36 
+As a counterpoint to this phenomenon, the New England Unitarians were 
+becoming a significant force, perhaps not in numbers so much as in intellectual 
+and cultural influence. In 1803, upon the death of David Tappan, a moderate 
+Calvinist and Hollis Professor of Divinity, a power struggle ensued for control of 
+Harvard. Upon the election of Henry Ware for President of Harvard in 1805, the 
+Unitarians became a dominant voice among the American eastern intelligentsia. 
+The Unitarians were sympathetic to Enlightenment thought, particularly Lockean 
+empiricism, but were anxious also to discover and maintain an epistemological 
+basis for religion in the face of secularization. To do so, they appropriated the 
+influence of empiricism and the philosophical paradigms being established by the 
+Scottish Common Sense Philosophers.37 In basic philosophical and theological 
+perspective, these Unitarians became in part the basis of New England Transcen­
+dentalism, which was defined and advanced by Ralph Waldo Emerson, Henry 
+David Thoreau, Margaret Fuller, Bronson Alcott, Theodore Parker, W. E. 
+Channing, and later Walt Whitman. In turn, Unitarianism became a point of 
+commentary and contemplation for writers such as Nathaniel Hawthorne and 
+Herman Melville. 
+The discussions of Gibbon, Robertson, and Hume, all focusing on the 
+epistemological basis for religion in general and Christianity in particular, were 
+important to the people of the emerging nation-state of the late eighteenth and 
+early nineteenth centuries. In the American context, "crisis" occurred because 
+this conflict of theological systems and epistémes was exacerbated by a lack of 
+social and cultural definition, by the aforementioned political conflicts and 
+debates that fragmented the early nation. What in the old world were the normal 
+conflicts associated with the evolution of thought became in the American settler 
+colony crucial issues to resolve in the process of constructing an indigenous 
+cultural and political identity. 
+ 82 Steven Frye 
+This conflict could be observed in much of the European literature of the 
+period, and certainly one cannot claim that the epistemological conflict was 
+uniquely American. But again, the postcolonial situation in the new nation 
+functions to transform an epistemological "dilemma" into a "crisis." Edward Said 
+suggests that no system of knowledge can be produced independently of its 
+author's involvement in historical and cultural circumstances, and he also 
+suggests that there is an important political dimension to any dominant discourse, 
+whether epistemological or otherwise.38 Brown's preoccupation with materials 
+that portray these conflicting systems of knowledge reflects the political and 
+cultural concerns of early America. 
+In an indirect manner, voices within this epistemological debate challenged 
+the notions of human nature expressed by Thomas Paine, John Locke, and 
+Thomas Jefferson, notions upon which the Declaration of Independence and the 
+Revolution itself were based. The debate that had raged between Federalists and 
+Anti-Federalists regarding the structure of government was at least in part 
+informed by assumptions regarding humanity in general. Before adhering to the 
+ideal of liberty or authority, one must in some sense resolve the epistemological 
+dilemma. Can we rely upon individuals to interpret reality in an effective manner? 
+How much faith can we place upon the individual? Or should systems be 
+constructed and authority exercised such that society is protected from the 
+"apparitions" that are witnessed through the inherent flaws in the individual 
+consciousness? All these questions suggest that the eighteenth- and nineteenthcentury
+"crisis in epistemology" is inseparable from the political, social, and 
+cultural issues that were of central concern to the new nation. The epistemological 
+questions that critics such as Roland Hagenbuchle have observed in Brown's 
+work emanate from Brown's desire to establish a basis upon which we can 
+"know" the new land, from his desire to codify an epistéme. In The Archeology 
+of Knowledge and Discipline and Punish, Michel Foucault argues that knowledge 
+and political arrangements are interdependent, that both are the basis of culture. 
+As epistemological questions are appropriated into an early American context, 
+they begin to take on a different character, becoming crucial issues that must be 
+resolved in the process of constructing an indigenous cultural identity. Thus, 
+epistemological issues had particular political implications in the American 
+postcolonial situation. 
+Another selection in The Monthly Magazine, a. brief essay entitled "Parallel 
+Between New-England and Great Britain," (April 1799) directly addresses these 
+circumstances. The piece is written in epistolary form, and reflects contradictory 
+impulses on the part of the author, a desire at once to identify with and to 
+distinguish between the new nation and its imperial ancestor. The author begins 
+with a comparison, by reminding the reader of "that portion of our country called 
+New England,"39 which in appearance resembles Great Britain, "of which it is a 
+sort of daughter."40 In comparing the two locales, the author makes certain 
+observations that reveal more about his own conflicting impulses than about the 
+places themselves. Certain of the observations are highly questionable. The 
+ Constructing Indigeneity 83 
+THE 
+MONTHLY MAGAZINE, 
+AND 
+AMERICAN REVIEW. 
+Vfc.. I.] APRIL, 1799. [No. 1. 
+ORIGINAL COMMUMUAllOm. 
+O*PBI I O D I C AL P U B L I C A T I O N S , By the variety and multiplicity of 
+«j-,i r . f /• 1 %r .it mr yourobjeâs, you seem aware that 
+TitUEAtrtfAtMribUq***. ^ m^Cx^ o f t few wiU DOt 
+Si a, answer your purpose, and, what is 
+YO U bave undertaken, it seems, much more questionable^ you seem 
+to amuse the .world with à to think that the taste of all may be 
+monthly publication. 1 hope you gratified. The disciples of all the 
+have well considered the difficulties professions* the students, of all the 
+that lie in your way, and have not sciences, the lovers of literature and 
+forgotten the old fable of the farmer poetry, are confidently invited to 
+and his ass. In his eagerness to your banquet. You promise to explease
+all, he displeased every body, traâ the quintessence of European. 
+and, most of all, himself, since his wisdom; t o review and estimate the 
+adventure terminated in the drown» labours of all writers, domestic and 
+ing of his poor beast. lanYfaf from foreign ; to~éjcërcisê,~ by turns, the 
+thinking that your publication will. pencils of Richardson and Tacitus; 
+deserve the fate of the ass; but I am to exhibit-truly, scrutinize the 
+much afraid that such a fate will causes, and deduce, the consequences 
+befall it. of contemporary events; to adorn, 
+When we lay out to secure the with'thecolours of fanfcy, the mèapprobation
+of a few, "or of a pari morable revolutions of public and 
+ticular class, our efforts may chance private life; and • to speculate oh 
+to succeed.4 N o man perfectly a- manners and morals in the style of 
+grecs, in taste and opinions, with Addison and Johnson. • You have 
+another; but there is a general agree- promised all this ; butjpu. W*M ex* 
+ment between many. The occupa- cuse me if I question your po^er to 
+tions and pursuits which engage the perform it. I f you had the power, 
+attention of mankind, if they were you would, ^indeed, be more wise 
+numbered and distributed, might' and more fortunate than the rest of 
+amount to some scores. Each of mankind. That all this should be 
+these has its votaries, and there are accomplished by your flwn efforts, 
+some who will listen with curiosity is chimerical : that your friends and 
+and pleasure to topics connecccd correspondents should supply defiwith
+each of these. ciencies, is almost as much so. 
+V O L ' I . N o . x. A 
+Figure 3: Introductory page to "Original Communications," from the April 
+1799 issue, written by CANDIDUS, who is most probably Brown himself. 
+statement asserting that "the area, or superficial extent of each, was examined, 
+and discovered to be exactly the same" suggests a desire to identify the new land 
+with the old, a certain nostalgic longing to identify, physically and perhaps 
+culturally, with Great Britain. The author continues with a contrast in longitude 
+and latitude, continuing further with a more favorable view of the climate of New 
+England. He then moves from the physical to the social realm, observing that the 
+British are given over to urban life, since "one seventh of the British people reside 
+in the metropolis," whereas, "as many persons are spread over the whole surface 
+of New England."41 
+When discussing politics, the discussion becomes more revealing. The 
+author concludes that the "virtue" and "happiness" of a people depend chiefly 
+upon two things, the quantity and equal distribution of knowledge and property. 
+ 84 Steven Frye 
+Here the author's pre-disposition towards the merits of his native land become 
+apparent, as the egalitarian democratic ideal appears. He reminds readers that 
+"every native of new England can read and write," a fact that "cannot be said of 
+the natives of Britain."42 He reminds us of the abundance of periodical literature 
+that functions as a vehicle of knowledge and taste in America. The comparison 
+continues with a selective review of the characteristics, merits, and shortcomings 
+of each country, and as the essay proceeds the author becomes openly critical of 
+the political and social problems in Great Britain. The inequitable distribution of 
+property, urban problems, and various other social injustices, all function to 
+negatively characterize Great Britain. These problems do not exist to the same 
+degree in the new nation. The complicated discursive process typical of the 
+postcolonial era appear as Brown's attachment to the old world is complicated by 
+his recognition of its flaws. The hope of anew land exists simultaneously with the 
+nostalgia for the old, and the conflict of political values surfaces clearly, as the 
+ideals of democracy confront the notion of aristocracy. 
+Sentiments similar to these emerge from other settler colonies, particularly 
+Ireland. The development of Anglo-Irish culture over many centuries mirrors the 
+same conflicting loyalties. Centuries of British occupation in Ireland led to the 
+development of an Anglo-Irish ascendency. These Anglo-Irish represented a 
+minority of the population, and their philosophical perspectives, values, and 
+religious practices bore a striking resemblance to the Virginia tidewater aristo­
+crats in America (many of whom were loyalists). The Anglo-Irish were largely 
+but not entirely English in ancestry, and they tended to be Protestant. They were 
+generally loyal to the English Crown, a loyalty expressed in the Act of Union in 
+1800, when the Irish Parliament voted to unite Ireland and Britain, an act that 
+effectively made all of Ireland subject to English rule. Ironically, the Act of Union 
+served to eradicate the Anglo-Irish ascendency, forcing the Anglo-Irish as well 
+as the Native Irish into a state of subjection. This political situation was 
+exacerbated in the nineteenth century by the potato famine, mass evictions and 
+forced migrations of rural folk, and the traumas of the Land War and the Fenian 
+Era, all of which led to the armed struggle for independence between 1916 and 
+1921. 
+As the Anglo-Irish ascendency was absorbed over time into Irish culture, 
+Ireland displayed sets of conflicts similar to those in America. Irish people 
+recognized the necessity for independence but displayed at all levels an attach­
+ment to British culture. This attachment becomes apparent in the twentieth 
+century in the work of many Irish writers of Anglo-Irish descent or affiliation, 
+figures such as James Joyce, W. B. Yeats, among others. These are precisely the 
+conflicts that appear in "Parallel Between New-England and Great Britain." 
+Toward the end of the essay the author addresses language, an issue central to the 
+arguments and paradigms of most postcolonial theorists. The author's conclu­
+sions regarding the political and social dimensions of language use are remark­
+able for the period. In extending his ambivalent critique of Great Britain, he states 
+that "the bookish, polished, or latinized Saxon, is scarcely known to one fiftieth 
+ Constructing Indigeneity 85 
+of the British people... ."43 The author suggests that dialect and speech signify 
+social position, and he alludes to the existence of a hegemonic discourse, while 
+celebrating the hope of liberation from the oppression inherent in the language of 
+aristocracy. In dealing with the simultaneous attraction to colonial influence and 
+desire for a new identity, he elucidates the political, cultural, social, and linguistic 
+issues typical of the settler colony. 
+Another epistolary piece in the April edition of The Monthly Magazine and 
+American Review, entitled "On the State of American Literature" (April 1799), 
+betrays the same conflict, the same attempt to establish what Emerson called an 
+"original relation to the universe." In the author's desire to find merit and defend 
+the literary efforts of Americans, he confesses that he tends "to approve of many 
+things merely because they are American,"44 and in doing so, he demonstrates the 
+impulse to extract and build, out of the confrontation of conflicting values, a new 
+nation and an original cultural mythos. Authors who followed managed to 
+respond to this need. Novelists such as James Fenimore Cooper, William Gilmore 
+Simms, and Nathaniel Hawthorne created an American hero that responded to the 
+philosophical and cultural ambiguity of the age. This hero, realized in characters 
+such as Natty Bumppo and Hester Prynne, manifest a self-reliance unprecedented 
+in previous literatures, an ability to function within an environment of epistemological
+and theological doubt, within a social and cultural context that exists 
+without the governance of a centralized political authority, a dominant epistéme, 
+or a homogeneous cultural mythos. These figures are in some sense the heroes of 
+Franz Fanon's separatism, agents of cultural regeneration that function indepen­
+dently, natives who behave like natives, relying upon the materials of "place" 
+rather than on the literary traditions and epistémes of the colonizer.45 In contem­
+plating the issue of an American literary tradition, the author of this piece 
+confronts the problems typical of the postcolonial situation in the settler colony, 
+the need to construct an indigenous cultural ideal specific to the new land, distinct 
+from the concerns of the old world.46 
+Thus, Brown's literary efforts, particularly his editorial work in The Monthly 
+Magazine and American Review, reflect a competing amalgam of social, politi­
+cal, theological, and epistemological perspectives. The notion of the "postcolonial" 
+as a cultural phenomenon helps to clarify the apparent contradictions that critics 
+have observed in Brown's life and work. The politics of his later years should not 
+be oversimplified, nor should they be classified under general terms such as 
+"conservative" or "reactionary."47 They are a response to a unique set of conflicts 
+specific to the new land, and Brown seemed to possess a remarkable awareness 
+of the problems associated with individual "freedom" in the absolute. The 
+epistemological issues raised by figures such as John Locke and David Hume, 
+amplified further by the secularization process and a declining faith in the efficacy 
+of the Quaker's "inner-light" and divine revelation, served to call into question 
+the individual's ability to assimilate and evaluate experience. But this criticism 
+of the individual is counteracted by the radicalism of Godwin, causing Brown to 
+ 86 Steven Frye 
+become skeptical of the institutions that emerge from competing epistemological 
+systems. Like Thomas Paine and Thomas Jefferson, Brown seemed to possess a 
+faith in the "individual" divorced from institutions, and he feared the de­
+humanizing power of institutional authority. His editorial work does not reflect 
+a consistent vision or agenda. Instead, it manifests a system of internal contradic­
+tions that function to problematize the issues central to the new nation. 
+Brown possessed the peculiar sensibility of a literary figure working within 
+the postcolonial settler situation, a sensibility not dissimilar to universally 
+recognized postcolonial writers such as W. B. Yeats, R. K. Narayan, and V. S. 
+Naipaul. With no "native" tradition to draw from, he worked with the intellectual 
+stuff of the old world, and he struggled to re-constitute that material in the new 
+land, re-interpreting it and making it applicable and pertinent to early America. 
+Brown's critics often characterize him as they do other figures of the period. To 
+them, his work appears "derivative." But as Ashcroft, Griffiths and Tiffin 
+recognize, these judgements typify the critical discourses of hegemony.48 Brown 
+appropriates his materials from the old world, but his concerns are specific to the 
+new. His work must appear inferior if evaluated based upon the standards 
+delineated by the English literary tradition. But whether true or false, these 
+judgments are unproductive. Through an appropriation and re-situation of 
+European ideas and forms, Brown's work manifests a noble attempt to construct 
+indigeneity in the new land, and Brown himself is an essential progenitor to the 
+central figures of the American Renaissance, a cornerstone figure in the "Ameri­
+can" literary tradition. 
+Notes 
+I would like to extend a special thank you to Cheryl Oreovicz and Robert Paul Lamb of 
+Purdue University for their generous advice and commentary on early drafts of this essay. 
+1. Mary Shelley was the author of Frankenstein or, The Modern Prometheus (1818) and Mary 
+Wollstonecraft was the author of A Vindication of the Rights of Woman (1792). 
+2. Lulu Rumsey Wiley, The Sources and Influence of the Novels of Charles Brockden Brown 
+(New York, 1950). 
+3. Warner Berthoff, "Brockden Brown: The Politics of the Man of Letters," The Serif 3 
+(December 1966), 5. 
+4. Ibid., 6. 
+5. Shirley Samuels, "Infidelity and Contagion: The Rhetoric of Revolution," Early American 
+Literature, 22 (Fall 1987), 189. 
+6. William Hedges, "Charles Brockden Brown and the Culture of Contradictions," Early 
+American Literature, 9 (Fall 1974), 112. 
+7. Certain critics have expressed a skepticism regarding the applicability of postcolonial 
+theories in an American context. In "American Literary Emergence as a Postcolonial Phenomenon," 
+American Literary History, 4 (Fall 1992), Lawrence Buell argues that the concept of postcoloniality 
+is somewhat problematic when considering American literature, because America emerged as a 
+"proto-imperial" rather than a postcolonial power. He suggests that analyses which overemphasize 
+the phenomenon of postcoloniality tend to reduce American texts to allegories of national identity 
+making. In Truth in American Fiction, (Athens, Georgia and London, 1990), Janet Gabler-Hover 
+implicitly critiques the applicability of pluralistic postcolonial paradigms, arguing that Brown's work 
+seems to ground truth claims in a particular model of language, thereby abrogating the influence of 
+ Constructing Indigeneity 87 
+a multiplicity of cultural voices. But in a postcolonial context this language model exists in a state of 
+flux, and the somewhat desperate attempt at "grounding" is particularly indicative of the writer in the 
+postcolonial situation. Buell focuses on the expansionist years of the early and mid-nineteenth 
+century, rather than on the early national period, which was a time when the long-term success of the 
+American nation-state was still in question. 
+8. Bill Ashcroft, Gareth Griffiths, and Helen Tiffin, The Empire Writes Back: Theory and 
+Practice in Post-Colonial Literatures (London, 1989), 133. 
+9. Ibid., 2. 
+10. D.E.S. Maxwell, "Landscape and Theme," Landscape and Theme: Extracts from the 
+Proceedings of a Conference Held at Bodington Hall, Leeds (London, 1965), 3. 
+11. Ashcroft, Griffiths, and Tiffin, The Empire Writes Back, 136. 
+12. Kenneth Dauber, "Criticism of American Literature," Diacritics, 24 (Spring 1977), 55. 
+13. For an extensive discussion of "place," which is a concept linked to identity and indigeneity 
+in postcolonial literatures, see Peggy Nightengale, éd., A Sense of Place in New Literatures in English 
+(St. Lucia, Australia, 1986). 
+14. To use the phrase "concerns of postcolonial theorists" is perhaps an oversimplification. 
+Postcolonial "theory" cannot be categorized under the umbrella of a single paradigm. The separatism 
+of Franz Fanon contrasts markedly with the pluralism of Ashcroft, Griffiths, and Tiffin. Terms such 
+as "appropriation" and "syncreticity," are somewhat more appropriate to the concerns of the pluralist. 
+Still, postcolonial theorists from various perspectives share a concern for a central issue—the process 
+by which indigeneity is constructed in the postcolonial context. 
+15. Albert Mernmi, The Colonizer and the Colonized (New York, 1965), 79-118. 
+16. Ashcroft, Griffiths, and Tiffin, The Empire Writers Back, 90. 
+17. Ibid., 138. 
+18. Edward Said, Orientalism (New York, 1978), 10. 
+19. For a thorough discussion of epistemological issues as they relate to American history and 
+national and literary identity, see David Van Leer, Emerson's Epistemology: The Argument of the 
+Essays (New York, 1986). 
+20. For a complete discussion of Lockean empiricism as it appears in Brown's work, see Toni 
+O'Shaughnessy, "An Imperfect Tale: Interpretive Accountability in Weiland," Studies in American 
+Fiction 23 (Spring 1989), 42-54. 
+21. Roland Hagenbuchle, "American Literature and the Nineteenth-Century Crisis in Episte­
+mology: The Example of Charles Brockden Brown," Early American Literature, 23 (1988), 122. 
+22. Hedges, 108-109. 
+23. Richard Chase, The American Novel and its Tradition (Garden City, New York, 1957), 
+1,6,11. Marius Bewley, "Fenimore Cooper and the Economic Age," American Literature, 26 ( 1954), 
+reprinted in The Eccentric Design: Form in the Classic American Novel (New York, 1959), 18. 
+24. Marisa Bulgheroni, La Tentazione della chimera: Charles Brockden Brown e le origine del 
+romanzo americano (Rome, 1965). 
+25. Richard Terdiman, Discourse/Counter-Discourse: The Theory and Practice of Symbolic 
+Resistance in Nineteenth-Century France (Ithaca, 1985), 117. 
+26. Ibid., U7. 
+27. Charles Brockden Brown, éd., The Monthly Magazine and American Review, 1 (April 
+1799), 1. 
+28. Ibid. 
+29. Wiley provides an in-depth discussion of Brown's influences in general, and Godwin's 
+Inquiry is a text from which Brown drew much of his political and social thinking. 
+30. Charles Brockden Brown, éd., Monthly Magazine and American Review, (April 1799), 1. 
+31. Charles Brockden Brown, éd., Monthly Magazine and American Review, (May 1799), 90. 
+32. Ibid. 
+33. Ibid., 91. 
+34. Ibid. 
+35. Alexis de Tocqueville, Democracy in America (1835; New York, 1956), 144-145. 
+36. Sydney E. Ahlstrom, A Religious History of the American People (New Haven, 1972), 387. 
+See also Edwin S. Gaustad, A Documentary History of Religion in America to the Civil War (Grand 
+Rapids, 1982); Catherine L. Albanese, American: Religions and Religion (Belmont, Calif., 1981); 
+Roger Finke and Rodney Stark, The Churching of America (New Brunswick, 1992). 
+37. See Daniel Walker Howe, The Unitarian Conscience: Harvard Moral Philosophy, 18051861
+(Middletown, Conn., 1970). 
+38. Edward Said, Orientalism, 7. 
+39. Charles Brockden Brown, éd., Monthly Magazine and American Review, (April 1799), 13. 
+40. Ibid., 12. 
+41. Ibid., 13. 
+42. Ibid. 
+43. Ibid., 15. 
+44. Ibid. 
+ 88 Steven Frye 
+45. Franz Fanon, The Wretched of the Earth (New York, 1963), 223. 
+46. See the discussion of Cooper, Hawthorne, and Melville that appears in Henry Seidel Canby, 
+Thomas H. Johnson, Robert E. Spiller, and William Thorpe, Literary History of the United States 
+(New York, 1953). 
+47. For a thorough review of Brown's political leanings, see David Lee Clark, Charles 
+Brockden Brown: Pioneer Voice of America (Durham, 1952). 
+48. Ashcroft, Griffiths, and Tiffin, The Empire Writes Back, 136. 

@@ -1,0 +1,1096 @@
+ENVIRONMENTAL ISSUES
+Natural Environment and Human Culture: Defining Terms
+and Understanding Worldviews
+O. F. McIsaac* and M. Brtin
+ABSTRACT
+The terms nature and natural each have several different meanings,
+which can lead to confusion in communications about environmental
+issues. One approach to clarifying discussion, frequently used in the
+sciences, is to develop precise, operational definitions of terminology.
+We argue that this approach can be ineffective when applied to multifaeeted
+conceptual terms such as nature, natural, and culture. We
+think the range of legitimate meanings for these terms may be better
+communicated by historical accounts of use that describe the assumptions,
+contexts, and woridviews associated with different interpreta-
+tions. These accounts do not resolve disagreement but can help clarify
+the basis for it, and open up new avenues of inquiry. In this paper,
+we examine the terms nature, natural environment, environmental
+change, and environmental degradation. A recent article in this journal
+offered precise definitions of the last three of these terms that
+were based on the idea that natural is that which is relatively uninfluenced
+by human culture. Although this is a commonly accepted mean-
+ing of natural, we contend that this meaning needs to be carefully
+scrutinized. We identify specific problems with this usage and offer
+an account of use of the term nature, which we think provides a more
+thorough understanding of how nature and natural have been used
+and understood in different contexts. Since the term natural can be
+understood several different ways, communication of any particular
+meaning requires careful articulation of the intended meaning in light
+of several alternative interpretations.
+A many different times and in many different places,the natural environment and human culture have
+been portrayed as two distinct, if not diametrically opposed,
+realms (e.g., McKibben, 1989; Johnson et al.,
+1997). This conceptual separation has profoundly influenced
+environmental thought and policies. It has been
+used to justify wilderness preservation and to portray
+human induced environmental changes as unnatural and
+undesirable. McKibben (1989) has recently argued that
+nature as defined that which is uninfluenced by human
+culture has ended because every place on Earth has
+been directly or indirectly touched by human culture.
+However, there are several reasonable challenges to
+this view (Pollan, 1991; Gomez-Pompa nd Kaus, 1992;
+Jordan, 1994; Turner, 1994; Cronon, 1995; Pickering,
+1996; Potts, 1996). Gomez-Pompa nd Kaus (1992) 
+Dep. of Natural Resources and Environmental Sciences, Univ. of
+Illinois Urbana-Champaign, 1102 South Goodwin Ave., Urbana, IL
+61801. Received 29 Dec. 1997. *Corresponding author (gmcisaac@
+uiuc.edu).
+Published in J. Environ. Qual. 28:1-10 (1999).
+gue that the culture/nature dichotomy is part of a
+worldview that is not scientifically justifiable and leads
+to biased and unwise environmental policy and management.
+For instance, the designation and management of
+wilderness areas that excluded habitation by indigenous
+peoples in the southwestern USA may have contributed
+to declines in the diversity of native species that had
+been enhanced or maintained by human activities for
+many centuries (Nabhan, 1982, 1997).
+The critics of the conventional nature/culture dichotomy
+do not deny that some humans have caused exten-
+sive and undesirable impacts on the environment.
+Rather, they view and describe such impacts from different
+philosophic and/or scientific perspectives. For in-
+stance, some of these critics point out that practically
+every species modifies the environment to some degree,
+and that human-induced modifications can be seen as
+the most recent episode in an ongoing process of environmental
+change (Turner, 1994; Potts, 1996). Accor-
+ding to this view, human culture is a product of natural
+processes and therefore can be considered as natural as
+the behavior of any other species.
+On the surface, the debate about whether human
+culture is natural or not may appear to be exclusively
+about semantics and definitions. Underlying the semantics,
+however, is a debate about legitimate and logically
+consistent ways to view human activities with respect
+to the rest of the natural world. Different views may
+lead to very different attitudes, environmental policies,
+and practices. If we believe that human culture is unnatural,
+then practically any human intervention in the
+environment may be seen as a process of degradation
+of the pristine. This view has been dominant in this
+century and has guided a "hands-off" policy toward the
+maintenance of wilderness and natural areas.
+If, on the other hand, we include human culture within
+nature, then human interactions with the environment
+may be considered part of a natural evolutionary process.
+This view has been used to justify active manage-
+ment of natural areas and ecological restoration efforts
+(Packard, 1990, 1993; Jordan, 1994; Turner, 1994). Some
+Native American and nonwestern cultures appear to
+have less dichotomous views of culture and nature that
+allow for various degrees of integration of human culture
+into the natural environment (Nabhan, 1982, 1997;
+Gomez-Pampa nd Kaus, 1992). Such views can be justified
+based on current evolutionary theory (Potts, 1996)
+and provide a basis for acceptance of creative interacPublished
+January, 1999
+ 2 J. ENVIRON. QUAL., VOL. 28, JANUARY-FEBRUARY 1999
+tions between humans and the natural world. But these
+views are clearly incompatible with those that insist on
+a strict dichotomy between nature and culture.
+The terms nature and culture refer to broad conceptual
+categories that are subject to a variety of interpreta-
+tions. The language frequently used to discuss environmental
+issues, however, seems to be heavily influenced
+by the view that portrays human culture as categorically
+distinct from nature. An example of this is provided by
+an article by Johnson et al. (1997) that offered definitions
+for the terms natural environment, environmental
+change, and environmental degradation. These authors
+tried to remove ambiguity from these terms by defining
+them precisely, or in our terms, operationally. Their
+definitions rely on the commonly held view that separates
+human culture from the natural environment. They
+offer a justification for this view, but we find this to
+be debatable and the resulting lexicon leads to some
+confusion and contradiction. In this paper, we examine
+definitions of four environmental terms: natural environment,
+environmental change, environmental degrada-
+tion, and nature. We consider the strengths and weaknesses
+of the definitions of the first three terms that
+were proposed by Johnson et al. (1997). Unlike Johnson
+et al., we do not consider the commonly held view that
+segregates human culture from that which is natural as
+the only reasonable way to understand and describe the
+natural environment. Since the term natural is derived
+from the term nature, we think it is appropriate that
+environmental terms be defined in the context of our
+ideas about nature. Thus, in addition to the terms defined
+by Johnson et al., we also examine a variety of
+ways in which the term nature has been used.
+In order to set the stage for this examination of definitions,
+we make some general points about different ap-
+proaches to formulating definitions and understanding
+the meaning of terms. We distinguish between two types
+of definition: operational and accounts of use. We argue
+that broad conceptual terms, such as nature and culture,
+that have long histories of different uses are probably
+best understood by "accounts of use" which recount
+the ways in which the term has been used in different
+contexts. The different meanings assigned to a particular
+term are frequently associated with different paradigmatic
+perspectives, or worldviews. Forcing such mul-
+tifaceted terms into precise operational definitions may
+lead to dissatisfaction and/or confusion if the operational
+definition does not communicate the full range
+of legitimate meanings currently associated with a term.
+We illustrate this point by thoroughly examining the
+definition of natural environment proposed by Johnson
+et al. and by providing a partial account of use for the
+term nature.
+In a concluding discussion, we examine the implications
+of abandoning the distinction between human cul-
+ture and nature. We conclude that dissolving this longstanding
+distinction does not mean that everything hu-
+mans do is necessarily good and acceptable. More specific
+terminology and lines of argument are available to
+debate the acceptability of various human behaviors
+and the resulting environmental consequences.
+DIFFERENT APPROACHES TO
+COMMUNICATING THE MEANING
+OF TERMS
+Much of the recent debate about our concepts about nature
+and human culture has taken place in scholarly venues, characterized
+by heightened attention to definition of terms. When
+done carefully and fairly, efforts to define terms can help us
+escape traps due to clich6, conflation, and misunderstanding.
+They can also raise awareness about different ways of viewing
+the subject being defined. However, it is important to recognize
+that there are different approaches to specifying and
+clarifying the meaning of terms.
+A term can be defined in a functional manner, referring to
+objects and processes with precisely describable properties,
+much as one would explain the meaning of a computer command
+in terms of what it does. This is frequently attempted
+in legal, commercial, and engineering discourse, as well as in
+scientific work-wherever the goal is to construct a mechanism
+for analysis, action, or decision making. We call this an operational
+definition. For many terms operational definitions are
+appropriate. Lack of controversy is perhaps the best indicator
+of appropriateness. When there is controversy, multiple meanings,
+or when the definition takes on the appearance of legisla-
+tion, a single precise operational definition may be inappropriate
+or impossible. Controversy frequently surrounds terms
+that have broad conceptual meanings or histories of multiple
+meanings.
+The meaning or meanings of a term can also be clarified
+by recounting a history of its development and use. This etymological,
+philological approach is common i the humanities,
+but only reluctantly used in the sciences. We call it an "account
+of use". This approach seems more appropriate when dealing
+with broad concepts, such as nature, that have a long history
+of different operational uses. In addition to listing previous
+operational definitions of a term, accounts of use can also
+describe the paradigmatic contexts (i.e., worldviews) in which
+different meanings were understood as well as implicit nuances
+and controversies surrounding the terms. This helps us understand
+what people had in mind when they used the term, and
+it can provide interesting grounds for further inquiry that
+builds upon the past rather than ignoring or repeating it.
+Precise operational definitions provide a foundation for
+conducting precise scientific, engineering, and legal work.
+However, this work often occurs in the pursuit of goals that
+do not lend themselves to operational definitions. Science
+seeks to establish truth, engineering seeks to enhance efficiency
+and control, law seeks to promote justice. The general
+meanings of these broad goals-truth, efficiency, control, justice-are
+subjects of debate and are probably better understood
+by accounts of use rather than precise operational definitions.
+But, to make progress for a particular project, these goals
+usually need to be operationally defined. Although useful and
+practical in some settings, such particular operational definitions
+are often inappropriate in other settings and, therefore,
+they are not appropriate as general or standard definitions
+for the terms. Nevertheless, familiarity with the various ways
+that these terms have been used (i.e., account of use) can aid
+communication within various professions, across professions
+and with the general public. Additionally, these terms are
+sometimes involved in controversies that can lead to the formulation
+of specific research questions. The research that
+these terms motivate can give rise to increasingly precise and
+operational understandings.
+Johnson et al. (1997) recently proposed definitions for several
+environmental terms. We think that their definition of
+natural environment is an illustration of problems that can
+ MclSAAC & BR~IN: NATURAL ENVIRONMENT AND HUMAN CULTURE 3
+arise when a precise operational definition is imposed upon
+a term that can be legitimately defined several different ways.
+Whereas Johnson et al. accept one common use of the term
+natural as the most relevant for environmental issues, we think
+that both natural and nature have been and can be legitimately
+interpreted in several different ways with respect to humans
+and the environment. We explore such interpretations in our
+analysis of Johnson et al.’s definition of natural environment
+and then in a partial account of use of the term nature.
+We note, however, that in developing a definition of environmental
+degradation, Johnson et al. consider a variety of
+ways in which the term degradation has been used in environmental
+contexts. From this account of use, they arrive at a
+definition that we think is more broadly considered and generally
+acceptable.
+HOW HAS NATURAL BEEN DEFINED?
+Much effort and interest has been directed toward understanding
+and preserving the natural environment. But what
+do people mean when they use the term natural environment?
+According to Webster’ s New World Dictionary of the America
+Language, natural can be defined in several ways: "1) of or
+arising from nature 2) produced or existing in nature; not
+artificial 3) dealing with nature... 4) as found in nature; unaltered
+by man... 5) real or physical rather than spiritual, intellec-
+tual, or imaginary 6) innate; inborn... 7) based on an instinctive
+moral feeling... 8) true to nature; lifelike... 9) normal 
+usual..." William Cronon (1995) observes that sometimes natural
+is used to indicate a normal or inevitable outcome of a
+process (based on several of the meanings above) and other
+times it is used to indicate a desirable outcome or state (based
+on meaning 7). In environmental discussions, these two meanings
+are sometimes conflated.
+In developing a definition of natural environment, Johnson
+et al. (1997) observe that in environmental contexts, natural
+"almost always means that which is neither made, changed,
+or otherwise affected by humans." They provide some justification
+for adopting this view, which we shall address later.
+Ideally, according to Johnson et al., a natural environment
+would be completely uninfluenced by humans, but they realize
+that such environments may no longer exist. They define natural
+environment as "one that is relatively unchanged or unaf-
+fected by human culture." Technology seems to represent
+culture for them. They state that urination in the woods is
+natural, even if humans do it; but it is not natural to light
+forests with a match or chop them down with an ax. Their
+use is essentially consistent with the meanings 2 and 4 of
+natural quoted from the New Word Dictionary (above), although
+this dictionary refers to "man" not "human culture."
+Johnson et al. observe that "...our species [homo sapiens]
+is part of nature and a product of organic evolution..." but
+our advanced material culture is not natural. If, however, our
+species is part of nature, then it seems logical and reasonable
+to also conclude that anything we make or do is also "of or
+arising from nature" or natural, according to the first definition
+in the New Word Dictionary. But this would contradict meaning
+4 "unaltered by man." An examination of the root term,
+nature, confirms an ambiguity regarding the application of the
+term nature to humans. According to Williams (1985) nature
+may refer to the essential character of a single thing; to the
+entire material world excluding humans; or to the entire material
+world including humans (Williams, 1985; Evernden, 1992).
+Whether humans or their culture are part of nature or
+distinct from nature has been a key debate in the struggle to
+define nature and the natural environment with environmentalists,
+scientists, philosophers, historians, religious authorities,
+animal rights or welfare advocates, and others involved. Four
+recent collections of essays (Baldwin et al., 1994; Cronon,
+1995; Soule and Lease, 1995; Ellen, 1996) are contributions to
+this debate, which does not appear to have reached a decisive
+outcome. For instance, at the conclusion of a collection of
+essays on this subject, Cronon (1995) observed: "If there is 
+moral to this book, it is that we need to think much harder
+about what we mean when we use the word ’nature’ and about
+how we should and should not draw boundaries between the
+things we call ’human’ and the things we call ’natural’." Johnson
+et al. do not refer to any of these works that explore a
+variety of perspectives about the meaning of the term nature
+and its complicated relation to human culture. Rather, they
+produce a concise operational definition of natural environment
+by offering justifications for a common use of the term
+natural in environmental contexts. We shall attempt to show
+how and why this use becomes problematic. In the two following
+sections we critique the definitions and justifications of-
+fered by Johnson et al; and in the section thereafter we give
+an account of use to demonstrate this approach to understanding
+the meaning of words and to further demonstrate the
+variety of ways in which nature has been understood in relation
+to human culture.
+Is Human Culture Unnatural?
+Johnson et al. (1997) argue that humans are natural, having
+evolved like other animals, but our advanced material culture
+and its environmental impacts are not natural. They offer
+three justifications for this view. First, no other species has
+advanced material culture. Second, advanced culture allows
+humans to circumvent population controls to which other lifeforms
+are subject. Lastly, while other species have coevolved
+gradually with their environment, humans evolve in their environment
+in a way that disrupts it extensively and rapidly.
+The last of these justifications appears to be the most important,
+but let us consider each in turn. The first justification,
+that advanced material culture is unique to one species, humans,
+seems reasonable until we consider that all species have
+at least one unique feature; otherwise they could not be identified
+as separate species. If unnatural is taken to mean unique
+or unusual (which is one standard use of the word) then any
+distinguishing feature could be singled out as unnatural, and
+humans would not necessarily be alone in this category.
+How about the second justification, that humans circumvent
+population controls effective for other species? Humans are
+not alone in either circumventing population controls or experiencing
+episodes of rapid population growth. Many species
+have a capacity for rapid population growth. Short-term variations
+in weather, long-term climatic shifts, and evolutionary
+adaptations (physiological, chemical, or behavioral) occasionally
+give competitive advantage to some species over others.
+This consequently modifies or circumvents previously existing
+population control mechanisms and can result in significant
+changes in population size. For instance, Bennett (1997) reported
+that the abundance of several plant species grew expo-
+nentially for hundreds of years following the retreat of the
+glaciers in the early Holocene.
+A growing population will eventually experience limitations
+of resources and/or increasing mortality due to predation or
+parasitism which may lead to either a new steady-state population
+level (carrying capacity) or a population decline. Increas-
+ing to a new steady state is a growth pattern observed for
+other species colonizing new resources and habitats and is
+known as logistic growth (Clapham, 1983). Alternatively, 
+the case of an outbreak, a population may decrease in size as
+rapidly as it had increased. The human population has been
+ 4 J. ENVIRON. QUAL., VOL. 28, JANUARY-FEBRUARY 1999
+growing exponentially for several centuries, but this growth
+rate has been decreasing during the last few decades. If this
+declining growth rate continues and humans achieve a steadystate
+population, then global human population growth will
+approach the logistic growth pattern that has been observed
+for other species.
+Not all population growth is logistic, however. Rapid increases
+in abundance followed by equally rapid decline has
+been observed for locusts (Locusta migratoria), lemmings
+( Lemmus lemmus ), spruce budworms ( Choristoneura fumiferana),
+moose (Alces alces), and other species even when human
+influence has not been significant (Clapham, 1983; Botkin,
+1990; Myers, 1993; McLaren and Peterson, 1994; Bakersville,
+1995). Humans are also subject to such declines as have occurred
+during famines, war, and disease epidemics. A very
+dramatic decline occurred during the Bubonic Plague epidemic
+in Europe. Similar disease epidemics and population
+declines in the future are possible.
+Humans have circumvented or delayed population control
+mechanisms by developing various defense mechanisms, especially
+behavioral adaptations such as the development of scien-
+tific methodologies applied to medicine and agriculture. We
+(humans) have been able to make such adaptations because,
+among other reasons, we possess large brains and manual
+dexterity which are products of evolution. We use these advantages
+to do what all other species attempt to do: survive and
+reproduce. Humans are not unusual in either circumventing
+population control mechanisms or in experiencing exponential
+population growth. To be consistent we must either refer to
+all, not just human, circumvention of population control mechanisms
+as unnatural, or else abandon this as a justification for
+considering human culture as uniquely unnatural.
+Johnson et al.’s last justification is that humans change the
+environment most drastically and rapidly while other species
+coevolve gradually with their environment. Although there
+may be some room for debate on this point, it is probably
+true that homo sapiens have transformed the environment far
+more extensively and rapidly than any other single species.
+Other species and groups of species have had a profound
+impact on the environment. For instance, the global environment
+has been drastically transformed by the vast number of
+photosynthesizing species that have added molecular oxygen
+to the atmosphere, but this was a consequence of many species
+acting over a very long period. Some species have a disproportionately
+large influence on the ecosystems they inhabit and
+are considered keystone species. Humans appear to have become
+a keystone species at the global scale, which is unusual
+and for that reason humans could be considered unnatural.
+If, however, extent and speed of environmental change
+are the criteria for defining what is unnatural, then human
+modifications of the environment may not be unique in this
+regard if we consider abiotic agents of rapid and extensive
+environmental change. Meteors striking the Earth seem to
+have the potential to cause more rapid and more extensive
+environmental change than humans. A meteor may have been
+responsible for the mass extinction event that occurred 64
+million years ago. But, after defining natural environment,
+Johnson et al. specifically state that meteorite strikes are natural
+because natural has been defined as "relatively unchanged
+or undisturbed by human culture." It is circular logic to claim
+that this definition is justified because humans have changed
+the environment rapidly and extensively, and then to disqualify
+other agents of rapid and extensive environmental change
+from being considered unnatural because they are not human.
+Both the pace of human-induced modifications to the environment
+as compared with other agents of environmental
+change and the evolutionary significance of that pace are debatable.
+Since Darwin, scientists and the public have generally
+visualized evolution as gradual; but this has been challenged
+in recent decades by Gould and Eldredge (1977) and others
+who see evolution as a series of punctuated equilibria. Species
+may appear and disappear quickly, while persisting largely
+unchanged for a relatively long time. The fossil record provides
+evidence for both gradualism and punctuated equilibria, so
+evolution may be gradual in some settings and/or for some
+species and punctuated in others (Ridley, 1993; Bennett, 1997).
+As stated previously, Bennett (1997) reported that several
+plant species expanded their numbers exponentially following
+the retreat of the glaciers in the early Holocene. This rate of
+expansion was detected in relatively recent pollen deposits
+that provided a much finer temporal resolution than the rest
+of the fossil record generally provides. Similarly rapid shifts
+in populations and ecosystems may have occurred in the past
+but are more difficult to detect in the coarser fossil record of
+the more distant past.
+We do not deny that human cultures have been and are
+expanding and changing the environment more rapidly than
+most species have evolved. However, as Turner (1994) argues,
+if we bear in mind that the pace of evolution has been variable
+among species and over time, then human modifications of
+the environment do not seem so unusual. The history of life
+on Earth has been one of on-going modification of the environment
+and the pace of that modification appears to be increas-
+ing with time (Botkin, 1990; Benton, 1995). The apparent
+success of the human species (as judged by numbers of individuals)
+indicates that there has been recent selective pressure
+that favors species capable of rapid adaptation and that humans
+have successfully responded to this pressure. Whether
+we will continue to be successful is an open question, as it is
+with any other species.
+As for the lack of coevolution of human culture with its
+environment, some authors see a coevolutionary relation between
+them (Nabhan, 1982; Gliessman, 1989; Potts, 1996).
+Stephen Gliessman (1989) states that "agricultural systems
+develop as a result of the coevolution that occurs between
+culture and the environment..." (p. 369). New varieties 
+crops, livestock, pests and diseases; the naturalization of existing
+species to new environments through human agency;
+and new human behaviors responding to these changing environmental
+factors can all be construed as evidence of coevo-
+lution.
+Richard Potts (1996) interprets the archeological record 
+challenge the conventional separation of culture and nature.
+He argues that humans evolved during a particularly turbulent
+climatic period. Tool building, social organization, and symbolic
+thought can be viewed as successful adaptations to cope
+with a turbulent environment. Hominids less capable of using
+these innovations became extinct. "Our pivotal finding is that,
+rather than being against nature, our apparent dominion is
+based on actions that echo and amplify the kinds of natural
+alteration that led to the origin of humans in the first place.
+The supposed conflict between man and nature...crumbles in
+the new grasp of how mankind has evolved." (p. 253) According
+to Potts (1996) and Bennett (1997), past interpreta-
+tions of the evolutionary record focused attention on competition
+among species as the main driver of natural selection
+rather than on climatic or other environmental factors. Scientists
+had previously assumed that the degree of climatic varia-
+tion observed in recorded human history was representative
+of the long-term past. But new techniques developed to infer
+prehistorical climates and have quantified a greater degree of
+climatic variability than previously assumed. This variability
+appears to have been a stronger force for selection than previously
+suspected. Hence, the human responses to this climatic
+ MclSAAC & BRON: NATURAL ENVIRONMENT AND HUMAN CULTURE 5
+variation can be seen as similar to the evolutionary innovations
+of other species.
+Even if human culture has had the greatest and most rapid
+environmental impact, assuming unambiguous size and rate
+comparisons are possible, we are back to the uniqueness issue
+discussed above. Why not consider the second largest impact
+unnatural as well? Moreover, if degree and rate of environmental
+change are the justification for classifying as unnatural
+the environmental impacts of advanced material culture, then
+why not define specific magnitudes and rates of change as
+unnatural regardless of the cause? But, the definition of Johnson
+et at. focuses on one causative agent (human culture)
+rather than unnatural rates or extents of environmental
+change. Thus, according to their definition a fire caused by a
+bolt of lightning is always natural, whereas a fire started by
+a human would always be unnatural regardless of its extent
+and rate of environmental impact relative to the natural fire.
+This seems inconsistent with the justification that human culture
+and/or its environmental impacts are unnatural because
+of the rates and magnitude of the environmental change involved.
+We agree with Johnson et al. that human culture is unusual,
+and has often been a locus of rapid environmental change.
+But because human culture has arisen from natural processes
+and because there are nonhuman agents of rapid and extensive
+environmental change, we think that it is debatable whether
+human culture and/or its environmental impacts should be
+classified as either unnatural or uniquely unnatural.
+Without such an unambiguous designation of natural, we
+cannot unambiguously distinguish natural environment from
+simply environment. North American wilderness areas might
+be considered examples of the natural environment according
+to Johnson et al. because these areas appear to be relatively
+unaffected by human culture. But, Callicott (1991), Pollan
+(1991), Gomez-Pompa and Kaus (1992), Soule (1995), 
+Cronon (1995) all critique the notion of wilderness as pristine,
+and untouched by humans. The idea, they argue, is based
+largely on religious and/or urban myths, and underestimates
+the influence of Native Americans had in shaping American
+ecosystems that European settlers later claimed.
+Judge Potter Stewart of the U.S. Supreme Court knew how
+difficult it can be to construct an operational definition for a
+concept that is open to a variety of interpretations. In a court
+case that examined restrictions on freedom of expression in the
+name of public decency, he offered the following operational
+definition of pornography: "I know it when I see it." Can we
+do even that well with natural environment?
+Environmental Change or Degradation?
+Shifting from states to processes, Johnson et al. define environmental
+change as "change or disturbance of environment
+through natural ecological processes," adding that "Environmental
+change by natural processes has characterized the evo-
+lution of the earth since its beginning..." Any change caused
+by humans, especially any cause of sufficient scale traceable
+to human civilization, is not environmental change, because
+it is unnatural.
+In a volume titled Global Environmental Change: Understanding
+the Human Dimensions, the National Research Coun-
+cil (1992) used environmental change with the most literal
+possible interpretation you can arrive at from combining environmental
+and change: alteration of the environment whether
+or not it was caused by humans. Johnson et al. want their
+definitions to capture current usage, be easily understood, and
+improve communication. National Research Council’s usage
+seems more in line with these criteria than Johnson et al.’s
+definition. Of course, one could subdivide environmental
+change into natural environmental change and environmental
+change induced by human civilization, but only to face the
+problems dealt with above, in the previous section.
+In defining environmental degradation, Johnson et al. use
+an account of use approach in that they consider a variety of
+uses of the term degradation in environmental contexts. They
+observe, for instance, that the eruption of Mount St. Helens
+might be viewed as an immediate landscape degradation by
+the timber industry, and it also could be considered a renewing
+and evolutionary event to ecologists and foresters with longer
+time frames. They also observe that when degradation is used
+in scientific and popular environmental literature, it is almost
+always linked to artificial change or disturbance by humans.
+Johnson et al. argue that the term environmental degradation
+would adequately describe most, but not all, change or
+disturbance to the environment caused by human civilization.
+The Great Wall of China, the Egyptian Pyramids, the Sydney
+Opera House were all changes, all caused environmental disturbances,
+but the authors are reluctant to call their construc-
+tion and maintenance environmental degradation. In order to
+exempt these apparently treasured human artifacts, they define
+environmental degradation as "any change or disturbance
+to the environment that is perceived to be deleterious or
+undesirable." They also suggest the context in which the term
+is used be always made explicit.
+We accept their definition because it is a simple and logical
+combination of the current definitions of environment and
+degradation and is open to a variety of legitimate interpretations.
+However, we find some lack of clarity and a possible
+contradiction in the way they developed and justified this
+definition. Johnson et al. indicate that they initially favored
+an interpretation which portrayed any human-induced change
+as environmental degradation, and that this definition would
+"cover most cases." But for reasons that we think are not
+clearly articulated, they decided that it was unacceptable to
+"indict our arts, our architecture, our sciences and most of
+our human endeavors and institutions." It seems inconsistent
+to argue that all human interventions in the environment constitute
+deviations from the natural condition and that most of
+these could be considered environmental degradation by virtue
+of the deviation from the natural condition, but that some
+can be exempted from such indictment in spite of the deviation
+from the so-called natural condition. This inconsistency seems
+to have led Johnson et al. to develop a more general definition
+of environmental degradation, but not to question the premise
+that led to the contradiction.
+If, on the other hand, we consider human culture to be
+part of the natural environment, then there is no reason to
+automatically indict most or all human activities as environmental
+degradation and, consequently, there is no need to
+grant exemptions to arts, architecture, etc. We could, nonetheless,
+consider certain human actions as environmental degra-
+dation because of the speed or extent of ecological change
+they cause or because of other perceived undesirable and
+deleterious changes in the environment, as the definition of
+Johnson et al. allows.
+A PARTIAL ACCOUNT OF USE
+OF THE TERM NATURE
+We agree with Johnson et al. that natural is now commonly
+used to signify that which is uninfluenced by human culture
+and that this meaning is frequently used or assumed in discussions
+of environmental issues. However, we think this usage
+needs to be scrutinized because the distinctions drawn between
+human culture and the rest of nature, and between human
+ 6 J. ENVIRON. QUAL., VOL. 28, JANUARY-FEBRUARY 1999
+culture and other agents of environmental change are based
+on debatable premises or are inconsistently applied. Furthermore,
+the idea that humans and/or their culture are unnatural
+has very deep and extensive historical, cultural, and religious
+roots that have been subject to many different interpretations
+and debates. These debates about whether human culture is
+natural or unnatural revolve around different ideas about what
+we think nature is. Rather than attempting to decide the outcome
+of the very long-standing nature/culture debate by creat-
+ing an operational definition that reflects one currently popular
+view, we think it is more important to elucidate the various
+points of view that have motivated this debate. To this end,
+we offer a partial account of use of the term nature.
+Our account will be relatively brief and incomplete, intended
+partly to illustrate some previous attempts to contrast
+or associate nature with culture and partly to illustrate this
+approach to understanding and defining. The very long entry
+under nature in the Oxford English Dictionary shows what an
+all-encompassing account of use is like. However, we should
+bear in mind that this length is partly a reflection of particular
+characteristics of the term nature. Williams (1985) observed
+that "nature is perhaps the most complex word in the language"
+and that "any full history of the uses of nature would
+be a history of a large part of human thought."
+The earliest uses of the term nature (dating from the 13th
+Century) referred to the essential characteristics of particular
+items. Since the 14th Century it was used to refer to an "inherent
+force which directs either the world, or humans beings,
+or both" (Williams, 1985). Since the 17th Century it was used
+to mean the entire material world, sometimes including humans
+and sometimes not (Williams, 1985). This third meaning
+appears to be most relevant to our discussion, but it is also
+important to recognize that the second meaning suggests a
+conceptual framework (nature as a single force rather than 
+collection of different forces) that has influenced how many
+people have perceived the material world. This breadth of
+meaning has provided ample room for discourse about the
+essential characteristics of nature and what this implies for
+humans. Williams (1985) also observes that the term culture
+is similarly complex and subject to multiple interpretations.
+Hence, it should not be surprising that there are a variety of
+perspectives on the relationship between nature and culture.
+Nature and Culture: A Widespread Dichotomy
+with Religious Roots
+Archaeologist Richard Potts (1996) states: "The independent
+origin and eternal separation of ourselves from all other
+living things is surely among the most tenacious beliefs in
+human thought....This is seen in many origin stories over the
+world, from ancient Persia to the Pacific Islands." (p. 269)
+Ortner (1974) acknowledges nature and culture as conceptual
+categories, the boundaries of which exist in our minds rather
+than in the world. She adds, though, that some culture-nature
+distinction exists in nearly all cultures. Yet she seems to agree
+with Ellen (1996) that each culture draws the boundary between
+itself and nature somewhat differently. Meeker et al.
+(1973) and Gomez-Pompa nd Kaus (1992) find the distinction
+between humans and the rest of nature to be less severe in
+many Native American than in western European cultures.
+According to Nabhan (1982), Papago people of the Sonoran
+Desert consider the saguaro cactus (Cereus giganteus) to be
+simultaneously plant and human. Richard Townsend (1992)
+reports a more prominent place for animals and plants in
+the art and cosmology of pre-Columbian American than in
+Mediterranean cultures of the same period.
+Callicott (1991) notes that in the western monotheistic tradition
+"...man alone is created in the image of God." Possessing
+souls, humans have been considered the only beings worthy
+of moral consideration. Religious authorities pressured Rene
+Descartes to contain his enthusiasm for characterizing life
+mechanically when he studied homo sapiens. Descartes accommodated
+their concerns by creating the "mind-body" dualism
+in which the mind/soul had an independent and eternal existence
+that distinguished humans from all other creatures, while
+the human body was a separate collection of pumps and levers
+like the bodies of other animals.
+The biblical notion that people were entitled, or rather
+enjoined to dominate nature was, according to historian Carolyn
+Merchant (1980), restrained in Europe prior to 1600 
+a popular sense that nature was a living entity. She argues
+that this respect for nature diminished when it came to be
+viewed as more mechanical than living. Thus, monotheism
+defended a human-nature dualism on two fronts: from the
+pagan tendency to ascribe souls to everything, and from the
+mechanistic tendency to deny soul altogether.
+Nature as the Raw or Primitive
+With urbanization, religion and social thought have tended
+to focus more attention on how people should treat each other
+and less on the rest of nature (Goudsblom, 1989). Nature 
+western European tradition remained part of moral discourse,
+however it often shared the stage with the Devil in opposition
+to God. Humans were depicted and saints exemplified as struggling
+to build a moral character by resisting natural impul-
+ses. However, this is nature within humans, not the world
+around them.
+Thomas Hobbes (1657), provoked by religious sectarian
+wars, heaped scorn on religious teaching. According to him,
+religion was too doctrinaire and hypocritical to create the
+consensus needed for culture, which he understood primarily
+as social order. Hobbes replaced the God-nature or soulnature
+dichotomy with the now more familiar culture-nature
+dichotomy. For him, though, humans could all too easily find
+themselves in the state of nature, which he considered to be
+an endless war of all against all, where "the life of man [is]
+solitary, poor, nasty, brutish, and short" (p. 100). In Hobbes’
+view, humans were separated from the undesirable state of
+nature by government. This view was also adopted by Locke
+and Rousseau, but with different views of government. Montesquieu
+(1748), however, with greater sense for variety 
+both people and environment, put the separation in question
+by suggesting that different environmental conditions in different
+parts of the world favored different forms of government
+and social life.
+Nature as a condition of strife, want and amorality became
+part of classical social theory used to justify hardships of industrialization.
+Thomas Malthus’ Essay on Population argued that
+poverty was natural, since people will reproduce until reaching
+subsistence limits (Malthus, 1803). Inequality is necessary 
+that some can prosper enough to separate themselves from
+the harshness of nature to maintain culture and refinement.
+Although this thinking on nature has been widely shared
+among social theorists and critics, it has also been challenged
+by several revisionist perspectives, including one arising from
+Darwin’s Origin of Species.
+Nature Rehabilitated
+One revisionist perspective is associated with Herbert Spencer
+and other Social Darwinists. Spencer lay aside the idea of
+culture separating itself from nature, asserting that nature,
+much as Hobbes had described it, is the motor of culture. The
+ MclSAAC & BRCrN: NATURAL ENVIRONMENT AND HUMAN CULTURE 7
+new twist was to glorify struggle as improving the race. Elites
+are not removed from struggle as in Malthus’ conception;
+instead they are the most vigorous and successful strugglers.
+Culture is natural, evolved as the joint result of millions of
+struggling individuals. The fittest survive; the rest perish and
+that drives progress. This view combined individualism with
+the latest insights of science, provided a justification for the
+imperial successes of the European west and the human domination
+of other species, and was widely adopted in the Anglo-
+Saxon world while receiving a measure of respect elsewhere.
+Another revisionist perspective is associated with the Romantic
+movement of the 19th century and later within certain
+schools in anthropology. Skeptical of industrial society and
+the alleged tendency of humans to become progressively more
+advanced, it presented a less dismal view of nonhuman nature.
+Rather than seeing disordered struggle and destitution that
+people needed to correct or separate themselves from, the
+Romantics saw a vital wholeness in the natural world that
+they thought people should respect and commune with. "In
+wildness," wrote Henry David Thoreau, "is the preservation
+of the world." Thoreau did not fully accept a segregation of
+humans and nature. "I am," he wrote, "nature looking into
+nature" (quoted in Worster, 1994). He did, nevertheless, distinguish
+nature and culture, arguing that too much culture
+over-ripens the human spirit while too little coarsens it (Callicot,
+1991). Thoreau’s associate, Ralph Waldo Emerson (1836),
+reversed western monotheistic tradition by presenting the contemplation
+of nature as a means to communicate with the
+transcendent and supernatural.
+Petr Kropotkin (1904) began the anthropological debate 
+his Mutual Aid: A Factor of Evolution, with the assertion
+that much behavior supposedly representing culture could
+be found in nonhuman animals. There followed widespread
+accounts of "primitive" human societies showing they were
+not always slaving and fighting to survive; some had more
+leisure or richer social life than experienced in the industrial
+world. Marshall Sahlins (1972) observed that productivity 
+pre-industrial societies was low, but so was effort put into
+production. He argued that people in those societies were not
+plagued, as in industrial societies, by "limitless needs." They
+were generally healthy and optimistic about their life and
+prospects.
+John Muir, inspired by some of the transcendental thought
+of Emerson and Thoreau, saw nature as sacred, completely
+separate from culture, and sought to preserve it by cordoning
+off wilderness areas from human settlement and consumptive
+uses. The wilderness movement that he promoted came to
+clash repeatedly with the conservation movement, which argued
+for economically efficient use of resources. Both camps
+agreed that nature should be managed for human use, but
+they disagreed on the priorities of management objectives.
+The culture/nature dichotomy probably reached its logical
+conclusion when McKibben (1989) argued that human influence
+had touched every part of the globe and, therefore, nature
+defined as untouched by humans no longer existed. McKibben
+acknowledged that some scientists consider human impacts
+to be within the bounds of their definition of nature. But
+he dismissed such definition as too responsive to logical and
+semantic considerations, and not truly expressive of our deepest
+feelings and instinctive sense of the world (p. 64-65).
+McKibben explained that his experience of the inside of his
+climate controlled office is quite different from what he experiences
+while hiking on a mountain. Such differences, he con-
+tended, have been widely observed and predate modern thermostats.
+He cited ancient Greek and Christian literature to
+support his view that people have for a long time experienced
+and understood nature as that which is beyond the influence
+of human culture. Not deeper insight, but real human impacts
+on the global environment have "ended the distinction that
+defined nature for us -- its separation from human society."
+(p. 64)
+McKibben called it the end of nature when the distinction
+from culture dissolved. Merchant (1980) called it the death 
+nature when nonhuman nature ceased to be viewed as living,
+and became instead tools and resources for culture. Although
+they each describe a different transition in human ideas and
+feelings about nonhuman nature, they seem to share a common
+concern. Both may be thinking in quasi-religious terms
+in the sense of Eliade’s (1959) distinction between sacred and
+profane. Nature, once sacred, has been profaned; this is what
+they see and mourn.
+Human Culture as a Part of Nature
+McKibben’s view of nature does not sit well with some
+advocates of restoration ecology and gardening. Referring
+specifically to The End of Nature, restoration ecologist Steven
+Packard (1990) argued that "Nature doesn’t end as we become
+a part of it any more than our parents cease to be our parents
+once they become old and we have to take care of them." In
+a discussion about the meaning of the term nature, Packard
+(1993) proposed that "...the nature that needs preserving...is
+better defined as complex assemblages of species as they have
+evolved in their environments over the ages. Whether people
+have played a role in this evolution is not key. If people -or
+anything else -- change the environment sufficiently so
+that substantial numbers of species die rather than evolve
+then what we have is degradation (or ’development’)" (p. 
+emphasis in the original). We are not advocating Packards’
+definition, but present it to illustrate alternative views of nature
+and human involvement in it.
+Conservationist Aldo Leopold (1949) had previously articulated
+a view that integrated humans within the natural world.
+He thought that conservation efforts would be ineffective unless
+humans saw themselves as members of the land commu-
+nity rather than as owners or masters of it. Leopold actively
+attempted to restore degraded ecosystems, and thus was a
+restoration ecologist before such a term was coined.
+Turner (1994) argues that much contemporary environmentalism
+is guided by a largely unspoken set of principles that,
+among other things, portrays humans as equal to or less than
+other species. He argues that this species egalitarianism denies
+hierarchies that exist in nature and denies the evolutionary
+significance of humans’ capacity for self awareness. Like Potts
+(1996), Turner contends that humans and their culture can 
+viewed as the most recent fruition of natural evolutionary
+processes that have been creating increasing complexity and
+self awareness. He further argues with Jordan (1994) that
+ecological restoration and ecological invention efforts that
+depend on human intervention are the best ways for humans
+to fully use and develop the capacities given to them by evolutionary
+processes.
+In contrast to restorationists who are concerned largely with
+reconstruction of ecosystems that existed prior to European
+contact with the Americas, Pollan (1991) argues that human
+culture can be seen as part of nature in a gardener’s consciousness:
+"Anthropocentric as he may be, [the gardener] recog-
+nizes that he is dependent for his health on many other forms
+of life so he is careful to take their interests into account in
+whatever he does. He is in fact a wilderness advocate of a
+certain kind. It is when he respects and nurtures the wilderness
+of his soil and his plants that his garden seems to flourish
+most. The wilderness he has found resides not only out there
+but also right here: in his soil, in his plants, even in himself."
+ 8 J. ENVIRON. QUAL., VOL. 28, JANUARY-FEBRUARY 1999
+John Hay (1987), a nature writer, embraces the confusion
+surrounding the term nature. Nature (both the human and
+nonhuman parts) is full of surprises and he thinks it is better
+to adopt an open attitude to receive these surprises rather
+than limiting ourselves to a single view. Discovering and experiencing
+those surprises are, for Hay, essential parts of life’s
+journey. "I will stick to my confusion and the mystery of
+things .... Nature undefined is what I know in myself. What
+better, more incalculable, capricious and impossible guide
+could I have than that! It’s going to be an interesting journey"
+(Hay, 1987, p. 10).
+ANALYSIS OF THE NATURE/CULTURE
+DISTINCTION
+We submit that the forgoing account of use provides a more
+complete picture of how the term nature has been used and
+understood than would an operational definition. Rather than
+resolving or defining away the various debates about how
+human culture should be seen with respect to nature, we think
+such an account positions us to better understand and engage
+in them, and it opens up avenues for further analysis, as we
+discuss below.
+We agree with Johnson et al. that the term natural is frequently
+used to indicate that which has not been influenced
+by human culture, however, we find the reasoning to support
+such a view to be problematic. Some scientific evidence and
+reasoning, presented for example by Potts (1996), suggests
+that human culture can be considered part of nature, but we
+stop short of such a positive argument. We argue merely that
+no serious case should be built on their distinction. This agnostic
+position nevertheless undermines a strong version of the
+culture/nature distinction. We anticipate opposition from two
+groups who seek to maintain the sharp culture/nature distinction:
+those who hold human welfare to be sacrosanct, and
+those wfio hold nonhuman nature to be sacrosanct.
+Those who hold human welfare sacrosanct could argue that
+dissolving the culture/nature duality would have the effect of
+devaluing humans. If there is no difference between humans
+and animals, what would prevent us from treating some humans
+as we treat some animals? Recall that slavery, war, and
+other forms of violence directed against fellow humans have
+sometimes been justified or rationalized on the grounds that
+the victims or enemies were something less than human.
+But dissolving the broad categorical culture/nature distinction
+would not necessarily mean dissolving all distinctions
+between humans and other animals. We can and do distinguish
+between species and appropriate treatment of broad classes
+of species. We expect different standards of treatment for
+animals depending upon whether they are pets, livestock, wildlife,
+or laboratory animals. We treat vertebrate laboratory
+animals differently than we treat invertebrates. Thus, even if
+humans and animals were part of the same general category
+(natural) there would still be several arguments and precedents
+for treating humans differently than other animals.
+Moreover, if we start from a position of stringent human rights,
+including say, the right to a suitable environment, we could
+look for ways to legitimately extend such rights to other species
+without violating the rights of humans. In this way, we could
+increase our valuation of nature without decreasing our valuation
+of humans by recognizing that each contributes value to
+the other.
+Those who hold nonhuman nature sacrosanct are likely to
+fear that once the distinction between nature and culture is
+gone, there would be less ground for arguing for preservation
+of "natural" areas in a condition that is relatively uninfluenced
+by humans. There are several good scientific, moral, and economic
+arguments for such conservation activities that do not
+depend on viewing human culture as unnatural. Dissolving
+the distinction between nature and culture seems to undermine
+a relatively weak argument that probably has little persuasive
+power. This argument depends, in part on the use of the term
+natural to indicate that which is good and acceptable. This
+usage is not universal, however, since the progress and consequences
+of a disease may be seen as entirely natural but totally
+unacceptable. For clarity, then, we need to distinguish when
+we use the term natural descriptively and when we use it normatively,
+Generally equating nature with goodness is a confession
+of faith, much like faith in science, economics, technology,
+ideology, or religion. Adherents to the "nature is good" faith
+generally do not need to be persuaded of the value of preserving
+ecosystems in a state relatively unaffected by humans. To
+have persuasive power among people of other faiths, ecosystem
+preservation needs to be justified in terms of other values
+that hold purchase in those faiths. For instance, to appeal to
+economically oriented people we usually need justify environmental
+conservation on the basis of potential economic value.
+When such reasoning fails or is too difficult to explain, it may
+seem easier to hold nature apart, with a slightly sacred aura,
+and to invoke it when necessary to appeal to emotions. But
+such appeals are generally only effective among the "nature
+is good" faithful. Appeals to other faiths must be made on
+their moral grounds.
+Dissolving the culture/nature dichotomy forces us to articulate
+reasons why we should protect endangered species and
+ecosystems rather than trying to justify it on the basis of a
+long-standing conceptual dichotomy that has debatable foundations.
+With more precise articulation, we can then develop
+specific standards and strategies of protection that are consistent
+with our reasons for seeking protection.
+If, for instance, we value nonhuman nature because its
+processes have guided the evolution of life for eons, while
+human processes are relatively new, this provides a more precise
+reason for attempting to preserve ecosystems in a state
+that might have existed prior to human influence. But, since
+human culture is also a product of evolution, we should also
+allow for the flourishing of culture and for the coevolution
+of culture and nonhuman nature. But what are appropriate
+standards of this coevolution? If we value biodiversity and
+take it as a standard, then the activities of the Papago people
+that have increased biodiversity in the Sonoran desert (Nabhan,
+1982, 1997) would appear to be valuable and acceptable.
+This is in contrast to the idea that most human caused changes
+to an environment should be considered unnatural environmental
+degradation. Where the culture/nature dichotomy
+forces us to choose either nature or culture, a dissolution of
+the dichotomy and a more precise articulation of concerns
+provide opportunities to blend ecosystem preservation with
+cultural expression and development.
+An example of such blending might be seen in a conservation
+approach for Midwestern streams proposed by Rhoads
+and Herricks (1996) who argue that a process that they call
+"naturalization" is more appropriate than attempting to return
+streams to a presumably natural pre-settlement condition. The
+intensity of the land-use for agriculture in the region has led
+to significant hydrologic and geomorphic changes. Achieving
+presettlement stream restoration in such a setting would require
+massive land-use changes that would be difficult and
+unlikely. The problem is compounded by lack of knowledge
+about presettlement conditions and uncertainty about whether
+environmental changes caused by modern humans should be
+considered any less natural than changes caused by other
+agents such as glaciers or Native Americans. Naturalization
+ McISAAC & BRUN: NATURAL ENVIRONMENT AND HUMAN CULTURE
+attempts to create a "new natural system" that includes humans,
+yet acquires a diversity of forms and functions that are
+generally displayed by systems that have not been impacted
+by humans. A similar approach is advocated more generally
+by Callicott and Mumford (1997) for terrestrial environments
+dedicated to human uses.
+These approaches to locating human culture within systems
+that are considered natural represent a movement away from
+a strict nature/culture dichotomy and attempt to preserve and
+cultivate the best features of both nonhuman nature and human
+culture. Such examples illustrate the possibility that envi-
+ronmental protection, preservation, and restoration need not
+depend on drawing and justifying an arbitrary line between
+human culture and the rest of the natural world. Of course,
+development of these approaches generally proceeds with
+more concrete and specific language than afforded by the
+terms nature and culture. The movement from vague concepts
+to concrete terms allows us increasingly to specify goals and
+means in ways that can be usefully debated and ultimately
+acted upon.
+SUMMARY
+The terms nature and natural have been used in a
+broad variety of ways. Because of this, attempts to produce
+a precise operational definition of nature or deriva-
+tive terms like natural environment are not likely to
+be very satisfactory. Although natural has been often
+portrayed as that which is not affected by human culture,
+the reasoning offered to support this view is debatable.
+Johnson et al. (1997) justify this definition based on the
+scale and rate of human impacts on the environment.
+However, the scale and rate of human impacts are variable
+and other entities (notably meteorites) have the
+potential to cause larger and more rapid environmental
+change. The definition of natural environment offered
+by Johnson et al. focuses on one causative agent of
+change (human culture) rather than the scale and rate
+of change. Hence there appears to be inconsistency between
+the justification and the definition. Rather than
+being unnatural, human culture can also be viewed as
+a natural behavioral response to environmental challenges.
+Instead of a precise operational definition, we
+think that an account of use is a more appropriate
+method of communicating the variety of meanings given
+to terms such as nature, natural environment, and culture.
+Given the breadth of meaning and plausible interpretation,
+we think that no serious argument can be made
+based on the supposed culture/nature distinction. Dissolving
+distinctions made by definition between culture
+and nature does not imply that everything humans do
+is good and acceptable. Such a conclusion derives from
+a normative and hardly universal use of the term natural
+that equates it with goodness. In the developing field
+of restoration ecology, for example, the distinction between
+culture and nature is frequently blurry or non-
+existent and this has contributed to innovative thought.
+In general, the term natural is so broad that, to avoid
+confusion, the intended meaning should be precisely
+specified for particular applications. Additionally, the
+difficulties with defining terms like natural environment
+should be recognized and these terms should be left
+open to interpretation as long as there is ongoing controversy
+over the definition of nature and natural. Rather
+than suggesting more definitions for these multifaceted
+terms, we think clarity is more likely if people will carefully
+consider the meaning they wish to convey in light
+of the variety of other uses for the terms, and then
+carefully articulate this meaning with precise and unambiguous
+terminology.
+ACKNOWLEDGMENTS
+We appreciate the comments of J. Bruce Litchfield on an
+early draft of this manuscript, and of Margarita Alario, Eric
+Freyfogle, Eri Fujieda, Bruce Hannon, David Onstad, Tim
+Ellsworth, and four anonymous reviewers on later versions.
+Eri Fujieda and Tony Endress supplied some very useful references.
+Although we have disagreed with Johnson et al. on
+several issues, the process of articulating the reasons for our
+disagreement has helped us clarify what we think about nature.
+For that, we are very grateful to Johnson et al.
+ 10 J. ENVIRON. QUAL., VOL. 28, JANUARY-FEBRUARY 1999

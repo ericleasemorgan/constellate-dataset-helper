@@ -1,0 +1,2862 @@
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018
+https://doi.org/10.5194/hess-22-1665-2018
+© Author(s) 2018. This work is distributed under
+the Creative Commons Attribution 4.0 License.
+From engineering hydrology to Earth system science: milestones in
+the transformation of hydrologic science
+Murugesu Sivapalan1,*
+1Department of Civil and Environmental Engineering, Department of Geography and Geographic Information Science,
+University of Illinois at Urbana-Champaign, Urbana, Illinois 61801, USA
+* Invited contribution by Murugesu Sivapalan, recipient of the EGU Alfred Wegener Medal & Honorary Membership 2017.
+Correspondence: Murugesu Sivapalan (sivapala@illinois.edu)
+Received: 13 November 2017 – Discussion started: 15 November 2017
+Revised: 2 February 2018 – Accepted: 5 February 2018 – Published: 7 March 2018
+Abstract. Hydrology has undergone almost transformative
+changes over the past 50 years. Huge strides have been made
+in the transition from early empirical approaches to rigorous
+approaches based on the fluid mechanics of water movement
+on and below the land surface. However, progress has been
+hampered by problems posed by the presence of heterogeneity,
+including subsurface heterogeneity present at all scales.
+The inability to measure or map the heterogeneity everywhere
+prevented the development of balance equations and
+associated closure relations at the scales of interest, and has
+led to the virtual impasse we are presently in, in terms of development
+of physically based models needed for hydrologic
+predictions. An alternative to the mapping of heterogeneity
+everywhere is a new Earth system science view, which sees
+the heterogeneity as the end result of co-evolutionary hydrological,
+geomorphological, ecological, and pedological pro-
+cesses, each operating at a different rate, which help to shape
+the landscapes that we find in nature, including the heterogeneity
+that we do not readily see. The expectation is that
+instead of specifying exact details of the heterogeneity in our
+models, we can replace it (without loss of information) with
+the ecosystem function that they perform. Guided by this new
+Earth system science perspective, development of hydrologic
+science is now addressing new questions using novel holistic
+co-evolutionary approaches as opposed to the physical,
+fluid mechanics based reductionist approaches that we inherited
+from the recent past. In the emergent Anthropocene, the
+co-evolutionary view has expanded further to involve interactions
+and feedbacks with human-social processes as well.
+In this paper, I present my own perspective of key milestones
+in the transformation of hydrologic science from engineering
+hydrology to Earth system science, drawn from the work of
+several students and colleagues of mine, and discuss their implication
+for hydrologic observations, theory development,
+and predictions.
+எப்ெபா ள் யார்யாரவ்ாய்க் ேகட் ம் 
+அப்ெபா ள் ெமய்ப்ெபா ள் காண்ப த  
+In whatever matter and from whomever heard,
+Wisdom will witness its true meaning.
+Thirukkural, Verse 423 (Thiruvalluvar, c. 132 BC).
+Translated by GU Pope, 1886
+1 Introduction
+Hydrology has undergone an almost complete transformation
+over the past century, from its empirical origins in the early
+20th century, to become a fully fledged and key component of
+Earth system science by the early 21st century (Chow, 1964;
+Sivapalan and Blöschl, 2017). In this paper, I use the precious
+opportunity given to me by the European Geosciences
+Union, as part of my 2017 Alfred Wegener Lecture, to reflect
+on the evolution of the field, as both interested observer
+and participant, as well as a student of hydrology for the past
+50 years.
+I hope that the issues I raise, and the trends and milestones
+I recognize in the evolution of the science that I re-
+count here, resonate with the experiences of many readers,
+even if they might not fully agree with my interpretations
+of the events and/or their antecedents. This is one person’s
+Published by Copernicus Publications on behalf of the European Geosciences Union.
+ 1666 M. Sivapalan: Milestones in the transformation of hydrologic science
+view of the vast landscape that hydrologists have collectively
+traversed, so perspectives abound. This is also not the first
+commentary of its kind: indeed, my thinking during my formative
+years was guided by the writings of Vit Klemeš and
+James Dooge, including their classic papers (Klemeš, 1983,
+1986; Dooge, 1986). Their writings have provided unique
+perspectives on the field of hydrological science and its evolution
+over the past several decades. I hope that by re-telling
+this story through the admittedly narrow prism of my own observations
+and experience as a catchment hydrologist, I might
+be able to provide fresh impetus to early career hydrologists
+and new entrants to the field, and encourage them to reflect
+on and chart the course of their own future education and
+research.
+2 Engineering hydrology: legacies of the past to new
+beginnings
+My earliest introduction to hydrology and later work experience
+are probably similar to those of many hydrologists of
+my generation, i.e., 1970s vintage, especially those coming
+out of engineering schools. Going back in time, 50 years ago
+hydrology was mostly non-existent as a subject of study in
+many engineering schools (certainly not in Sri Lanka where I
+grew up). Most water-related education was then centered on
+fluid mechanics, e.g., open channel or river hydraulics, with
+a strong focus on applications to irrigation or hydraulic engineering.
+In 1972 when I walked into a hydrology class at the
+then University of Ceylon (later Sri Lanka), it was taught by
+a recent convert from fluid mechanics, who had subsequently
+received specialist training in hydrology.
+Hydrology education in those days covered three key topics:
+infiltration and runoff generation (e.g., SCS curve num-
+ber method), the unit hydrograph method to runoff routing,
+and the flood frequency curve approach to flood estima-
+tion (Linsley et al., 1958). The focus of the training was on
+estimation, especially flood estimation (event scale, recipe
+style) and the approach was lumped and empirical. Compared
+to now, these involved relatively much simpler prob-
+lems, framed directly at the catchment scale, and formed
+the bread and butter of engineering hydrology, not just in
+Sri Lanka, but all over the world. The three building blocks
+of engineering hydrology were indeed legacies of three different
+previous eras in the growth of the field up until the
+1970s (Sivapalan and Blöschl, 2017): empirical era (flood
+frequency analysis), rationalization era (SCS curve number
+method) and systems era (unit hydrograph method). These
+estimation methods remain relevant to this day, very much
+the core of engineering hydrology, judging by the popularity
+of advanced textbooks such as Chow et al. (1988), which is
+still widely used for the training of hydrologists in engineering
+schools.
+For some of us who were then being trained in mechanics
+– solid mechanics, fluid mechanics, soil mechanics, etc.
+– the hydrology being taught and practiced using traditional
+estimation methods might have appeared strange and even
+mysterious. In the early days, I remember being frustrated
+that I could not make much physical sense of the cookbook
+treatment of the hydrologic estimation procedures, being unable
+to connect it to fundamental fluid mechanics principles.
+However, there was also wide appreciation for these otherwise
+simpler methods that efficiently solved practical prob-
+lems of that day and age. In fact, even today’s standard engineering
+practice would still be impossible without these sim-
+pler approaches.
+There was also a profound fascination. How is it possible
+that something so inherently complex, as hydrology is, still
+comes out so simple (apparently) in practice? Over the years,
+there was a grudging realization that perhaps hydrology is
+more than about fluid mechanics (Yevjevich, 1968). Indeed,
+the search for simplicity in amongst the enormous mechanistic
+complexity has been a constant theme in hydrologic
+research over the last 50 years (Rodriguez-Iturbe and Valdes,
+1979; Sivapalan, 2003; Savenije, 2017). The answer to this
+question, we now know in hindsight, is tied up with the issue
+of scale (both space and time) and the objects of our study,
+catchments, being not simple physical (or mechanical) objects
+but complex ecosystems (Gaál et al., 2012), consisting
+of component parts that have co-evolved together over time
+and are thus co-dependent (Dooge, 1986; Davies, 1992). I
+return to this theme throughout this paper.
+3 Spatial heterogeneity and scale: promise of
+Newtonian mechanics
+While the simple black-box methods of engineering hydrology
+did solve practical problems efficiently, they had lim-
+itations when extrapolating to circumstances beyond those
+from which they were developed. For example, what is the
+effect of antecedent wetness on runoff generation (Mein and
+Larson, 1973)? How does one account for the nonlinearity
+of catchment response to the size of rainfall events (Minshall,
+1960)? How does one deal with the climatic and ge-
+ologic controls when extrapolating flood frequencies to ungauged
+catchments (IACWD, 1982)? Also, new and more
+complex problems were emerging, such as the effects of land
+use changes on streamflows and flooding, and increased concerns
+about river water quality, which demanded application
+of more process understanding (Woolhiser, 1973). There was
+increasing realization that only a recourse to fluid mechanics
+and process physics would help address such questions,
+bring about needed improvements to the methods and make
+them applicable more generally.
+Hydrologists thus began to open up the black-box to explicitly
+capture space, and to characterize water movement
+in catchments through application of physical (fluid mechanics)
+principles. The physically based models that were start-
+ing to be developed at the time were based on Newtonian meHydrol.
+Earth Syst. Sci., 22, 1665–1693, 2018 www.hydrol-earth-syst-sci.net/22/1665/2018/
+ M. Sivapalan: Milestones in the transformation of hydrologic science 1667
+chanics valid at the laboratory or hydrodynamic scale (e.g.,
+Richards equation, St.-Venant equations; Chow et al., 1988),
+and not at the scale of a catchment. For example, Darcy’s
+law embedded in the Richards equation is based on a local
+equilibrium assumption to warrant a well-defined potential,
+implying that internal mixing in the pore spaces is faster than
+external disturbance, but this is only possible at small scales
+(Or et al., 2015). This also brought with it the enormous
+challenge of specifying the (highly heterogeneous) parameter
+values to go with the equations to represent the land-
+scape heterogeneity (e.g., subsurface soil formations, surface
+features such as micro-topography, macropores, rills and
+the stream channel network, and vegetation cover), and the
+complexity of the resulting flow processes (Freeze, 1974).
+These problems are at the heart of the scale issue, which remains
+a major challenge in hydrology in spite of considerable
+progress made to date, of which I will speak more later.
+A key development in this line of reasoning was Peter
+Eagleson’s 1970 book titled Dynamic Hydrology (Eagleson,
+1970), which provided a bold theoretical framework for a
+new hydrology based on the consistent and rigorous application
+of fluid mechanics principles, i.e., Newtonian me-
+chanics, along with an appreciation of an organized structure
+behind soil, land surface, and vegetation heterogeneity.
+Eagleson’s treatment of hydrology was a major departure, a
+paradigm shift, away from the lumped, black-box treatment
+practiced until then.
+Another major milestone was the computer implementation
+of the coupled governing equations by Allan Freeze
+(Freeze and Harlan, 1969) that framed the catchment hydrologic
+modeling problem as a boundary value problem.
+Progress in this area was advanced by the increasing availability
+of digital terrain information on topography, soils,
+vegetation, etc., and computational tools that allowed them to
+be processed and visualized (Band and Wood, 1988). These
+data allowed the natural heterogeneity of landscapes to be
+captured in a more realistic way. Also, it was exciting that
+new runoff generation mechanisms such as saturation excess
+overland flow and shallow subsurface stormflow were being
+discovered in the field (Hewlett and Hibbert, 1967; Dunne
+and Black, 1970) and could now be faithfully replicated in
+models using the newly available spatial information, e.g.,
+digital elevation models (DEMs) (Beven and Kirkby, 1979;
+Beven, 1981; Freeze, 1980; Band and Wood, 1988).
+3.1 Heterogeneity: to resolve or to parameterize?
+The Freeze and Harlan modeling paradigm has remained
+in force to this day, and several formal models have been
+developed based on the paradigm, such as the SHE model
+and variants of the same (Abbott et al., 1986). Due to data
+limitations and limits on computing power, early modeling
+efforts were restricted to small catchments, and their goal
+was limited to generating process understanding, and not so
+much to making predictions in real catchments (Stephenson
+and Freeze, 1974; Freeze, 1974). Their adoption and use in
+real-world applications did not take off for a long time because
+of their enormous data needs and insufficient comput-
+ing power and also concerns about the appropriateness of
+the process physics that could be included in the models at
+the model element scale (Beven, 1989; Beven and Germann,
+1982; Grayson et al., 1992).
+As computing power increased many-fold and the landscapes
+began to be mapped at increased resolution for soil,
+vegetation and topographic characteristics in many parts of
+the world, there has been a revival of sorts in recent times,
+with several models being developed and beginning to be applied
+to larger (e.g., meso-scale) catchments using more re-
+alistic data. Some (of the many) examples include ParFlow
+(Kollet and Maxwell, 2008), FIHM (Kumar et al., 2009),
+PAWS (Shen and Phanikumar, 2010), and HydroGeoSphere
+(Brunner and Simmons, 2012). These modeling efforts are
+expanding and I will not be surprised if, before long, such
+models are used not just to reproduce field observations, but
+also, as in the case of Freeze (1980), to discover and explain
+previously unobserved phenomena at all scales.
+In recent times, as part of climate change studies, modeling
+has been extended to continental and global scales to
+serve as the land-surface hydrology components of regional
+or global climate models. Because of the large scales, spatial
+resolution of such models in the past tended to be very
+coarse, on the order of hundreds of kilometers (e.g., bucket
+model, Manabe, 1969). However, progress is continually being
+made to improve the resolution from hundreds of kilo-
+meters to hundreds of meters, helped along by increased
+computational power and the availability of terrain information
+at finer resolutions (e.g., Community Land Model,
+Oleson et al., 2013). There is now a new thrust to improve
+the resolution of these models to 30 m for the whole globe
+(note: 30 m is the resolution of terrain information globally
+available), under the theme of “hyper-resolution modeling”
+(Wood et al., 2011; Bierkens, 2015; Wing et al., 2017). Concerns
+and debates about the appropriateness of the physics
+used in these models, the appropriateness of constitutive relations
+being adopted (Loritz et al., 2017), and the resulting
+uncertainty in hydrologic predictions, have not gone away,
+however (Clement, 2011; Beven and Cloke, 2011; Wood et
+al., 2012).
+An ostensible reason for going for finer resolution, is of
+course, since now we can do it, i.e., with data availability
+and computing power, why not, and also since the benefits
+of hyper-resolution modeling for both science and prac-
+tice are increasingly becoming evident. For example, hyperresolution
+models over regional or continental scale domains
+can track large-scale storm movements and the resulting impacts
+at scales relevant to human wellbeing, as well as gen-
+erate insights about large-scale teleconnections between or
+within regions (Senatore et al., 2015; Fang and Shen, 2017).
+A more immediate reason, however, is that as one improves
+the resolution, the (fervent) hope is that all heterogeneity will
+www.hydrol-earth-syst-sci.net/22/1665/2018/ Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018
+ 1668 M. Sivapalan: Milestones in the transformation of hydrologic science
+disappear and the governing equations used will match the
+spatial scales of the processes one is trying to model (e.g.,
+Clark et al., 2015, 2017; Peters-Lidard et al., 2017). In reality,
+of course, field evidence has strongly indicated that the heterogeneity
+does not disappear even if one goes to finer scales,
+and there is a limit to how far we can split the landscape to
+achieve any desired level of homogeneity and still maintain a
+continuum (Beven, 1989; Blöschl and Sivapalan, 1995). Besides,
+the presence of macro-pores and other preferred path-
+ways (Beven and Germann, 1982), and explicit treatment of
+runoff phenomena relating to the “old water, new water” concept
+(McDonnell, 1990), present major challenges to tradi-
+tional continuum representations of water movement on, and
+particularly below, the land surface based on Newtonian mechanics
+alone (Beven, 2006). One therefore reaches the al-
+ternative conclusion that, whatever grid scale one chooses,
+there is no alternative but to parameterize the effects of any
+remaining heterogeneity at the sub-grid scale.
+The end result for spatially distributed, physically based
+models of catchment hydrology is that model development
+has been caught between two temptations (Hrachowitz and
+Clark, 2017):
+1. split the landscape more and more down to the continuum
+(hydrodynamic) scale so that heterogeneity disap-
+pears as an issue (i.e., heterogeneity is completely resolved);
+2. aggregate to some scale at which the effects of hetero-
+geneity are taken care of through simplified treatments
+with process parameterizations that can account for the
+effects of all sub-grid heterogeneity.
+Advancing technological capability and increased process
+knowledge at small scales are the drivers towards the former
+option (Wood et al., 2011). Appreciation of scale ef-
+fects, including expectation of simplicity through averaging
+(Sivapalan, 2003), and concerns about predictive uncertainty
+(Beven and Cloke, 2011) and about a dominant focus on
+techniques and other quick fixes (e.g., model–data assimilation)
+over the important search for hydrological understand-
+ing (Klemeš, 1986), are the key drivers towards the latter
+option. The problem of heterogeneity is not unique to hydrology,
+and applies to all environmental sciences, and ap-
+proaches to mediate the alternative perspectives presented
+above may draw inspiration from a quote from ecologist Simon
+Levin (1992):
+To scale from the leaf to the ecosystem to the
+landscape and beyond. . . we must understand how
+information is transferred from fine scales, and
+vice versa. We must learn how to aggregate and
+simplify, retaining essential information without
+getting bogged down in unnecessary detail. The
+essence of modeling is, in fact, to facilitate the
+acquisition of this understanding, by abstracting
+and incorporating just enough detail to produce observed
+patterns. . . the objective of a model should
+be to ask how much detail can be ignored without
+producing results that contradict specific sets
+of observations, on particular scales of interest.
+Levin’s (1992) is an argument for “coarse graining”, i.e.,
+formulating models with only the necessary degree of complexity,
+and against attempts to fully resolve the enormous
+heterogeneity and complexity of hydrologic processes at progressively
+smaller timescales and space scales, a perspec-
+tive which is echoed by hydrologist Thomas Dunne as well
+(Dunne, 1998).
+3.2 Organized heterogeneity and preferred space
+scales: REA
+Inspired by the organization that nature exhibits around a hierarchy
+of spatial scales, i.e., hillslope, catchment, region,
+etc. (Blöschl and Sivapalan, 1995), there have been concerted
+efforts to identify whether a characteristic space scale, which
+reflects the spatial organization and can thus serve as the
+building block of distributed models, exists in catchment hydrology.
+This idea is similar to the continuum or REV con-
+cept long used in groundwater hydrology with a considerable
+degree of success (Bear, 1972; Hassanizadeh and Gray,
+1979). The argument has been that aggregating the governing
+equations or process descriptions to this building block
+scale might lead to simplified (effective) lumped or continuum
+treatments, obviating the need to split the catchment into
+smaller elements to capture the effects of heterogeneity. This
+way of thinking reflects the long-standing conviction, supported
+by observations, that in spite of the enormous com-
+plexity of hydrologic processes in landscapes, catchmentscale
+hydrologic responses can often be described by sim-
+pler models with only a few parameters (Jakeman and Hornberger,
+1993; Sivapalan, 2003). Dooge (1986) has argued that
+catchments are complex systems with some level of organization,
+and indeed “simplicity out of complexity” is a use-
+ful property of such complex systems (Davies, 1992). However,
+when one opts for the parameterization approach in-
+spired by this reasoning, one still needs to know key features
+of the underlying heterogeneity, e.g., their statistical
+distributions or organizational structure (and not necessarily
+the actual observed patterns). Furthermore, we also need to
+have information about cross-scale process interactions that
+might lead to the simplicity we desire (Dunne and Black,
+1970; Hassanizadeh and Gray, 1979), and must utilize efficient
+approaches to incorporate them into models through
+appropriate model structures and parameterizations (Beven
+and Kirkby, 1979; Zehe et al., 2014).
+Motivated by this reasoning, Wood et al. (1988) pursued
+this scale question in the context of runoff generation responses
+at the catchment scale. On the basis of spatial av-
+eraging of numerical simulation outcomes from a distributed
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018 www.hydrol-earth-syst-sci.net/22/1665/2018/
+ M. Sivapalan: Milestones in the transformation of hydrologic science 1669
+Figure 1. Mean event runoff volume as a function of mean subcatchment
+area (for the case of variable topography but uniform
+soils and precipitation). Adapted from Wood et al. (1988).
+rainfall–runoff model of hypothetical catchments, Wood et
+al. (1988) postulated that such a spatial scale could exist,
+which they called the representative elementary area (REA),
+and estimated its size to be about 1 km2 (Fig. 1). Subsequent
+field observations and simulations in New Zealand and
+Germany supported the idea with some reservations and further
+refinements (Woods et al., 1995; Didszun and Uhlen-
+brook, 2008). The claims about both the existence and size
+of the REA have been questioned by others, based on perceived
+limitations of the averaging approach used to resolve
+these questions (Fan and Bras, 1995; Blöschl et al., 1995).
+A further limitation of the REA of Wood et al. (1988) is
+that it focused on surface runoff volume, and not its timing.
+Robinson et al. (1995) explored the change in domi-
+nant controls on runoff timing (e.g., hydrograph dispersion)
+with increased catchment area, and showed that the scale
+at which the dispersion is maximally reproduced can be affected
+by whether (fast) surface or (slower) subsurface runoff
+pathways dominate. The significance of the existence of the
+REA, whatever its size, is that it is small enough to still
+account for relevant spatial hydrological variations, and yet
+large enough to avoid the overwhelming data and parameter
+needs of small-scale (distributed) models. As a result, despite
+the reservations, the notion of using a representative watershed
+scale as the building block towards the development of
+distributed models (now at a sub-catchment scale) has remained
+as a working hypothesis for organizing our thought
+processes in respect of modeling.
+Inspired by the possibility that adoption of such a representative
+scale might lead to simplified yet physically based
+hydrologic prediction models, Reggiani (1999) developed a
+new theory of hydrology around this building block, now
+named the representative elementary watershed or REW, to
+account for some of the limitations of the earlier REA concept.
+Reggiani’s theory was expressed in the form of balance
+equations for mass, momentum, energy and entropy written
+down directly at the scale of the REW (Reggiani et al.,
+1998), and an accompanying constitutive theory (Reggiani et
+al., 1999) to ensure the theory gives rise to a determinate set
+of governing equations. Subsequently, Zehe et al. (2006) derived
+soil moisture characteristic (i.e., constitutive) relation-
+ships at the REW scale through the upscaling of corresponding
+point-scale observations. Likewise, Lee et al. (2007) de-
+veloped a set of closure relations for the many boundary
+fluxes for the catchment system – between different REWs
+and between different sub-regions within each REW – again,
+to account for the effects of sub-grid heterogeneity and process
+complexity, thus helping to complete the specification
+of the governing equations representing the catchment response.
+The net advantage of the REW approach is that it ends
+up with the solution of a system of coupled ordinary differential
+equations (as opposed to a system of partial dif-
+ferential equations, which one obtains if they were to split
+a catchment into rectangular or triangular elements). Both
+Tian et al. (2006) and Lee et al. (2007) developed numerical
+schemes to solve these governing equations, thus forming a
+new generation of models based on the REW approach that
+parallel distributed models based on rectangular or triangular
+finite elements following the Freeze and Harlan paradigm.
+In this way Tian et al. (2006) and Lee et al. (2007) have
+contributed to a new class of models of intermediate complexity,
+resolving processes occurring at scales larger than
+the size of the REW, and parameterizing those happening at
+smaller scales (Beven, 2012). Their potential as a new modeling
+framework has also been highlighted through several ap-
+plications. For example, models based on the REW approach
+have been applied to real catchments, generating space–time
+predictions of the rainfall–runoff response for catchments in
+Australia (near Darwin, Lee et al., 2007) and in Oklahoma
+in the United States (Li et al., 2012; Tian et al., 2012). In
+recent years, these models have been extended to make distributed
+predictions of sediment and nutrient transport and
+export at the catchment scale and across the corresponding
+stream networks (Patil et al., 2012; Ye et al., 2012). It should
+be noted that in spite of this success, the REW approach has
+still not taken off, nor has it been widely adopted as would
+be expected, due to the lack of progress in the development
+of constitutive and closure relations to account for the effects
+of sub-REW heterogeneity and process complexity in catchments
+everywhere; this is discussed next.
+4 Catchments as ecosystems: limits of Newtonian
+mechanics
+In spite of its promise, and in spite of the progress made so
+far, the REW approach shares the as yet unsolved problem
+confronted by all distributed models, which is how to derive
+or estimate parameters a priori at the scale of the chosen
+grid (in this case, the REW) without first fully resolving subwww.hydrol-earth-syst-sci.net/22/1665/2018/
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018
+ 1670 M. Sivapalan: Milestones in the transformation of hydrologic science
+Figure 2. Simple and complex system representations of timescales contributing to floods. Interactions of multiple timescales make the
+response an emergent outcome of a complex system. Taken from Gaál et al. (2012).
+grid heterogeneity and process complexity, which was the key
+problem in the first place. The spatial heterogeneity and the
+resulting cross-scale process interactions can introduce enormous
+complexity and richness to catchment hydrological re-
+sponses. However, processes can become even more complex
+when we extend the analysis to include multiple timescales.
+When we attempt to make predictions over longer timescales,
+i.e., longer than events (e.g., months or years), the media
+within which hydrologic processes operate (i.e., soils, topography,
+vegetation) may themselves change dynamically or
+transform permanently (e.g., time-variant macroporosity due
+to the life cycle of earthworms, Zehe and Sivapalan, 2009;
+soil swelling and cracking, Savenije and Hrachowitz, 2017).
+In other words these are not inert objects fixed for all time, as
+is commonly assumed in deterministic models. Furthermore,
+if the hydrologic prediction problem is deemed a boundary
+value problem, as it often is, it also means that the location of
+the boundary and its condition itself are not fixed, but evolve
+dynamically as part of the water dynamics, the very dynamics
+we are trying to predict (see Fig. 2). The end result is
+that the hydrologic response can no longer be described by
+Newtonian mechanics alone, and is now the emergent outcome
+of two dynamic, coupled processes: water flow itself
+and the changes to the media, both occurring over multiple
+timescales (Gaál et al., 2012). Note that all of the complex
+spatial processes we talked about operate in the time domain
+as well.
+The most obvious example of a catchment subsystem
+that evolves dynamically is vegetation, which is directly involved
+in the crucial process of evapotranspiration. Vegeta-
+tion adapts itself dynamically over multiple timescales in response
+to changing climate and hydrology, even as it has an
+impact on the hydrology. Also, over much longer timescales
+it can modify the environment around it (e.g., soil structure,
+macro-pores, and topography, to name a few). In this way the
+temporal dynamics of vegetation can also indirectly impact
+runoff generation processes. As well as evolving with the dynamic
+hydrology, such biologic activity renders the system
+even more internally dynamic. The adaptations of vegetation
+and their modifications of landscapes may be governed by biological
+or ecological processes, and cannot be captured by
+universal descriptions based on Newtonian mechanics that
+focus on flow processes alone; presently their effects on flow
+can only be described by empirical, place-based relationships.
+As in the case of spatial upscaling problems discussed
+before, it is always tempting to ask the question whether the
+temporal organization of a catchment’s hydrologic response,
+arising from vegetation adaptations to the multi-scale temporal
+variability of climate and hydrology, and the resulting
+landscape modifications, could also be averaged to produce a
+simplified description of catchment response. This question
+is explored next by highlighting different examples of vegetation
+(and even landscape) adaptations to natural climate
+variability and hydrology.
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018 www.hydrol-earth-syst-sci.net/22/1665/2018/
+ M. Sivapalan: Milestones in the transformation of hydrologic science 1671
+4.1 Adaptation strategies by vegetation
+Understanding vegetation adaptation processes is a rich and
+multifaceted problem, but here I will use examples from my
+own modeling experience to only illustrate the point about
+simplicity in spite of complexity, and how this might arise
+as a result of vegetation adaptations in the time domain.
+Many existing catchment models, including the ones mentioned
+before, approximate evapotranspiration rates by vege-
+tation (e.g., forests, grasses) as if they function like humanengineered
+agricultural crops; i.e., they transpire at a poten-
+tial rate (e.g., potential evaporation) when the soil is wet, and
+reduce their evapotranspiration rate when soil moisture falls
+below the saturation value. In reality, this is not normally the
+case under native vegetation, and such approximations can
+lead to serious discrepancies when evapotranspiration is a
+large fraction of annual water balance, as is the case in most
+dry places around the world (Sivapalan et al., 1996; Thompson
+et al., 2011a). This was highlighted in the Darling Range
+region of south-western Western Australia during field experiments
+carried out by Silberstein et al. (2001).
+South-western Western Australia experiences a strong
+Mediterranean climate, with warm dry summers and cold
+wet winters. Field measurements made by Silberstein et
+al. (2001) in a forested catchment in this region showed that
+daily evapotranspiration rate (bare soil evaporation plus transpiration)
+was roughly 2.5 mm day−1 during a 2-week pe-
+riod in the wet winter phase of the experiment. Remarkably,
+when the experiment was repeated 6 months later during a
+2-week period following a very dry summer, the evapotranspiration
+rate turned out to be very much the same, about
+2.5 mm day−1 every day. The assumption that trees, like agricultural
+crops, might reduce their transpiration rates during
+dry periods (due to their experiencing water stress) was found
+not to be the case. It turned out that native Eucalyptus trees in
+this part of Western Australia have adapted to the strong seasonality
+of climate (hot dry summers and cold wet winters)
+by growing dynamic deep roots that tap into a groundwater
+aquifer present that is over 30 m deep. Indeed, it was found
+that tree roots remained always in contact with the deep water
+table even when the latter fluctuated between summer
+and winter and between years. The net result is an apparently
+constant transpiration response by the vegetation, i.e.,
+2.5 mm day−1 every day.
+In a subsequent study at a site near Darwin, in Northern
+Territory, Australia, Schymanski (2007) reported an al-
+together different response by native vegetation. This area
+experiences a monsoon climate, with a wet 4-month period
+of heavy monsoon rains, followed by 8 months of dry
+(non-rainy) conditions. Being tropical, potential evaporation
+is uniformly high during both periods. Water table is
+present at a depth of about 10 m all year. Schymanski reported
+that measured total evapotranspiration rate appeared
+to follow the variation of surface soil wetness, regardless of
+the energy available, i.e., potential evaporation (Schymanski,
+2007). However, the adaptation strategy by the prevail-
+ing vegetation was different. In Darwin, the more permanent,
+deep-rooted trees tap into the groundwater table, just
+as in Western Australia, and were found to transpire at a
+rate of 1 mm day−1 all year, regardless of surface soil moisture.
+However, in addition, during the wet season, a dense
+under-story of grasses develops which, like crops, transpires
+at rates proportional to the surface soil moisture: a peak of
+2.5–3.0 mm day−1 during the wet season, decreasing as the
+soil dries during the subsequent dry season, and dropping
+to negligible values as the grasses completely senesce and
+dry out. Once again, a slightly more complex, almost predictable
+transpiration pattern that arises via complex adapta-
+tion strategies adopted by the vegetation to the climate and
+hydrology.
+Two different places, two different adaptation strategies by
+vegetation that has developed in each setting, yet permitting
+a simplified transpiration pattern in each case: in both cases,
+the strategies used by the vegetation are different from what
+is normally assumed for agricultural crops. This raises two
+issues: if one wants to develop a predictive model of evapotranspiration
+for a specific place, then the adaptation strat-
+egy adopted by the vegetation that develops locally must be
+known a priori. Newtonian theory by itself cannot predict
+the vegetation and its adaptation strategy one is likely to encounter
+in a given place, both of which may be governed by
+(the as yet unknown) biological/ecological laws at the scales
+of interest to us. The adaptation strategy adopted by the vegetation
+would be relatively easy to determine, given the kind of
+observational evidence available to Silberstein et al. (2001)
+or Schymanski (2007). Few places would have that kind of
+field evidence, however. In a catchment context, many more
+places will have rainfall–runoff data only, from which the
+adaptation strategy adopted by vegetation may have to be inferred
+(with a lot more ambiguity, given the kind of limited
+data, especially in the absence of evapotranspiration data).
+The fact that prevailing vegetation in different places may use
+different adaptation strategies, in the absence of such supporting
+data, also opens the way for much freedom or plu-
+ralism in the development of predictive models, as opposed
+to a universal model that would be expected from Newtonian
+mechanics.
+4.2 Ecosystem function and data-based inference
+A key observation from the last section is that the dynamics
+of evapotranspiration is intimately connected to that of
+vegetation adaptation. We can broaden this argument to include
+other catchment responses as well, such as runoff. We
+are quite used to treating runoff generation as a physical
+process, governed by Newtonian mechanics (Larsen et al.,
+1994). This presumes that we know a priori what mechanism
+of runoff generation dominates in a given place. However,
+Newtonian mechanics alone may not be able to determine a
+priori (i.e., without field evidence) the dominant runoff genwww.hydrol-earth-syst-sci.net/22/1665/2018/
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018
+ 1672 M. Sivapalan: Milestones in the transformation of hydrologic science
+eration mechanism in any given place. Based on field evidence
+Dunne (1978) provided a perspective on climate, soil,
+topography and vegetation controls on dominant runoff generation
+mechanisms, popularly known as the Dunne diagram.
+To this day, the Dunne diagram has continued to defy explanations
+based on Newtonian mechanics alone (Larsen et
+al., 1994; Li et al., 2014). Vegetation adaptation may again
+be the chief cause of this phenomenon, e.g., vegetation perhaps
+adapting itself and adapting the environment around it
+(i.e., soils, topography) in such a way that it can retain soil
+moisture longer in arid environments and drain water sooner
+in wet environments. Also, forest soils are known to have
+higher surface infiltration capacities, which also impact their
+stormflow response. Thus, “forest” vegetation type becomes
+a property linked to infiltration and runoff generation, as well
+as to evapotranspiration.
+Given this field evidence on evapotranspiration and runoff
+generation, and given the limitations of the more reductionist
+approach based on Newtonian mechanics, one is tempted to
+look for a complementary but holistic approach that can accommodate
+the adaptation of catchment properties (i.e., veg-
+etation, soils) to environmental conditions. What if, instead
+of treating catchments as physical or mechanical systems,
+we consider them more broadly as ecosystems. Then the
+same processes, i.e., evapotranspiration and runoff generation,
+could be deemed a catchment’s ecological responses, as
+part of its overall ecosystem “function”. This was the wisdom
+behind the “functional” approach proposed by Black (1997),
+who framed a catchment’s hydrological responses to precipitation
+more broadly as partition, storage, transmission, and
+release (see also Wagener et al., 2007), as opposed to pointscale
+processes (e.g., infiltration), in this way aligning them
+to the catchment’s ecosystem function.
+Another observation from the last section is that in spite
+of the known complexity of hydrologic processes at small
+timescales (rain events) and space (point) scales, which Newtonian
+mechanics may well be able to capture under some
+circumstances, catchment organization and ecosystem adaptation
+impart a level of simplification to hydrological re-
+sponses at the catchment scale. One example is the dynamics
+of evapotranspiration seen in forested catchments in Perth
+and Darwin. Another example is the well-known fact that the
+discharge of the groundwater aquifer to streams can often
+be represented by simple linear reservoir theory, characterized
+by a mean residence time, in spite of the known com-
+plexity of flow processes operating at small scales, governed
+by Darcy’s law (Savenije, 2017). This intriguing connection
+between micro-scale complexity and macro-scale simplicity
+has been an unsolved problem in catchment hydrology
+(Dooge, 1986; Sivapalan, 2003). The challenge for predictions
+is that the mechanisms through which such transforma-
+tions from complexity to simplicity happen are largely unknown.
+If the biological or ecological laws or principles that
+govern them at the catchment scale were known, we might
+then use them to derive simpler, holistic parameterizations
+of hydrologic responses. Until such laws become available
+and lead to the development of universal predictive models,
+however, the problem lends itself to a plurality of modeling
+ideas, including data-driven approaches that rely on inferences
+from available rainfall–runoff data.
+Wittenberg and Sivapalan (1999) presented an interesting
+and insightful implementation of the data-driven inference
+idea. They performed diagnostic analysis of rainfall–runoff
+data in several catchments in Western Australia (WA). This
+first involved analysis of streamflow recessions (i.e., following
+the end of individual rainfall events) during different
+times of the year, and in WA’s seasonal climate, attributing
+differences in the slopes of the recession curves to changing
+evapotranspiration (ET) within the year. This made it possible
+to back-calculate the unknown ET from the recession
+curve slopes, and thus piece together a simple groundwater
+balance model for the catchments. This approach to databased
+inference was later extended by Kirchner (2009) to
+UK catchments, calling the approach “doing hydrology backwards”.
+In both cases, however, the power of the approach
+was due to the apparent simplicity of the hydrologic response
+manifesting itself at the catchment scale, which results from
+the spatial landscape organization and the temporal adaptation
+of the catchment ecosystem to the prevailing climatic
+variability.
+Following the lead of Wittenberg and Sivapalan, Jothityangkoon
+et al. (2001) and Atkinson et al. (2002) ex-
+tended the data-based inference idea further by treating the
+catchment’s observed rainfall–runoff response as a reflection
+of its ecosystem functions (i.e., partition, storage, trans-
+mission, and release) but manifesting differently at different
+timescales. They assumed that the ecosystem functions are
+reflected collectively in several runoff signatures (i.e., temporal
+patterns extracted from streamflow data at different
+timescales), through which it was assumed that the catchment
+reveals its internal dynamics or functioning (see Fig. 3).
+These streamflow signatures, e.g., the regime curve (monthly
+timescale), flow duration curve (daily), or flood frequency
+curve (multiple timescales), are thus seen as outward manifestations
+of internal ecosystem functioning, and can there-
+fore be deemed emergent (temporal) patterns.
+The functional insight and the realization that catchment
+responses can show organization along timescales gave rise
+to a new approach to the modeling of catchment rainfall–
+runoff responses, called the top–down or downward approach
+(Klemeš, 1983; Sivapalan et al., 2003). We might as
+well call it the functional approach, following the lead of
+Black (1997). This modeling approach is diametrically opposed
+but complementary to the bottom–up or upward ap-
+proach to model development based on Newtonian mechanics
+(Klemeš, 1983), an example of which is the REW ap-
+proach of Reggiani et al. (1998, 1999) discussed earlier. The
+idea behind the downward or functional approach is to develop
+models step by step, but starting at long timescales
+(e.g., the annual timescale, as in the case of Jothityangkoon
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018 www.hydrol-earth-syst-sci.net/22/1665/2018/
+ M. Sivapalan: Milestones in the transformation of hydrologic science 1673
+Figure 3. Runoff signatures deemed emergent patterns reflecting the functioning of the catchment ecosystem. (a–f): annual runoff, seasonal
+runoff, flow duration curves, low flows, floods, and runoff hydrographs. Taken from Blöschl et al. (2013).
+et al., 2001). Once a simple (simplest possible) model is
+developed that reproduces the runoff signature at the annual
+scale, i.e., inter-annual variability, one then moves down
+to the monthly timescale, and adds just enough functional
+complexity to the model to match a new signature, now at
+the monthly timescale, i.e., the regime curve. If partitioning
+is the main function that is accommodated at the annual
+timescale, storage and release could be functions added at
+the monthly scale, and so on. This process continues until
+a model is developed that is able to reproduce signatures extracted
+from streamflow data simultaneously at all timescales
+(Jothityangkoon et al., 2001; Atkinson et al., 2002). The top–
+down modeling approach bears some similarity to the databased
+mechanistic modeling approach proposed earlier by
+Peter Young of Lancaster University, and illustrated in Young
+and Beven (1994) and Young (2003), as discussed in Sivapalan
+and Young (2005).
+Interestingly, the “functional” models, developed in a top–
+down way through inference from data (e.g., Jothityangkoon
+et al., 2001; Atkinson et al., 2002), are in many ways similar
+to what have long been known as conceptual models,
+which have been developed from the 1960s, beginning with
+the Stanford Watershed Model (Crawford and Linsley, 1966).
+These conceptual model types can be lumped (at the catchment
+scale) or distributed (at the sub-catchment scale), and
+are also developed without recourse to Newtonian mechanics.
+Examples (among numerous other models) include the
+Tank Model (Sugawara, 1967), HBV (Bergström, 1976),
+LASCAM (Sivapalan et al., 1996), and the FLEX generation
+of models proposed in recent times (Fenicia et al., 2011;
+Gharari et al., 2011). Both conceptual and top–down model
+types take the form of a combination of inter-connected storage
+reservoirs that mimic the functioning of different parts of
+a catchment, both attempt to provide some kind of mapping
+between landscape structure and model structure (Sivapalan,
+2005), and both types contain strong subjective elements.
+The main difference is the thought process that goes into
+developing these models. Development of top–down models
+follows a systematic procedure to decipher the model
+structure from observed rainfall–runoff variability at multiple
+timescales. In the case of traditional conceptual models, the
+model structure is chosen, ostensibly but often arbitrarily, to
+reflect the functioning of parts of the catchment, with the opportunity
+to further refine it through calibration or confronta-
+tion with rainfall–runoff observations. In another sense, both
+model types are also similar to physically based models of intermediate
+complexity arising from the REW approach (e.g.,
+Tian et al., 2006; Lee et al., 2007), in that all three model
+structures are expressed in the form of coupled ordinary differential
+equations that reflect water balances of individual
+compartments (or storages).
+www.hydrol-earth-syst-sci.net/22/1665/2018/ Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018
+ 1674 M. Sivapalan: Milestones in the transformation of hydrologic science
+5 Newtonian mechanics vs. ecosystem function:
+impasse and reconciliation
+In the preceding sections I outlined two complementary approaches
+that hydrologists have pursued over the past 5
+decades to make catchment-scale predictions. Using the terminology
+of Klemeš (1983), subsequently expanded by Siva-
+palan et al. (2003), these can be termed the upward (or
+bottom–up reductionist) and downward (top–down ecosystem
+or functional) approaches. The upward approach fun-
+damentally involves application of Newtonian mechanics,
+either through spatially distributed models that attempt to
+explicitly resolve spatial heterogeneity, or through semidistributed
+(e.g., REW) models that attempt to parameterize
+the effects of sub-grid heterogeneity, while keeping the essential
+physics. The downward approach to model develop-
+ment, on the other hand, involves making inferences from
+catchment-scale rainfall–runoff data (and other responses,
+e.g., evapotranspiration, if available).
+The advantage of Newtonian mechanics based models is
+that the role of spatial gradients in controlling hydrologic
+processes, at least in principle, can be explicitly captured,
+and so the fidelity of process descriptions at small scales
+can be guaranteed (at least in principle). However, they have
+the disadvantage that they cannot (yet) account for the functioning
+of the catchment as an ecosystem, which is defined
+by process interactions in the time domain, the biological/ecological
+laws behind which are yet to be discovered
+in the catchment hydrologic context and incorporated into
+the models. The top–down approach to modeling has the advantage,
+being derived from rainfall–runoff data, that it can
+capture the holistic nature of catchment functioning. On the
+other hand, it cannot (yet) unambiguously account for the
+physical laws that govern flow processes in landscapes, especially
+in the spatial domain.
+Indeed, it has been said that “bottom–up reductionisttype
+models are best suited to represent “known” knowl-
+edge, and are at their weakest to reveal “unknown” knowledge
+(R. Silberstein, personal communication, 2017); vice
+versa for top–down ecosystem-type models. In this sense, the
+biggest strength of the top–down approach is also the biggest
+drawback of the bottom–up approach, and vice versa (Sivapalan
+et al., 2003). These two perspectives will remain ir-
+reconcilable until major breakthroughs are made in our understanding
+of multi-scale spatial heterogeneity and tempo-
+ral variability, no doubt governed by Newtonian mechanics at
+small scales, the resulting cross-scale interactions and adaptations
+at long timescales governed by ecological laws, and
+the understanding of how these contribute to whole ecosystem
+function and manifest themselves in more holistic and
+simplified parameterizations of catchment responses (Sivapalan,
+2005; McDonnell et al., 2007). Presently, in this con-
+text, we are at an impasse.
+One of the clearest manifestations of the impasse in modeling
+is in the uncertainty in the resulting hydrologic predic-
+Figure 4. Reconciliation of downward and upward approaches –
+break from a reliance on parameterization of lower-level features
+to discovery and explanation of emergent phenomena at the higher
+level. Taken from Sivapalan (2005).
+tions (Beven and Binley, 1992). Neither approach is complete
+in terms of its theoretical foundation to generate the
+predictions we need. In the case of bottom–up models based
+on Newtonian mechanics, the predictive uncertainty arises
+from an inability to characterize the heterogeneity of landscape
+properties accurately, the lack of complete knowledge
+or understanding of hydrologic processes in the real world,
+and the inability to capture them in the models. In the case
+of top–down or functional models that depend on data-based
+inference, equally there is uncertainty arising from the diversity
+of catchment adaptations to climate and consequently in
+the plurality of model structures. In addition, there is further
+uncertainty due to the inability to unambiguously esti-
+mate the parameters through calibration, in the absence of
+physical guidance or universal laws to constrain the parameter
+values. In a broad sense, the uncertainty arises from both
+inadequate understanding of catchment behavior (epistemic
+uncertainty) and an inability to characterize catchment heterogeneity
+fully (aleatory uncertainty) (Beven, 2016). Fur-
+ther progress in modeling will thus depend on our ability to
+break the impasse between these two different modeling approaches
+by changing the science questions that have been
+behind hydrologic research over the past decades (Sivapalan,
+2009).
+5.1 Breaking the impasse: change the question
+True reconciliation, however, is unlikely to come about if
+we stay within the existing paradigms, through mere refinements
+to existing approaches to estimation and prediction.
+Reconciliation between Newtonian mechanics and ecosystem
+function based approaches will require a new era of re-
+search aimed at explanation and discovery rather than estimation
+and prediction (see also Burt and McDonnell, 2015).
+Reconciliation will require, on the one hand, that we understand
+the functional role of landscape heterogeneity, and on
+the other hand, the physics (i.e., mechanics or thermodynamics)
+underpinning ecosystem function. This might require go-
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018 www.hydrol-earth-syst-sci.net/22/1665/2018/
+ M. Sivapalan: Milestones in the transformation of hydrologic science 1675
+ing beyond Newtonian mechanics and searching for other
+universal laws or organizing principles that explain ecosystem
+functioning of catchments in particular places. Instead of
+parameterizing the effects of heterogeneity, the focus should
+be on recognizing it as an emergent pattern and coming up
+with explanations to describe how it came about and discover
+its ecosystem function (Fig. 4, Sivapalan, 2005). The modeling
+question should no longer be whether we can explicitly
+account for the effects of heterogeneity mechanistically, but
+whether its ecosystem function can be reproduced (McDonnell
+et al., 2007; Schaefli et al., 2011). In other words, to
+move forward towards both understanding and improved predictions,
+research goals and associated scientific questions
+must broaden from just estimation to explanation.
+5.2 Moving from estimation to explanation: focus on
+phenomena
+As we have seen, the focus on estimation goes back to the
+beginnings of engineering hydrology. In spite of the enormous
+progress we have made in our ability to make predic-
+tions, these advances have not contributed towards generalized
+theories that operate universally across catchments and
+places. General theories are very much needed to bring about
+the reconciliation of the diversity of modeling approaches we
+now have and achieve a unification of the field. Hydrologic
+research will thus have turn to new types of questions (Sivapalan,
+2009), which are focused on explanation and discov-
+ery, perhaps as a necessary prelude to prediction. Organization
+of catchment responses and the patterns of ecosystem
+function that one observes in the real world are no longer objects
+to be mimicked by our models (“grist to the calibration
+mill”, à la hydrograph fitting), but need to be seen as emergent
+phenomena. The enormous computational power and
+data availability that we now have should be utilized to discover
+and/or explain previously unobserved or unexplained
+phenomena at all scales and places (Li et al., 2014; Dunne,
+1978). This may herald a major culture change in the way we
+do research.
+Phenomena abound in hydrology, differing in complexity
+and richness, and arising in different contexts, which warrants
+a separate review article by itself, given their increas-
+ing importance in hydrology research. Examples of phenomena
+in catchment hydrology include the old water-new wa-
+ter concept (McDonnell, 1990), the pan evaporation paradox
+(Roderick and Farquhar, 2004), the Budyko hypothesis
+(Budyko, 1974), the proportionality hypothesis that lies behind
+the success of the SCS-curve number method (Wang et
+al., 2014), and the linear reservoir approximation to groundwater
+contributions to streamflow (Savenije, 2017). The goal
+of research will increasingly revolve around coming up with
+plausible hypotheses about their causes and testing them out
+through further observations or targeted modeling. If the explanations
+hold in several places, then it contributes to ac-
+cumulation of knowledge and understanding, and eventually
+to general theories and underlying organizing princi-
+ples. There is a long history in other branches of hydrology
+where such a focus on phenomena has led to major advances
+in hydrologic understanding. One can point as examples the
+phenomenon of macrodispersion in groundwater transport in
+heterogeneous porous media (Gelhar and Axness, 1983) and
+that of hysteresis in vadose zone hydrology (Hassanizadeh
+et al., 2002), where sound explanations were found while remaining
+within the Newtonian and/or thermodynamic frame-
+works.
+Until recently, under the weight of the dominant estimation/prediction
+(i.e., hydrograph fitting) paradigm, inad-
+equate attention has been given to the study of phenomena in
+catchment hydrology. Here I will illustrate, through two simple
+examples, how the physical or functional causes of phe-
+nomena can be explored, and how this might contribute to
+generalized understanding. The two examples I present here
+involve an apparent power-law relationship with catchment
+size (area). The first one involves annual maximum flood
+peak (scaled by catchment area), in this case, taken from
+several nested catchments in the Appalachian region of the
+United States (Fig. 5a: Smith, 1992; Robinson and Sivapalan,
+1997; Sivapalan, 2005). The second one involves a sediment
+delivery ratio (the fraction of eroded sediment at an event
+scale that actually reaches the catchment outlet; Fig. 5b: Lu
+et al., 2005). Even though these examples are obtained from
+specific places, the phenomena themselves are universally
+observed. The question is, why is it a power law? Is there
+a causal explanation? Answers to such questions test our understanding
+of the underlying processes and the interpreta-
+tion of observations of all kinds.
+Robinson and Sivapalan (1997) showed that the observed
+power law can be explained by a simple argument, supported
+by a simple linear “bucket” model with two differ-
+ent timescales (event duration, and a mean response time
+that is a function of catchment area, due to the geometric
+relationship between length of travel and area), and an understanding
+of rainfall variability. If rainfall intensity is a
+constant during a single storm event, the magnitude of the
+flood peak can be analytically derived based on storm duration
+and mean response time: it does not follow the power
+law (see the dotted line. . . in Fig. 5a). Firstly, the introduction
+of within-storm rainfall variability increases the flood
+peak for small catchments (due to their fast response), but
+has no impact in large catchments (denoted by the symbol
+“∗∗∗” in the figure). Secondly, the introduction of betweenevent
+interactions and seasonality increases the flood peak
+for large catchments (due to their effect on antecedent conditions),
+but has no influence for small catchments (denoted by
+o o o). Their combination leads to a combination of the two
+effects (denoted by - - - and —): flood peak is increased for
+small catchments (because of within-storm variability) and
+for large catchments (because of interaction between events
+and/or seasonality). So what looks like a power law is really
+an emergent pattern that falls out as a result of a complex inwww.hydrol-earth-syst-sci.net/22/1665/2018/
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018
+ 1676 M. Sivapalan: Milestones in the transformation of hydrologic science
+Figure 5. Explaining power-law relationships as emergent phenomena arising from timescale interactions: (a) mean annual flood as a function
+catchment area, A, in the Appalachian region (taken from Sivapalan, 2005); (b) sediment delivery ratio (SDR) γ as a function of catchment
+area for different values of rainfall duration tr and an assumed power-law relationship of mean channel travel time tc with A (taken from Lu
+et al., 2005).
+terplay across different timescales, and the geometry of the
+catchment’s organization.
+The scaling of the sediment delivery ratio is an even more
+complex phenomenon to explain (with considerable scatter;
+see Fig. 5b), because it involves not only runoff processes
+as discussed above, but also sediment transport processes.
+Even in this case, however, Lu et al. (2005) proposed an explanation
+that was similar, indeed one that followed that of
+Robinson and Sivapalan (1997). Lu et al. too used a simple
+conceptual model that consisted of two linear stores arranged
+in series: a hillslope store that addresses transport of sediment
+to the nearest streams and a channel store that addresses
+sediment routing in the channel network. They showed analytically
+that, as with Robinson and Sivapalan (1997), the
+spatial scaling of the sediment delivery ratio (as an emergent
+pattern) can be explained, to first order, in terms of the interactions
+between several timescales (i.e., storm duration, hill-
+slope/channel travel times, and two depositional timescales),
+and also catchment geometry as before.
+I used these simple examples to also highlight the effects
+of the interactions between multi-scale temporal variability
+of both climate inputs and catchment response, and how they
+tend to generate emergent patterns due to the resonance that
+is generated through these interactions, even in the absence
+of adaptations of vegetation or catchment properties. In other
+words, the way that the catchment responds to a sequence of
+events is different from the way it responds to a single event,
+indicating that the response of the catchment must be considered
+holistically across multiple timescales. The impor-
+tance of timescale interactions has also been highlighted in
+other contexts to explain several environmental phenomena:
+power-law-type streamflow recessions resulting from landscape
+heterogeneity (Harman and Sivapalan, 2009); the ef-
+fect of rainfall event variability on the pesticide leaching risk
+of groundwater (McGrath et al., 2010); and climate controls
+on vadose zone contaminant transport (Harman et al., 2011).
+This issue will be explored in more detail in later sections
+using an expanded, co-evolutionary framework.
+5.3 Towards explanation and extrapolation: new kinds
+of models, new kinds of phenomena
+As the focus turns from estimation to explanation, the types
+of models one uses may also need to change. It is not an
+accident that in the two examples discussed above, I have
+demonstrated how simple models are able to provide firstorder
+explanations of otherwise complex phenomena. In this
+age of big data, data mining and hyper-resolution modeling
+(Wood et al., 2011; Peters-Lidard et al., 2017), one might be
+surprised that I advocate the use of simple models. I do this
+deliberately because the focus here is not on prediction of the
+complete system response in one place with all its gory complexity,
+but as per the Einstein quote below (see the earlier
+quote from Simon Levin), on the ability to explain complex,
+possibly universal phenomena more simply, and thus contribute
+to accumulation of knowledge and understanding.
+If you can’t explain it simply, you don’t understand
+it well enough. – Albert Einstein
+Note that the simplicity I advocate here is, in the words of
+James Dooge, a “search for. . . a rational simplicity, not the
+simplicity of crude assumptions,. . . or assuming the difficulty
+out of the way” (Dooge, 1995). In the spirit of the top–down
+reasoning, as also argued by Dooge (1995), we will be better
+off starting with simple models targeted on the phenomenon
+of interest, not models of everything, and increasing the complexity
+only as needed. Dooge suggested linearization and
+similarity analysis as effective ways to simplify models and
+gain understanding of phenomena, which was also the case
+in the previously highlighted work of Robinson and Sivapalan
+(1997) and Lu et al. (2005).
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018 www.hydrol-earth-syst-sci.net/22/1665/2018/
+ M. Sivapalan: Milestones in the transformation of hydrologic science 1677
+Phenomena of interest to us can be dynamics (temporal
+patterns) in a single place and on a range of timescales
+(Burt and McDonnell, 2015). Similarly, in the space domain,
+phenomena can be spatial patterns in a single place (within
+a catchment, Blöschl et al., 2016) or spatial patterns between
+places (catchments) or scales (as in the two examples
+above), extending all the way to regional or global patterns
+(Blöschl et al., 2013). Increasingly, as discussed before, the
+focus turns towards developing a generalized understanding
+of whole catchment responses and ecosystem functioning,
+and the discovery of universal laws. Therefore, it is no longer
+sufficient to study phenomena relating to a single place or
+a few places. Increasingly, the phenomena of interest to us
+will come from simultaneous observations in many different
+places with different histories of the kinds of timescale interactions
+shown to be critical in the two examples presented
+above (Hipsey et al., 2015), and the synthesis of data collected
+from across places, scales and processes (Blöschl et
+al., 2013).
+6 Timescale interactions and catchment co-evolution:
+the Darwinian approach
+Understanding the reasons for differences in required model
+structure between catchments, including the controls of climate
+and landscape properties, may be a good starting point
+in the search for more generalized understanding, by drawing
+from many different places with different histories. Atkinson
+et al. (2002) and Farmer et al. (2003) implemented the
+top–down modeling approach, in a comparative way, to two
+dozen catchments around Australia and New Zealand. They
+found systematic variations in model structure, with the differences
+reflecting differences in climate and in how vegeta-
+tion and soils may have adapted to the climate. The modeling
+studies indicated evidence of a hierarchy of required model
+structures, with changing timescales (i.e., annual, monthly,
+daily), and with changing aridity. For example, the required
+model complexity increased with decreasing timescales, and
+increased with increasing aridity. The argument could thus be
+made that the required model structure, reflecting the functioning
+of a catchment, is itself an emergent property in terms
+of how the catchment has adapted itself to the prevailing climate
+and geology.
+6.1 Catchments “marching to a different drummer”:
+comparative hydrology
+In order to shed more light on the required level of model
+complexity, Jothityangkoon and Sivapalan (2009) compared
+a dozen catchments from all around Australia and New
+Zealand, using the same top–down modeling approach described
+above (i.e., matching streamflow signatures on a
+range of timescales). They carried out a diagnostic analysis in
+each catchment that focused on elucidating the climate controls
+on one particular signature, i.e., inter-annual variability
+of runoff. In particular, the authors were interested in discovering
+the aspect of the within-year rainfall variability (i.e.,
+storminess, seasonality) that may have a dominant control on
+the observed inter-annual runoff variability. The diagnostic
+analysis adopted involved running calibrated top–down hydrological
+models in each catchment, but now with artificial
+rainfall inputs that included storminess and seasonality separately,
+before being combined. The outputs from the model in
+each catchment, for each of the artificial climate inputs, were
+compared to the observed inter-annual variability. The question
+pursued was: what combination of within-year climate
+variability (seasonality, storminess) is needed to reproduce
+the observed inter-annual variability of runoff?
+The study found that in catchments in Queensland in
+north-eastern Australia, inter-annual variability of runoff was
+most sensitive to storminess (not seasonality), whereas in
+catchments in Western Australia and South Australia, seasonality
+was the feature that contributed most to the observed
+inter-annual variability. This finding is remarkable, in that
+the climate of Queensland is indeed dominated by storminess
+(i.e., a small number of large storms), and the climates
+of South and Western Australia were indeed dominated by
+strong seasonality. The outcomes from these diagnostic analyses
+thus indicated that the water balance dynamics of catch-
+ments (i.e., model structure and parameters inferred from
+the data in a top–down way) somehow “resonate” with the
+dominant within-year variability, i.e., storminess in Queensland
+and seasonality in Western Australia. In other words,
+and paraphrasing American naturalist Henry David Thoreau,
+these results indicated that each catchment is “marching to
+a different drummer”, the drummer being the variability of
+climate drivers present in a given place.
+If a (wo)man does not keep pace with (her)his companions,
+perhaps it is because (s)he hears a dif-
+ferent drummer. Let (her)him step to the music
+which (s)he hears, however measured or far away.
+– adapted from Henry David Thoreau: Walden,
+1854.
+The modeling results also reaffirm the ecosystem or functional
+view presented earlier, including the argument that
+there is much to be gained by making inferences from observed
+rainfall–runoff time series. The results also raise the
+hope that a more universal understanding of both ecosystem
+function and catchment response and their relationship with
+climate and geology may be gained by repeating these modeling
+and diagnostic studies simultaneously in many more
+catchments around the world, in a comparative way, across
+gradients of climate and geology. This leads to the notion of
+comparative hydrology, first introduced by Falkenmark and
+Chapman (1989), and defined more broadly in the next section
+by linking it to catchment co-evolution.
+www.hydrol-earth-syst-sci.net/22/1665/2018/ Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018
+ 1678 M. Sivapalan: Milestones in the transformation of hydrologic science
+6.2 Catchment co-evolution and Earth system science:
+a Darwinian view
+Berghuijs et al. (2014) extended the above comparative hydrology
+approach to the modeling of seasonal water balances
+of over 400 catchments across the continental United States.
+On the basis of these modeling results they came up with
+a classification of observed seasonal water balances (i.e.,
+regime curve, a key signature of runoff variability), expressed
+in terms of three driving factors: climate aridity, seasonality
+(i.e., relative timing of the precipitation within a year),
+and the fraction of snow as precipitation. On the basis of
+this similarity analysis, they identified 10 dominant catchment
+classes among the 400-odd catchments. Not surpris-
+ingly, they found a geographic aspect to the locations of the
+10 classes, in that they were clustered geographically, influenced
+by the slow climatic and geologic variations across the
+continent. In addition they found that similarity of seasonal
+water balances carried over to have an imprint on betweenclass
+differences in several other signatures of runoff vari-
+ability, such as the flow duration curve or flood frequency
+curve, and yet there was also considerable within-class variability
+due to other climatic and landscape factors.
+An even more interesting finding from Berghuijs et
+al.’s (2014) results, however, was that the regional mapping
+of catchments on the basis of similarity of seasonal water
+balances was closely aligned with the regional mapping of
+not only vegetation classes and ecoregions (i.e., the different
+ways ecologists map vegetation and ecosystems), but
+also soil orders. This clearly indicated that the seasonal water
+balance response is not just about the partitioning of in-
+coming precipitation into spatially resolved hydrologic processes,
+i.e., runoff, evaporation and storage change. In fact, it
+is both a contributor to, and an outcome of, the co-evolution
+of physical, biological and pedologic processes governing
+vegetation establishment and adaptation, and soil formation,
+as well as water balance, which all together reflect an underlying
+ecosystem function. Indeed, it is well known in the eco-
+logical literature that it is the seasonal water balance that determines
+vegetation types that become established in a given
+place, including their functioning and productivity (Stephenson,
+1990; Robinson et al., 2012).
+One can speculate therefore that the phenomenon of each
+catchment “marching to a different drummer” is a reflection
+of vegetation adapting to (and in turn changing) the environment
+around it (e.g., hydrology, soils), in response to the fluc-
+tuating water and energy supply at any place of interest (Sivapalan
+and Blöschl, 2015). This is tantamount to the soils, veg-
+etation and topography belonging to a catchment co-evolving
+together in response to the climate above and geology below
+through both land-forming and life-sustaining processes operating
+and interacting across multiple timescales (Fig. 6).
+The focus can no longer be on just hydrological processes,
+but all land surface processes that operate together and feed
+back on each other, which thus takes hydrology into the
+Figure 6. Co-evolution resulting from the interaction of a number of
+processes (at least two: one represents hydrological processes and
+the other landscape physical or ecological or social processes), each
+of which consists of fast and slow components producing emergent
+dynamics. Redrawn from Sivapalan and Blöschl (2015).
+realm of Earth system science. With this broader view, the
+focus of analysis is therefore no longer on streamflow signatures
+alone, but also on signatures arising from the co-
+evolution of Earth system processes, such as vegetation and
+erosional patterns that one sees in landscapes (Sivapalan,
+2005; Brantley et al., 2017). Examples include patterns in
+measured evapotranspiration at individual (e.g., FLUXNET)
+sites (Thompson et al., 2011a), regional patterns of evapotranspiration
+measured by remote sensing (Cheng et al.,
+2011), and vegetation, soil and micro-topography patterns
+in landscapes on a range of scales (Thompson et al., 2011b;
+Saco et al., 2013; Harman et al., 2014). These are the kinds
+of ecohydrologic and hydrogeomorphic phenomena that will
+need to be further explored in the future and synthesized to
+generate the new understanding and new theories required
+to close the gap between bottom–up (reductionist) and top–
+down (ecosystem) approaches to modeling.
+These outcomes of co-evolution, framed as emergent phenomena,
+may be different in different places, because of dif-
+ferences in the history of co-evolution and initial and boundary
+conditions of climate and geology. Comparative hydrol-
+ogy, i.e., comparing many catchments in different places
+along gradients of climate and geology, helps us to shed light
+on their co-evolution, just as Charles Darwin interpreted differences
+between animals, birds and plants he found in his
+travels through the lens of their natural history (Harman and
+Troch, 2014). The Darwinian approach to comparative hydrology
+embraces the history of each place, including fea-
+tures that are relics of historical events, as central to understanding
+both its present and its future (Blöschl et al., 2013).
+The essence of the Darwinian approach then is to develop
+generalizations beyond individual catchments through learning
+from differences between catchments, and interpreting
+them as legacies of past co-evolution.
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018 www.hydrol-earth-syst-sci.net/22/1665/2018/
+ M. Sivapalan: Milestones in the transformation of hydrologic science 1679
+6.3 Hydrologic similarity and catchment classification:
+steps towards generalization
+Given the co-evolved nature of catchments, their structure
+and function, and the resulting hydrologic responses, explanation
+of the similarity and differences between catch-
+ments must take a more Darwinian approach that emphasizes
+timescale interactions specific to a place, and how the catchment
+ecosystem may have adapted to these. While there can
+be considerable diversity and randomness allowed in Darwinian
+co-evolution of catchments due to contingency ef-
+fects (Beven, 2015), patterns and connections may yet be
+discernible which may lead to relationships of more general
+applicability. One approach to creating order in an otherwise
+heterogeneous world, widely adopted in chemistry and ecology,
+is through the process of classification. As in the case of
+the periodic table in chemistry, classification of catchments
+based on hydrologic similarity may be used to group catchments,
+helping to simplify relationships and generalize find-
+ings. Hydrologic similarity is the foundation for the transfer
+of information from one catchment to another, includ-
+ing from gauged to ungauged catchments, and was the basis
+for the successful outcomes of the Predictions in Ungauged
+Basins (PUB) initiative (Sivapalan et al., 2003; Blöschl et al.,
+2013; Hrachowitz et al., 2013). The PUB synthesis study by
+Blöschl et al. (2013) framed hydrologic similarity in terms
+of several signatures of runoff variability, such as the flow
+duration curve and the flood frequency curve. The diversity
+of catchment responses is such that no two catchments are
+so similar that all signatures are the same between them, and
+so for prediction purposes one concentrates only on the signature
+of interest. However, as in the case of the compara-
+tive hydrology study by Berghuijs et al. (2014), the synthesis
+project by Blöschl et al. (2013) found that similarity of seasonal
+water balance had a significant influence on the similar-
+ity of other signatures too, and may be the strongest indicator
+used to delineate hydrologically similar regions (Weingartner
+and Aschwanden, 1992).
+The organization of catchments into distinct classes based
+on hydrologic similarity can open the way to understanding
+the differences between the classes themselves in terms of the
+underlying climatic, geologic and landscape controls. The
+most celebrated example of progress in this area is the empirically
+derived Budyko curve, famously named after Russian
+hydrologist Mikhail Budyko. The Budyko curve graphically
+expresses the long term (or mean annual) water balance, defined
+by the ratio of long-term average evapotranspiration to
+precipitation, E/P , as a universal function of climatic aridity,
+the ratio of long-term average potential evaporation to
+precipitation, Ep/P (Budyko, 1974). The existence of the
+Budyko curve is usually explained as resulting from a competition
+between water available (precipitation) and energy
+available (potential evaporation). In the case of the MOPEX
+catchments across the United States, Berghuijs et al. (2014)
+found that the different catchment seasonal water balance
+(and also vegetation/soil) classes clustered along different
+segments of the Budyko curve, with little overlap. On the
+basis of this and other evidence, one can then argue that the
+competition between water and energy available is mediated
+by the vegetation that forms through natural selection, highlighting
+the key role of ecohydrology in hydrologic theory
+development (Eagleson, 2002; Rodriguez-Iturbe, 2000).
+The fact that most of the MOPEX catchments (and other
+catchments of the world) fall on or about the Budyko curve
+(leaving a large part of the Budyko space unoccupied) can
+be seen as an empirical organizing principle, i.e., only some
+combinations of climate, soil and vegetation characteristics
+may exist in reality (i.e., are behavioral, Schaefli et al., 2011),
+indicating a mutual co-dependence through Darwinian coevolution
+and selection (Eagleson, 2002). Inspired by these
+observations, in recent times several hydrologists have embarked
+on a search for physical explanations for the exis-
+tence of the Budyko curve (Wang and Tang, 2014; Wang et
+al., 2015; Westhoff et al., 2016). Wang and Tang (2014) and
+Wang et al. (2015) studied the conceptual bases for empirical
+models developed by engineers (and geographers) from the
+1930s to the 1950s to describe water balances across three
+different timescales: event, seasonal and annual. These were
+the SCS curve number method for runoff estimation at the
+event scale (Mockus, 1949), the abcd model for seasonal
+(monthly) water balance developed during the Harvard Water
+Program in the 1960s (Thomas, 1981), and the L’vovich
+method developed in the former Soviet Union for partitioning
+of annual precipitation into fast and slow runoff and evaporation
+(L’vovich, 1979). In the first phase of their work, Wang
+and Tang (2014) and Wang et al. (2015) showed that all three
+of them can be described in terms of the so-called proportionality
+hypothesis, which is long understood as providing
+the conceptual basis for the SCS curve number method. In
+the second phase of their work, they showed that the proportionality
+hypothesis, in turn, can be explained thermodynam-
+ically, in terms of the principle of maximum entropy production
+(MEP). One can thus see that the empirical proportion-
+ality hypothesis and the thermodynamic MEP principle appear
+to provide a vehicle to extend the hydrologic similarity
+arising from co-evolution across multiple timescales. Admittedly,
+these are only the first tentative steps in the quest for
+new theories of hydrology, and yet more creative approaches
+are needed to extend the notions of similarity and optimality
+to cover not just the Budyko curve but all other signatures,
+in order that we fully exploit the order or simplicity that may
+arise out of Darwinian co-evolution.
+The MEP principle, or the equivalent maximum power
+principle proposed by Kleidon and Renner (2013) and used
+by Westhoff et al. (2016) to derive the Budyko curve, can
+be viewed as providing a constraint to the diversity exhibited
+during Darwinian co-evolution and natural selection, possibly
+as a mechanism to increase system resilience (Lotka et
+al., 1922). Furthermore, existence of such physically based
+organizing principles, valid on a range of timescales as indiwww.hydrol-earth-syst-sci.net/22/1665/2018/
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018
+ 1680 M. Sivapalan: Milestones in the transformation of hydrologic science
+cated in the work of Wang et al. (2015), can pave the way
+for a new generation of behavioral models (Schaefli et al.,
+2011). This is a promising development for two reasons.
+On the one hand, it can help constrain model structures inferred
+from rainfall–runoff data, and on the other hand, it can
+constrain the parameter combinations allowed for otherwise
+physically based models that are based on Newtonian mechanics
+(Li et al., 2014). A unique advantage of the approach
+adopted by Wang et al. (2015) is that it involved connecting
+the dots between empirical methods that have been widely
+used in engineering hydrology for over 50 years, and exploiting
+the simplicity in these estimation methods that arise from
+the very co-evolution we are trying to capture in our models
+(e.g., flood frequency, Guo et al., 2014). Potentially, if continued
+further, it will have the salutary effect of contributing to
+fundamental advances while maintaining coherence through
+avoiding fragmentation (Graham and Dayton, 2002; Blöschl
+et al., 2013).
+7 Timescale interactions in the Anthropocene: from
+ecohydrology to socio-hydrology
+The focus of the discussion in the last section was on
+timescale interactions and the co-evolution of hydrologic
+and other physical and biologic processes occurring in landscapes.
+In the otherwise natural catchments considered so
+far, the dynamic nature of catchment co-evolution was centered
+on vegetation, its adaptation of itself and its environ-
+ment through feedbacks between hydrologic and ecologic
+processes across multiple timescales. This perspective was
+introduced to assist with developing transferable understanding
+between places in the course of data-based inference and
+top–down modeling under otherwise stationary conditions.
+As one begins to look to the future, one recognizes the
+expanding human footprint, including land use and land
+cover (e.g., vegetation) changes and human interferences
+in the hydrologic cycle (e.g., water extraction from rivers
+or groundwater aquifers) and the inevitable acceleration of
+the timescale interactions. One can no longer count on stationarity
+for making predictions of catchment responses un-
+der these circumstances (Milly et al., 2008; Wagener et
+al., 2010). Furthermore, over longer periods of time, the
+timescale interactions must include two-way feedbacks between
+hydrological (and other Earth system processes) and
+human-social processes, and the emergent dynamics that result
+from these. Thus, as we transition from our focus on eco-
+hydrology so far (Eagleson, 2002; Rodriguez-Iturbe, 2000)
+to the new field of socio-hydrology (Sivapalan et al., 2012),
+we can recognize both similarities as well as differences between
+the behaviors of vegetation and humans and, where
+possible, benefit from lessons learned from the practice of
+ecohydrology in the past 2 decades.
+The co-evolution of water and vegetation does not stop
+with vegetation adapting to the water and energy balances
+and vice versa. We noticed that over time vegetation not only
+adapts itself to the prevailing climate variability and water
+balance dynamics (even as it modifies it at the same time), but
+it does so through adapting (or engineering) the landscape
+or environment around it as well, such as through modifying
+the soils or topography. Work by Gao et al. (2014) drew
+an analogy between humans and vegetation and highlighted
+parallels in water consumption behavior between them. We
+know humans build storages to cater to periods of drought
+– in engineering hydrology we estimate the required storage
+using (for example) the so-called Rippl method (Rippl,
+1883). Analogously, Gao et al. (2014) proposed a root storage
+design method for vegetation, similar to Rippl, where the
+required storage capacity (with an analogy to root depth) was
+the between-year maximum of the within-year (seasonal)
+fluctuation (peak to trough) of soil moisture storage. They
+extracted this information from the outcomes of the modeling
+work they had done on a large number of MOPEX
+catchments across the United States, from which they estimated
+the pattern of root depth variation between the catch-
+ments. They discovered strong correlations between the root
+depth distributions obtained from such water balance analyses
+and those independently obtained for the actual vege-
+tation classes found in these catchments. This observation
+lends strong support to the argument that vegetation adapts
+itself optimally to the prevailing water balances (seasonal and
+annual) through adapting itself and adapting its environment
+so as to, in this case, make maximum use of the water available
+(see also Troch et al., 2009; Yang et al., 2016; Brantley et
+al., 2017). These studies confirm and build on the prescient
+insight of Robert E. Horton, an early pioneer of hydrology
+who wrote:
+Natural vegetation of a region tends to develop to
+such an extent that it can utilize the largest possible
+proportion of the available soil moisture supplied
+by infiltration. – Robert E. Horton (1933)
+Note in passing the similarities between Robert Horton’s
+foresight with modern explanatory theories in ecology such
+as ecological niche theory (Chase, 2011) and niche construction
+theory (Odling-Smee et al., 2003) that relate, respec-
+tively, to how organisms modify themselves and modify their
+environment.
+Admittedly, the examples presented above very much represent
+a top–down treatment of vegetation adaptation, which
+I invoked only to make the connection to comparative hydrology,
+and to highlight how model structures and parameteriza-
+tions may vary between places through such adaptations. In
+reality, these broad-scale patterns indicative of co-evolution
+require further refinement in the context of predictive ecohydrologic
+theories regarding vegetation adaptation to its en-
+vironment. One example of this is the vegetation optimality
+model (VOM) proposed by Schymanski et al. (2009) based
+on the hypothesis that natural vegetation co-evolves with its
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018 www.hydrol-earth-syst-sci.net/22/1665/2018/
+ M. Sivapalan: Milestones in the transformation of hydrologic science 1681
+environment and that over time natural selection leads to a
+species composition most suited for the given environmental
+conditions. In VOM this is represented by a trade-off be-
+tween water loss and carbon gain formulated in terms of the
+costs associated with the maintenance of roots, water transport
+tissues and foliage, and the benefits related to the ex-
+change of water for CO2 with the atmosphere, driven by photosynthesis.
+In VOM the optimal vegetation is taken as the
+one that maximizes “net carbon profit”, i.e., the difference
+between carbon acquired by photosynthesis and carbon spent
+on maintenance of organs involved in its uptake. Note however
+that VOM is just one of many optimality theories that
+have been proposed in ecohydrology, and is only presented
+here as an illustrative example. There is increasing availability
+of data on evaporative fluxes from a large number of flux
+towers located in different biomes of the world (Thompson et
+al., 2011a, b) and new remotely sensed datasets on both vegetation
+cover and evapotranspiration rates over regional scales
+(Cheng et al., 2011) to complement existing rainfall–runoff
+data at catchment scales. There is enormous scope for these
+new datasets to be used to test alternative theories of vegetation
+adaptation (Brantley et al., 2017) and to provide guid-
+ance for the choice of model structures in top–down models,
+and thus help bridge the current impasse between top–down
+and bottom–up models.
+7.1 Human-engineered landscapes and catchment
+water balances
+We now know, at a minimum, how vegetation adapts itself
+to the water balance and adapts the water balance through
+its control. Increasingly, humans too interact with catchment
+water balances, in some ways similar to how vegetation interacts
+with the natural water balance. Humans extract wa-
+ter directly from rivers or groundwater aquifers to meet their
+needs, or might build dams across rivers to store water when
+nature’s supply is low, such as during low flow or drought periods.
+Just as vegetation engineers the landscape to gain and
+maintain access to water, humans too engineer the landscape
+(e.g., catchments) to gain and maintain access to water, and
+to serve other human functions.
+Previously hydrologists may only have been interested in
+the short-term (and local) effects of land use changes and human
+interferences in the hydrologic cycle to satisfy human
+needs or functions. With the expansion of the human footprint,
+they are increasingly concerned with longer-term hy-
+drological changes brought about by human actions and how
+the changed hydrology then feeds back to generate secondary
+human reactions. Consequently, it is no longer sufficient, as
+in the past, to model the hydrology of pristine catchments
+and add human effects at the end (Wagener et al., 2010). For
+long-term planning and strategic decision-making purposes,
+humans must increasingly be treated as an intrinsic part of
+the catchment’s water cycle. This also means that traditional
+definitions of catchments as topographically defined must be
+replaced or refined to account for administrative (or governance)
+units. One can thus imagine how the explicit inclu-
+sion of human behavior in hydrologic systems might over
+long time periods give rise to a co-evolution of water and
+people. For example, many ancient civilizations established
+themselves around sources of water, and their success and
+eventual collapse or dispersal were emergent outcomes of
+co-evolutionary feedbacks between humans and water (e.g.,
+the Tarim basin in western China, Liu et al., 2014). Under
+these changing circumstances, one thus moves from ecohydrology,
+the study of two-way feedbacks between vegetation
+response and catchment water balance, to socio-hydrology,
+the new science dealing with two-way feedbacks between
+human behavior (e.g., water management) and catchment responses
+(e.g., water balance, flooding dynamics) (Sivapalan
+et al., 2012, 2014). This extends our earlier Earth system science
+perspective now to include human-social processes as
+well.
+How far can we push the analogy between vegetation and
+humans? Unlike vegetation, humans need water not just for
+their physiological needs (i.e., for drinking), but also for
+sanitation, and even more so for use in industries, and for
+food and energy production. This introduces an economic
+purpose to the use of water, and excessive water extraction
+for economic uses impacts the environment in adverse
+ways, and impacts the ability of the environment to produce
+the ecosystem services (including the delivery of water) that
+humans also depend on. This introduces the notion of the
+water–food–energy–environment nexus, and the requirement
+to make tradeoffs between these various human needs. Two
+additional factors that enter the management of the water–
+food–energy–environment nexus are advances in technology
+(e.g., infrastructure that enables extraction and transfers of
+real water between places) and trade (e.g., trade of food and
+other commodities that depend on water for their production,
+also known as virtual water trade). Another compounding
+factor is the role of institutional system of administration,
+legislation and regulation of water (Sivapalan and Blöschl,
+2015). Under these circumstances, human involvement in hydrologic
+systems in the past has been studied extensively in
+the context of water resource management, where the focus
+has been on optimal management (Loucks et al., 2005).
+Much of this work has worked on the belief that humans
+are optimizers, assumed to make rational decisions about allocation
+of resources between various needs, and opting to
+maximize economic livelihood. However, with the advent
+of socio-hydrology, hydrologic science has broadened to include
+the practices and outcomes of water resource manage-
+ment, in the presence of the aforementioned complexities, as
+themselves subjects for explanation and deeper understanding
+(Thompson et al., 2013).
+A major complexity in understanding and eventually predicting
+human behavior in the context of water management
+is human agency (Sanderson et al., 2017). Unlike natural
+systems, e.g., vegetation, humans can choose among difwww.hydrol-earth-syst-sci.net/22/1665/2018/
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018
+ 1682 M. Sivapalan: Milestones in the transformation of hydrologic science
+ferent modes of thinking and courses of action that impact
+the natural systems within which they are embedded. A major
+challenge is that human decision-making shapes, and is
+shaped by, the cultural contexts within which human societies
+are embedded. Humans draw upon commonly held val-
+ues, beliefs and norms to guide their actions, and in turn
+can collectively change their cultures in the long term (Caldas
+et al., 2015). Human–water interactions are heavily in-
+fluenced by differences and/or dynamic changes in human
+values and norms in respect of their economic livelihood
+and the environment. Unlike natural systems whose longterm
+co-evolutionary behavior can be expressed in terms
+of organizing principles (e.g., vegetation optimality, maximum
+entropy production), humans can appear to make de-
+cisions away from any optimality principles and to violate
+their own laws (Fig. 7, Sivapalan and Blöschl, 2015). For
+example, they may extract water from a well, even if it is
+illegal to do so; or they may choose to live with pollution,
+away from optimality reasons, giving the impression
+that unlike vegetation, humans are irrational. The net effects
+of such human decisions on water systems may manifest
+as puzzles, paradoxes, and other unintended consequences,
+nevertheless exhibiting similarities and differences that reflect
+distinct hydro-climatic, eco-environmental, and socio-
+economic features (Sivapalan, 2015; Pande and Sivapalan,
+2017). These factors make human–water interactions much
+more complex and thus add to the already difficult prediction
+challenges in hydrology (Westerberg et al., 2017). Note,
+however, that differences highlighted above between natural
+and human-impacted systems can at least partly be at-
+tributed to the timescales of processes relative to the length
+of available data records. It is tempting to think that, given
+long enough records, co-evolutionary behavior in respect of
+coupled human–water system dynamics may indeed be governed
+by some (as yet unknown) organizing principles. In
+the end, then, it is a pragmatic choice whether one sees or
+assumes well-organized patterns within the available data
+records (Sivapalan and Blöschl, 2005).
+It has been suggested that changes in culture and associated
+values and preferences may be more predictive of hu-
+man behavior in the context of sustainability than rationality,
+or utility maximization (Caldas et al., 2015). Examples of
+human behavior different from utility maximization include
+(Sivapalan et al., 2014): the peaking in water resource availability
+as basins develop (peak water paradox, Kandasamy
+et al., 2014); increasing levee heights in urban environments
+at the expense of increased flood risk (levee effect, Di Baldassarre
+et al., 2013); increasing agriculture water consump-
+tion in spite of irrigation efficiency improvements (irrigation
+efficiency paradox) (Scott, 2011); and over-exploitation
+of coastal aquifers at the risk of causing saltwater intrusion
+(Chang and Clement, 2012). An example of non-optimal behavior
+in the context of coupled human–water system dy-
+namics is lock-in or path dependence, which is one explanation
+offered for the collapse of the Maya civilization (Kuil
+Figure 7. (a) Natural systems follow constraints and optimality
+laws; (b) Human systems may violate constraints and make irrational
+decisions away from optimality (taken from Sivapalan and
+Blöschl, 2015).
+et al., 2016). A more recent example of lock-in is the selfreinforcing
+action of the people of the Netherlands since the
+11th century to drain their naturally peaty soils, leading to
+land subsidence, which ultimately led to the invention of
+the famous Gouda cheese, since the resulting low-lying areas
+that these actions produced were only suitable for dairy
+farming (Erkens et al., 2016). The science of socio-hydrology
+aims to explain these kinds of phenomena arising from twoway
+feedbacks associated with coupled human–water sys-
+tem dynamics, and to develop a generalized understanding
+that can connect diverse phenomena across many places and
+times (Sivapalan and Blöschl, 2015). There is still room for
+predictions in this new era of socio-hydrology: but given the
+difficulties of dealing with human agency and complex human
+behavior, the focus is not on predicting what will happen
+at a future prescribed time, as it is in traditional hydrology,
+but on mapping out the possibility space of future trajectories
+of system co-evolution (see Fig. 8, Srinivasan et al., 2017).
+8 Engineering hydrology to Earth system science: from
+Newton to Darwin to Wegener
+There is no question that there has been a fundamental transformation
+of hydrology in the past 50 years. My goal in
+this narrative has been to connect the dots and draw up a
+continuous thread through what I thought were major milestones
+in the evolution of the science. Hydrology (for me)
+started as engineering hydrology, addressing rather simple,
+well-defined problems (e.g., what is the 100-year flood?).
+Over time, problems became increasingly complex, such as
+the need to predict the effects of land use changes or climate
+change (e.g., on 100-year floods), which required more
+process-based approaches invoking Newtonian mechanics.
+Even as the ability to make predictions using such physiHydrol.
+Earth Syst. Sci., 22, 1665–1693, 2018 www.hydrol-earth-syst-sci.net/22/1665/2018/
+ M. Sivapalan: Milestones in the transformation of hydrologic science 1683
+Figure 8. Trajectories illustrating the future possibility space that
+may be predicted by a socio-hydrological model addressed to management
+of the water–food–energy–environment nexus (taken from
+Srinivasan et al., 2017).
+cally based models advanced, they encountered limitations
+due to unknown (and unknowable) heterogeneity of landscapes,
+and the lack of understanding of process interactions
+in the time domain, including how catchments functioned as
+whole ecosystems. Conceptual or functional models based
+on data-based inference partially helped to overcome these
+limitations, but they in turn suffered from heavy dependence
+on data, and the absence of holistic theories of catchment responses
+and ecosystem functioning.
+The seeming impasse between the two approaches to predictions,
+mechanistic and functional, has motivated hydrolo-
+gists to broaden the research from the traditional focus on
+estimation and prediction towards understanding, explanation
+and discovery. The shift towards understanding and ex-
+planation does not signify a lack of commitment to applications
+of hydrology, however. The goal of hydrology as
+use-inspired basic science (Stokes, 1997; Thompson et al.,
+2013) remains, which is to generate the basic understanding
+necessary to address the complex water sustainability
+or management problems that appear on the horizon. The
+nature and role of predictions have also evolved as problems
+become more complex and highly inter-disciplinary.
+The change in focus towards understanding and explanation
+is contributing to two major shifts in hydrology research. The
+first is increased attention to phenomena, emergent patterns
+that arise through process interactions across timescales and
+space scales. Numerical models are increasingly now used to
+test hypotheses about how these phenomena may have arisen
+and thus contribute towards accumulation of knowledge and
+understanding. The second major shift is towards comparative
+hydrology, i.e., comparative studies across gradients of
+climate, geology and human impacts. This is a Darwinian
+approach, which seeks to develop new insights and theories
+about catchments, as consisting of components that have coevolved
+together, and to learn from the common history of
+their co-evolution.
+Given this co-evolutionary perspective, hydrological problems
+needed to be framed broadly as inter-disciplinary prob-
+lems that extend beyond the study of water flows in landscapes.
+In natural landscapes we are increasingly concerned
+with water flow processes interacting with and feeding back
+on land-forming (e.g., pedogenesis, soil erosion and deposition)
+and life-sustaining (e.g., biogeochemical, ecological)
+processes. With the expanding human footprint, hydrology
+also has to deal with vastly complex social processes. An
+example (one of many) of a new problem that hydrologists
+have to deal with in this context is the nature of interactions
+between people and droughts that might lead to exacerbation
+of water shortages (Apurv et al., 2017), conflicts, human
+migration, and even collapse (Kuil et al., 2016). This places
+hydrology squarely within the realm of Earth system science,
+with an alternate set of problems, questions, and study tools.
+With the broadening of the science there is increasing attention
+to a diversity of emergent phenomena that arise in the
+context of co-evolution of climate, soils, vegetation, and now
+humans.
+Exploring phenomena of all kinds – defined as interesting
+catchment responses or ecosystem functioning with no
+obvious or immediate explanation – and asking how they
+came about, which is the scientific method practiced and perfected
+over centuries, is increasingly the main focus of most
+hydrological investigations. Bronowski (1956) describes the
+majesty of the scientific method in these terms:
+All science is the search for unity in hidden likenesses.
+. . The progress of science is the discovery
+at each step of a new order which gives unity to
+what had long seemed unlike. . . For order does not
+display itself of itself; if it can be said to be there
+at all, it is not there for the mere looking. . . order
+must be discovered and, in a deep sense, it must be
+created. What we see, as we see it, is mere disorder.
+– Bronowski (1956)
+Increasingly, in a co-evolutionary context, one can adopt
+three different kinds of approaches to generate and study
+phenomena of interest to us. These may be framed as historical
+hydrology, comparative hydrology and process hy-
+drology. Historical hydrology generates phenomena in the
+form of emergent dynamics in the time domain arising
+from timescale interactions. Comparative hydrology generates
+patterns of catchment responses between different catch-
+ments or places. Process hydrology generates patterns at a
+single place, resulting from process interactions in space (or
+space–time).
+The evolution of the science and the growth of hydrological
+understanding over the past 50 years have benefited from
+the use of a combination of Newtonian and Darwinian approaches
+to address and explore increasingly complex pre-
+diction problems and emergent phenomena. The Newtonian
+www.hydrol-earth-syst-sci.net/22/1665/2018/ Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018
+ 1684 M. Sivapalan: Milestones in the transformation of hydrologic science
+Figure 9. Newtonian–Darwinian synthesis: relative contributions of
+Newtonian (learning from individual catchments through detailed
+studies) and Darwinian (learning from a population of catchments
+through comparative studies) approaches (taken from Blöschl et al.,
+2013).
+approach benefits from the fact that it is based on universal
+laws of mass, momentum and energy balances, with clear
+causality. It gains predictive power through advances in observing
+and understanding processes, and approaches to ac-
+count for landscape heterogeneity and the resulting complexity
+of flow pathways and residence times. Yet it loses
+effectiveness in making general predictions by not being
+able to fully account for process interactions and feedbacks
+and parameter co-dependency that manifest in catchments
+through co-evolutionary processes. The legacy of past coevolutionary
+processes in landscapes and their interconnec-
+tions over long time periods lead to complex emergent spatial
+patterns and temporal dynamics. So an alternative approach
+to studying patterns and dynamics arising from such coevolution
+is to study many catchments comparatively, treat-
+ing them as legacies of past co-evolution, which is the Darwinian
+way. In short, the Newtonian approach generalizes
+by discovering universal laws governing particular processes
+through experimentation, inductive reasoning and through
+mathematical derivations, whereas the Darwinian approach
+generalizes by recognizing emergent phenomena through
+comparative analyses across places and then seeking explanations
+for how they came about (Guo et al., 2014). Of
+course, Newtonian and Darwinian methods are complementary
+to each other, and progress in terms of new theories of
+hydrology and improvements in our ability make future predictions
+everywhere will require a synthesis of these two ap-
+proaches (Fig. 9) (Harte, 2002; Blöschl et al., 2013).
+8.1 Crystal balling the future: from comparative
+hydrology to regional process hydrology
+One of the benefits of developing a historical narrative, as I
+have done here, is that it provides a perspective view (rightly
+or wrongly) of where we have come from and where we
+may be (or should be) headed. I will therefore be remiss
+if I do not use the “crystal ball” that I have created in my
+mind based on this review to say something about what is in
+store for hydrology in the coming decade(s). In doing so I
+stand to benefit from a perspective that has helped me most
+to organize my narrative: this is the scale perspective. The
+issue of scale has been at the heart of most of the difficulties
+hydrologists have had in terms of developing new the-
+ories and advancing predictions. If at all we have made any
+progress in hydrology, this may be attributed to advances we
+have made in addressing scale issues (Blöschl and Sivapalan,
+1995; Blöschl et al., 2013). So now, going over the progress
+we have made in hydrology over the last 50 years (Sivapalan
+and Blöschl, 2017), one cannot but recognize the change in
+focus from time during the empirical era (engineering hydrology),
+to space (Newtonian mechanics) during the process
+era, and back to time (Darwinian comparative hydrology) in
+the current co-evolutionary era. By induction, this symmetry
+tells me that even while remaining within the co-evolutionary
+framework, the next major change in focus is likely to be (or
+even should be) to go back to space, and to space–time.
+It occurs to me that for far too long we hydrologists (or far
+too many of us) have focused on catchments as isolated objects,
+with an exclusive focus on their rainfall–runoff (input–
+output) transformations. Even in the context of comparative
+hydrology, we have continued to treat them as spatially distinct
+and independent objects, even while acknowledging or
+exploiting their common or similar co-evolutionary history.
+Clearly this is limiting, in terms of the phenomena that we
+can explore, and the kinds of predictions we increasingly
+have to make at larger spatial scales. If we extend the size
+of the study domain from isolated catchments to a whole
+region, then in many cases the catchments present within
+the region have spatial connectivity, as well as a common
+history. Catchments within a region can be connected to
+each other in three ways: downwind movement of water in
+the atmosphere, downstream water movement through surface
+pathways (e.g., rivers), and subsurface water movement
+(e.g., regional aquifers) from recharge areas in the mountains
+towards the ocean, leading to groundwater outcropping in
+streams, lakes and wetlands, and to estuaries and deltas in
+coastal regions. In this way there is a continual transformation
+across the region in the nature of interactions between
+atmospheric, surface and subsurface pathways of water, producing
+unique waterscapes. This inexorably takes us into a
+new field that we might as well call regional process hydrology.
+Just as a single catchment is viewed as a co-evolved
+ecosystem, owing to the co-evolution of different components
+(i.e., mountain range, headwater catchments, river net-
+work and floodplains, wetlands and estuaries), the region too
+needs to be looked at and managed as a whole ecosystem. An
+example of such a region satisfying these features is the arid
+Kaidu–Kongqi River basin in western China, which is supplied
+by snowmelt and glacier melt in its headwaters, feed-
+ing an extensive oasis and the terminal Bosten Lake, both of
+which support a thriving agricultural community in the midst
+of a vast desert (Fig. 10).
+The Kaidu–Konqi River basin, and many others like it
+around the world (e.g., the Indus River basin in presentHydrol.
+Earth Syst. Sci., 22, 1665–1693, 2018 www.hydrol-earth-syst-sci.net/22/1665/2018/
+ M. Sivapalan: Milestones in the transformation of hydrologic science 1685
+Figure 10. Regional process hydrology: schematic of the regional hydrologic cycle and waterscape in the Kaidu–Kongqi River basin, part of
+the much larger Tarim River basin, Xingjiang Province, in western China (taken from Zhang et al., 2014).
+day Pakistan, the Cauvery River basin in southern India),
+have been cradles of human civilization that have waxed and
+waned as a result of long-term, large-scale climatic changes,
+as well as human alterations of their waterscapes and overexploitation
+of land and water resources (Liu et al., 2014).
+The complexity of water balances and long-term water management
+problems across such regions cannot be tackled by
+studying a few isolated catchments. As we begin to look at
+a region as a whole, the proposed regional outlook opens up
+new possibilities to advance hydrology, with altogether new
+emergent phenomena that arise through interactions of the
+atmosphere, land surface and regional groundwater aquifers,
+including the waterscapes that form as a result. This regional
+hydrology focus can also bring about the overdue unification
+of surface (catchment) hydrology with groundwater hydrology,
+and extensions of ecohydrology and socio-hydrology, to
+explore interesting, regional-scale phenomena.
+I am not the first one to make the case for regional process
+hydrology, however. Tom Dunne, in his famous Abel
+Wolman Lecture (Dunne, 1998), called for a renewed focus
+on research targets at large spatial scales (i.e., regional) that
+are “of broad significance and might attract sustained interest
+from scientists in other fields and society at large”. There is
+already much activity in regional process hydrology that is
+beginning to bring surface and/or groundwater hydrologists
+together with atmospheric scientists, with a focus on modeling,
+large-scale synergistic observations and data–model
+syntheses (Fan, 2015; Hipsey et al., 2015; Maxwell et al.,
+2015; Blöschl et al., 2017). Echoing Dunne (1998) himself,
+my main argument is to go beyond mere descriptions or narratives
+as we may have done in the past, and to reinforce
+the focus on phenomena, now regional-scale phenomena, and
+on process explanation and discovery, as a prelude to eventual
+predictions at these scales. The relevant processes of in-
+terest occur at all space scales and timescales, and are not
+limited to just small scales, and emergent phenomena arise
+out of these multi-scale (space, space–time) process interactions.
+Both Newtonian (bottom–up reductionist) and Dar-
+winian (top–down functional) approaches and their synthesis
+retain currency, including the use of coarse-grained models
+to explore observed phenomena. So this is regional process
+hydrology that requires a whole system synergistic perspective.
+Within the spirit of use-inspired basic science (Stokes,
+1997; Thompson et al., 2013) the move towards regional hydrology
+also coincides with the evolution of the nature of
+water management problems that will be faced in the emergent
+Anthropocene. Thompson et al. (2013) presented sev-
+eral examples of anticipated century-scale trends in the main
+hydrologic drivers that will impact humanity in the future.
+These emerging future challenges include changing demography
+(Wagener et al., 2010), warming climate (Vörösmarty
+et al., 2000), rapid urbanization (Di Baldassarre et al., 2010),
+changing rainfall variability (Blöschl et al., 2017), loss of
+freshwater resources due to rising sea levels and saltwater
+intrusion (Chang et al., 2011), and globalization of water systems
+through real and virtual water trade (Konar et al., 2016).
+One can anticipate a range of water-related problems and secondary
+effects that will emerge in response to these drivers.
+Increasingly these problems will manifest at regional (and
+global) scales and can no longer be addressed through the
+study of individual, isolated catchments. Instead, we need a
+regional, increasingly global, approach to the study of these
+problems. Each of these problems is likely to draw attention
+www.hydrol-earth-syst-sci.net/22/1665/2018/ Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018
+ 1686 M. Sivapalan: Milestones in the transformation of hydrologic science
+Figure 11. Connecting the dots: schematic describing the fossil patterns across continents that were the basis upon which Alfred Wegener
+proposed his continental drift theory: https://en.wikipedia.org/wiki/Alfred_Wegener (accessed on 28 October 2017).
+to an array of emergent phenomena that manifest at the regional
+scale, and associated science questions, which could
+be the basis for the next major exciting phase of research in
+scientific hydrology.
+The extension of the co-evolutionary perspective in space
+towards the regional scale takes us further from even Darwinian
+comparative hydrology (of isolated catchments) to the
+kind of approach adopted by Alfred Wegener, which eventually
+led to the discovery of plate tectonics. During his ex-
+tensive journeys around the world, Wegener evaluated multiple
+variables (e.g., fossil records, rock types) across sev-
+eral continental regions with which he drew coherent spatial
+connections across places to support his reasoning on
+the continental drift (Fig. 11). Such an approach becomes
+feasible in hydrology too with the extraction of spatial patterns
+of multiple variables (e.g., climate, hydrology, vegeta-
+tion, animals, people) across large regions, which could then
+serve as the basis for breakthroughs in understanding of regional
+water balance, and the co-evolutionary dynamics of
+climate, soils, vegetation, and human settlements that contribute
+to the formation of regional waterscapes. Much can
+be learned from studying spatial teleconnections (especially
+upstream–downstream) through remote sensing techniques
+and regional models (Guan et al., 2014), and how they impact
+and in turn are impacted by human alterations to landscapes
+and watercourses. Even though much of this is necessarily
+place-based, unique to particular regions, there is also much
+that can be transferred to other regions.
+As the world becomes inter-connected through improvements
+in communications technology, trade, and the move-
+ment of people and ideas, along with global teleconnections
+in the climate system, it is increasingly necessary to go even
+further and treat the world as a single inter-connected system
+(Eagleson, 1986; Lall, 2014). Within the one-world sys-
+tem, anticipated global changes are likely to give rise to yet
+more complex phenomena manifesting as new and challenging
+water-related problems at both regional and global scales.
+This will require truly global and long-term vision and passion,
+the type of passion that led Alfred Wegener to discover
+continental drift and to open up the debate that ultimately led
+to the development of the theory of plate tectonics. Achieving
+this grand vision in hydrology will probably take us into what
+we have called the globalization era (Sivapalan and Blöschl,
+2017), with a grand synthesis of global hydrology integrated
+with economics and climate science, as also concluded in an
+earlier review by Bierkens (2015). These are exciting times
+to be a hydrologist.
+8.2 Lessons from Newton, Darwin, and Wegener:
+connecting the dots
+This paper being an outgrowth of my Wegener Medal Lecture,
+in conclusion, I feel duty bound to reflect on the lessons
+we as hydrologists can learn from the methods adopted by
+not only Wegener, but also Newton and Darwin, and their
+contributions to science and the scientific pursuit. The ultimate
+goal in science is to “connect the dots”, i.e., “to find
+order in disorder” (Bronowski, 1956), which should be the
+ultimate goal in hydrologic science too. It is in this spirit that
+Dooge (1986) exhorted us “to look for hydrological laws”
+and Klemeš (1986) warned against the “dilettantism” that results
+from failure to distinguish between science and applica-
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018 www.hydrol-earth-syst-sci.net/22/1665/2018/
+ M. Sivapalan: Milestones in the transformation of hydrologic science 1687
+tions of the science, as between hydrograph fitting and hydrological
+understanding. In his paper on “a hydrologic perspec-
+tive”, Klemeš (1988) emphasized the primacy of process understanding
+over techniques, i.e., the unravelling of the puz-
+zles of the water cycle over the kinds of technologies that are
+adopted to solve societal problems, and warned against defining
+catchments merely by the different techniques that we
+might use from time to time to analyze them as engineering
+hydrologists. Regardless of the different methods they may
+have used, Newton, Darwin and Wegener, were ultimately
+giants in the art of connecting the dots, and we stand to benefit
+from the legacy they have left behind. Methods may come
+and go, but success depends on us not becoming slaves to
+the methods but treating them as necessary tools for a higher
+purpose, i.e., advancing science through connecting the dots.
+The method-oriented (wo)man is shackled; the
+problem-oriented (wo)man is at least reaching
+freely toward what is most important. . . willing repeatedly
+to put aside his(her) last methods and
+teach him(her)self new ones. – Adapted from
+Platt (1964).
+Acknowledgements. This paper is an outgrowth from the Alfred
+Wegener Medal Lecture I gave at the General Assembly
+of the European Geosciences Union in April 2017. I thank
+the EGU for bestowing this honor on me and for giving me
+the opportunity to publish this paper in HESS. My thoughts
+on the evolution of hydrology came about through interactions
+with many students and colleagues over the years. They
+gained potency through my involvement in three community
+activities: the Predictions in Ungauged Basins (PUB) initiative,
+the University of Illinois Hydrologic Synthesis activity,
+and the Predictions under Change activity, which morphed
+into the Socio-hydrology movement, and both contributed to
+the launch of the IAHS Panta Rhei initiative. I am proud of
+the global hydrology community I served and learned from.
+The paper has benefited from suggestions and comments I
+received from Keith Beven, Marc Bierkens, Günter Blöschl,
+Prabhakar Clement, John Ding, Markus Hrachowitz, Hongyi
+Li, Saket Pande, Jose Salinas, Majid Shafiee-Jood, Stan
+Schymanski, Richard Silberstein, Kevin Wallington, Dingbao
+Wang and Erwin Zehe. I am extremely grateful for their
+inputs, but in the final analysis, this is a personal account,
+and I am ultimately responsible for any errors of omission
+and commission that remain.
+In closing, I bring up a line from Kondraiventhan, an
+anthology of poems written by legendary Tamil poetess
+Avvaiyar, who lived in southern India c. 1000 years ago. It
+reads:
+எண் ம் எ த் ம் கண் எனத் த ம் 
+Numbers (mathematics) and letters (language)
+are like our twin eyes
+(i.e., our windows to the world)
+These immortal words of Avvaiyar help me to celebrate
+the memory of two teachers I had at Hartley College, Point
+Pedro, Sri Lanka, the high school from which I entered
+university. S. Ratnasabapathy taught me Mathematics and
+S. S. Manuelpillai taught English. They both also shaped
+my intellectual outlook and the way to approach personal
+and professional challenges. It is not an exaggeration to say
+that the discipline, persistence and pursuit of excellence they
+instilled in me continue to guide me more than 50 years after
+they had taught me.
+Edited by: Erwin Zehe
+Reviewed by: Marc Bierkens and Keith Beven
+Competing interests. The author declares that he has no conflict of
+interest.
+References
+Abbott, M. B., Bathurst, J. C., Cunge, J. A., O’Connell, P. E., and
+Rasmussen, J.: An introduction to the European Hydrological
+System–Systeme Hydrologique Europeen, “SHE”, 1: history and
+philosophy of a physically-based, distributed modelling system,
+J. Hydrol., 87, 45–59, 1986.
+Apurv, T., Sivapalan, M., and Cai, X.: Understanding the role of climate
+characteristics in drought propagation, Water Resour. Res.,
+53, 9304–9329, https://doi.org/10.1002/2017WR021445, 2017.
+Atkinson, S., Woods, R. A., and Sivapalan, M.: Climate
+and landscape controls on water balance model complexity
+over changing time scales, Water Resour. Res., 38, 1314,
+https://doi.org/10.1029/2002WR001487, 2002.
+Band, L. and Wood, E. F.: Strategies for large-scale, distributed hydrologic
+simulation, Appl. Math. Comput., 27, 23–37, 1988.
+Bear, J.: Dynamics of Fluids in Porous Media, Elsevier, Amsterdam,
+764 pp., 1972.
+Berghuijs, W. R., Sivapalan, M., Woods, R. A., and Savenije,
+H. H. G.: Patterns of similarity of seasonal water balance:
+A window into streamflow variability over a
+range of timescales, Water Resour. Res., 50, 5638–5661,
+https://doi.org/10.1002/2014WR015692, 2014.
+Bergström, S.: Development and Application of a Conceptual
+Runoff Model for Scandinavian Catchments, Norrköping: SMHI,
+Report No. RHO 7, 1976.
+Beven, K.: Kinematic subsurface stormflow, Water Resour. Res., 17,
+1419–1424, 1981.
+Beven, K.: Searching for the Holy Grail of scientific hydrology:
+Qt = (S,R,1t)A as closure, Hydrol. Earth Syst. Sci., 10, 609–
+618, https://doi.org/10.5194/hess-10-609-2006, 2006.
+Beven, K. and Germann, P.: Macropores and water flow in soils,
+Water Resour. Res., 18, 1311–1325, 1982.
+Beven, K. J.: Changing ideas in hydrology: the case of physically
+based models, J. Hydrol., 105, 157–172, 1989.
+Beven, K. J.: Uniqueness of place and process representations in
+hydrological modelling, Hydrol. Earth Syst. Sci., 4, 203–213,
+https://doi.org/10.5194/hess-4-203-2000, 2000.
+www.hydrol-earth-syst-sci.net/22/1665/2018/ Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018
+ 1688 M. Sivapalan: Milestones in the transformation of hydrologic science
+Beven, K. J.: Rainfall-Runoff Modelling: The Primer, 360 pp., John
+Wiley, Chichester, UK, 2012.
+Beven, K. J.: What we see now: eventpersistence
+and the predictability of hydro-eco-
+geomorphological systems, Ecol. Model., 298, 4–15,
+https://doi.org/10.1016/j.ecolmodel.2014.07.019, 2015.
+Beven, K. J.: Facets of uncertainty: epistemic uncertainty, nonstationarity,
+likelihood, hypothesis testing, and communication,
+Hydrol. Sci. J., 61, 1652–1665, 2016.
+Beven, K. J. and Binley, A. M.: The future of distributed models:
+model calibration and uncertainty prediction, Hydrol. Process.,
+6, 279–298, 1992.
+Beven, K. J. and Cloke, H. L.: Comment on “Hyperresolution global
+land surface modeling: Meeting a grand challenge for monitoring
+Earth’s terrestrial water” by E. F. Wood et al., Water Resour. Res.,
+48, W01801, https://doi.org/10.1029/2011WR010982, 2012.
+Beven, K. J. and Kirkby, M. J.: A physically-based, variable contributing
+area model of basin hydrology, Hydrol. Sci. Bull., 24,
+43–69, 1979.
+Bierkens, M. F. P.: Global hydrology: State, trends,
+and directions, Water Resour. Res., 51, 4923–4947,
+https://doi.org/10.1002/2015WR017173, 2015.
+Black, P. E.: Watershed functions, J. Am. Water Resour. Assoc.,
+33, 1–11, https://doi.org/10.1111/j.1752-1688.1997.tb04077.x,
+1997.
+Blöschl, G. and Sivapalan, M.: Scale issues in hydrological modelling
+– A review, Hydrol. Process., 9, 251–290, 1995.
+Blöschl, G., Grayson, R. B., and Sivapalan, M.: On the representative
+elementary area (REA) concept and its utility for rainfall-
+runoff modelling, Hydrol. Process., 9, 313–330, 1995.
+Blöschl, G., Sivapalan, M., Wagener, T., Viglione, A., and Savenije,
+H. H. G.: Runoff Prediction in Ungauged Basins – Synthesis
+across Processes, Places and Scales, Cambridge University Press,
+Cambridge, UK, 500 pp., 2013.
+Blöschl, G., Blaschke, A. P., Broer, M., Bucher, C., Carr, G., Chen,
+X., Eder, A., Exner-Kittridge, M., Farnleitner, A., Flores-Orozo,
+A., Haas, P., Hogan, P., Kazemi Amiri, A., Oismüller, M., Parajka,
+J., Silasari, R., Stadler, P., Strauss, P., Vreugdenhil, M., Wag-
+ner, W., and Zessner, M.: The Hydrological Open Air Laboratory
+(HOAL) in Petzenkirchen: a hypothesis-driven observatory, Hydrol.
+Earth Syst. Sci., 20, 227–255, https://doi.org/10.5194/hess-
+20-227-2016, 2016.
+Blöschl, G., Hall, J., Parajka, J., Perdigão, R. A. P., Merz,
+B., Arheimer, B., and Živković, N.: Changing climate
+shifts timing of European floods, Science, 357, 588–590,
+doi.org/10.1126/science.aan2506, 2017.
+Brantley, S. L., Eissenstat, D. M., Marshall, J. A., Godsey, S. E.,
+Balogh-Brunstad, Z., Karwan, D. L., Papuga, S. A., Roering, J.,
+Dawson, T. E., Evaristo, J., Chadwick, O., McDonnell, J. J., and
+Weathers, K. C.: Reviews and syntheses: On the roles trees play
+in building and plumbing the critical zone, Biogeosciences, 14,
+5115–5142, https://doi.org/10.5194/bg-14-5115-2017, 2017.
+Bronowski, J.: Science and Human Values, 94 pp., Julian Messner
+Inc., New York, 1956.
+Brunner, P. and Simmons, C. T.: HydroGeoSphere: a fully integrated,
+physically based hydrological model, Groundwater, 50,
+170–176, 2012.
+Budyko, M. I.: Climate and Life, 508 pp., Academic, NY, 1974.
+Burt, T. P. and McDonnell, J. J.: Whither field hydrology? The need
+for discovery science and outrageous hydrological hypotheses,
+Water Resour. Res., 51, 5919–5928, 2015.
+Caldas, M., Sanderson, M. R., Mather, M., Daniels, M. D., Bergtold,
+J. S., Aistrup, J., Heier Stamm, J. L., Haukos, D., DouglasMankin,
+K., Sheshukov, A. Y., and Lopez-Carr, D.: Endogeniz-
+ing culture in sustainability science research and policy, P. Natl.
+Acad. Sci. USA, 112, 8157–8159, 2015.
+Chang, S. W., Clement, T. P., Simpson, M. J., and Lee,
+K. K.: Does sea-level rise have an impact on saltwater
+intrusion?, Adv. Water Resour., 34, 1283–1291,
+https://doi.org/10.1016/j.advwatres.2011.06.006, 2011.
+Chang, S. W. and Clement, T. P.: Experimental and numerical
+investigation of saltwater intrusion dynamics in flux con-
+trolled groundwater systems, Water Resour. Res., 48, W09527,
+https://doi.org/10.1029/2012WR012134, 2012.
+Chase, J. M.: Ecological niche theory, in: The Theory of Ecology,
+edited by: Scheiner, S. M. and Willig, M. R., University of
+Chicago Press, Chicago, 93–108, 2011.
+Cheng, L., Xu, Z., Wang, D., and Cai, X.: Assessing interannual
+variability of evapotranspiration at the catchment scale using
+satellite-based evapotranspiration data sets, Water Resour. Res.,
+47, W09509, https://doi.org/10.1029/2011WR010636, 2011.
+Chow, V. T.: Handbook of Applied Hydrology, McGraw-Hill, New
+York, 1376 pp., 1964.
+Chow, V. T., Maidment, D. R., and Mays, L.: Applied Hydrology,
+McGraw-Hill, New York, 572 pp., 1988.
+Clark, M. P., Nijssen, B., Lundquist, J., Kavetski, D., Rupp,
+D., Woods, R., Gutmann, E., Wood, A., Brekke, L.,
+Arnold, J., Gochis, D., and Rasmussen, R.: A unified
+approach to process-based hydrologic modeling. Part 1:
+Modeling concept, Water Resour. Res., 51, 2498–2514,
+https://doi.org/10.1002/2015WR017198, 2015.
+Clark, M. P., Bierkens, M. F. P., Samaniego, L., Woods, R. A., Uijlenhoet,
+R., Bennett, K. E., Pauwels, V. R. N., Cai, X., Wood,
+A. W., and Peters-Lidard, C. D.: The evolution of process-based
+hydrologic models: historical challenges and the collective quest
+for physical realism, Hydrol. Earth Syst. Sci., 21, 3427–3440,
+doi.10.5194/hess-21-3427-2017, 2017.
+Clement, T. P.: Complexities in hindcasting models – when
+should we say enough is enough?, Ground Water, 49, 620–629,
+https://doi.org/10.1111/j.1745-6584.2010.00765.x, 2011.
+Crawford, N. H. and Linsley, R. K.: Digital Simulation in Hydrology:
+Stanford Watershed Model IV, Technical Report No. 39,
+Department of Civil Engineering, Stanford University, 210 pp.,
+1966.
+Davies, P. C. W.: Why is the physical world so comprehensible?,
+CTNS Bulletin 12, 16–21, 1992.
+Di Baldassarre, G., Montanari, A., Lins, H., Koutsoyiannis, D.,
+Brandimarte, L., and Blöschl, G.: Flood fatalities in Africa:
+From diagnosis to mitigation, Geophys. Res. Lett., 37, L22402,
+https://doi.org/10.1029/2010GL045467, 2010.
+Di Baldassarre, G., Viglione, A., Carr, G., Kuil, L., Salinas, J.
+L., and Blöschl, G.: Socio-hydrology: Conceptualising humanflood
+interactions, Hydrol. Earth Syst. Sci., 17, 3295–3303,
+https://doi.org/10.5194/hess-17–3295-2013, 2013.
+Didszun, J. and Uhlenbrook, S.: Scaling of dominant runoff
+generation processes: Nested catchments approach usHydrol.
+Earth Syst. Sci., 22, 1665–1693, 2018 www.hydrol-earth-syst-sci.net/22/1665/2018/
+ M. Sivapalan: Milestones in the transformation of hydrologic science 1689
+ing multiple tracers, Water Resour. Res., 44, W02410,
+https://doi.org/10.1029/2006WR005242, 2008.
+Dooge, J. C. I.: Looking for hydrologic laws, Water Resour. Res.,
+22, 46S–58S, 1986.
+Dooge, J. C. I.: History of Hydrology Film Interviews:
+J. C. I. Dooge Interviewed by D. R. Dawdy, Amer.
+Geophys. Union, available at: https://hydrology.agu.org/
+resources/history-of-hydrology-film-interviews, (last access:
+1 March 2018) 1995.
+Dunne, T.: Field studies of hillslope flow processes, Chapter 7, in:
+Hillslope Hydrology, edited by: Kirkby, M. J., Wiley, London,
+227–293, 1978.
+Dunne, T.: Wolman Lecture: Hydrologic science in landscapes on a
+planet in the future, in: Hydrologic Sciences: Taking Stock and
+Looking Ahead, Water Science and Technology Board, National
+Research Council, 10–43, Natl. Acad. Press, Washington, D.C.,
+1998.
+Dunne, T. and Black, R. D.: Partial area contributions to storm
+runoff in a small New England watershed, Water Resour. Res.,
+6, 1296–1311 1970.
+Eagleson, P. S.: Dynamic Hydrology, McGraw-Hill, New York,
+462 pp., 1970.
+Eagleson, P. S.: The emergence of global-scale hydrology, Water
+Resour. Res., 22, 6S–14S, 1986.
+Eagleson, P. S.: Ecohydrology: Darwinian Expression of Vegetation
+Form and Function, Cambridge Univ. Press, Cambridge, UK,
+345 pp., https://doi.org/10.1017/CBO9780511535680, 2002.
+Erkens, G., van der Meulen, M. J., and Middelkoop, H.: Double
+trouble: subsidence and CO2 respiration due to 1,000 years of
+Dutch coastal peatlands cultivation, Hydrogeol. J., 24, 551–568,
+https://doi.org/10.1007/s10040-016-1380-4, 2016.
+Falkenmark, M. and Chapman, T.: Comparative Hydrology, UNESCO,
+Paris, 479 pp., 1989.
+Fan, Y.: Groundwater in the Earth’s critical zone: Relevance to
+large-scale patterns and processes, Water Resour. Res., 51, 3052–
+3069, https://doi.org/10.1002/2015WR017037, 2015.
+Fan, Y. and Bras, R. L.: On the concept of a representative elementary
+area in catchment runoff, Hydrol. Process., 9, 821–832,
+1995.
+Fang, K. and Shen, C.: Full-flow-regime storage-streamflow correlation
+patterns provide insights into hydrologic functioning
+over the continental US, Water Resour. Res., 53, 8064–8083,
+https://doi.org/10.1002/2016WR020283, 2017.
+Farmer, D., Sivapalan, M., and Jothityangkoon, C.: Climate, soil
+and vegetation controls upon the variability of water balance
+in temperate and semi-arid landscapes: Downward ap-
+proach to hydrological prediction, Water Resour. Res., 39, 1035,
+https://doi.org/10.1029/2001WR000328, 2003.
+Fenicia, F., Kavetski, D., and Savenije, H. H. G.: Elements of a
+flexible approach for conceptual hydrological modeling: 1. Motivation
+and theoretical development, Water Resour. Res., 47,
+W11510, https://doi.org/10.1029/2010wr010174, 2011.
+Freeze, R. A. and Harlan, R. L.: Blueprint for a physically-based,
+digitally-simulated hydrologic response model, J. Hydrol., 9,
+237–258, 1969.
+Freeze, R. A.: Streamflow generation, Rev. Geophys. Space Phys.,
+12, 627–647, 1974.
+Freeze, R. A.: A stochastic conceptual analysis of rainfall-runoff
+processes on a hillslope, Water Resour. Res., 6, 391–408, 1980.
+Gaál, L., Szolgay, J., Kohnová, S., Parajka, J., Merz, R.,
+Viglione, A., and Blöschl, G.: Flood timescales: Understanding
+the interplay of climate and catchment processes through
+comparative hydrology, Water Resour. Res., 48, W04511,
+https://doi.org/10.1029/2011WR011509, 2012.
+Gao, H., Hrachowitz, M., Schymanski, S. J., Fenicia, F., Sriwongsitanon,
+N., and Savenije, H. H. G.: Climate con-
+trols how ecosystems size the root zone storage capacity
+at catchment scale, Geophys. Res. Lett., 41, 7916–7923,
+https://doi.org/10.1002/2014GL061668, 2014.
+Gelhar, L. W. and Axness, C. L.: Three-dimensional stochastic analysis
+of macrodispersion in aquifers, Water Resour. Res., 19, 161–
+180, https://doi.org/10.1029/WR019i001p00161, 1983.
+Gharari, S., Hrachowitz, M., Fenicia, F., and Savenije, H. H. G.:
+Hydrological landscape classification: investigating the performance
+of HAND based landscape classifications in a central
+European meso-scale catchment, Hydrol. Earth Syst. Sci., 15,
+3275–3291, https://doi.org/10.5194/hess-15-3275-2011, 2011.
+Graham, M. H. and Dayton, P. K.: On the evolution of ecological
+ideas: Paradigms and scientific progress, Ecology, 83, 1481–
+1489, 2002.
+Grayson, R. B., Moore, I. D., McMahon, T. A.: Physically based
+hydrologic modeling: 2. Is the concept realistic?, Water Resour.
+Res., 28, 2659–2666, https://doi.org/10.1029/92WR01259,
+1992.
+Guan, K., Wood, E. F., Medvigy, D., Kimball, J., Pan, M., Caylor,
+K. K., Sheffield, J., Xu, X., and Jones, M. O.: Terrestrial hydrological
+controls on land surface phenology of African savannas
+and woodlands. J. Geophys. Res.-Biogeosci., 119, 1652–1669,
+https://doi.org/10.1002/2013JG002572, 2014.
+Guo, J., Li, H.-Y., Leung, L. R., Guo, S., Liu, P., and Sivapalan, M.:
+Links between flood frequency and annual water balance behaviors:
+A basis for similarity and regionalization, Water Resour.
+Res., 50(, 937–953, https://doi.org/10.1002/2013WR014374,
+2014.
+Harman, C. J. and Sivapalan, M.: Similarity framework
+to assess controls on subsurface flow dynam-
+ics in hillslopes, Water Resour. Res., 45, W01417,
+https://doi.org/10.1029/2008WR007067, 2009.
+Harman, C. J., Rao, P. S. C., Basu, N. B., McGrath, G. S., Kumar,
+P., and, Sivapalan, M.: Climate, soil and vegetation controls on
+the temporal variability of vadose zone transport, Water Resour.
+Res., 47, W00J13, https://doi.org/10.1029/2010WR010194,
+2011.
+Harman, C. and Troch, P. A.: What makes Darwinian hydrology
+“Darwinian”? Asking a different kind of question
+about landscapes, Hydrol. Earth Syst. Sci., 18, 417–433,
+https://doi.org/10.5194/hess-18-417-2014, 2014.
+Harman, C. J., Lohse, K. A., Troch, P. A., and Sivapalan, M.:
+Spatial patterns of vegetation, soils and microtopography from
+terrestrial laser scanning on two semi-arid hillslopes of contrasting
+lithology, J. Geophys. Res.-Biogeosci., 119, 163–180,
+https://doi.org/10.1002/2013JG002507, 2014.
+Harte, J.: Toward a synthesis of the Newtonian and Darwinian
+worldviews, Phys. Today, 55, 29–34, 2002.
+Hassanizadeh, S. M. and Gray, W. G.: General conservation equations
+for multiphase systems: 1. Averaging procedure, Adv. Wa-
+ter Resour., 2, 131–144, 1979.
+www.hydrol-earth-syst-sci.net/22/1665/2018/ Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018
+ 1690 M. Sivapalan: Milestones in the transformation of hydrologic science
+Hassanizadeh, S. M., Celia, M. A., and Dahle, H. K.: Dynamic effects
+in the capillary pressure-saturation relationship and their
+impacts on unsaturated flow, Vadose Z. J., 1, 38–57, 2002.
+Hewlett, J. D. and Hibbert, A. R.: Factors affecting the response
+of small watersheds to precipitation in humid regions, in: Forest
+Hydrology, edited by: Sopper, W. E. and Lull, H. W., Pergamon
+Press, Oxford, 275–290, 1967.
+Hipsey, M. R., Hamilton, D. P., Hanson, P. C., Carey, C. C.,
+Coletti, J. Z., Read, J. S., Ibelings, B. W., Valesini, F. J.,
+and Brookes, J. D.: Predicting the resilience and recovery of
+aquatic systems: A framework for model evolution within environmental
+observatories, Water Resour. Res., 51, 7023–7043,
+https://doi.org/10.1002/2015WR017175, 2015.
+Horton, R. E.: The role of infiltration in the hydrologic cycle, Trans.
+Amer. Geophys. Union, 14, 446–460, 1933.
+Hrachowitz, M., Savenije, H. H. G., Blöschl, G., McDonnell, J. J.,
+Sivapalan, M., Pomeroy, J. W., Arheimer, B., Blume, T., Clark,
+M. P., Ehret, U., Fenicia, F., Freer, J. E., Gelfan, A., Gupta, H.
+V., Hughes, D. A., Hut, R. W., Montanari, A., Pande, S., Tetzlaff,
+D., Troch, P. A., Uhlenbrook, S., Wagener, T., Winsemius, H. C.,
+Woods, R. A., Zehe, E., and Cudennec, C.: A decade of Predictions
+in Ungauged Basins (PUB) – a review, Hydrol. Sci. J., 58,
+1–58, https://doi.org/10.1080/02626667.2013.803183, 2013.
+Hrachowitz, M. and Clark, M. P.: HESS Opinions: The
+complementary merits of competing modelling philosophies
+in hydrology, Hydrol. Earth Syst. Sci., 21, 3953–3973,
+https://doi.org/10.5194/hess-21-3953-2017, 2017.
+IACWD (Interagency Advisory Committee on Water Data): Guidelines
+for determining flood-flow frequency: Bulletin 17B of the
+Hydrology Subcommittee, Office of Water Data Coordination,
+U.S. Geological Survey, Reston, VA, 183 pp., available at: http:
+//water.usgs.gov/osw/bulletin17b/bulletin_17B.html (last access:
+1 March 2018), 1982.
+Jakeman, A. J. and Hornberger, G. M.: How much complexity is
+warranted in a rainfall-runoff model?, Water Resour. Res., 29,
+2637–2649, 1993.
+Jothityangkoon, C., Sivapalan, M., and Farmer, D.: Process controls
+of water balance variability in a large semi-arid catchment:
+Downward approach to hydrological model development, J. Hydrol.,
+254, 174–198, 2001.
+Jothityangkoon, C. and Sivapalan, M.: Framework for exploration
+of climatic and landscape controls on catchment water balance,
+with emphasis on inter-annual variability, J. Hydrol., 371, 154–
+168, https://doi.org/10.1016/j.jhydrol.2009.03.030, 2009.
+Kandasamy, J., Sounthararajah, D., Sivabalan, P., Chanan, A., Vigneswaran,
+S., and Sivapalan, M.: Socio-hydrologic drivers of
+the pendulum swing between agriculture development and environmental
+health: A case study from Murrumbidgee river
+basin, Australia, Hydrol. Earth Syst. Sci., 18, 1027–1041,
+https://doi.org/10.5194/hess-18-1027-2014, 2014.
+Kirchner, J. W.: Catchments as simple dynamical systems:
+Catchment characterization, rainfall-runoff modeling, and doing
+hydrology backward, Water Resour. Res., 45, W02429,
+https://doi.org/10.1029/2008WR006912, 2009.
+Kleidon, A. and Renner, M.: Thermodynamic limits of hydrologic
+cycling within the Earth system: concepts, estimates
+and implications, Hydrol. Earth Syst. Sci., 17, 2873–2892,
+https://doi.org/10.5194/hess-17-2873-2013, 2013.
+Klemeš, V.: Conceptualization and scale in hydrology, J. Hydrol.,
+65, 1–23, 1983.
+Klemeš, V.: Dilettantism in Hydrology: Transition or Destiny?, Water
+Resour. Res., 22, 177S–188S, 1986.
+Klemeš, V.: A hydrological perspective, J. Hydrol., 100, 3–28,
+1988.
+Kollet, S. J. and Maxwell, R. M.: Capturing the influence of groundwater
+dynamics on land surface processes using an integrated,
+distributed watershed model, Water Resour. Res., 44, W02402,
+https://doi.org/10.1029/2007WR006004, 2008.
+Konar, M., Evans, T. P., Levy, M., Scott, C. A., Troy, T. J., Vörösmarty,
+C. J., and Sivapalan, M.: Water sustainability in a glob-
+alizing world: who uses the water?, Hydrol. Process., 30, 3330–
+3336, https://doi.org/10.1002/hyp.10843, 2016.
+Kuil, L., Carr, G., Viglione, A., Prskawetz, A., and Blöschl, G.:
+Conceptualizing socio-hydrological drought processes: The case
+of the Maya collapse, Water Resour. Res., 52, 6222–6242,
+https://doi.org/10.1002/2015WR018298, 2016.
+Kumar, M., Duffy, C. J., and Salvage, K. M.: A second-order accurate,
+finite volume-based integrated hydrologic modeling frame-
+work (FIHM) for simulation of surface and subsurface flow, Vadose
+Z. J., https://doi.org/10.2136/vzj2009.0014, 2009.
+Lall, U.: Debates – The future of hydrological sciences: A
+(common) path forward? One water. One world. Many
+climes. Many souls, Water Resour. Res., 50, 5335–5341,
+https://doi.org/10.1002/2014WR015402, 2014.
+Larsen, J. E., Sivapalan, M., Coles, N. A., and Linnet, P. E.: Similarity
+analysis of runoff generation processes in real-world catch-
+ments, Water Resour. Res., 30, 1641–1652, 1994.
+Lee, H., Zehe, E., and Sivapalan, M.: Predictions of rainfall-runoff
+response and soil moisture dynamics in a microscale catchment
+using the CREW model, Hydrol. Earth Syst. Sci., 11, 819–849,
+https://doi.org/10.5194/hess-11-819-2007, 2007.
+Levin, S. A.: The problem of pattern and scale in ecology, Ecology,
+73, 1943–1967, 1992.
+Li, H.-Y., Sivapalan, M., and Tian, F.: A comparative diagnostic
+analysis of runoff generation mechanisms in Oklahoma DMIP2
+basins: The Blue River and the Illinois River, J. Hydrol., 418–
+419, 90–109, 2012.
+Li, H.-Y., Sivapalan, M., Tian, F., and Harman, C. J.:
+Functional approach to exploring climatic and landscape
+controls on runoff generation. 1. Behavioral constraints
+on runoff volume. Water Resour. Res., 50, 9300–9322,
+https://doi.org/10.1002/2014WR016307, 2014.
+Liu, Y., Tian, F., Hu, H., and Sivapalan, M.: Socio-hydrologic perspectives
+of the co-evolution of humans and water in the Tarim
+River Basin, Western China: the Taiji-Tire Model, Hydrol. Earth
+Syst. Sci., 18, 1289–1303, https://doi.org/10.5194/hess-18-12892014,
+2014.
+Linsley, R. K., Kohler, M. A., and Paulhus, J. L. H.: Hydrology for
+Engineers, McGraw-Hill, New York, 340 pp., 1958.
+Loritz, R., Hassler, S. K., Jackisch, C., Allroggen, N., van Schaik,
+L., Wienhöfer, J., and Zehe, E.: Picturing and modeling catchments
+by representative hillslopes, Hydrol. Earth Syst. Sci., 21,
+1225–1249, https://doi.org/10.5194/hess-21-1225-2017, 2017.
+Loucks, D. P., Van Beek, E., Stedinger, J. R., Dijkman, J. P., and Villars,
+M. T.: Water Resources Systems Planning and Management:
+An Introduction to Methods, Models and Applications, 680 pp.,
+UNESCO, Paris, 2015.
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018 www.hydrol-earth-syst-sci.net/22/1665/2018/
+ M. Sivapalan: Milestones in the transformation of hydrologic science 1691
+Lotka, A.: Natural selection as a physical principle, P. Natl. Acad.
+Sci. USA, 8, 151–154, 1922.
+Lu, H., Moran, C. J., and Sivapalan, M.: A theoretical exploration
+of catchment-scale sediment delivery, Water Resour. Res., 41,
+W09415, https://doi.org/10.1029/2005WR004018, 2005.
+L’vovich, M. I.: World Water Resources and Their Future, 415 pp.,
+AGU, Washington, D.C., 1979.
+Manabe, S.: Climate and the ocean circulation. 1. The atmospheric
+circulation and the hydrology of the earth’s surface, Mon.
+Weather Rev., 97, 739–774, 1969.
+Maxwell, R. M., Condon, L. E., and Kollet, S. J.: A high-resolution
+simulation of groundwater and surface water over most of the
+continental US with the integrated hydrologic model ParFlow v3,
+Geosci. Model Dev., 8, 923–937, https://doi.org/10.5194/gmd-8923-2015,
+2015.
+McDonnell, J. J.: A rationale for old water discharge through
+macropores in a steep, humid catchment, Water Resour. Res., 26,
+2821–2832, 1990.
+McDonnell, J. J., Sivapalan, M., Vaché, K., Dunn, S., Grant,
+G., Haggerty, R., Hinz, C., Hooper, R. P., Kirchner, J. W.,
+Roderick, M. L., Selker, J., and Weiler, M.: Moving beyond
+heterogeneity and process complexity: A new vision
+for watershed hydrology, Water Resour. Res., 43, W07301,
+https://doi.org/10.1029/2006WR005467, 2007.
+McGrath, G. S., Hinz, C., and Sivapalan, M. The effect of rainfall
+regional variability on rapid pesticide risk leaching potential, J.
+Contam. Hydrol., 113, 56–65, 2010.
+Mein, R. G. and Larson, C. L.: Modeling infiltration during steady
+rain, Water Resour. Res., 9, 384–394, 1973.
+Milly, P. C. D., Betancourt, J., Falkenmark, M., Hirsch, R. M.,
+Kundzewicz, Z. W., Lettenmaier, D. P., and Stouffer, R. J.: Stationarity
+is dead: Whither water management?, Science, 319,
+573–574, https://doi.org/10.1126/science.1151915, 2008.
+Minshall, N. E.: Predicting storm runoff on small experimental watersheds,
+Proc. Am. Soc. Civ. Eng., J. Hydraul. Div., 86, 17–38,
+1960.
+Mockus, V.: Estimation of total (and peak rates of) surface runoff
+for individual storms. Exhibit A in Appendix B, Interim Survey
+Report (Neosho) River Watershed, Washington, DC: Agri-
+cultural Research Service, United States Department of Agriculture,
+61 pp., 1949.
+Odling-Smee, F. J., Laland, K. N., and Feldman, M. W.: Niche Construction:
+The Neglected Process in Evolution, Princeton Univer-
+sity Press, Princeton, 476 pp., 2003.
+Oleson, K. W., Lawrence, D. W., Bonan, G. B., Drewniak, B.,
+Huang, M., Koven, C. D., Levis, S., Li, F., Riley, W. J.,
+Subin, Z. M., Swenson, S. C., Thornton, P. E.: Technical
+Description of Version 4.5 of the Community Land Model
+(CLM). NCAR Technical Report, NCAR/TN-503+STR, 420 pp,
+doi:10.5065/D6RR1W7M, http://opensky.ucar.edu/islandora/
+object/technotes%3A515/datastream/PDF/view (last access: last
+access: 1 March 2018.), 2013.
+Or, D., Lehmann, P., and Assouline, S.: Natural length scales
+define the range of applicability of the Richards equation
+for capillary flows, Water Resour. Res., 51, 7130–7144,
+https://doi.org/10.1002/2015WR017034, 2015.
+Pande, S. and Sivapalan, M.: Progress in socio-hydrology: a metaanalysis
+of challenges and opportunities, WIREs Water, 4, e1193,
+https://doi.org/10.1002/wat2.1193, 2017.
+Patil, S., Sivapalan, M., Hassan, M. A., Ye, S., Harman, C. J., and
+Xu, X.: A network model for prediction and diagnosis of sediment
+dynamics at the watershed scale, J. Geophys. Res.-Earth
+Surf., 117, F00A04, https://doi.org/10.1029/2012JF002400,
+2012.
+Peters-Lidard, C. D., Clark, M., Samaniego, L., Verhoest, N.
+E. C., van Emmerik, T., Uijlenhoet, R., Achieng, K., Franz,
+T. E., and Woods, R.: Scaling, similarity, and the fourth
+paradigm for hydrology, Hydrol. Earth Syst. Sci., 21, 3701–3713,
+https://doi.org/10.5194/hess-21-3701-2017, 2017.
+Platt, J. R.: Strong inference, Science, 146, 347–353, 1964.
+Reggiani, P.: A Unifying Framework for Watershed Thermodynamics,
+PhD Dissertation, Centre for Water Research, Univ. West.
+Aust., 238 pp., 1999.
+Reggiani, P., Sivapalan, M., and Hassanizadeh, S. M.: A unifying
+framework for watershed thermodynamics: Balance equations
+for mass, momentum, energy, entropy and the 2nd law of thermodynamics,
+Adv. Water Resour., 22, 367–398, 1998.
+Reggiani, P., Hassanizadeh, S. M., Sivapalan, M., and Gray, W. G.:
+A unifying framework for watershed thermodynamics. Constitutive
+relationships. Adv. Water Resour., 23, 15–39, 1999.
+Rippl, W.: The capacity of storage reservoirs for water supply, Minutes,
+Proc. Inst. Civil Eng., 71, 270–278, 1883.
+Robinson, J. S., Sivapalan, M., and Snell, J. D.: On the relative roles
+of hillslope processes, channel routing and network geomorphology
+in the hydrological response of natural catchments, Water
+Resour. Res., 31, 3089–3101, 1995.
+Robinson, J. S. and Sivapalan, M.: Temporal scales and hydrological
+regimes: Implications for flood frequency scaling, Water Re-
+sour. Res., 33, 2981–2999, 1997.
+Robinson, T. M., La Pierre, K. J., Vadeboncoeur, M. A., Byrne,
+K. M., Thomey, M. L., and Colby, S. E.: Seasonal, not annual
+precipitation drives community productivity across ecosys-
+tems, Oikos, 122, 727–738, https://doi.org/10.1111/j.16000706.2012.20655.x,
+2012.
+Roderick, M. L. and Farquhar, G. D.: The pan evaporation paradox,
+in: Global Change and the Earth System: A Planet Under Pressure,
+Steffen, W., Sanderson, A., Tyson, P., Jäger, J., Matson, P.,
+Moore III, B., Oldfield, F., Richardson, K., Schellnhuber, H.-J.,
+Turner II, B. L., and Wasson, R., Springer-Verlag, p. 167, 2004.
+Rodriguez-Iturbe, I. and Valdes, J. B.: The geomorphologic structure
+of hydrologic response, Water Resour. Res., 15, 1409–1420,
+1979.
+Rodriguez-Iturbe, I.: Ecohydrology: A hydrologic perspective of
+climate-soil-vegetation dynamics, Water Resour. Res., 36, 3–9,
+2000.
+Saco, P. M. and Moreno-de las Heras, M.: Ecogeomorphic
+coevolution of semiarid hillslopes: Emergence of banded
+and striped vegetation patterns through interaction of biotic
+and abiotic processes, Water Resour. Res., 49, 115–126,
+https://doi.org/10.1029/2012WR012001, 2013.
+Sanderson, M. R., Bergtold, J. S., Heier Stamm, J. L., Caldas,
+M. M., and Ramsey, S. M.: Bringing the “social” into sociohydrology:
+Conservation policy support in the Central Great
+Plains of Kansas, USA, Water Resour. Res., 53, 6725–6743,
+https://doi.org/10.1002/2017WR020659, 2017.
+Savenije, H. H. G.: Opinion paper: Linking Darcy’s equation
+to the linear reservoir, Hydrol. Earth Syst. Sci. Discuss.,
+https://doi.org/10.5194/hess-2017-580, in review, 2017.
+www.hydrol-earth-syst-sci.net/22/1665/2018/ Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018
+ 1692 M. Sivapalan: Milestones in the transformation of hydrologic science
+Savenije, H. H. G. and Hrachowitz, M.: HESS Opinions “Catchments
+as meta-organisms – a new blueprint for hydrolog-
+ical modelling”, Hydrol. Earth Syst. Sci., 21, 1107–1116,
+https://doi.org/10.5194/hess-21-1107-2017, 2017.
+Schaefli, B., Harman, C. J., Sivapalan, M., and Schymanski, S. J.:
+HESS Opinions: Hydrologic predictions in a changing environment:
+behavioral modeling, Hydrol. Earth Syst. Sci., 15, 635–
+646, https://doi.org/10.5194/hess-15-635-2011, 2011.
+Schymanski, S. J.: Transpiration as the Leak in the Carbon Factory:
+A Model of Self-Optimising Vegetation, PhD Dissertation, Sch.
+Env. Syst. Eng., Univ. of West. Aust., Perth, 244 pp., 2007.
+Schymanski, S. J., Sivapalan, M., Roderick, M. L., Hutley,
+L., and Beringer, J.: An optimality-based model of
+the dynamic feedbacks between natural vegetation and
+the water balance, Water Resour. Res., 45, W01412,
+https://doi.org/10.1029/2008WR006841, 2009.
+Scott, C. A.: The water-energy-climate nexus: resources and policy
+outlook for aquifers in Mexico, Water Resour. Res., 47, W00L04,
+https://doi.org/10.1029/2011WR010805, 2011.
+Senatore, A., Mendicino, G., Gochis, D. J., Yu, W., Yates, D.
+N., and Kunstmann, H.: Fully coupled atmosphere-hydrology
+simulations for the central Mediterranean: Impact of enhanced
+hydrological parameterization for short and long
+time scales, J. Adv. Model. Earth Syst., 7, 1693–1715,
+https://doi.org/10.1002/2015MS000510, 2015.
+Shen, C. and Phanikumar, M. S.: A process-based, distributed
+hydrologic model based on a large-scale method for surfacesubsurface
+coupling, Adv. Water Resour., 33, 1524–1541,
+https://doi.org/10.1016/j.advwatres.2009.07.001, 2010.
+Silberstein, R. P., Held, A., Hatton, T. J., Viney, N. R., and
+Sivapalan, M.: Energy balance of a natural jarrah (Eucalyptus
+marginata) forest in Western Australia. Measurements in spring
+and summer, Agric. Forest Meteorol., 109, 79–104, 2001.
+Sivapalan, M., Jeevaraj, C. G., and Viney, N. R.: Catchment-scale
+water balance modeling to predict the effects of land use changes
+in forested catchments. 1. Small catchment water balance model,
+Hydrol. Process., 10, 393–411, 1996.
+Sivapalan, M.: Process complexity at hillslope scale, process simplicity
+at the watershed scale: Is there a connection?, Hy-
+drol. Process., 17, 1037–1041, https://doi.org/10.1002/hyp.5109,
+2003.
+Sivapalan, M., Blöschl, G., Zhang, L., and Vertessy, R.: Downward
+approach to hydrological prediction, Hydrol. Process., 17, 2101–
+2111, https://doi.org/10.1002/hyp.1425, 2003.
+Sivapalan, M., Takeuchi, K., Franks, S. W., Gupta, V. K., Karambiri,
+H., Lakshmi, V., Liang, X., McDonnell, J. J., Mendiondo,
+E. M., O’Connell, P. E., Oki, T., Pomeroy, J. W., Schertzer, D.,
+Uhlenbrook, S., and Zehe, E.: IAHS Decade on Predictions in
+Ungauged Basins (PUB), 2003–2012: Shaping an exciting future
+for the hydrological sciences, Hydrol. Sci. J., 48, 857–880, 2003.
+Sivapalan, M.: Pattern, Process and Function: Elements of a New
+Unified Hydrologic Theory at the Catchment Scale, Contribution
+to: Encyclopaedia of Hydrologic Sciences, edited by: Anderson,
+M. G., 13, 193–219, John Wiley & Sons, 2005.
+Sivapalan, M. and Young, P. C.: Downward approach to hydrological
+model development, in: Encyclopaedia of Hydrologic Sci-
+ences, edited by: Anderson, M. G., 134, 2081–2098, John Wiley
+& Sons, 2005.
+Sivapalan, M. The secret to “doing better hydrological science”:
+Change the question!, Hydrol. Process., 23, 1391–1396,
+https://doi.org/10.1002/hyp.7242, 2009.
+Sivapalan, M., Savenije, H. H. G., and Blöschl, G.: Sociohydrology:
+A new science of people and water, Hydrol. Process.,
+26, 1270–1276, https://doi.org/10.1002/hyp.8426, 2012.
+Sivapalan, M., Konar, M., Srinivasan, V., Chhatre, A., Wutich,
+A., Scott, C. A., Wescoat, J. L., and Rodriguez-
+Iturbe, I.: Socio-hydrology: Use-inspired water sustainability
+science for the Anthropocene, Earth’s Future, 2, 225–230,
+https://doi.org/10.1002/2013EF000164, 2014.
+Sivapalan, M.: Debates – Perspectives in Socio-hydrology:
+Changing water systems and the “tyranny of small problems”
+– Socio-hydrology, Water Resour. Res., 51, 4795–4805,
+https://doi.org/10.1002/2015WR017080, 2015.
+Sivapalan, M. and Blöschl, G.: Time scale interactions and the coevolution
+of humans and water, Water Resour. Res., 51, 6988–
+7022, https://doi.org/10.1002/2015WR017896, 2015.
+Sivapalan, M. and Blöschl, G.: The growth of hydrological
+understanding: Technologies, ideas and societal needs
+shape the field, Water Resour. Res., 53, 8137–8146
+https://doi.org/10.1002/2017WR021396, 2017.
+Smith, J. A.: Representation of basin scale in flood peak distributions,
+Water Resour. Res., 28, 2993–2999, 1992.
+Srinivasan, V., Sanderson, M., Garcia, M., Konar, M.,
+Blöschl, G., and Sivapalan, M.: Prediction in a sociohydrological
+world, Hydrol. Sci. J., 62, 338–345,
+https://doi.org/10.1080/02626667.2016.1253844, 2017.
+Stephenson, G. R. and Freeze, R. A.: Mathematical simulation
+of subsurface flow contributions to snowmelt runoff, Reynolds
+Creek Watershed, Idaho, Water Resour. Res., 10, 284–294, 1974.
+Stephenson, N. L.: Climatic control of vegetation distribution: The
+role of the water balance, Am. Nat., 135, 649–670, 1990.
+Stokes, D. E.: Pasteur’s Quadrant: Basic Science and Technological
+Innovation, Brookings Institution Press, Washington, D.C., 1997.
+Sugawara, M.: The flood forecasting by a series storage type model,
+Proc. Int. Symp. on Floods and their Computation, Leningrad,
+USSR, 1–6, 1967.
+Thomas, H. A.: Improved methods for national water assessment,
+water resource contract WR15249270, USGS unnumbered series,
+Harvard Water Resources Group, available at: http://pubs.
+er.usgs.gov/publication/70046351 (last access: 1 March 2018),
+1981.
+Thompson, S. E., Harman, C. J., Konings, A. G., Sivapalan,
+M., and Troch, P. A.: Comparative hydrology across
+Ameriflux sites: The variable roles of climate, vegetation
+and groundwater, Water Resour. Res., 47, W00J07,
+https://doi.org/10.1029/2010WR009797, 2011a.
+Thompson, S. E., Harman, C. J., Troch, P. A., Brooks, P.
+D., and Sivapalan, M.: Scaling of ecohydrologically mediated
+water balance partitioning: A synthesis framework for
+catchment ecohydrology, Water Resour. Res., 47, W00J03,
+https://doi.org/10.1029/2010WR009998, 2011b.
+Thompson, S. E., Sivapalan, M., Harman, C. J., Srinivasan, V.,
+Hipsey, M., Reed, P., Montanari, A., and Blöschl, G.: Developing
+predictive insight into changing water systems: use-inspired
+hydrologic science for the Anthropocene, Hydrol. Earth Syst.
+Sci., 17, 5013–5039, https://doi.org/10.5194/hess-17-5013-2013,
+2013.
+Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018 www.hydrol-earth-syst-sci.net/22/1665/2018/
+ M. Sivapalan: Milestones in the transformation of hydrologic science 1693
+Tian, F., Hu, H., Lei, Z., and Sivapalan, M.: Extension of the
+Representative Elementary Watershed approach for cold regions
+via explicit treatment of energy related processes, Hydrol.
+Earth Syst. Sci., 10, 619–644, https://doi.org/10.5194/hess-10619-2006,
+2006.
+Tian, F., Li, H.-Y., and Sivapalan, M.: Model diagnostic analysis of
+seasonal switching of runoff generation mechanisms in the Blue
+River basin, Oklahoma, J. Hydrol., 418–419, 136–149, 2012.
+Troch, P. A., Martinez, G. F., Pauwels, V. R. N., Durcik, M.,
+Sivapalan, M., Harman, C. J., Brooks, P. D., Gupta, H. V.,
+and Huxman, T. E.: Climate and vegetation water-use efficiency
+at catchment scales. Hydrol. Process., 23, 2409–2414,
+https://doi.org/10.1002/hyp.7358, 2009.
+Vörösmarty, C. J., Green, P., Salisbury, J., and Lammers, R. B.:
+Global water resources: Vulnerability from climate change and
+population growth, Science, 289, 284–288, 2000.
+Wagener, T., Sivapalan, M., Troch, P. A., and Woods, R. A.: Catchment
+classification and hydrologic similarity, Geog. Compass,
+1, 901–931, https://doi.org/10.1111/j.1749-8198.2007.00039.x,
+2007.
+Wagener, T., Sivapalan, M., Troch, P. A., McGlynn, B. L., Harman,
+C. J., Gupta, H. V., Kumar, P., Rao, P. S. C., Basu, N. B.,
+and Wilson, J. S.: The future of hydrology: An evolving science
+for a changing world, Water Resour. Res., 46, W05301,
+https://doi.org/10.1029/2009WR008906, 2010,
+Wang, D. and Tang, Y.: A one-parameter Budyko model
+for water balance captures emergent behavior in Darwinian
+hydrologic models, Geophys. Res. Lett., 41, 4569–4577,
+https://doi.org/10.1002/2014GL060509, 2014.
+Wang, D., Zhao, J., Tang, Y., and Sivapalan, M.: A thermodynamic
+interpretation of Budyko and L’vovich formulations
+of annual water balance: proportionality hypothesis and maximum
+entropy production, Water Resour. Res., 51, 3007–3016,
+https://doi.org/10.1002/2014WR016857, 2015.
+Weingartner, R. and Aschwanden, H.: Discharge regime–the basis
+for the estimation of average flows, in: Hydrological Atlas of
+Switzerland, Map 5.2, Swiss Federal Office for the Environment,
+Bern, Switzerland, 1992.
+Westerberg, I. K., Di Baldassarre, G., Beven, K. J., Coxon, G., and
+Krueger, T.: Perceptual models of uncertainty for sociohydrological
+systems: a flood risk change example, Hydrol. Sci. J., 62,
+1705–1713, doi10.1080/02626667.2017.1356926, 2017.
+Westhoff, M., Zehe, E., Archambeau, P., and Dewals, B.: Does the
+Budyko curve reflect a maximum-power state of hydrological
+systems? A backward analysis, Hydrol. Earth Syst. Sci., 20, 479–
+486, https://doi.org/10.5194/hess-20-479-2016, 2016.
+Wing, O. E. J., Bates, P. D., Sampson, C. C., Smith, A. M., Johnson,
+K. A., and Erickson, T. A.: Validation of a 30 m resolution flood
+hazard model of the conterminous United States, Water Resour.
+Res., 53, 7968–7986, https://doi.org/10.1002/2017WR020917,
+2017.
+Wittenberg, H. and Sivapalan, M.: Watershed groundwater balance
+estimation using streamflow recession analysis and baseflow separation,
+J. Hydrol., 219, 20–33, 1999.
+Wood, E. F., Sivapalan, M., Beven, K. J., and Band, L. E.: Effects
+of spatial variability and scale with implications to hydrologic
+modeling, J. Hydrol., 102, 29–47, 1988.
+Wood, E. F., Roundy, J. K., Troy, T. J., van Beek, R., Bierkens, M.
+F. P., Blyth, E. M., de Roo, A., Döll, P., Ek, M., Famiglietti, J.
+S., Gochis, D., van de Giesen, N., Houser, P., Jaffe, P., Kollet,
+S., Lehner, B., Lettenmaier, D. P., Peters-Lidard, C., Sivapalan,
+M., Sheffield, J., Wade, A., and Whitehead, P.: Hyper-resolution
+global land surface modeling: Meeting a grand challenge for
+monitoring Earth’s terrestrial water, Water Resour. Res., 47,
+W05301, https://doi.org/10.1029/2010WR010090, 2011.
+Wood, E. F., Roundy, J. K., Troy, T. J., van Beek, R., Bierkens, M.
+F. P., Blyth, E. M., de Roo, A., Döll, P., Ek, M., Famiglietti, J.
+S., Gochis, D., van de Giesen, N., Houser, P., Jaffe, P., Kollet, S.,
+Lehner, B., Lettenmaier, D. P., Peters-Lidard, C., Sivapalan, M.,
+Sheffield, J., Wade, A., and Whitehead, P.: Reply to comment by
+Keith J. Beven and Hannah L. Cloke on “Hyper-resolution global
+land surface modeling: Meeting a grand challenge for monitoring
+Earth’s terrestrial water”, Water Resour. Res., 48, W01802,
+https://doi.org/10.1029/2011WR011202, 2012.
+Woods, R. A., Sivapalan, M., and Duncan, M. J.: Investigating the
+Representative Elementary Area concept – An approach based
+on field data, Hydrol. Process., 9, 291–312, 1995.
+Woolhiser, D. A.: Hydrologic and watershed modeling – state of the
+art, Trans. Amer. Soc. Agric. Engrs., 16, 553–559, 1973.
+Yang, Y., Donohue, R. J., and McVicar, T. R.: Global estimation
+of effective plant rooting depth: Implications for
+hydrological modeling, Water Resour. Res., 52, 8260–8276,
+https://doi.org/10.1002/2016WR019392, 2016.
+Ye, S., Covino, T. P., Sivapalan, M., Basu, N. B., Li, H.Y.,
+and Wang, S.-W.: Dissolved nutrient retention dynam-
+ics in river networks: A modeling investigation of transient
+flows and scale effects, Water Resour. Res., 48, W00J17,
+https://doi.org/10.1029/2011WR010508, 2012.
+Yevjevich, V.: Misconceptions in hydrology and their consequences,
+Water Resour. Res., 4, 225–232, 1968.
+Young, P. C.: Top-down and data-based mechanistic modelling of
+rainfall–flow dynamics at the catchment scale, Hydrol. Process.,
+17, 2195–2217, https://doi.org/10.1002/hyp.1328, 2003.
+Young, P. C. and Beven, K. J.: Data-based mechanistic modelling
+and the rainfall-flow nonlinearity, Environmetrics, 5, 335–363,
+1994.
+Zehe, E. and Sivapalan, M.: Threshold behaviour in hydrological
+systems as (human) geo-ecosystems: manifestations, con-
+trols, implications, Hydrol. Earth Syst. Sci., 13, 1273–1297,
+https://doi.org/10.5194/hess-13-1273-2009, 2009.
+Zehe, E., Lee, H., and Sivapalan, M.: Dynamical process upscaling
+for deriving catchment scale state variables and constitutive relations
+for meso-scale process models, Hydrol. Earth Syst. Sci.,
+10, 981–996, https://doi.org/10.5194/hess-10-981-2006, 2006.
+Zehe, E., Ehret, U., Pfister, L., Blume, T., Schröder, B., Westhoff,
+M., Jackisch, C., Schymanski, S. J., Weiler, M., Schulz, K., Allroggen,
+N., Tronicke, J., van Schaik, L., Dietrich, P, Scherer,
+U., Eccard, J., Wulfmeyer, V., and Kleidon, A.: HESS Opinions:
+From response units to functional units: a thermodynamic reinterpretation
+of the HRU concept to link spatial organization and
+functioning of intermediate scale catchments, Hydrol. Earth Syst.
+Sci., 18, 4635–4655, https://doi.org/10.5194/hess-18-4635-2014,
+2014.
+Zhang, Z., Tian, F., and Sivapalan, M.: Groundwater dynamics under
+water saving irrigation and implications for sustainable wa-
+ter management in an oasis: Tarim River Basin, China, Hydrol.
+Earth Syst. Sci., 18, 3951–3967, https://doi.org/10.5194/hess-183951-2014,
+2014.
+www.hydrol-earth-syst-sci.net/22/1665/2018/ Hydrol. Earth Syst. Sci., 22, 1665–1693, 2018

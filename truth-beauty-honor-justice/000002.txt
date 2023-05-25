@@ -1,0 +1,1112 @@
+SOIL, 1, 543–559, 2015
+www.soil-journal.net/1/543/2015/
+doi:10.5194/soil-1-543-2015
+© Author(s) 2015. CC Attribution 3.0 License.
+SOIL
+Case studies of soil in art
+C. Feller1, E. R. Landa2, A. Toland3, and G. Wessolek3
+1Institut de Recherche pour le Développement (IRD), 28 rue Dr Blanchard, 30700 Uzès, France
+2Department of Environmental Science and Technology, University of Maryland, College Park,
+MD 20742, USA
+3Department of Soil Protection, Institute for Ecology, Technische Universität Berlin, Ernst Reuter Platz 1,
+10587 Berlin, Germany
+Correspondence to: C. Feller (christian.feller@ird.fr)
+Received: 14 August 2014 – Published in SOIL Discuss.: 9 February 2015
+Revised: 9 June 2015 – Accepted: 16 July 2015 – Published: 13 August 2015
+Abstract. The material and symbolic appropriations of soil in artworks are numerous and diverse, spanning
+many centuries and artistic traditions, from prehistoric painting and ceramics to early Renaissance works in
+Western literature, poetry, paintings, and sculpture, to recent developments in film, architecture, and contemporary
+art. Case studies focused on painting, installation, and film are presented with the view of encouraging
+further exploration of art about, in, and with soil as a contribution to raising soil awareness.
+1 Introduction
+Soil is a word whose meaning varies according to context.
+The patriotic understanding of soil (as in the “soil of France”)
+and the agricultural understanding of soil have very little in
+common. Even in the environmental and geological sciences,
+there are often vast differences between the soil of the geologist,
+the archaeologist, the geotechnical engineer, and the soil
+scientist, or pedologist. In the history of soil science, numerous
+definitions have been formulated, but all tend to have one
+or more of the following criteria in common: the presence of,
+or ability to sustain, life; the state and position of the soil as
+unconsolidated porous matter occupying the topmost layer
+of the earth, from the surface to the parent rock below; and
+the ability to demonstrate a record of physical and chemical
+change (genesis) due to myriad environmental factors over
+time (Certini and Ugolini, 2013).
+Until now, no other planet has been identified with such a
+substrate fulfilling these criteria. The Earth’s soil is unique
+in our universe, and yet represents a presence in daily life
+so common that it is taken for granted. For the non-scientific
+public at large, soil is mainly the surface on which we walk,
+or an obscure part of the larger landscape. Because of its
+life-giving sustenance for all humans and other living beings,
+soils are far too important to be studied by soil scien-
+tists alone. But we live in a world where disciplinary boundaries
+define our work. Within the realm of science, bound-
+ary crossings – or what Julie Thompson Klein (1990, p. 65)
+refers to as “border disciplinarity” – are typically of the
+nearest-neighbor type: i.e., biology + chemistry = biochemistry,
+or geology and physics = geophysics. Extensions of
+soil science outside the agricultural or earth sciences, to the
+arts and humanities, are far less frequent. The last decades
+show, however, that the activities of the soil science community
+and its traditional partners have been insufficient in pro-
+tecting our soils and landscapes. Soil degradation due to poor
+agricultural practice and lack of regulation and soil loss due
+to sealing and urban sprawl continue to occur at an alarming
+rate.
+To encourage more holistic approaches to soil protection,
+our soil science community must open the doors to develop
+new perspectives by investigating and initiating transdisciplinary
+projects. Art, history, anthropology, sociology, psy-
+chology, economics, and religious studies represent just a
+few fields for expanding the scope of soil protection and raising
+soil awareness. In this contribution we aim to show how
+artists help reveal the interconnectivity of soil, life, and culture,
+and in so doing offer a different lens for appreciating
+the soil.
+The range of art forms and genres dealing with soil is wide
+and diverse, spanning many centuries and artistic traditions,
+Published by Copernicus Publications on behalf of the European Geosciences Union.
+ 544 C. Feller et al.: Case studies of soil in art
+from prehistoric painting and ceramics to early Renaissance
+works in Western paintings and sculpture, to recent developments
+in film, architecture, and contemporary art (Landa
+and Feller, 2010; Toland and Wessolek, 2010, 2014). With
+the emergence of environmental awareness and activism during
+the second part of 20th century, especially since the
+Earth Summit in Rio de Janeiro in 1992, individual artists
+all around the world began to include soil (and not simply
+the landscape in general) as a subject of artistic inquiry. Environmental
+art, ecological art, and Land Art are some of the
+more well-known genres that took up issues of land use, soil
+ecology, and agricultural change in the latter half of the 20th
+century.
+Following Wessolek’s (2002) personal vision “to encourage
+a new art style, named Soil Art”, we have assembled a
+set of case studies that we feel expose the possibilities of this
+vision. For our purposes of case selection, we will define soil
+art as “artistic work about, in, or with soil or soil protection
+issues, that is produced by artists in a multitude of genres
+and media, to be understood, among other things, as artwork
+that may contribute to wider environmental and soil protection
+and awareness-raising discourses” (adapted from Toland
+and Wessolek, 2010). This definition does not presume the
+recognition of a new art genre but rather narrows our field of
+inquiry and opens the door for future discussion.
+Since the scope of artistic activity with and about soil is
+so large and diverse, it will be impossible to give examples
+of all artistic forms and genres in a single article. Rather than
+attempt a comprehensive overview, we will offer selected examples,
+from Renaissance paintings to contemporary instal-
+lation works, to feature films, which reflect our observations
+as soil scientists with focused interests in art:
+– Sect. 2 (painting) by C. Feller, with additions by
+A. Toland and G. Wessolek;
+– Sect. 3 (installation) by A. Toland and G. Wessolek;
+– Sect. 4 (film) by E. R. Landa.
+2 Painting
+2.1 Roots, resurrection, and rural life – examples from
+the Renaissance
+Examples of soil in paintings are numerous and date to
+antiquity. On the one hand, there is soil as the medium
+itself; soils have been used as a material for art as pigments
+(since the prehistoric wall paintings in caves) (Ugolini,
+2010), and more recently in contemporary paintings to give
+special effects to the subject (Van Breemen, 2010). On the
+other hand, soil has been represented in paintings and mosaics
+in the form of lines or surfaces as an element of the
+landscape. In some cases, it was a schematic representation,
+as if the artist appeared to have consciously failed to
+observe the soil (Feller et al., 2010), as in Venus Standing
+in a Landscape (see http://www.louvre.fr/oeuvre-notices/
+venus-debout-dans-un-paysage).
+But in other cases, the depiction of the soil (as a surface or
+a soil profile in the paintings) is remarkable, even when the
+focus is on another subject. Feller et al. (2010) distinguish
+three motifs of soil profile representation in paintings from
+the Renaissance:
+i. Visualization of the soil profile for the resurrection of
+the dead
+In The Last Judgment by Rogier Van der Weyden (1432)
+(Fig. 1), the resurrection of the dead required the artist
+to show the soil profile. The complete painting exhibits
+numerous soil profiles. Details of the emergence of men
+and women from soil profiles (lower part of the painting)
+are so true to reality that they might have been
+painted by a pedologist.
+ii. Visualization of the soil profile for displaying plant
+roots
+In several Renaissance paintings, the representation of a
+ditch or a soil cut in a painting served very often as an
+opportunity to picture roots. In St. John the Baptist by
+Hieronymus Bosch (1450–1516), the figure of St. John
+leans towards a sharp vertical exposure of soil that includes
+a strange large root: http://en.wikipedia.org/wiki/
+St._John_the_Baptist_in_the_Wilderness).
+A large root also appears in The Tempest, painted
+by Giorgione (1477/78–1510) (http://en.wikipedia.org/
+wiki/The_Tempest_(Giorgione)).
+These works are just two examples of paintings in which
+large, forked roots were made evident. The representation
+of roots was not due to chance, but was chosen
+for its symbolic value. The root presented in detail in
+the foreground of the St. John the Baptist painted by
+Bosch is most likely the mandragora root, as suggested
+by Marjnissen and Ruyffelaere (1987). The mandragora
+root is thick, hairy and forked, and in a humanoid form.
+The roots of the Mandragora genus (mandrake) were
+extensively used by alchemists and in magic rituals
+based on their psychotropic properties (see Feller et al.,
+2010, p. 12, Fig. 1.6).1The mandrake was also a religious
+symbol for Christians, for whom it was linked to
+Genesis and aspects of Christ’s life (for further details,
+see Feller et al., 2010).
+iii. Visualization of the soil profile to depict rural life and
+agricultural practices
+1To view images of mandragora, (1) go to http://mandragore.
+bnf.fr/jsp/rechercheExperte.jsp; (2) click on “Département des
+Manuscrits (occidentaux)”; (3) at “Cote”, enter “français 12322”;
+(4) click on “Les images numérisées”; (5) at “Folio” box, enter
+“180v”; (6) hit “Chercher”, then click on the individual images to
+view.
+SOIL, 1, 543–559, 2015 www.soil-journal.net/1/543/2015/
+ C. Feller et al.: Case studies of soil in art 545
+Figures for article “Case studies of soil in art”  
+Authors: Feller C., Landa Edward R., Toland A., Wessolek G.  
+ 
+  
+Figure 01. Details of Le Jugement Dernier (The Last Jugement), circa 1432, Van der Weyden 
+R., Musée Hôtel-Dieu, Hospices Civils de Beaune, Beaune, France (© Hospices de Beaune). 
+ 
+ 
+ 
+Figure 1. R. Van der Weyden. Details of Le Jugement Dernier (The Last Judgment). Circa 1432. Musée Hôtel-Dieu, Hospices Civils de
+Beaune, Beaune, France (© Hospices de Beaune).
+In the 14th and 15th centuries artists also turned their
+gaze towards the soil in their depiction of agricultural
+practices. In the Très Riches Heures,2 for example, we
+see representations of specific agricultural tasks and
+toils. Here, the soil is depicted with a clear concern of
+realism and technical specificity, including the tilling of
+the soil. Herein is an early artistic and technical representation
+of what agronomists and pedologists describe
+as an agricultural profile. In addition to this example,
+Peter Brueghel the Elder (1525/30–1569) might also be
+cited for The Fall of Icarus (Fig. 2). Icarus is the tiny figure
+at the bottom in the right-hand corner, with only his
+legs visible as he descends into the sea, while in forefront
+of the canvas, attention is centered on the good
+Flemish ploughman tilling furrows. That was the triumph
+of daily working life over Utopia (“falling from
+the sky”). Besides the ploughman serving as a reference
+for agriculture, Brueghel the Elder did not fail to symbolize
+other of the world’s riches – animal husbandry
+in the form of the sheepherder leaning on his staff, and
+the wealth of the sea shown in the form of a busy fisherman.
+It should be also noticed that forked roots are
+included in the agricultural profile – perhaps meant to
+be mandrake.
+2The Très Riches Heures du Duc de Berry, or Très Riches
+Heures, is the most famous example of French Gothic manuscript
+illumination. It is a book of hours: a collection of prayers to be said
+at the canonical hours. It was created between ca. 1412 and 1416 for
+the Duke of Berry by the Limbourg brothers. The “calendar” images
+are vivid representations of peasants performing agricultural work.
+2.2 Abstraction, experience, and inspiration – examples
+from the 20th century
+Our next two examples stem from two very different and opposed
+artistic traditions of the 20th century: European ab-
+stract painting and American regionalism, which favored realistic
+representation over abstraction.
+2.2.1 Grant Wood (USA)
+Art critics such as John Arthur (2000) and Lauren Della
+Monica (2013) have described realism in landscape painting
+as an ongoing tradition in American art, suggesting that
+our understandings and relationships with the land are embedded
+in the American cultural experience, as depicted by
+19th century painters such as Frederic Church and Winslow
+Homer, and later by, for example, Georgia O’Keefe and Alex
+Katz. One of the most well-known proponents of American
+landscape painting was Grant DeVolson Wood (1891–1942).
+He is best known for his paintings depicting the rural American
+Midwest, particularly the painting American Gothic, an
+iconic image of the 20th century (http://en.wikipedia.org/
+wiki/Grant_Wood).
+Arbor Day (1932) is well known to soil scientists
+around the world (see http://www.wikiart.org/en/
+grant-wood/arbor-day-1932).
+Arbor Day (from the Latin arbor, meaning tree) is a holiday
+in which individuals and groups are encouraged to plant
+and care for trees. Years before the creation of the first World
+Soil Day on 5 December 2012, the first Arbor Day, held in
+the state of Nebraska on 10 April 1872, could also be seen
+as a day to celebrate the soil. While the founder of Arbor
+Day, J. Sterling Morton, went on to become the Secretary of
+www.soil-journal.net/1/543/2015/ SOIL, 1, 543–559, 2015
+ 546 C. Feller et al.: Case studies of soil in art
+ 
+Figure 2. P. I. Bruegel. La chute d’Icare (The Fall of Icarus). Circa 1568. Musées Royaux des Beaux-Arts de Belgique, Brussels, Belgium
+(Inv. 4030). Photo: RoScan, J. Geleyns (© Musées Royaux des Beaux-Arts de Belgique, Brussels, Belgium).
+Agriculture of the United States (1893–1897), the connection
+between this American traditional and its agricultural context
+is evident in Grant Wood’s painting, as the schematization of
+soil horizons is equally as prominent as the planting of the
+tree. This contrast between the title and the obvious attention
+to the soilscape below the main subject (the tree planting) is
+interesting to consider. It reminds one of the Brueghel painting
+The Fall of Icarus, discussed above, where the main sub-
+ject was not Icarus, who is quite invisible, but rather a Flemish
+ploughman tilling the soil. In both examples, the soil and
+its horizons provide for a richer visual narrative that links
+cultural tradition and working practices to the soil below.
+2.2.2 Jean Dubuffet (France)
+While painters of genres past used their medium to document
+specific land formations and land use practices (Van
+Breemen, 2010; Zika, 2001; Feller et al., 2010), painters of
+the European Abstract tradition used soil materials more abstractly
+to explore the physical qualities of a given place
+rather than to realistically represent it. This turn towards abstract
+painting must be understood as a backlash against es-
+tablished norms of visual expression dominant in the 19th
+century salons. With regard to the soil, the Texturology series
+of works by the French modernist painter Jean Dubuffet
+(1901–1985) is perhaps the most famous example of what
+art historian Grant Kester (2011) has described as the “turn
+towards abstraction”. At the height of action painting and
+abstract expressionism most notably characterized by artists
+such as Jackson Pollock and Willem de Kooning, Dubuffet
+began using a plastering technique called the “Tyrolean”
+method in the early 1950s to create large-format paintings
+celebrating the complexity of the soil (Alley, 1981).
+Dubuffet discovered he could do splendid paintings using
+the soil from his garden (Fig. 3). About his series
+Topographies or Texturologies or Materiologies, he wrote
+(15 April 1958) to his friend Henri Matisse (Dubuffet, Catalogue
+Gianadda, 1993, p. 104):
+J’entends par là une nouvelle série de ‘tableaux
+d’assemblages’ représentant des morceaux de sols.
+(I mean by that a new series of paintings representing
+an assemblage of pieces of soils.)
+While other painters before 1970 used soil as a material or
+represented soil as a background feature, it was rare for soil
+to be central and presented in and of itself, as with the work
+of Jean Dubuffet. Between 1950 and 1960, Dubuffet’s paintings
+even carried “pedological” titles, such as the following:
+– Terre mon biscuit (Earth, my biscuit). April 1953.
+– Terre orange aux trois hommes (Orange earth with three
+men). May 1953.
+– Histologie du sol (Histology of soil). October 1957.
+– Série Texturologie (Texturology series). 1957–1958.
+– Mécanique du sol Texturologie (Mechanics of soil texturology).
+December 1958.
+SOIL, 1, 543–559, 2015 www.soil-journal.net/1/543/2015/
+ C. Feller et al.: Case studies of soil in art 547
+  
+ 
+Figure 3. Jean Dubuffet with soil (1958) (© Archives Fondation Dubuffet, Paris; photo: Jean Weber and © Fondation Gianadda, Martigny).
+– Topographie honneur au sol (Topography in honor of
+soil). December 1958.
+– Terre mère (Mother Earth). December 1959–May 1960.
+2.2.3 Anselm Kiefer (Germany)
+In addition to works by Joseph Beuys, Hans Haacke, and
+Herman Prigann, Anselm Kiefer (1945–) is one of the most
+prominent German artists of 21st century to directly use and
+depict the soil as an artistic expression of political critique.
+Until recent years, Kiefer lived for part of the year in Barjac
+in the south of France (Gard) in a vast domain of “garrigue”
+(a type of low, soft-leaved scrubland in the Mediterranean
+woodlands) that he transformed into a huge work of art: a
+concrete architectural landscape with buildings and towers
+in ruins, a cathedral of soil and concrete, and a network
+of tunnels that evokes the landscape in the scale of giant
+earthworm galleries giving access to small houses as art
+chapels showing very large paintings or other art works.
+These cultivated landscapes have been created with mixed
+materials including soil, but also with reinforced concrete,
+as in the 2004 giant art work Von den Verlorenen gerührt,
+die der Glaube nicht trug, erwachen die Trommeln im
+Fluss at the Art Gallery of New South Wales (Sydney,
+Australia) (http://www.artgallery.nsw.gov.au/exhibitions/
+new-contemporary-galleries/featured-artists-and-works/
+anselm-kiefer).
+It seems that this artist has developed a special relationship
+with soil: in architecture, with digging the soil in the manner
+of an earthworm; in painting, with the representation of soil
+landscape. Some of these paintings (as in many others by
+Kiefer in various museum and private collections around the
+world) show cultivated fields which could have caught on fire
+– a vision of devastation. It looks dry and bare, but some of
+these paintings exhibit a glimmer of hope as Aperiatur Terra
+et Germinet Salvatorem (Let the earth be opened and send
+forth a savior) (2005–2006). The painting was done with oil,
+acrylic, emulsion, shellac, and clay on canvas with colored
+www.soil-journal.net/1/543/2015/ SOIL, 1, 543–559, 2015
+ 548 C. Feller et al.: Case studies of soil in art 
+ 
+ 
+Figure 4. Anselm Kiefer. Aperiatur Terra et Germinet Salvatorem. 2005–2006. (© Anselm Kiefer, courtesy of the artist.)
+flowers gathered at the bottom evocating the new birth of life
+(Fig. 4).
+2.3 Teaching the soil – a place for painting in the soil
+science curricula
+One of the main objectives of teaching soil science is to convey
+the concept of a three-dimensional, organized natural
+body – the pedosphere. Soil is organized into different layers
+named “horizons”, and the whole of the horizons is the “soil
+profile” (Fig. 5), with a thickness from some centimeters to
+more than 10 m.
+It means that soil is not only “earth” but a “natural body”
+dependent upon different factors, such as climate, topography,
+geology, biology (including human activities), and time.
+Hence, earth as a material (and Earth as a planet) must not
+be equated with soil as an organized natural body. This vision
+of the soil is attributed to the Russian scientist Vasil-
+lii Dokuchaev, who suggested in his 1883 thesis The Russian
+Chernozem that the soil be considered the fourth natu-
+ral kingdom of nature, equivalent to the mineral, animal, and
+vegetable kingdoms.
+Every soil scientist knows how students are astonished and
+fascinated when they discover the soil profile (Hartemink et
+al., 2014). A new world appears for them with this organization
+of multi-colored horizons – a world filled with living
+creatures. For some, the first time seeing a soil profile can
+be an emotional experience. As Hartemink (2014) noted at
+the 20th World Congress of Soil Science, “The soil profile
+speaks to us. . . . The soil profile tells us stories”. Nowadays,
+in modern soil textbooks, soil profiles are shown and described
+with photographs. But the early scientific depictions
+of soil in paintings dated from the beginning of the 20th century,
+either as splendid illustrations in textbooks on soil or
+prepared for educational exhibitions in lecture halls, generally
+as canvases representing different types of soil (Fig. 6).
+The two oil canvases (60× 100 cm) shown in Fig. 6 represent
+soil profiles. These canvases were published as il-
+lustrations in the soil science textbook of Demolon (1952,
+p. 86) and were anonymously displayed in the 1940s for a
+soil science course. In an art exhibition on “the Earth” (2005,
+Uzès, France), C. Feller presented these paintings, without
+any technical explanation. The visitors generally found these
+canvases splendid, and asked if they were painted by an artist.
+Soil scientists who have written about historical farming
+practices, land use, and soil geomorphologic processes have
+often referenced paintings such as those discussed in this
+chapter, as well as others by Jacob and Salomon van Ruysdael,
+Paul Gauguin, Hieronymus Bosch, Peter Brueghel the
+Elder, and Ambrogio Lorenzetti, in their communications
+(Feller et al., 2010; Hartemink, 2009; Jenny, 1968). They use
+artistic examples to make the story of the soil profile come
+alive.
+Other soil scientists – for example Gerd Wessolek and
+Alexandra Toland (Technische Universität Berlin), Ken van
+Rees (University of Saskatchewan), and Jay Stratton Noller
+(Oregon State University), and Folkert Van Oort and Bénédicte
+and Louis-Marie Bresson (INRA, France) – go beyond
+showing famous case studies of paintings to include artistic
+techniques and artistic collaborations in their teaching practices.
+A transdisciplinary confluence of soil science and art is
+achieved by including soil science students in artistic activities,
+and inviting artists to participate in soil science research
+and teaching endeavors.
+Paintings by soil scientists are a way of presenting soil
+scientific concepts in a visual way. Figure 7 explores formal
+aesthetic features (color, texture, structure, composition of
+horizons) to describe soil properties. Such aesthetic features
+are often used in field descriptions for soil mapping but are
+not referred to as such. Capturing the profile in a painting is
+an exercise in aesthetic observation and documentation that
+allows the field scientist or student to capture subtle details
+not possible in tabular, written form.
+Painting techniques are also often used in soil awarenessraising
+activities, such as the “Painting with the colours of
+SOIL, 1, 543–559, 2015 www.soil-journal.net/1/543/2015/
+ C. Feller et al.: Case studies of soil in art 549 
+   
+ 
+ 
+Figure 5. Soil profiles and associated vegetation represented as paintings in Walter Kubiena’s textbook (1953) Bestimmungsbuch und Systematik
+der Böden Europas (The Soils of Europe)
+the earth” program with Irena Racek in Austria (Szlezak,
+2009), the soil painting program at the Museu de Ciências
+da Terra Alexis Dorofeef (Earth Science Museum) in Brazil
+(Muggler, 2013), or the soil painting exercises with Marcela
+Moraga at the Global Soil Week in 2015. Beginning with
+Wessolek’s international “art and soil” calendar in 2004, the
+calendar has become a popular format for displaying soils
+from an aesthetic perspective. Since that time, several soil
+science societies have developed similar calendars as an effort
+to raise soil awareness. These examples aim to encour-
+age a direct physical, personal, and aesthetic experience with
+materials otherwise rarely seen.
+3 Installation
+Installation art provides artists with unlimited media and
+tools with which to explore the soil as social, ecological, and
+political subject. This is not to say that more traditional forms
+such as painting and sculpture are not sufficient to capture
+the complexity of the soil, but that installation introduces
+dimensions of time, space, and sensory experience beyond
+traditional fields of vision. “By inviting the viewer literally
+to enter into the work of art, and by appealing not only to
+the sense of sight but also, on occasion, to those of hearing
+and smell, such works demand the spectator’s active engagement”
+(Grove Art Online, 2009). Rosenthal (2003) catego-
+rized installation art into two main groups – filled-space installation,
+and site-specific installation, to which many exam-
+ples of land art and public outdoor interventions with soil belong.
+We will focus on the “filled-space” type of installation
+art here, and differentiate between two directions: (i) installation
+as an immersive spatial experience that relies heavily
+on architectural design, and (ii) installation as Gesamtkunstwerk,
+3 or an assemblage of multiple forms that symbolically,
+materially, or thematically relate to one another concerning
+the values and functions of soil in society.
+3.1 Immersive experience
+3.1.1 Walter de Maria (USA) and Urs Fischer
+(Switzerland)
+To begin with the first type of installation, installation as immersive
+experience, we can think about the soil in terms of its
+3The term Gesamtkunstwerk was first introduced by the
+philosopher Karl Friedrich Eusebius Trahndorff in an essay
+from 1827 and later popularized by Richard Wagner to describe
+the use of multiple art forms in his operas. Although
+the term has been hotly debated by art history scholars regarding
+works from the Modernist period to the neo-avant-garde
+movements of the 1960s, it may be used to interpret installation
+art as a work of art consisting of many related parts.
+www.soil-journal.net/1/543/2015/ SOIL, 1, 543–559, 2015
+ 550 C. Feller et al.: Case studies of soil in art
+     
+Figure 6. Unknown artist. Paintings of soil profiles used by A. Demolon and colleagues for their lectures in Paris (in the 1940s). Left:
+“Vertisol” from the Centre region (Clermont-Ferrand, France); right: “Luvisol” from the Île-de-France region (Versailles, France) (private
+collection).
+unique spatial qualities. On the one hand, soil is solid ground
+– a dense, stable, immobile field upon which to walk, stand,
+and build. On the other hand, soil is a porous zone in perpetual
+flux – a complex labyrinth of moist pore spaces and
+crevices churning with microscopic life. Regarding the first
+vision of the soil, we can cite two well-known examples from
+New York City: Walter de Maria’s New York Earth Room
+(1977, Fig. 8) and Urs Fischer’s You (2007, Fig. 9). For the
+New York Earth Room, the pioneering land artist, Walter de
+Maria, filled an entire Manhattan loft with soil from a Pennsylvania
+farm, only to be viewed (and smelled) through a
+small doorway blocked off by a Plexiglas window. The installation
+of earth materials completely occupies the viewers’
+experience, bringing the physical, visual awe of land art into
+a familiar, indoor, architectural space.
+By filling a loft space in Manhattan with earth,
+De Maria makes a theatrical use of space. It is the
+space itself, which is being shown, transformed by
+both the quantity and nature of the material. . . . A
+sense of exclusion is experienced by the viewer, as
+the space occupied by the work cannot be entered
+(Kastner and Wallis, 1998).
+Thirty years later and only ten blocks away, Swiss artist
+Urs Fischer “installed” a formal antithesis of de Maria’s
+Earth Room by excavating rather than depositing about the
+same amount of earth from the depths of Gavin Brown’s
+gallery floor and inviting the viewer to actually enter into the
+work of art at his or her own risk.
+Here too, the viewer is overwhelmed by the earth materials
+that challenge the architecture of the exhibition space. The
+solid ground necessary for any architectural venture gives
+way to a new and somewhat ungrounding spatial experience.
+In Earth Room and You, typical conceptions of earth materials,
+such as ploughed fields or excavated pits for construction
+work, are brought indoors to disrupt the viewers’ normal relationship
+to the materials and the space they occupy, calling
+for deeper contemplation of and confrontation with both.
+SOIL, 1, 543–559, 2015 www.soil-journal.net/1/543/2015/
+ C. Feller et al.: Case studies of soil in art 551 
+ 
+ 
+ 
+ 
+Figure 7. G. Wessolek. Soil Aesthetics Criteria. 2007. (Courtesy of the artist.)
+3.1.2 Philip Beesley (Canada)
+Another example of immersive installation soil art explores
+the more porous, labyrinthine qualities of the soil as a spatial
+entity without actually moving a grain. An ongoing re-
+search project by architects Philip Beesley, Rachel Armstrong,
+Hayley Isaacs, Eric Bury, and Jonathan Tyrell, Hy-
+lozoic Soil (Fig. 10) is an interactive environment of tiny
+sensors, “groves of frond-like ‘breathing’ pores, tongues and
+thickets of twitching whiskers” and other mechanized components
+that make up what Beesley envisions as a proto-
+typical model of “immersive architecture and synthetic ecology”
+(Beesley and Armstrong, 2011). With far more potential
+than the massive, inert, singly functioning building material
+it is commonly considered, the soil is seen as a responsive
+framework for myriad encounters and a physical template
+for social and biological evolution. Where de Maria and Fischer
+challenge the viewer’s experience of architecture by in-
+stalling soil within the familiar framework of walls and floors
+in Earth Room and You, Beesley and his partners challenge
+the very idea of architecture by redefining that framework
+of walls and floors as a system of reactive pore spaces that
+imitate the soil.
+Hylozoism refers to the Greek philosophy that life may
+be found in all matter. Hylozoic Soil is a multisensory kinetic
+installation that uses the sculptural metaphor of fer-
+tile soil to bring architecture – usually inert – to life. It simultaneously
+references the microbial aesthetics of mycor-
+rhizal plant–root–fungi interdependence and the metaphysics
+of Graham Cairns-Smith’s controversial clay-life hypothesis.4
+Like the hyper-reactivity of clay particles, the delicately
+responsive structures of Hylozoic Soil are predetermined to
+evolve and change based on human (or other biological) presence.
+A meshed network of movement sensors, air filters, and
+flasks filled with ferrofluids sends feedback signals of light
+and rippling movement triggered by the smallest presence of
+otherness within the system (Beesley and Armstrong, 2011).
+It is this juxtapositioning of life as container and as contained
+that creates tension in Beesley’s work.
+As an installation, or architectural prototype, Hylozoic Soil
+succeeds in momentarily transporting human experience to
+the scale of a springtail, reminiscent of multimedia exhibits
+that magnify the soil microcosm in natural history museums
+and soil educational exhibitions.5 But Beesley and his partners
+have created more than an installation to contemplate the
+4In his controversial book, Seven Clues to the Origin of Life,
+Cairns-Smith (1985) proposed that clays were a proto-organic vehicle
+or template for biological replication.
+5See, for example, soil pore-space-scale models at the Dig It!
+The Secrets of the Soil exhibit at the Smithsonian Institution’s National
+Museum of Natural History, Washington DC; the Unter Wel-
+ten exhibit at the Museum am Schölerberg in Osnabrück, Germany;
+www.soil-journal.net/1/543/2015/ SOIL, 1, 543–559, 2015
+ 552 C. Feller et al.: Case studies of soil in art
+ 
+ 
+ 
+ 
+  Figure 8. Walter de Maria. New York Earth Room. 1977. Long-term installation at 141 Wooster Street, New York City. Photo: John Cliett.
+Courtesy of Dia Art Foundation, New York.
+complexity of the soil. They use the concept of the living soil
+to challenge accepted notions of architecture by focusing on
+the fantastic universe of soil pore systems – the spaces in between
+– rather than the predictable boundaries of cubes and
+spheres that separate life (via traditional architectural structures)
+from the wilderness beyond. Beesley remarks:
+In opposition to design principles of the past century
+that favored optimal equations where maxi-
+mum volume might be enclosed by the minimum
+possible surface, the structures in Hylozoic Ground
+prefer diffuse, deeply reticulated skins (Beesley
+and Armstrong, 2011).
+If we think about the immense surface area of a soil, with
+pore spaces matching aggregates, and sand, silt and clay fractions
+evenly distributed to allow for optimized flow of water,
+air, nutrients, and biota, we approach a new vision of architecture
+where no space is empty and no structure is station-
+ary. A handful of loam becomes the ultimate installation and
+architectural template for life itself.
+and the Unter Unseren Füßen exhibit of the Senckenberg Museum
+of Natural History in Görlitz, Germany.
+3.2 Gesamtkunstwerk
+3.2.1 Claire Pentecost (USA)
+As a term that gained currency in the 1960s to describe a
+“construction or assemblage conceived for a specific interior,
+often for a temporary period, and distinguished from more
+conventional sculpture as a discrete object by its physical
+domination of the entire space” (Grove Art Online, 2009), installation
+art has become a household name in the contempo-
+rary art world. By its nature, installation art can reference and
+appropriate all other visual art forms, cherry-picking different
+styles, media, and techniques to condense meaning into
+three-dimensional spatial experience. Some artists and critics
+have referred to installation art as a development of the
+concept of Gesamtkunstwerk, a total work of art, as it appropriates
+a spectrum of different artistic disciplines brought
+together into one work (de Oliveira et al., 1993). This reading
+of installation art as a total work of art consisting of many related
+parts is exemplified by a further example, Claire Pente-
+cost’s acclaimed contribution to dOCUMENTA 13 in Kassel,
+the Soil-Erg (Fig. 11).
+In the rotunda of the historic Ottoneum, a theater turned
+hospital turned gallery turned natural history museum, Claire
+Pentecost assembled a series of drawings, sculptures, worm
+compost, and appropriated museum pieces that all revolved
+around a central theme – the soil as post-capitalist currency
+and common resource that anyone can create by learning how
+SOIL, 1, 543–559, 2015 www.soil-journal.net/1/543/2015/
+ C. Feller et al.: Case studies of soil in art 553
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 9. Urs Fischer. you. 2007. Excavation in gallery space (Gavin Brown’s Enterprise, New York). Installation view. Collection of The
+Brant Foundation, Greenwich, Connecticut (© Urs Fischer. Courtesy of the artist and Gavin Brown’s Enterprise, New York. Photo: Ellen
+Page Wilson; additional photos at https://www.gavinbrown.biz/artists/urs_fischer/works).
+to compost. As part of this well-researched Gesamtkunstwerk,
+Pentecost participated in a three-month residency pro-
+gram at the University of Kassel’s Faculty of Organic Agricultural
+Sciences, offered workshops at dOCUMENTA 13
+on composting, soil health, and capitalist alternatives to
+land grabbing, and developed a series of pillar-like vertical
+planters in and around the city together with designer and
+philanthropist Ben Friton of the CanYa Love Foundation.
+The installation at the Ottoneum served as the visual centerpiece
+of Soil-Erg, visited by thousands of people over the
+course of the summer.
+Lining the walls of the Ottoneum are oversized soil coins,
+too big and crumbly to fit in anyone’s pockets, and 43 drawings
+in earth-based pigments that reference the graphic style
+of banknotes. The series of soil-erg bills features images of
+historic figures of sustainable agriculture such as Rachel Carson,
+Wangari Maathai, and Vandana Shiva, as well as influ-
+ential ecological artists and writers such as Joseph Beuys and
+www.soil-journal.net/1/543/2015/ SOIL, 1, 543–559, 2015
+ 554 C. Feller et al.: Case studies of soil in art
+ 
+ 
+Figure 10. Philip Beesley et al. Hylozoic Soil. 2007. Installation at the Musée des Beaux Arts, Montreal, Canada, 2007 (© PBAI, courtesy
+of the artist).
+Henry David Thoreau, and a cast of non-human soil workers
+from snails and bees to fungal mycelium and bacteriophagic
+nematodes. The installation proposes a new system of value
+based on living soil. At the center of the room compost made
+from local food waste is symbolically pressed and stacked
+into the shape of gold bars, representing units of a new currency
+– the soil-erg.
+Mounted on another wall of the Ottoneum, like the ghost
+of an affluent fossil fuel past, is the Richelsdorfer Mountain
+Cabinet from 1783, a scale model of Hesse’s geologic
+strata once used for teaching the fundamentals of extraction.
+Next to the historical cabinet appropriated from the
+natural history museum’s collection, a new cabinet squirms
+with worm compost produced in part by the food scraps
+of visiting dOCUMENTA guests, offset by a list of current
+“land-grabbing” deals between sovereign countries in Africa,
+Asia, and South America and multinational agribusiness concerns.6
+If we go back to the sheer gravity of Walter de Maria’s
+Earth Room, we recognize not only a playful approach to
+redefining architectural space but also an underlying intention
+to free art from the commodification and value control
+of the market economy – a reoccurring debate of installation
+art. A pile of earth cannot be as easily auctioned as
+6Pentecost cites the following websites for her list of landgrabbing
+info presented in the Soil-Erg installation: http://
+farmlandgrab.org/ and http://oaklandinstitute.org
+a landscape painting or ceramic bowl. Claire Pentecost extends
+such ideas about the de-commodification of art to the
+soil, using sculpture, drawing, writing, lecturing, collaborative
+engineering, public participation, urban gardening, and
+composting as a Gesamtkunstwerk to not only explore but
+also demand new systems of value for the soil.
+Made of soil and work, the soil-erg both is and
+is not an abstraction. Symbolically, it refers to a
+field of value, but that value is of a special nature:
+soil must be produced and maintained in a context.
+It is completely impractical to circulate it. It is
+heavy, and, because of the loose structure required
+of good soil, it falls apart. . . . The physical nature
+of soil the soil-erg both evokes and denies the possibility
+of coinage. If currency as we know it is the
+ultimate deterritorialization, the soil-erg’s value is
+inherently territorialized (Pentecost, 2012).
+While human societies have long benefited from the goods
+and services of the soil, including food production and
+medicines; materials for pigments, ceramics, and building
+constructions; and materials for religious and spiritual activities,
+the notion of valuing and protecting the soil on account
+of its goods and services is a more recent phenomenon of
+the mid-20th century. With the emergence of emissions trading
+and environmental economic accounts in the early 1990s,
+natural functions have become increasingly instrumentalized
+and institutionalized under the rubric of ecosystems services
+SOIL, 1, 543–559, 2015 www.soil-journal.net/1/543/2015/
+ C. Feller et al.: Case studies of soil in art 555 
+ 
+Figure 11. Claire Pentecost. Soil-Erg. Installation at dOCUMENTA 13 (2012). (© Claire Pentecost, courtesy of the artist, photo Jürgen
+Hess.)
+(Gómez-Baggethun et al., 2010), which is effectively an economic
+approach to understanding and valuing natural func-
+tions as “goods”. The role of the soil is not only to provide
+foods and fibers; its optimal management also considers regulation
+of climate, mitigation of pollution, maintenance of
+biodiversity, etc. But this system of goods and services must
+also be considered in the framework of ethical, spiritual, and
+aesthetic dimensions. By choosing a unit of energy for the
+title of her installation (erg is short for the Greek word for
+work, ergon, and represents the equivalent of 10−7 joules),
+Pentecost places an abstract value on the soil that challenges
+the restrictive vision of soil as provider of goods and services
+that can be monetarily quantified for dominant market
+economies.
+4 Film
+In the visual arts, soil is sometimes “in your face” – it is
+the foreground, the medium, the center of attention, as in the
+works of the above-mentioned artists. In contrast and not unexpectedly,
+this is rarely the case in Hollywood films. Nev-
+ertheless, location scouts and directors clearly recognize that
+soils can form a visually striking element that adds mood
+and texture to the viewing experience. Some filmmakers have
+recognized the human connection to the soil and have used
+it in their storytelling. A few screenwriters and filmmakers
+have gone even further and moved from the typical view of
+soils as a static backdrop on which the action is played out to
+a view of soils as a dynamic ecosystem feature.
+Woman in the Dunes (1964) and Dune (1984), two films
+previously discussed in detail in Landa (2010), focus on not
+only the dynamism of the moving sands but also on the subsurface
+water of the dune as a key ecosystem feature. Soil
+is central to the story of planet Arrakis in Dune, the David
+Lynch film based upon the 1965 novel by Frank Herbert. Indeed
+the “planetary ecologist” who is the hero of the Dune
+saga was based upon an Oregon soil scientist (Landa, 2010).
+A 2013 documentary Jodorowsky’s Dune, on the unsuccessful
+mid-1970s attempt of surrealist director Alejandro Jodor-
+owsky to adapt and film Herbert’s novel, is reviving interest
+in both the Lynch film and in Herbert as a potent force in the
+environmental movement.
+The natural history of the prairie and the abundance derived
+from the soil is exquisitely depicted in Days of Heaven,
+the 1978 film by acclaimed director Terrence Malick. Characterized
+by rich images and sparse dialog,7 this circa 1915
+tale of life on the wheat farms of Texas (actually filmed in
+Alberta and Montana) includes a brief but memorable timelapse
+photography sequence by cinematographer Ken Mid-
+7For soil scientists, an endearing and perhaps unscripted line
+(33:10 to 33:26) in Days of Heaven has a 12-year-old girl,
+played by Linda Manz, musing in voice-over about her future,
+as she studies a clod of soil and lowers her ear to the earth: “I
+could be a mud doctor. . . checking out the earth. . . underneath.”
+www.soil-journal.net/1/543/2015/ SOIL, 1, 543–559, 2015
+ 556 C. Feller et al.: Case studies of soil in art
+dleham.8 The footage (originally shot for the 1979 documentary
+The Secret Life of Plants; Weber, 2007) is accompanied
+by a soundtrack composed and conducted by Ennio Morricone.
+Images of unfurling seedlings and probing roots have
+a special magic for scientists and non-scientists alike – see,
+for example, the 10 January 2014 cover of Science magazine
+showing a lateral root emerging from the main root of
+a young Arabidopsis thaliana plant (http://www.sciencemag.
+org/content/343/6167.cover-expansion).
+Indeed, moving images of elongating roots seem to beg for
+music, a fact not unnoticed by Auburn University plant physiologist
+Elizabeth (“Betty”) L. Klepper and her US Depart-
+ment of Agriculture/Agricultural Research Service colleague
+Morris G. Huck. Their 16 mm film, Time-lapse photography
+of root growth, depicting research at the Auburn rhizotron
+(Fig. 12) where cotton roots in soil were observed through
+glass panels while the plant tops were exposed to field conditions
+(Taylor 1969; Huck et al., 1970), premiered at the 11th
+International Botanical Congress in Seattle in the summer of
+1969.
+The film opens with a classical musical soundtrack
+that appears to be a re-write of Luigi Boccherini’s
+“Celebrated Minuet”9 (https://www.youtube.com/watch?v=
+epJahNtJzss). Klepper wrote the film’s narration that was
+later recorded by a staff member from Auburn University
+Television. He recommended several possible accompanying
+music selections to the research team. Klepper and Huck selected
+one that had a dramatic upturn in the music at a point
+in the edited, final version of the film where a root growing
+down a pane of glass has disappeared behind the soil and
+suddenly reappears (e-mail, E. L. Klepper to E. R. Landa;
+21 April 2014). The film was given new life in 1999 with
+its re-release on DVD by the American Society of Agronomy/Crop
+Science Society of America/Soil Science Soci-
+ety of America, and has been a popular instructional video
+(Kirkham, 2011).
+The works of Klepper/Huck in the scientific sphere, and
+of Middleham in the commercial film world, are early examples
+of the convergence of film with the soil and plant
+sciences. More recently, soil scientist/geo-archaeologist Paul
+Adderley (University of Stirling, Scotland) and composer
+Michael Young (University of London) have collaborated on
+8For an in-depth look at the time-lapse photography of Ken
+Middleham (1927–2001), see Filming the Invisible: The Story
+of Ken Middleham, Cinematographer at http://www.youtube.com/
+watch?v=cDElLm1hfSQ and http://www.youtube.com/watch?v=
+azIXfxqFVQo. Middleham was the natural history cinematographer
+on The Secret Life of Plants (http://www.youtube.com/
+watch?v=sGl4btrsiHk), and the soundtrack to accompany his images
+there was composed and performed by Stevie Wonder.
+9The Boccherini minuet has been used in the soundtrack of a
+considerable number of feature films (http://www.imdb.com/name/
+nm0090530/), including the Coen brothers’ The Ladykillers (2004).
+Exposure: Understanding Living in Extreme Environments
+(http://www.ground-breaking.net/exposure.html), an installation
+that integrates sight and sound across scales ranging
+from the microscopic to the landscape scale and that depicts
+both the physicality of soil and its role as a cultural
+archive of past civilizations (an experimental 12 min video
+from the installation is available at http://soundsrite.uws.edu.
+au/soundsRiteContent/volume4/YoungInfo.html).
+Modern rhizotron facilities, sampling devices adapted
+from engineering and medicine (including borescopes and
+laparoscopic samplers), and advanced, three-dimensional tomographic
+imaging techniques offer new opportunities for
+creative explorations at the interface of science and art, with
+the potential of attracting new collaborators and audiences to
+soil science.
+Ken Middleham’s talents in micro-scale motion picture
+photography were also put to use in the 1974 science fiction
+film Phase IV, where ants become a threat to human civilization.
+Middleham provided the insect photography – which
+has appropriately been described as “creating a sort of animal
+acting verisimilitude that has gone unmatched on film before
+or since” (Gilchrist, 2012). But from a viewer’s perspective
+of the entire film – aptly described as “an ecological parable
+set within the science fiction genre” (Bass and Kirkham,
+2011, p. 257) – soil is primarily featured not in the microphotography
+of ant activity but on the macro-scale, in towering
+geometric obelisks made of soil. Rising from the desert floor,
+they are ominous; the massive and alien occurrence of soil in
+these ant observation towers and in the form of massive solar
+reflectors, combined with the storyline and soundtrack, is a
+highly effective conveyor of threat to the viewer. Having observed
+much smaller, cylindrical, indurated-soil ant nests in
+Oregon (Landa, 1977), this image had particular resonance
+with me – the unfamiliar soil feature in that case provoking
+curiosity.
+The director of Phase IV, Saul Bass (1920–1996), was
+a noted graphic designer whose corporate logos (e.g., the
+United Airlines “flying U” and blue/red/orange stripes) are
+known to all, and whose design of motion picture title sequences
+and advertising posters made him a sought-after tal-
+ent in Hollywood – the directors with whom Bass worked included
+Otto Preminger, Alfred Hitchcock, Stanley Kubrick,
+and Martin Scorsese (who wrote the foreword to the Bass and
+Kirkham book). There is a strong linear character in many of
+the Bass graphics, and this signature style is reflected in the
+imagining and construction of the soil pillars for the only
+feature film that he directed.
+Bass conceptualized and designed all of the earthen manifestations
+of the ant civilization in the film – the tunnels, tow-
+ers, reflectors, and the final chamber (e-mail from J. Bass,
+6 May 2014). The film critic of London’s Sunday Times
+picked up on the linkage of design, imagery, and mood, calling
+Phase IV “a film of design, of unsentimental forces set
+against one another in lines, curves, angles, shining surfaces.
+Beautiful, but always threatening, mysterious, forbidding.”
+SOIL, 1, 543–559, 2015 www.soil-journal.net/1/543/2015/
+ C. Feller et al.: Case studies of soil in art 557
+ 
+ 
+ 
+ 
+Figure 12. Time-lapse photography setup used by Klepper and Huck at the Auburn rhizotron to examine root behavior behind glass panels
+(courtesy of Alabama Agricultural Experiment Station). The camera support could be moved to allow photography of any part of the visible
+root system. The 1/2 in. square grid-wire mesh embedded in the glass panes provided a measuring scale and would reduce shattering if the
+glass broke (from Taylor, 1969).
+(Bass and Kirkham, 2011, p. 258). Although the story is set
+in Arizona, the outdoor filming was done in the Rift Valley
+of Kenya, and Bass had to be careful not to get a giraffe in
+the shot (e-mail from J. Bass, 6 May 2014).
+Bass’ surreal epilogue to the film (cut by Paramount
+Pictures and not on the presently available DVD) was
+screened for the first time in Los Angeles in 2012
+(Gilchrist, 2012). Available at http://www.youtube.com/
+watch?v=beLpsWaUDNk, it is a stunning summation that is
+a must-see to get the unambiguous storyline and to appreciate
+Bass’ artistic vision in its full realization. Marketed by
+Paramount Pictures as a B-horror movie, Phase IV had only
+a small footprint in the US, but was a hit in France (Bass
+and Kirkham, 2011). Hopefully Saul Bass’ pioneering work
+will receive greater attention when scholars and movie buffs
+gather to discuss environmental films, and future audiences
+will get to see the uncut version of Phase IV.
+As soil scientists, our view of soil in films is admittedly
+atypical. A case in point is the 2011 film from director Lech
+Majewski, The Mill and the Cross. A truly unique film inspired
+by a still image – Pieter Bruegel’s 1564 painting The
+Procession to Calvary depicting Christ carrying the cross to
+the crucifixion in a reimagined 16th century Flemish setting
+– it has a scene in which a woman is buried alive. The grave
+has box-like, vertical walls. But even more visually powerful
+than the geometry are the color contrasts and the strong
+horizon boundaries in the soil exposed on the pit walls:
+– a very dark surface which grades to a somewhat lighter
+brown,
+– then a very sharp demarcation to a thick white layer.
+Captivated by the image, my first thoughts were
+– Was that the natural color in the soil pit? If yes, was the
+filming location specifically chosen for this look?
+– Alternatively, were some profile color effects enhanced
+through computer-generated imagery or other methods?
+I had a series of e-mail exchanges with director Lech Majewski
+on these questions (e-mails, L. Majewski to E. R. Landa:
+31 December 2012; 26 February 2014). The scene was shot
+near Katowice, Poland, on an old slag-deposit field. The
+choice of the pit site was just chance – the look of the soil
+had nothing to do with the selection of the filming location;
+rather, the slope was chosen to give a good view of the monks
+in the same shot. The lesson for me was clear – not all depictions
+of soil, even if eye-catching for a soil scientist, are
+conscious acts of filmmaking. But one can dream. . .
+5 Conclusions
+Art is one way of communicating the complex visual, cultural,
+and symbolic dimensions embodied in the soil. We
+www.soil-journal.net/1/543/2015/ SOIL, 1, 543–559, 2015
+ 558 C. Feller et al.: Case studies of soil in art
+have presented a set of case studies taken from three formal
+artistic traditions: painting, installation, and film. While
+some examples are more incidental depictions of the soil,
+others are focused on environmental, social, and political
+questions surrounding soil and land use. Although the examples
+stem from our personal interests in the given genres,
+we come to the following conclusions:
+– Artworks focused on soils and landscapes provide a different
+way of appreciating the soil and could therefore
+be valuable for soil conservation and soil awareness
+raising efforts.
+– Professional soil science societies should encourage interdisciplinary
+collaboration in areas such as soil and
+art, soil and culture, soil and religion, and soil and history.
+– At the same time, the soil science community can offer
+the art world a new analytical lens to examine soil and
+environmental protection issues.
+– Artists expand the realm of soil science research with
+visual, cultural, and symbolic forms of inquiry, offering
+new ways of visualizing, interpreting, and interacting
+with soil.
+In contrast to soil scientific work, artistic work is designed
+to touch our emotions and provoke discussions on environmental,
+social, and political change. Both science and art are
+necessary for raising soil awareness. Only when the soil science
+community is more broadly based will soil protection
+become more relevant for the public at large and for decision
+makers.
+Acknowledgements. For Sect. 4, thanks to Jennifer Bass,
+Stephen Henry (University of Maryland; Michelle Smith Performing
+Arts Library), Pat Kirkham (Bard Graduate Center; Decorative
+Arts, Design History, Material Culture), Betty Klepper (USDAARS,
+retired), Lech Majewski, and Donald Manildi (University
+of Maryland; International Piano Archives) for their generous
+responses to queries.
+Edited by: C. C. Muggler
+References
+Alley, R.: Catalogue of the Tate Gallery’s Collection of Modern Art
+other than Works by British Artists, Tate Gallery and Sotheby
+Parke-Bernet, London, 1981.
+Arthur, J.: Green Woods and Crystal Waters: The American Landscape
+Tradition, Philbrook Museum of Art, Tulsa, OK, 2000.
+Bass, J. and Kirkham, P.: Saul Bass: A life in film & design, Laurence
+King Publishing, London, 2011.
+Beesley, P. and Armstrong, R.: Soil and Protoplasm, The Hylozoic
+Ground Project, Architectural Design, 81, 78–89, 2011.
+Cairns-Smith, A. G.: Seven Clues to the Origin of Life, Cambridge
+University Press, Cambridge, 1985.
+Catalogue Gianadda: Dubuffet, Exposition 4 mars – 10 juin 1993,
+Fondation Pierre Gianadda, Martigny, Suisse, 238 p., 1993.
+Certini, G. and Ugolini, F. C.: An updated, expanded, universal definition
+of soil, Geoderma, 192, 378–379, 2013.
+Della Monica, L.: Painted Landscapes: Contemporary Views, Schiffer
+Publishing, Ltd, Atglen, PA, 2013.
+Demolon, A.: Principes d’Agronomie, Tome 1. Dynamique du Sol,
+5th Edn., Dunod, Paris, 520 pp., 1952.
+De Oliveira, N., Oxley, N., and Petry, M.: On Installation, Art &
+Design Profile, 30, 7–11, 1993.
+Dokuchaev, V. V.: The Russian Chernozem, in: Selected Works of
+V. V. Dokuchaev, Vol. 1, 14–419. Moscow, 1948, Israel Program
+for Scientific Translations Ltd. (for USDA-NSF), edited
+by: Monson, S., Jerusalem, 1967 (Translated from Russian into
+English by N. Kander), 1883.
+Feller, C., Chapuis-Lardy, L., and Ugolini, F.: The representation
+of soil in the Western Art: from Genesis to Pedogenesis, in: Soil
+and Culture, edited by: Landa, E. R. and Feller, C., Springer, Dordrecht,
+Heidelberg, London, New York, Netherlands, Chapter 1,
+3–22, 488 pp. + Color Plates, 2010.
+Gilchrist, T.: Saul Bass’ long-lost original ending for
+“Phase IV” unearthed in Los Angeles, available
+at: http://www.hollywoodreporter.com/heat-vision/
+saul-bass-phase-iv-original-ending-cinefamily-paramount-341449
+(last access: 25 January 2015), 2012.
+Gómez-Baggethun, E., de Groot, R., Lomas, P., and Montes, C.: The
+history of ecosystem services in economic theory and practice:
+From early notions to markets and payment schemes, Ecological
+Economics, 69, 1209–1218, 2010.
+Grove Art Online: Grove Art Online, available at: http:
+//www.oxfordartonline.com/public/book/oao_gao (last access:
+9 September 2012), 2009.
+Hartemink, A. E.: The depiction of soil profiles since the late 1700s,
+Catena, 79, 113–127, 2009.
+Hartemink, A.: On the relation between soils and climate, oral communication
+(12 June 2014) at the 20th World Congress of Soil
+Science, Jeju, Korea, 2014.
+Hartemink, A. E., Balks, M. R., Chen, Z. S., Drohan, P., Field, D.,
+Krasilniko, P., Lowe, D. J., Rabenhorst, M., van Rees, K., Schad,
+P., Schipper, L. A., Sonneveld, M., and Walter, C.: The joy of
+teaching soil science, Geoderma, 217–218, 1–9, 2014.
+Huck, M. G., Klepper, B., and Taylor, H. M.: Diurnal variations in
+root diameter, Plant Physiol., 45, 529–530, 1970.
+Jenny, H.: The image of soil in landscape art, old and new, in: Study
+Week on Organic Matter and Soil Fertility, edited by Pontificiae
+Academiae Scientarium Scripta, Varia 32, North Holland Publ.
+Co and Wiley Interscience Division, Amsterdam, New York,
+947–979, 1968.
+Kastner, J. and Wallis, B.: Land and Environmental Art, NY,
+Phaidon, 1998.
+Kester, G. H.: The One and the Many – Contemporary Collaborative
+Art in a Global Context, Duke University Press, Durham and
+London, 2011.
+Kirkham, M. B.: Elevated carbon dioxide: Impacts on soil and plant
+water relations, Boca Raton, CRC Press, Florida, 2011.
+Kubiena, W. L.: Bestimmungsbuch und Systematik der Boden Europas,
+Ferdinand Enke Verlag, Stuttgart, 392 pp., 1953.
+SOIL, 1, 543–559, 2015 www.soil-journal.net/1/543/2015/
+ C. Feller et al.: Case studies of soil in art 559
+Landa, E. R.: An unusual ant nest morphology for the ant Formica
+fusca Linne in western Oregon, Pan-Pacific Entomologist, 53,
+250–252, 1977.
+Landa, E. R.: In a supporting role: Soil and the cinema, in: Soil
+and Culture, edited by: Landa, E. R. and Feller, C., Dordrecht,
+Springer, 83–105, 2010.
+Landa, E. R. and Feller, C. (Eds): Soil and Culture, Springer, Dordrecht,
+Heidelberg, London, New York, Netherlands, 488 pp. +
+Color Plates, 2010.
+Marijnissen, R. H. and Ruyffelaere, P.: Jérome Bosch, Tout l’œuvre
+peint et dessiné, Fonds Mercator, Albin Michel, Paris, Anvers,
+513 pp., 1987.
+Muggler, C. C.: Soil paints as a tool to increase soil awareness
+among different publics, Geophys. Res. Abstr., EGU2013-
+13986, EGU General Assembly 2013, Vienna, Austria, 2013.
+Pentecost, C.: Notes from the Underground. dOCUMENTA13: 100
+Notes, 100 Thoughts, 61, Hatje Cantz, 2012.
+Rosenthal, M.: Understanding Installation Art – From Duchamp to
+Holzer, Prestel, Munich, Berlin, London, New York, 2003.
+Szlezak, E.: Soilart – Painting with the Colours of the Earth, Project
+description from the Amt der NÖ Landesregierung, Abteilung
+Landentwicklung, available at: http://www.soilart.eu/1-0-Home.
+htm (last access: 20 December 2011), 2009.
+Taylor, H. M.: The rhizotron at Auburn – A plant root observatory
+system, Auburn University, Agricultural Experiment Station Circular,
+171, 1969.
+Thompson Klein, J.: Interdisciplinarity: history, theory, and practice,
+Wayne State University Press, Detroit, MI, 1990.
+Toland, A. and Wessolek G.: Merging horizons – soil science and
+soil art, Chapter 4, 45–66, in: Soil and Culture, edited by: Landa,
+E. R. and Feller, C., Springer, Dordrecht, Heidelberg, London,
+New York, Netherlands, Chapter 4, 45–66, 488 pp. + Color
+Plates, 2010.
+Toland, A. and Wessolek, G.: Picturing soil: aesthetic approaches
+to raising soil awareness in contemporary art, in: The Soil Underfoot.
+Infinite Possibilities for a Finite Resource, edited by:
+Churchman, G. J. and Landa, E. R., CRC Press, Taylor & Francis
+Group, Boca Raton, USA, Chapter 7, 83–102, 421 pp. + Color
+Plates, 2014.
+Ugolini, F.: Soil colors, pigments and clays in paintings, in: Soil and
+Culture, edited by: Landa, E. R. and Feller, C., Springer, Dordrecht,
+Heidelberg, London, New York, Netherlands, Chapter 5,
+pp. 67–82, 488 pp. + Color Plates, 2010.
+Van Breemen, N.: Transcendental aspects of soil in contemporary
+visual arts, in: Soil and Culture, edited by: Landa, E. R. and
+Feller, C., Springer, Dordrecht, Heidelberg, London, New York,
+Netherlands, Chapter 3, 37–46, 488 pp. + Color Plates, 2010.
+Weber, B.: Commentary track (1:01:38–1:02:05) by Billy Weber,
+Criterion Collection (2007) Days of Heaven, DVD, 2007.
+Wessolek, G.: Art and Soil, Newsletter of the Committee on the
+History, Philosophy, and Sociology of Soil Science International
+Union of Soil Science and Council on the History, Philosophy,
+and Sociology of Soil Science, Soil Sci. Soc. Am., 2, 14–16,
+2002.
+Zika, A.: ParTerre – Studien und Materialien zur Kulturgeschichte
+des gestalteten Bodens. PhD Dissertation, Fachbereich 5 der Bergischen
+Universität, Wuppertal, 2001.
+www.soil-journal.net/1/543/2015/ SOIL, 1, 543–559, 2015

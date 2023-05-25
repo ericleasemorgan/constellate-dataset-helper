@@ -1,0 +1,390 @@
+The FASEB Journal • Editorial
+Quorum Sensing on the Airbus Wing:
+Margaret Fuller and Prince Kropotkin
+Scrambling for the exits and carrying the helpless, they perched
+ankle- and then knee-deep atop the wings as an improvised
+armada of tour boats and ferries streamed to their rescue
+. . . witnesses described a scene of level-headed teamwork to
+rescue the weak and infirm.
+—The Washington Post, January 16, 2009 (1)
+We at once see that those animals which acquire habits of
+mutual aid are undoubtedly the fittest . . . we may safely say
+that mutual aid is as much a law of animal life as mutual
+struggle but that, as a factor of evolution it most probably has
+a far greater importance.
+—Prince Pyotr Kropotkin, 1902 (2)
+Bacteria communicate extensively with each other and employ a
+communal approach to facilitate survival in hostile environments.
+—Shadaba Asad and Steven M. Opal, 2008 (3)
+MUTUAL AID AND QUORUM SENSING
+The masterful ditching in the Hudson River on January
+15 of US Airways Flight 1549 and the rescue of all its
+155 passengers provided high drama on a cold winter
+day. That “Miracle on the Hudson” preoccupied national
+television from the start and produced a real-life
+aviation hero, Captain Chesley Sullenberger. It also
+evoked a behavioral response that a century ago was
+called “mutual aid” by Prince Kropotkin (2) and nowadays
+would be described “quorum-sensing” by micro-
+biologists (3).
+Within minutes after the plane alighted safely on the
+frigid Hudson, hatches opened and passengers, guided
+by attendants, emerged in orderly fashion through the
+emergency exits. “Some passengers began to wail, but
+witnesses described a scene of level-headed teamwork
+to rescue the weak and infirm . . . (1)” The Airbus
+remained adrift and partially submerged in the ice-cold
+water. Groups of passengers spread out on both wings
+of the jetliner; then as dry space on the wings gave out,
+a few moved to rafts. Within minutes, the drifting
+Airbus was surrounded by ferry and sightseeing boats,
+then by police vessels, fireboats, tugboats, and Coast
+Guard craft. Their crews tossed life rings and pulled the
+passengers to safety, their prows held the plane in place
+against the current. Helicopters brought wet-suited
+Passengers from Airbus 320 being rescued from the icy Hudson River; New York City, January 15, 2009. Image courtesy Corbis.
+9730892-6638/09/0023-0973 © FASEB
+ police divers, who dropped into the water to help with
+the rescue.
+We’d call that kind of response mutual aid, for sure.
+But, what about that optimal clustering of folk on the
+teetering wing, that biofilm of rescue rigs in the water,
+that bobbing flotilla of vessels securing the plane, the
+airways abuzz with signals of distress and rescue? Why
+that sounds a lot like “quorum sensing” (4) an evolutionary
+strategy used by microbes to effect a “coordi-
+nated population response . . . explaining both cooperation
+and communication (5).”
+LET THEM BE SEA CAPTAINS IF THEY WILL
+Another theme emerged: among the first ferry captains
+to arrive at the scene was Brittany Catanzaro, the 20
+year-old Captain of the New York Waterways Ferry,
+Thomas Kean. It occurred to me that the drama of the
+Airbus on the Hudson was a prima facie argument for
+the equal rights amendment. Brittany Catanzaro and
+her crew plucked 24 passengers from the ditched flight
+to safety. “I’ve been on the water since I was 2 years
+old,” the Captain told The New York Times “I pulled out
+of Pier 79, I looked for any kind of southbound traffic,
+and I saw the plane there . . . It was hard to stay next to
+it, but you practice that by throwing life rings in the
+water and trying to stay alongside them (6).”
+The pioneering American feminist, Margaret Fuller,
+would have been proud. Fuller, who served Horace
+Greely as America’s first female foreign correspondent,
+argued for women’s equality in the moral, social, and
+occupational spheres. Her 1845 work, Woman in the
+Nineteenth Century, anticipated Captain Catanzaro’s feat
+by over a century and a half:
+But if you ask me what offices they may fill, I reply—any.
+I do not care what case you put; let them be sea captains
+if they will. I do not doubt there are women fitted for such
+an office . . . (7)
+Neither would Fuller have doubted the fitness of
+Sheila Dale, Donna Dent, and Doreen Welsh, the three
+veteran flight attendants who safely guided the passengers
+from seat, to hatch, to wing, to shore. Each was
+over 50 years old and retained her job thanks to legal
+action taken by Eulalie Cooper, a flight attendant who
+in the sex-kitten days of the 60’s was fired by Delta Air
+Lines for being married. (8, 9)
+Fuller ranked among our nation’s leading literary
+figures in the ante-bellum period; she had edited The
+Dial with Ralph Waldo Emerson and became a cultural
+critic for the New York Tribune (10). She shared the
+meliorist convictions of the Brooke Farm transcendentalists
+who, half a century before Prince Kropotkin,
+believed that mutual aid was a human obligation:
+With simultaneous vibration the hearts of all their circle
+acknowledged the divine obligation of love and mutual
+aid between human beings. Food, clothing, medicine were
+all offered freely . . . (11)
+In the course of her foreign adventures, she married
+the Marquis Ossoli, an Italian patriot who fought
+Brittany Catanzaro (1989–), captain of the Thomas Kean.
+Image courtesy Associated Press.
+Margaret Fuller (1810–1850), passenger on The Elizabeth.
+Photograph  2009 Museum of Fine Arts, Boston.
+974 Vol. 23 April 2009 WEISSMANNThe FASEB Journal
+ bravely on the barricades for the Roman Republic
+against the royalist-papal armies of France and Austria
+during the Revolution of 1848 –1849. Fuller freed
+herself to work day and night as a volunteer nurse in
+the Tiber Island hospitals. In those bloody field
+stations, as a posthumous account had it, “the
+weather was intensely hot; her health was feeble and
+delicate; the dead and dying were around her in
+every stage of pain (12).”
+Ironically, Fuller died less than five years after her sea
+captain plea, because of the unfitness of a male sea
+captain in waters around New York. On July 19, 1850,
+Margaret Fuller, her husband, and infant son were
+drowned in a shipwreck on her return voyage from the
+Italian wars. An inexperienced first mate had run the
+merchantman Elizabeth aground on a sandbar off Fire
+Island and her body was never recovered. Days later,
+her old friend Henry David Thoreau wandered the
+sands looking for remnants of the Ossolis, but nothing
+had washed ashore (10). If only the Elizabeth had been
+tended to by a sea captain as professional as Brittany
+Catanzaro!
+AN ANARCHIST EDITOR OF NATURE
+Prince Pyotr Kropotkin (1842–1921), who fathered the
+principle of “Mutual Aid”, was no mean feminist himself.
+He had taunted his Czar, Alexander II, who in turn
+had him imprisoned before the prince found refuge in
+England at the end of the century:
+In spite of the open hatred of Alexander II for educated
+women,—when he met in his walks a girl wearing
+spectacles and a round Garibaldian cap, he began to
+tremble, thinking that she must be a nihilist bent on
+shooting at him; in spite of the bitter opposition of the
+state police, who represented every woman student as a
+revolutionist; in spite of the thunders and the vile
+accusations . . . there are now in Russia more than six
+hundred and seventy women practicing as physicians
+(13).
+The Prince, a natural scientist who had served as
+secretary of the Russian Geographical Society, arrived
+in London in 1886 and soon called at the offices of
+Nature, his favorite journal. He was “most cordially
+received” by a sub-editor, Mr. J. Scott Keltie, who was
+looking to increase the journal’s international coverage.
+Kropotkin, working under the exile’s pseudonym
+of Levashóff, showed the approving Keltie a few samples
+of his writing and soon the anarchist prince was
+given a table in the office of Nature and asked to review
+foreign publications and books. The multilingual
+Prince performed these editorial duties flawlessly until
+“One day, however, Mr. Keltie took from the shelves
+several Russian books, asking me to review them for
+Nature. I looked at the books, and, to my embarrassment,
+saw that they were my own works on the ‘Glacial
+Period’ and the ‘Orography of Asia’ (14).
+Kropotkin confessed that he could not comply with
+this request and admitted the works were his own. His
+cover was blown and the prince retired from Nature. He
+went on to edit the British anarchist magazine Freedom,
+the motto of which remains a tribute to his politics—
+and his evolutionary theory: “Anarchists work towards a
+society of mutual aid and voluntary co-operation (15).”
+In his Memoirs of a Revolutionist (1899), the Prince
+complained that the Darwinian struggle for existence
+had been misinterpreted in the biological as well as the
+social realm. He cried that “there is no infamy in
+civilized society, or in the relations of the whites towards
+the so-called lower races that has not been
+excused by the Darwinian ’struggle for existence’ (16).”
+Kropotkin—who would have been thrilled by that
+Airbus on the Hudson—was the first to draw attention
+to “mutualism” in animal behavior, a notion based on
+his field observations in Siberia. For him the rabbit was
+the very model of the social animal; its persistence—
+and capacity for mass production—was an argument
+against the dog-eat-dog world of popular (social) Darwinism.
+The rabbit, he told his friend Ford Madox Ford,
+stood out against the fiercer aspects of selection. Defenseless
+and adapted for nothing in particular, it had
+outlived “the pterodactyl, the Hyrcanian tiger and the
+lion of Numidia (17).” One wonders how he would
+have described those Canada geese that brought down
+the Airbus. He’d probably bet that the Canada goose
+will go on to outlive the Airbus—and Boeing for that
+matter—as it has outlived the Concorde, the Lockheed,
+and the DC 3.
+Prince Pyotr Kropotkin (1846–1921). Image courtesy Corbis.
+975EDITORIAL: QUORUM SENSING ON THE AIRBUS WING
+ Anticipating E. O. Wilson, Kropotkin proposed mutual
+aid as a force in natural selection which ensured
+that group survival need not depend a Hobbesian
+struggle between the weak and the strong. The Prince
+was neither a fan of intelligent design, nor an ecosentimentalist:
+if mutual aid gave a species selective
+advantage, it had nothing to do with “love:”
+It is not love, and not even sympathy (understood in its
+proper sense) which induces a herd of ruminants or of
+horses to form a ring in order to resist an attack of wolves;
+not love which induces wolves to form a pack for hunting;
+not love which induces kittens or lambs to play, or a dozen
+of species of young birds to spend their days together in the
+autumn; and it is neither love nor personal sympathy
+which induces many thousand fallow-deer scattered over
+a territory as large as France to form into a score of
+separate herds, all marching towards a given spot, in
+order to cross there a river. It is a feeling infinitely wider
+than love or personal sympathy—an instinct that has
+been slowly developed among animals and men in the
+course of an extremely long evolution, and which has
+taught animals and men alike the force they can borrow
+from the practice of mutual aid and support, and the joys
+they can find in social life. (18)
+H.W. Bates, the father of behavioral genetics, called
+Kropotkin the truest Darwinist: mutual aid was a law of
+nature on a par with Darwin’s “group selection (16).”
+But in those days before gene and DNA, neither
+Kropotkin nor Darwin had a clue as to the biological
+underpinnings of fitness or natural selection. How
+could generations of wild horses know exactly how
+many of them were needed to form a circle against
+wolves? How exactly did an “extremely long evolution”
+work out the optimum number of Canada geese required
+to fly in almost radar-perfect V-formation (19)?
+Nowadays we turn to molecular and behavioral genetics
+for answers to such questions, some of which will likely
+be based on what we’ve learned of “quorum sensing” in
+microbes.
+THE VIBRIO, THE SQUID, AND THE QUORUM
+“Quorum sensing” was introduced in 1994 by Fuqua et
+al. to explain mutualism between a bioluminescent
+marine bacterium, Vibrio fischeri and the Hawaiian bobtail
+squid, Euprymna scolopes (4). Both benefit from
+cohabitation: the bacteria are nourished by nutrients
+from the squid and the squid gains a unique mating
+advantage from the vibrio. From early in their development,
+the squid take up the vibrios which become
+concentrated in light organs distributed along the body
+of the cephalopod (20). When a sufficient number of
+vibrios accumulate in these organs, the colony senses
+that it’s time to generate light by turning on luciferase
+genes:
+. . . certain bacterial behaviors can be performed efficiently
+only by a sufficiently large population of bacteria.
+We describe this minimum behavioral unit as a quorum
+of bacteria (4).
+Mutualism between vibrio and squid serves to
+generate what J. W. (Woody) Hastings of Harvard
+and the MBL has called “Light to Hide By (21).” The
+bobtail squid perform their habitual mating rituals at
+the ocean surface on moonlit nights, but the downdwelling
+light makes their amorous silhouettes visible
+to predators from below. Microbial luminescence to
+the rescue! As the vibrios set the light organs of the
+squid aglitter, their undersides become invisible
+from below (22). “La mer est le ciel des poissons,” as
+Cocteau had it.
+Vibrios know that there are enough of them to
+light up the sky by means of quorum-sensing, (QS)
+molecules. These were first identified as members of
+an N-acyl homoserine lactone (AHL) family, but
+further studies of both gram-positive and gram-negative
+bacteria found that a vast number of microbes
+secrete a variety of QS molecules. By now, not only
+AHLs, but also 2-alkyl-4(1H)-quinolones (AHQs),
+cyclic di-peptides, autoinducer-2 (AI-2) and small
+modified peptides have been identified as signals of
+microbial mutual aid (23, 24). As might be expected
+in our new RNA world, Bonnie Bassler at Princeton
+has recently shown that a small RNA chaperone
+protein (Hfq), acting with multiple small regulatory
+RNAs (sRNAs) functions as “an ultrasensitive regulatory
+switch that controls the critical transition into
+and out of quorum sensing mode (25).”
+Quorum-sensing molecules launch signaling cascades
+that cross bacterial species, cut across king-
+doms, and can serve both benign and pathogenic
+functions in human disease. Quorum sensing and its
+extension, the formation of biofilms, have been used
+to explain human ailments that range from systemic
+sepsis, to cystic fibrosis, sinusitis, airway infections,
+and even gum disease. Interference with quorum
+sensing is therefore the next logical step on the way
+to new antimicrobials (3, 23). Bassler and Losick
+pointed out that studies of microbial quorum sensing
+have revealed a new world of “long- and short-range
+chemical signaling channels; one-way, two-way, and
+multi-way communication; contact-mediated and
+contact-inhibited signaling; and the use and spread
+of misinformation or, more dramatically, even deadly
+information (25). They could have been describing
+signals that did—and mercifully didn’t—fill the airways
+on January 15 when that Airbus splashed down
+in the Hudson.
+A final note. On February 9, 2009, Mayor
+Bloomberg presented keys to New York City to Captain
+Sullenberger and his crew, who in turn paid
+tribute to all those, including Captain Brittany Cantazaro,
+who plucked crew and passengers from the icy
+Hudson—a story of mutual aid that would have made
+Kropotkin proud. On April 3, 2009, Bonnie Bassler
+was awarded the prestigious Wiley Prize at Rockefeller
+University for her “pioneering investigations
+into quorum sensing, a mechanism that allows bacteria
+to ’talk’ to one another with chemical languages
+976 Vol. 23 April 2009 WEISSMANNThe FASEB Journal
+ (26).” Margaret Fuller would have been proud—not
+only of her sea captain.
+Gerald Weissmann
+Editor-in-Chief
+doi: 10.1096/fj.09-0401ufm
+Margaret Fuller image notes: Southworth and Hawes, American,
+19th Century; After: John Plumbe, American (born in
+Wales), 1809–1857; Margaret Fuller, 1850–55; Photograph,
+daguerreotype; Plate: 10.8  8.3 cm (41⁄4  31⁄4 in.); Museum
+of Fine Arts, Boston; Gift of Edward Southworth Hawes in
+memory of his father Josiah Johnson Hawes, 43.1412.
+REFERENCES
+1. Gellman, B., and Shulman R. (January 16, 2009) All Survive Jet’s
+Splashdown in Hudson River; Airbus Carrying 155 People Apparently
+Hit Geese Minutes After Takeoff From New York. The
+Washington Post p. A01
+2. Kropotkin, P. (1902) Mutual Aid: A Factor of Evolution 1972
+edition: New York University Press, New York. p.13
+3. Asad, S., and Opal, S. M. (2008) Bench to Bedside Review:
+Quorum sensing and the role of cell-to-cell communication
+during invasive bacterial infection. Crit. Care 12, 236 [Epub.
+ahead of print]
+4. Fuqua, W. C., Winans, S. C., and Greenberg, E. P. (1994)
+Quorum sensing in bacteria: the LuxR-LuxI family of cell densityresponsive
+transcriptional regulators. J. Bacteriol. 176, 269–267
+5. Diggle, SP, Gardner, A., West, S. A., and Griffin, A. S. (2007)
+Evolutionary theory of bacterial quorum sensing: when is a signal
+not a signal? Philos. Trans. R. Soc. Lond. B. Biol. Sci. 362, 1241–
+1249
+6. Dwyer, J. (January 17, 2009) Old Hands on the River Didn’t Have
+to Be Told What to Do. The New York Times p. A19
+7. Fuller, M. (1845) Woman in the Nineteenth Century. 1855 edition: J.
+J Jewett, Boston. p. 174
+8. Collins, G. (January 28, 2009) Lilly’s Big Day. The New York Times
+p. A27
+9. Leocha, C. (January 20, 2009) Unsung heroes on the Hudson—
+flight attendants on US Airways 1549. Tripso.com http://www.
+tripso.com/today/unsung-heroes-on-the-hudson-flightattendants-on-us-airways-1549/.
+Accessed February 2009
+10. Wade, M. (1940) Margaret Fuller: Whetstone of Genius. Viking Press,
+New York. p. 139 ff
+11. Fuller, p. 253
+12. Fuller, (1855 edition only) p. 390
+13. Kropotkin, P. (1899) Memoirs of a Revolutionist. Houghton, Mifflin,
+Boston and New York. p. 260
+14. ibid. p. 381
+15. The Freedom Press. http://www.freedompress.org.uk/public/
+news.oml.html. Accessed February 2009
+16. Kropotkin, P. Memoirs, p. 49
+17. Ford, F. M. (1971) Memories and Impressions. In: The Bodley
+Head Ford Madox Ford. Bodley Head, London. Vol. 5, p. 190
+18. Kropotkin, Mutual Aid. p. 4
+19. Williams, T. C., Klonowski, T. J., and Berkeley, P. (1976) Angle of
+Canada Goose flight formation measured by radar. The Auk 93,
+554–559
+20. McFall-Ngai, M. J., and Ruby, E. G. (1991) Symbiont recognition
+and subsequent morphogenesis as early events in an animalbacterial
+mutualism. Science. 254, 1491–1494
+21. Hastings, J. W. (1971) Light to hide by: ventral luminescence to
+camouflage the silhouette. Science 173, 1016–1017
+22. Jones, B. W., and Nishiguchi, M. K. (2004) Counterillumination
+in the Hawaiian bobtail squid, Euprymna scolopes. Marine Biology
+144, 1151–1155
+23. Popat, R., Crusz, S. A., Diggle, S. P. (2008) The social behaviours
+of bacterial pathogens. Brit. Med Bulletin 87, 63–75
+24. Novick R. P., and Geisinger E. (2007) Quorum sensing in
+staphylococci. Annu. Rev. Genet. 42, 541–564
+25. Bassler, B. L., and Losick, R. (2006) Bacterially speaking. Cell 125,
+237–246
+26. MacPherson, K. (February 3, 2009) Bassler wins Wiley Prize in
+Biomedical Sciences. News at Princeton http://www.princeton.
+edu/main/news/archive/S23/37/03S23/index.xml?section
+topstories Accessed February 2009
+The opinions expressed in editorials, essays, letters to the editor, and other articles comprising the Up Front section are those of the authors and
+do not necessarily reflect the opinions of FASEB or its constituent societies. The FASEB Journal welcomes all points of view and many voices.
+We look forward to hearing these in the form of op-ed pieces and/or letters from its readers addressed to journals@faseb.org.
+977EDITORIAL: QUORUM SENSING ON THE AIRBUS WING

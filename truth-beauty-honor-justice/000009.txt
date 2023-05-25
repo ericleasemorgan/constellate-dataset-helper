@@ -1,0 +1,293 @@
+The FASEB Journal • DVD Series Review
+Eric Kandel and Charlie Rose: A Stylish Synapse
+A review of The Brain Series
+(televised on The Charlie Rose Show,
+syndicated by the Public Broadcasting
+System, now available on DVD)
+Thoru Pederson1
+Program in Cell and Developmental Dynamics, Department of Biochemistry
+and Molecular Pharmacology, University of Massachusetts Medical School,
+Worcester, Massachusetts, USA 10605
+In any medium (from the rostrum, in print, or as video),
+presenting science both accurately and engagingly to lay
+audiences is a noble cause. This is so because, when done
+at its best, it can instill in laypersons the same, or at least
+a good dose of, rapture of knowing that we scientists feel
+ourselves as our driving force. It is also noble because such
+forums typically reveal something of the process of science
+(and it is noteworthy that the word’s Latin root is not
+“knowledge”, as often stated, but the present participle,
+i.e., the process of knowing). And a third reason such
+presentations are such high form is that they typically are
+a chance for a lay audience to hear or read a true master
+of the subject, for that is what it takes to do this when it is
+done best. Many of the recipients of the Public Welfare
+Medal of the U.S. National Academy of Sciences over the
+years were chosen on the basis of their commitment and
+skill in conveying science to general audiences.
+Of course, this art has been attempted by many well
+intentioned scientists, and on rare occasions has been
+achieved with a level of brilliance that will shine for all
+recorded time. In the 19th century, Thomas Huxley and
+Louis Pasteur were among those biologists whose influence
+with lay audiences was equal to (and sometimes
+greater than) their suasion with peers. The pantheon in
+our times was defined by Richard Feynman (physics),
+Lewis Thomas (biology and medicine), Stephen Jay
+Gould (evolution) and Carl Sagan (the cosmos). I would
+put Loren Eiseley (anthropology) on a second tier only
+because his writings were typified by an evident sadness
+and depressive persona, from which he in fact suffered.
+His encounter with a fox however is as haunting a piece of
+science writing as there is and many lay persons know
+Eiseley best, or only, by that essay.
+Charlie Rose is widely admired as a supremely articulate
+television host who consistently manages not only to get
+interesting guests but is able to evoke a great deal from
+them. One reason is that he is always well prepared;
+another is that he is congenial. I watch his show all the
+time and often think he talks too much. But I admire him
+nonetheless because his show is consistently engaging and
+illuminating. When the Cold Spring Harbor Laboratory
+held its celebration of the 50th anniversary of the double
+helix at an upscale Manhattan venue, they chose Charlie
+Rose as moderator. Wisely done.
+Around 2007 or so, The Charlie Rose Show got the idea
+to do a series on the brain. PBS had run many shows on
+the brain or mind (we’ll get back to whether or not they
+are the same) in its NOVA series, and on Scientific
+American Frontiers, featuring Alan Alda (who brought
+viewers into neuroscience labs and asked good questions,
+endearing him to many viewers, myself in-
+cluded.) The Charlie Rose Show series on the brain
+launched on October 29, 2009; the topics and panelists
+arte listed in Table 1. To be sure, given the amount of
+air time envisioned, the topic was going to be tackled in
+considerable breadth and depth, a formidable challenge
+and distinct from the aforementioned NOVA and
+Scientific American Frontiers shows which, while all
+well done, were topically more focused, discrete
+quanta. Charlie Rose and his producers had lined up a
+secret weapon, and it made all the difference.
+But first, let’s pause for a moment and consider how
+one would do this altogether. Would one start with
+neuroanatomy (in which the amygdala seems to never be
+omitted in any presentation) or maybe, at the other pole,
+the history of the mind and consciousness as abstract vs.
+empirical concepts? Would one take a disease or trauma
+approach (the latter so much now in the America’s
+1 Correspondence: Program in Cell and Developmental Dynamics,
+Department of Biochemistry and Molecular Pharmacol-
+ogy, University of Massachusetts Medical School, Worcester, MA
+01605, USA. E-mail: thoru.pederson@umassmed.edu
+doi: 10.1096/fj.11-0503ufm
+1438 0892-6638/11/0025-1438 © FASEB
+ consciousness, no pun intended, with our hopes for
+Gabrielle Giffords and concussed football players)?
+Would one try to explain the Nernst equation and why the
+membrane resting potential changes by 59 millivolts for
+every 10-fold change in the extracellular potassium ion
+concentration? Or how a neurotransmitter evokes a postsynaptic
+calcium release? Or even more esoteric questions
+such as why many neurotransmitters are, or are close
+relatives of, amino acids? A series on the brain of the scale
+The Charlie Rose Show was pondering would also need to
+decide on how to balance coverage of the known (we can
+agree this is a lot, post-Vesalius, post-Broca) vs. the unknown
+(also a lot, maybe exceeding what we know, as I
+and many others suspect). And a second question: would
+the focus best be on how key discoveries have been made;
+or should it be instead on what we know (forget how we
+found out) and maybe aim for a look to the future? Third,
+how should such a series balance aspects of the brain
+which are part of the established science called neurobiology
+vs. those that are deemed by some as “softer,” such
+as cognition and mood? (Happily, these emergent and
+other properties of the mind have increasing degrees of
+observational and experimental science behind our current
+understanding of them, a fact the series powerfully
+brought out.) And finally, who would be chosen to sit
+down with Charlie Rose and address the brain, given
+legitimate and illegitimate disputes that exist in neuroscience,
+psychiatry and psychology, including over-the-top
+careerists or bio-political, axe-grinding personalities that
+could doom such a well-intentioned series of broadcasts?
+What does one do to solve all these challenges? One
+does what certain communities did/do in some times and
+some places when there was/is a problem. One consults
+the rabbi. In neuroscience, in our time, there is only one.
+As we shall discuss, the series was a great success and much
+credit goes to writers and the platinum quality of panelists.
+But writers and panelists, however skilled, could not have
+made the show the success it was without a focal intellectual
+sparkplug and expository tour guide. This reb, this
+teacher, was Eric Kandel.
+Watching each show in the series, and now looking at
+them again as I did before writing this review, what one sees
+is not merely Kandel’s breadth and depth of knowledge.
+Many neuroscientists know as much. What is more striking is
+the integrative power of his mind on the one hand, and his
+extraordinary ability to detect, with impressive hypersensitivity,
+just the phrase or metaphor that a lay person would need
+to get a concept. In each program, Charlie Rose starts off
+with an extremely well scripted introduction and then introduces
+Kandel. In early shows Rose tags him “our distin-
+guished guest” and later Kandel becomes “our good friend.”
+All this comes across as a very natural evolution and indeed
+it seems likely that the two of them indeed struck a good
+friendship during production of the series.
+In each program, once Rose has finished with an engaging
+hook, Kandel presents a more nuanced synopsis of the
+show to come. If one were to take each of his intros and run
+them together in a DVD, without the subsequent panelists, I
+think most any viewer of that spliced piece would become an
+instant addict and pay/give a lot to see the full shows
+themselves. That is how skillfully Kandel sets up each segment.
+It is to be emphasized that, as mentioned at the
+outset, explaining to a general audience why a particular
+area of science is interesting employs a different part of
+the brain than just reciting the facts (and thus this art is
+itself a neuroscience phenomenon, including the question
+of why some Nobelists can do it and others, with that
+same Stockholm stardust on their shoulders, cannot).
+Viewed from 30,000 feet, the series does not get into the
+mechanics of neuroscience (anent some of the hypothetical
+questions posited earlier in this review). The Nernst equation
+and such things were not the stuff of this show’s didactic
+design. I would have not done otherwise and applaud the
+relative lack of core neurobiology. The major topics (Table
+1) had panelists who were accomplished, erudite, and articulate,
+with almost no exceptions. The program on neurode-
+generative disease had one panelist who was allowed much
+more time than the others, to a dispiriting degree in my view,
+and there are other small complaints one could register here
+and there. But the overwhelming integral is success in both
+topical breadth and the evocative power of the panelists. The
+program on mental illness was the most engaging to me, not
+only because I have a schizophrenic son, but also because the
+story of one of this show’s panelists is so remarkable. For
+decades, the universally accepted outcome standard in
+schizophrenia was “one third improve, one third do not, and
+the other third kill themselves.” Like all “exceptions to the
+rule” in mental illness, this segment of the series teaches us
+TABLE 1. Topics and Panelists
+Topics Panelists
+Introduction Cornelia Bargmann, Gerald Fischbach, Tony Movshon, John Searle
+Vision Edward Adelson, Nancy Kanwisher, Tony Movshon, Pawan Sinha
+The Acting Brain Robert Brown, Tom Jessell, John Krakauer, Daniel Wolpert,
+The Social Brain Cornelia Bargmann, Gerald Fischbach Kevin Pelphrey, Giacomo Rizzolatti
+The Developing Brain Patricia Kuhl, Elizabeth Spelke, Stephen Warren, Huda Zoghbi
+The Aging Brain John Hardy, Brenda Milner, Scott Small, Larry Squire
+The Emotional Brain Eric Nestler, Daniel Salzman, Wolfram Schultz, Nora Volkow
+The Anxious Brain David Anderson, Antonio Damasio, Joseph LeDoux, Kerry Ressler
+The Mentally Ill Brain Kay Redfield Jamison, Jeffrey Lieberman, Helen Mayberg, Elyn Saks, Stephen Warren
+The Disordered Brain Nancy Bonini, Mahlon DeLong, John Donoghue, John Krakauer
+The Deciding Brain Ray Dolan, Joshua Greene, Tony Movshon, William Newsome
+The Creative Brain Chuck Close, Richard Serra, Oliver Sacks, Ann Temkin
+1439BOOK REVIEW: THE BRAIN SERIES
+ that there is much we do not know. This panelist’s presence
+in the series is surely one of the most remarkable expositions
+of psychosis and a recovery from it ever recorded.
+A friend of mine was for some years on the Karolinska
+Institute committee that decides on the Nobel Prize in
+Physiology or Medicine. One year when I was in Stockholm
+as the external examiner of his Ph.D. student, he asked me
+about my predictions that year. A few weeks later, it was
+announced that the prize was going to the pioneers of MRI.
+He asked me if I had been thinking about that possibility and
+I replied no. He said “Thoru, that’s my point. You and your
+colleagues are usually thinking in a narrow range but we
+have to consider everything under the sun in all of Medicine
+and Physiology.” Of course, MRI was a wonderful and fully
+deserved choice. Functional MRI was another highlight in
+the Charlie Rose series and I thought this program especially
+hybridized the discovery, basic neuroscience, and applied
+dimensions. Someday I suppose we might have a database of
+the fMRI readouts of people listening to Mendelsohn vs.
+Schumann vs. Wagner, and of those who want to write essays
+about these composers vs. others who sit quietly and love/
+hate one or more of them but cannot bring themselves to
+preach why. Such “fMRI-ology” might someday help to
+identify darker aspects of the human condition. This was
+among the best of the consistently engaging programs in the
+series.
+A recent visit to the MIT Museum with a grandson
+brought us into confluence with new exhibits around
+the 150th anniversary of that great institution. But we
+had to once again go back and look at a permanent
+exhibit, in which a panel of faces all look the same
+viewed up close, and yet devolve into discrete famous
+people as one steps back 20 paces. This popular exhibit
+is based on work by a MIT neuroscience team who are
+looking at how we perceive shapes and cues at different
+ranges. The experience of visiting this exhibit leaves no
+doubt that there are, to quote Shakespeare (from
+Hamlet): “There are more things in heaven and earth,
+Horatio, than are dreamt of in your philosophy.” The
+Charlie Rose program on perception in this series will
+likely never be excelled for its expository power. The
+panelists were perfectly chosen as to their medical and
+scientific angles and one of them has even experienced
+an encounter with the subtleties of visual perception
+from his own ophthalmological pathology, having brilliantly
+written on the subject of neurology for decades.
+Overall, this sweeping series on the brain will long stand as
+sui generis. Completing this review I got to wondering if the
+Kandel-Rose series were a book, how would it compete with
+ones already on our shelves? So I walked around my study
+and pulled down several books that are, or bear on, neuroscience.
+They included: Girl Interrupted by Susanna Kaysen;
+Henry David Thoreau: Cycles and Psyche by Michael Sperber;
+The Noonday Demon by Andrew Solomon; A Beautiful Mind by
+Sylvia Nasar; Wherever You Go There You Are by Jon Kabat-Zinn;
+An Anthropologist on Mars by Oliver Sacks; The Phenomenon of
+Man by Teilhard de Chardin; The Origin of Consciousness in the
+Breakdown of the Bicameral Mind by Julian Jaynes; Cybernetics by
+Norbert Weiner; Creating Mind by John Dowling; Controlling
+Life: Jacques Loeb and the Engineering Ideal in Biology by Philip J.
+Pauly; On Human Nature by E. O. Wilson; The Astonishing
+Hypothesis by Francis Crick; The Healing Hand by Guido
+Majno; Biophysical Science- A Study Program, edited by J.L.
+Oncley et al.; and Principles of Neural Science by Eric R. Kandel
+and James H. Schwartz. This may seem a curious collection
+in the home study of a cell biologist who works on RNA and
+has never dabbled in neurobiology beyond lab courses as a
+student, looking at crayfish inhibitory fiber firing among
+other wonderful things under the sun in a field that I almost
+chose. But to the point of the rhetorical question raised now,
+I looked again at each of these books and asked if any one of
+them was as coherent a body of engagement as the Charlie
+Rose series. Some are very creative (Sperber and Crick),
+others are powerful stories of survival (Kaysen, Solomon, and
+Nasar), one is erudition honed in rarely matched form
+(Majno), another is a moving philosophical tract that approaches
+the shores of the mind (de Chardin), others are an
+accurate look at the future when they were published (Oncley
+et al. and Weiner), one was a new view (Wilson), another
+is spellbinding history (Pauly), one is a powerful treatise on
+controlling emotion (Kabat-Zinn), two are sterling expository
+presentations (Sacks and Dowling), and one is in my
+opinion a woefully misdirected hypothesis (Jaynes). Another,
+and its successive editions (Kandel and Schwartz), is a
+text that has never been surpassed. While I enjoyed reminiscing
+how I had first encountered these books over my
+career, and feeling a surge of intellectual loyalty and fondness
+for their presence my library (not withstanding Jaynes),
+as I looked at them again and pondered their epistemological
+timing and didactic power, I decided that the series Eric
+Kandel and Charlie Rose produced would, if rendered as a
+book, stand above them all if judged by the criterion of
+addressing a lay audience, or even a non-neurobiologist
+scientist like me.
+By now, dear reader, you have surely gotten the reviewer’s
+message: buy, borrow or steal* this DVD set.
+*I will post bail.
+Tribute: In writing this review I was reminded of all that Jimmy
+Schwartz (1932–2006) did for the field of neuroscience, and of
+our many stimulating encounters during Woods Hole summers
+over the years. His memory courses all throughout this review.
+The opinions expressed in editorials, essays, letters to the editor, and other articles comprising the Up Front section are those of the authors and
+do not necessarily reflect the opinions of FASEB or its constituent societies. The FASEB Journal welcomes all points of view and many voices.
+We look forward to hearing these in the form of op-ed pieces and/or letters from its readers addressed to journals@faseb.org.
+1440 Vol. 25 May 2011
+The FASEB Journal  www.fasebj.org

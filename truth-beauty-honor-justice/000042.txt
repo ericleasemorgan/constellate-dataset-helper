@@ -1,0 +1,1120 @@
+Banal and Magnificent Space in Electra Glide in
+Blue (1973), or An Allegory of the Nixon Era
+by Mark Shiel
+Abstract: Emphasizing the political meanings of cinematic space, this essay
+examines the representation of the American West in the unjustly neglected road
+movie Electra Glide in Blue (1973) for its telling allegory of the social divisions of
+the Nixon era and the temporary infiltration of Hollywood cinema by the 1960s
+counterculture.
+Cinematic Space in the Sixties. In the United States in the 1960s social and
+political discourse were dramatically polarized between bitterly opposed conceptions
+of America as a distinctive natural and social space. Key genres in classical
+Hollywood cinema—comedy, musicals, and westerns—had in previous decades
+articulated the capitalist-utilitarian conception of urban and rural space that dominated
+in the twentieth century United States, proliferating in films from Safety
+Last (Fred C. Newmeyer and Sam Taylor, 1923) to Funny Face (Stanley Donen,
+1956) and from Stagecoach (John Ford, 1939) to How the West Was Won (Ford,
+Henry Hathaway, et al., 1962). In such films, the modern American city was signified
+by skyscrapers, neon lights, movie palaces, and crowded boulevards. It was an
+exciting, physically abundant space in which the natural ambition of the individual
+for modest material achievement and romantic love was bound to be fulfilled.
+Rural spaces of the American West from the Rio Grande to the plains of Wyoming
+were presented as a vast and bountiful garden to be exploited by righteous believers
+in a benevolent God. However, during the 1960s, a time of fundamental trans-
+formation for the classical Hollywood studio system, alternative conceptions of
+space came to the fore in American society, which posed a challenge to the dominant
+capitalist-utilitarian conception of America as space and to the types of
+motion pictures that Hollywood had traditionally made.
+Fostered by the activism of the New Left, Black Power, and the hippie
+counterculture, these alternative conceptions of space sought to undermine the
+corporate-governmental power structure of the United States. As alternative, or
+resistant, conceptions of space, they surfaced primarily in forms or genres that
+went against the grain of classical Hollywood and that in time contributed to 
+its downfall—for example, in the antipastoral imagery of rural Pennsylvania of
+George Romero’s Night of the Living Dead (1968), a horror film allegory of
+Cinema Journal 46, No. 2, Winter 2007 91
+Mark Shiel is lecturer in Film Studies at King’s College London. His books include the
+monograph Italian Neorealism: Rebuilding the Cinematic City (Wallflower Press, 2006) and
+the edited volumes Screening the City (Verso, 2003) and Cinema and the City (Blackwell,
+2001). He is currently working on a new monograph for Reaktion Books entitled The Real
+Los Angeles: Hollywood, Cinema, and the City of Angels.
+© 2007 by the University of Texas Press, P.O. Box 7819, Austin, TX 78713-7819
+Shiel.qxp  2/16/07  10:42 AM  Page 91
+ contemporary race conflict and the war in Vietnam. In this contentious environment,
+the New Left and Black Power were informed by a conception of space
+that prioritized engagement with the city as a place of confrontation and political
+praxis, but which was almost entirely excluded from Hollywood cinema in the
+1960s—with occasional exceptions such as Haskell Wexler’s Medium Cool (1969)
+or Michelangelo Antonioni’s Zabriskie Point (1969)—and which was to be found
+instead, as David James has explained in Allegories of Cinema, in underground
+political films such as the work of the Newsreel collectives.1 The conception of
+space underpinning the hippie counterculture, on the other hand, achieved a far
+greater prominence in Hollywood cinema, but not in terms of political direct
+action as much as anticapitalist escape, individualistic lifestyle experimentation,
+and ecological awareness. It amounted to a rejection of the city in favor of the
+country, focusing on the rural American West as a countercultural heterotopic
+space par excellence, achieving its clearest expression in the road movie that
+earned a new level of industrial, formal, and thematic importance within American
+cinema as a whole.
+It is now the stuff of legend that Dennis Hopper’s Easy Rider, filmed in 1968
+and released in 1969, forced a new recognition by Hollywood of countercultural
+rebellion as a social phenomenon and cultural theme. Spatially speaking, the film’s
+production exemplified the increasing tendency in late 1960s cinema towards
+direct filming on location and independent production away from the established
+institutions of Hollywood. Thematically and stylistically, the film exemplified the
+assertive countercultural conception of space of the day, rejecting inhuman modernization
+and rationalistic capitalism, focusing on the countryside and the wilder-
+ness, taking a phenomenological pleasure in the sheer fact of motion itself, and
+mapping a new human society, by means of a rejuvenated pastoral form and
+iconography.2 The strongest feature of this mapping was the film’s transcontinental,
+linear narrative running from west to east across the United States and split-
+ting the country into two distinct geographical regions, each with its own moral
+and political signification. As the two hippie protagonists, Wyatt and Billy (Peter
+Fonda and Dennis Hopper), traveled from Southern California through Arizona
+and New Mexico to Texas in the first half of the film, the difficulties posed by hippie
+society’s idealist disengagement were suggested in the film’s portrait of a
+struggling hippie commune. The overwhelming beauty of the landscape and the
+opportunity for self-fulfillment the commune stood for supported an extended
+vision of utopian pastoral escape that was at once invigorating and defiant. This
+vision was eventually overturned by the altogether more sinister beauty and
+dystopian connotations of the Deep South, specifically Louisiana, where Wyatt
+and Billy met violent deaths at the hands of bigoted rednecks. Their deaths appeared
+as a powerful condemnation of the moral corruption of “straight” America
+and an affirmation of the righteousness of countercultural escape.
+When it was released in the spring of 1969, Easy Rider was acclaimed for its
+unflinching anticipation of a future of seemingly perpetual and ever-intensifying
+92 Cinema Journal 46, No. 2, Winter 2007
+Shiel.qxp  2/16/07  10:42 AM  Page 92
+ violent social conflict in America. Penelope Gilliatt, writing in the New Yorker,
+described the film as “ninety-four minutes of what it is like to swing, to watch, to
+be fond, to hold opinions, and to get killed in America at this moment.”3 As such,
+Easy Rider’s thematizing of countercultural escape within the contested rural
+spaces of the continental United States acknowledged the key social and political
+conditions of the day. These included the intensification of the Vietnam War and
+its generation of a broad-based popular movement of antiwar resistance led by the
+New Left, the eclipse of the liberal race politics of the Civil Rights era by the
+increasingly assertive left-leaning politics of Black Power, and the deepening skepticism,
+if not hostility, of many American youth towards the spiritual emptiness and
+moral corruption of consumer capitalism and conventional party politics, epitomized
+by the presidencies of Lyndon B. Johnson and, from the beginning of 1969,
+Richard M. Nixon. The cataclysmic deaths of the protagonists in Easy Rider not only
+echoed the very recent real-life assassinations that cut short the lives of many of
+the nation’s most inspiring leaders (President John F. Kennedy, Malcolm X, Martin
+Luther King, and Robert Kennedy), but crystallized the intense disgust and defiance
+of the counterculture with the social, political, and moral status quo of the day.
+This disgust and defiance intensified and mutated in the early years of the
+1970s. As Fredric Jameson has convincingly argued, the Sixties ended not with the
+official beginning of the new decade but later, in 1973 or 1974, as the United States
+withdrew from Vietnam, the so-called Silent Majority of conservative Americans
+backing President Nixon consolidated into the New Right, leftist activism and the
+counterculture went into decline, and the U.S. and global economy slipped inexorably
+into recession.4 These conditions would become apparent in a subtle and
+gradual change of tone in American cinema in the early to mid 1970s. Horror films
+such as Brian De Palma’s Sisters (1973) continued that genre’s distinctive subversion
+of social order, but the defiant and assertive escapism of the counterculture
+was increasingly supplanted by a tone of resignation and reconciliation in a range
+of films from George Lucas’s teenage melodrama American Graffiti (1973) and
+Francis Ford Coppola’s conspiracy thriller The Conversation (1974) to Hal Ashby’s
+romantic comedy Shampoo (1975). This change of tone was even evident in the
+road movie, that genre which had been most firmly stamped with countercultural
+credentials. The escapism that had underpinned Easy Rider and other biker
+movies in the late 1960s continued in the early years of the following decade in
+Two-Lane Blacktop (Monte Hellman, 1971), Vanishing Point (Richard C.
+Sarafian, 1971), and The Getaway (Sam Peckinpah, 1972), but it was compromised
+by an increasing mood of reflection and regret already evident in Five Easy
+Pieces (Bob Rafelson, 1971) and The Last Detail (Hal Ashby, 1972), and intensified
+in Thunderbolt and Lightfoot (Michael Cimino, 1974) and Electra Glide in
+Blue (James William Guercio, 1973). In the latter two films in particular, the violent
+deaths of the protagonists appeared not as a sign of revolutionary countercul-
+tural defiance in the face of an unjust America, as it had done in Easy Rider, but
+as the tragic outcome of needless social conflict in a fundamentally good society.
+Cinema Journal 46, No. 2, Winter 2007 93
+Shiel.qxp  2/16/07  10:42 AM  Page 93
+ “The flip-side of Easy Rider.” This is nowhere clearer than in Electra Glide in
+Blue (1973), a film that has received remarkably little critical attention despite its
+thematic complexity and stylistic sophistication. As I will argue in the following
+pages, the film wearily acknowledges the intensification of social conflict that
+marked the Nixon years while introducing a renewed interest in social reconciliation
+and the mediation of conflict that anticipates the era of post-Vietnam recon-
+struction (which was nowhere to be seen in Easy Rider). Electra Glide in Blue
+revolves around the figure of John Wintergreen (Robert Blake), a motorcycle
+highway patrol officer in rural Arizona for whom a murder case offers an opportunity
+for promotion from the humdrum life of the beat to the cherished status of
+detective.
+As I will demonstrate, the film’s thematic preoccupations are articulated
+through significant uses of cinematic space and, in particular, through a reconfiguration
+of the spatial geometry that underpinned Easy Rider’s countercultural
+defiance. Indeed, according to the film’s writer and executive producer, Rupert
+Hitzig, the film was conceived in large part as “the flip-side of Easy Rider.”5 It
+implicitly relied, in a positive sense, on the model of the earlier film for much of
+its meaning and emotive power, interrogating self-consciously and often with a
+hint of irony not only the brutality and corruption of straight America, but also the
+countercultural escapism of which Easy Rider was seen as the most powerful
+expression by American cinema audiences of the era.
+Moving away from motifs of escape towards motifs of resignation, Electra
+Glide in Blue recharacterizes the gigantic, horizontal geometry of the American
+West characteristic of Easy Rider as little more than a flat plane upon which characters
+find themselves constantly restricted rather than liberated. Placing
+Monument Valley at the center of its mise en scène, Electra Glide in Blue conveys
+a compound form of what film historian Robert B. Ray has described as the sense
+of “lateness” in much 1970s American cinema, recognizing the obsolescence of the
+nostalgic freedom and moralism of the Old West but adding to this another more
+fatalistic recognition of the obsolescence of countercultural dissent at the end of
+the Nixon era.6 This recognition of an emerging post-Sixties environment is
+inscribed in motifs of restriction, mortality, and the inevitable passing of time, a
+recognition of the “brick wall” of economic recession, and of the social polarization
+of straight America and the counterculture as the new and perpetually
+destructive default organization of society.
+Electra Glide in Blue relies throughout on a striking contrast between indoor,
+enclosed, private spaces and outdoor, exposed, public spaces. Indoor sequences
+are typically shot in tightly composed close-ups. In counterpoint we find dramatic
+cuts to and from the exteriority and expansiveness of Monument Valley, filmed
+in Panavision. Indoors, the camera typically pans or tracks slowly, concentrating on
+the details of walls, surfaces, objects, and human faces. In the opening scene, for
+example, we witness the suicide/murder of Frank—an old hobo who lives in a
+shack in the desert—which serves as the pretext for the subsequent detective nar94
+Cinema Journal 46, No. 2, Winter 2007
+Shiel.qxp  2/16/07  10:42 AM  Page 94
+ rative. The interior of the shack and its occupant are filmed without any establishing
+shot and only in extreme close-ups in which we never see Frank in full figure.
+Instead, in close-up we see a set of false teeth, a hand, a frying pan, an old gramophone,
+and a shotgun. This disarticulated sequence is then followed by a dramat-
+ic cut to Monument Valley in which the space is presented as a coherent whole of
+vast dimensions. The natural stillness and silence of Monument Valley are subsequently
+violated by a speeding psychedelic VW van that shoots in from the hori-
+zon and off to the left, rudely puncturing the timelessness of wilderness space with
+a reminder of the modern (figure 1).
+Next, the action turns to the motorcycle cop Wintergreen’s apartment. Again
+the camera stops presenting a simple establishing shot of the interior and proceeds
+instead to pan slowly along the walls of the apartment in close-up—
+pictures on the wall, a gun and holster hanging in the kitchen—and then to film
+Wintergreen’s preparations for the day ahead with a series of close-ups of isolated
+actions—Wintergreen lifting weights, breaking eggs for breakfast, and popping
+vitamin pills. To the accompaniment of the opening credits and soundtrack, each
+simple movement becomes a miniature set piece: Wintergreen puts on his jacket
+and his belt, then grabs his keys, baton, gun, and helmet—each action punctuated
+by a momentary freeze-frame and complemented by the stop-and-go rhythm
+of the music. Only after several minutes, as he is fully dressed and ready to go on
+morning parade, do we get the first full shot of Wintergreen in his uniform, but
+even then the shot is not a simple establishing shot but a double exposure in which
+an interior shot becomes an exterior shot as a garage door rises and opens to the
+sunlight of the desert as Wintergreen walks portentously into the outdoor space of
+the American West (figure 2). The pattern of strong contrasts between interior
+scenes filmed in restrictive close-ups and exterior scenes filmed panoramically is
+maintained throughout the film as we follow Wintergreen’s beat in the desert sun
+to the station house or the local bar at night. When Wintergreen and his partner,
+Zipper (Billy “Green” Bush), retire at the end of the working day to play pool in a
+Cinema Journal 46, No. 2, Winter 2007 95
+Figure 1. A psychedelic VW van speeds through Monument Valley at the
+opening of Electra Glide in Blue (United Artists, 1973).
+Shiel.qxp  2/16/07  10:42 AM  Page 95
+ local saloon, the scene derives a symbolic interiority from the exteriority of the
+Arizona wilderness outside. Even the jukebox plays the melancholy country song
+“I’m looking at the world from a bottle…”
+The prevailing sense of restriction constructed by these contrasts is underlined
+by Wintergreen and Zipper’s lack of interest in the beauty of the Western
+wilderness. Where in Easy Rider the experience of the road, of Nature, and of the
+Old West appeared as a form of countercultural tourism, characterized by a highly
+self-conscious appreciation and exploration of the external environment, in
+Electra Glide in Blue, these things are experienced by Wintergreen and Zipper
+only as work and routine. Not only do they not share the determined appreciation
+of the wilderness characteristic of Billy and Wyatt in Easy Rider, they do not comment
+on it at all. Their relationship to it is perhaps best signified by Zipper’s pref-
+erence for reading science fiction comics in the shade on a desert hilltop, where
+his concentration on the pages before him excludes the space around him. In
+Electra Glide in Blue, the road becomes circular, banal, and professional rather
+than a means of escape. Wintergreen’s motorcycle reminds him only of his underachievement
+in life, his restriction to the lowest ranks of the police force. His rela-
+tionship to Nature and the West is conditioned by his labor. Where Easy Rider
+describes constant frisson, with each day beginning and ending at a different
+point, Electra Glide in Blue describes only ennui, beginning and ending the day in
+the same place.
+The contrast between movement as leisure and movement as labor is clear
+in the contrast between the opening soundtrack of Easy Rider, in which
+Steppenwolf’s famous hard rock anthem “Born to Be Wild” incites the spectator
+to “get your motor running, get out on the highway…,” and John Wintergreen’s
+expression of his attitude to movement and work in Electra Glide in Blue, which
+he explains one day to Zipper: “I hate that motorcycle they make me ride.”
+The circularity and banality of the road narrative in Electra Glide in Blue is
+substantially due to the profession of the film’s protagonist, Wintergreen; he is a
+96 Cinema Journal 46, No. 2, Winter 2007
+Figure 2. Motorcycle cop John Wintergreen prepares to go on morning
+parade in Electra Glide in Blue (United Artists, 1973).
+Shiel.qxp  2/16/07  10:42 AM  Page 96
+ motorcycle police officer who is clearly not a man of leisure as are the protagonists
+of Easy Rider. His experience of the open space of the West is constrained by his
+daily implication in the economically and politically conservative spatial and temporal
+matrices of urban modernity, symbolized by the highway network on which
+he cruises for his living. The film professionalizes the road and makes it humdrum
+in a way that registers both the deflation of the utopian aspirations of the 1960s
+counterculture and the decline of the American economy from postwar boom
+(1945 to 1968) to the economic recession whose first signs emerged in 1969 but
+which intensified throughout the 1970s. 
+The economic boom contributed to a new social and political importance of
+American youth in the 1960s, while the economic recession of the 1970s contributed
+to the demise of youth dissent in so far as recession put the brakes on the
+progressive social spending programs of the so-called “Great Society” and encouraged
+a relatively conservative preoccupation among 1970s youth with the immedi-
+ate problems of finding and maintaining employment.7 In response, Electra Glide
+in Blue reconfigures in an appropriately restricted manner the hedonistic cinematographic
+relationship between spectator and protagonist that prevailed in Easy
+Rider. The earlier film’s innovation was to use a highly mobile camera to make the
+spectator travel cinematographically with the protagonists of the film on their
+odyssey across America, seeing the country at the same pace and from parallel perspectives.
+This constructed an indulgent and sensorily fulfilling dialogue between
+the mobile subject and the magnificence of Nature, articulating the radical agendas
+of the counterculture. In contrast, the camera does not position the spectator
+in this way in Electra Glide in Blue. Instead, the film is dominated by a comparatively
+conservative cinematographic approach in which the camera remains large-
+ly static even while filming the expansive beauty of the West, becoming mobile
+only during occasional scenes of a police chase (in which the mobility of the camera
+is not “for fun,” so to speak, but serves a more traditional, generic function—
+the dramatic pursuit of a criminal by law and order). In this sense, the film’s cinematographic
+style articulates the collapse of the escapist fantasy of Easy Rider
+where both the spectator and protagonists were allowed and encouraged to enjoy
+the beauty and exhilaration of the West. Electra Glide in Blue, in contrast, alienates
+the spectator from the protagonists of the film in so far as the spectator is
+allowed to enjoy the West through cinematography, while the protagonists cannot.
+Simultaneously, Electra Glide in Blue represents the small-town environment
+of the film—the fictional “Stockburn”8—as an isolated and static space that is
+threatened and invaded by the social and political conflicts of the day, which, it is
+suggested, are destabilizing the nation as a whole. To use the film historian
+Thomas Schatz’s term, the mythological simplicity and purity of the space of the
+West becomes “ideologically contested” against its will, corrupted by modern
+America’s ongoing war between counterculture and straight society.9 This motif
+of corruption appears not only in the VW van’s striking invasion of the mythical
+“emptiness” of the Arizona desert in the opening sequence, but underpins the
+Cinema Journal 46, No. 2, Winter 2007 97
+Shiel.qxp  2/16/07  10:42 AM  Page 97
+ narrative as a whole insofar as criminality is mapped as a primarily urban phenomenon
+that tends to migrate to, and disrupt, the open space of the West. The rude
+shattering of the rural idyll of Monument Valley by the noisy entrance of the psychedelic
+VW van sets this mapping in motion. The VW van transports hippies to
+the desert from the city, and through the desert from city to city, and eventually
+transpires to be involved in the trafficking of drugs. The hippies who come to the
+desert to hang out befriend the old hobo Frank, prompting Frank’s companion,
+the mountain man Willy, to kill Frank in a mad fit of jealousy and resentment.
+Frank’s murder traumatizes the local community and baffles the local police. The
+murder leads to the corruption of Wintergreen’s partner, Zipper, when Zipper
+secretly recovers cash from Frank’s cabin and uses it to purchase the custom
+motorcycle of his dreams. Wintergreen discovers Zipper’s corruption, prompting
+a fistfight and then a gunfight that results in Zipper’s death. By the end of the film,
+the death of the old hobo Frank in a lonely shack in the desert has extended into
+a litany of alienation and tragic killing (all traceable back to an urban cause and the
+modern conflict of hippie and straight society). Where many contemporary commentators
+diagnosed the urbanization of the western in Dirty Harry (Don Siegel,
+1971) and Death Wish (Michael Winner, 1974) as a conservative remobilization of
+traditional values in the Nixon era, Electra Glide in Blue urbanizes the western in
+a relatively progressive way, not transposing its codes to a modern urban setting
+but transposing 1960s urban conflict to the rural space of the West whose openness
+and ostensible simplicity it transgresses.10
+The transgression of the West is inscribed in Electra Glide in Blue in the cast
+of characters who pass through small-town Arizona but do not stay: the VW van
+driven by the hippie Dave, a speeding LA cop vacationing with his girlfriend, a
+Vietnam-veteran trucker who cannot hold down a job, and kids from the city visiting
+the desert for a weekend concert. All of these constitute mobile urban
+ciphers on their way from one point in that matrix to another, temporarily sojourning
+outside the limits of the city but returning to it on a regular basis. This motif
+of “motion-through” contributes to the film’s narrativization of the rapid social
+change that engrossed the desert southwest in the 1960s. As the historian D. W.
+Meinig has explained, one of the most important determinants of the dramatic
+modernization of Arizona in the post-WWII era was its geographical proximity to,
+and its location on the westward routeways to, the massive urban-industrial hubs
+of California that agglomerated with new energy around the cities of San Diego
+and, especially, Los Angeles.11 In Electra Glide in Blue, the representation of the
+invasion of the rural space of the West by the sociopolitical divisions and moral
+corruption of the Nixon era presents an allegory of the continuous incorporation
+of the historically empty space of the small town and the wilderness into the structures
+of modern urban America. While not actually present as a setting in the film,
+urban California—and particularly Los Angeles—is present everywhere in the
+film as a structuring absence. Electra Glide in Blue was based on the real-life
+killing of a motorcycle police officer by migrating hippies in Phoenix, Arizona, on
+98 Cinema Journal 46, No. 2, Winter 2007
+Shiel.qxp  2/16/07  10:42 AM  Page 98
+ November 11, 1968—the first time in fifty-two years that a police officer was
+killed in the line of duty in that city. A local newspaper editorial reported the
+killing as a sign of a “black cloud” that was “sweeping” into rural Arizona from the
+nation’s cities.12
+Along with Southern California, Arizona experienced rapid growth after 1950
+in terms of population, urbanization, and economic modernization. While the
+state’s traditional agricultural base remained important, growing from $365 million
+to $574 million in output from 1952 to 1967, employment in agriculture declined
+and employment in construction, manufacturing, and services increased.13 The
+value of Arizona’s manufacturing sector quadrupled from $231 million per year in
+1952 to $919 million in 1967, fuelled by the expansion of high-technology industries
+such as electronics, aerospace, and defense.14 Scottsdale, on the northeast
+fringe of Phoenix, emerged as of one of fifty-three new “boomburbs,” to use urban
+historian Robert Lang’s term, which experienced “double-digit growth” throughout
+the 1950s, 1960s, and 1970s, and the majority of which were located in the
+American southwest—twenty-five in California and seven in Arizona itself.15
+The Old and the Modern West. The representation of the invasion of the
+desert by the conflicts of the 1960s in Electra Glide in Blue is a function of this
+modernization and is reinforced by a recognition of the American West in the
+modern age as fragile, human, and mortal. This recognition was featured increasingly
+in classical Hollywood after World War II in “adult westerns” such as The
+Gunfighter (Henry King, 1950) and The Misfits (John Huston, 1961), which characterized
+the western cowboy as an ageing anachronism. By the later 1960s, revi-
+sion of the western catered to mainly youth audiences who were fundamentally
+disillusioned with what many saw as the masculinist, racist, and materialist values
+of the genre in its heyday. Cat Ballou (Elliot Silverstein, 1965), The Wild Bunch
+(Sam Peckinpah, 1969), Butch Cassidy and the Sundance Kid (George Roy Hill,
+1969), and The Ballad of Cable Hogue (Sam Peckinpah, 1970) effected change in
+the most fundamental symbolic and iconic vocabulary of the Hollywood cinema,
+repositioning the heroic rural vision of the western as something flawed and hopelessly
+obsolete. Hombre (Martin Ritt, 1967), Little Big Man (Arthur Penn, 1970),
+Tell Them Willie Boy Is Here (Abraham Polonsky, 1970, also starring Robert
+Blake), and Ulzana’s Raid (Robert Aldrich, 1972) revealed the supposed “settlement”
+and “civilizing” of the American West as a process of military conquest, cul-
+tural imperialism, and environmental destruction, which bore clear parallels with
+the ongoing war in Vietnam. Dennis Hopper’s The Last Movie (1971) created an
+entirely new intersection between the western genre and experimental film by
+using extremely discontinuous montage and self-reflexive narrative to recount the
+destructive clash of modern and traditional cultures prompted by the shooting of
+a Hollywood western on location in rural Peru.
+The strongest “outside” influence on this sea change in the symbolic meaning
+and potential of the western was the highly successful 1967 U.S. release of the
+Cinema Journal 46, No. 2, Winter 2007 99
+Shiel.qxp  2/16/07  10:42 AM  Page 99
+ semiparodic, semioperatic “spaghetti western” trilogy of Italian director Sergio
+Leone—A Fistful of Dollars (1964), For a Few Dollars More (1964), and The
+Good, the Bad, and the Ugly (1966)—which altered forever the visual and mythological
+landscape of the western genre and the codes that governed its represen-
+tation of sex and violence. This revisionist bent in the American western was
+evident in subsequent films like Clint Eastwood’s Hang ’em High (1967) and Two
+Mules for Sister Sara (1971), and Sam Peckinpah’s Pat Garret and Billy the Kid
+(1973). These films presented the American West as an unforgivingly violent arena
+of self-interested materialistic conflict in which moral propriety was hypocrisy and
+social order was always collapsing back into anarchy and wilderness.
+This revisionism was counterbalanced even in the 1960s by a continuing
+attachment to the cinematic mythologizing of the American West to which films
+as different as the conservative western True Grit (Henry Hathaway, 1969) and the
+road movie Easy Rider contributed, albeit to radically different ideological ends.
+But Electra Glide in Blue goes further than most films of the era in accentuating
+the West as fragile, temporalizing it, and attempting, as it were, to drag it down out
+of the clouds of the mythical. This rendering implies not only the “lateness” of the
+West in modern America but the lateness of the counterculture too.
+The recognition of the human mortality and essential pastness of the West is
+represented in the characters of Frank and Willy who appear to live lives in the
+desert akin to those of prospectors or trappers of former times. The two old-timers
+are elderly, frail, senile, physically isolated, and hopelessly anachronistic. The decision
+to set the film’s first scene in Frank’s old cabin in the desert ensures that the
+Old West, the ideal of the homestead, the pioneer, and the open range are immediately
+evoked. An old saloon piano tune plays on the gramophone—both the
+gramophone itself and the pathos of the music it plays suggesting a lost past. This
+“homestead” is a ramshackle and decrepit shack. The atmosphere is one of stillness
+and old age. Where Easy Rider invoked the ideal of the self-made man work-
+ing his own land as a model for countercultural self-sufficiency, in Electra Glide in
+Blue the archetypes of the West are only withered and pitiful anachronisms in
+modern America. Like his companion Frank, the Old West grown feeble before
+our eyes appears in the character of Willy, played by Elisha Cook Jr., then a 
+seventy-year-old veteran of classical Hollywood films from Tin Pan Alley (Walter
+Lang, 1940) and The Maltese Falcon (John Huston, 1941) to The Big Sleep
+(Howard Hawks, 1946) and Shane (George Stevens, 1953). Willy’s only response
+to what he sees as the bewildering confusion of modern life is to take refuge on
+the Superstition Mountain where, he claims defiantly, he knows places where
+nobody has ever been. As David Lavender explained in his history of the southwestern
+states, published in 1980, the rapid postwar development of the region
+“still leaves old-timers shaking their heads,” having “hurtled the region into an
+urban-industrial economy as sophisticated and as troublesome as any in the
+nation.”16 While the old men who drink at the local bar react to the massive and
+radical modernization of their environment with silent resignation and retreat to
+100 Cinema Journal 46, No. 2, Winter 2007
+Shiel.qxp  2/16/07  10:42 AM  Page 100
+ “[look] at the world from a bottle,” Willy reacts with demented panic and the
+insanity of protracted loneliness (figure 3).
+Even the film’s grand opening panorama of Monument Valley appears first as
+a shot in black and white before turning gradually to color. The shot presents in
+microcosm a summary history of the Hollywood western. A sense of loss is reinforced
+by the film’s theme music—an emotive brass score, solemn and reverent,
+sorrowful and elegiac. With the disruptive entrance of the psychedelic VW van,
+Electra Glide in Blue mocks the generic connotations of its own setting, initially
+suggesting itself as a western only to immediately destabilize both the iconography
+of the western and the spectator’s conditioned response to the cinematography of
+the West. In this way, the film establishes a pattern of promise and denial that will
+persist throughout its narrative, reminding the spectator of the comforting myths
+of the Old West while denying him/her their reassurance and refusing to provide
+any compensation for their loss in the present day.
+The sense of the Old West as irrecoverably past is heightened by the next
+scene, which shows Wintergreen and Jolene in bed together in the morning. As
+the couple makes love in the background, the camera slowly pans to a U.S. flag
+and a portrait of an Indian tracker hung on Wintergreen’s wall. Wintergreen kisses
+his lover good-bye and prepares for the day ahead, first with a glass of raw eggs,
+chin-ups, and vitamin pills, and then meticulously dressing for work in an ironic
+counterpoint to the sheriff of the Old West. The sense of the everyday provides a
+deflating counterpoint with the extraordinary western-style opening sequences.
+When Wintergreen arrives at the police station, the gleaming chrome on rows of
+Harley-Davidson motorcycles and the mock epithets that the sergeant shouts at
+his officers “in preparation for the concert this weekend,” all serve to highlight
+the thorough modernity of the narrative context: “You honky! You pinko! You pig!
+You fag!”
+Cinema Journal 46, No. 2, Winter 2007 101
+Figure 3. The insanity of protracted loneliness—Wintergreen and his partner
+Zipper calm the mountain man Willy in Electra Glide in Blue (United
+Artists, 1973).
+Shiel.qxp  2/16/07  10:42 AM  Page 101
+ At the same time, if Electra Glide in Blue allows little recourse to the comforting
+myths of America’s Western past, it at least respects them. Its representa-
+tion of modern America, on the other hand, both straight and countercultural, is
+almost wholly negative. The film’s description of the overt and hidden processes
+of modernization in the rural Southwest is matched by a multifaceted detailing of
+the difficult social and political conditions prevailing in the United States at the
+time of its production. These include the impact of economic recession, the consolidation
+of the Silent Majority, the prioritization of strong law and order by
+President Richard Nixon, the continuation of war seemingly without end in
+Vietnam, and the wane of the counterculture. By 1973, these economic, social, and
+political realities conspired to produce a widespread and cumulative sense of
+national weariness.
+Recession and Law and Order. From the production of Easy Rider in 1968 to
+that of Electra Glide in Blue in 1973, U.S. economic conditions worsened dramatically
+into bona fide recession thanks to record inflation, which spiraled from 4.2
+to 8.8 percent, a rise in unemployment from 3.3 to 5.5 percent, government debt
+that grew from $345 million to $457 million and record annual federal budget
+deficits ($25 billion in 1968, decreasing somewhat but remaining critical at $15 billion
+in 1973).17 These developments were partly a legacy of the so-called “guns and
+butter” liberalism of the Johnson presidency (1963–1969), which had overoptimistically
+committed the federal government to massive spending both on military
+action in Southeast Asia and on the social improvements of the Great Society at
+home (for example, federal funding of housing and urban development, antipoverty
+initiatives such as the Community Action Program, and the founding of
+Medicare and Medicaid).18 The collapse of the Johnson administration in 1968,
+prompted by the failure of the United States to make significant military gains in
+Vietnam, led to an “existential” crisis of American liberalism that left the way open
+for the rise of Richard Nixon. As political historian Marshall Berman has described
+it, both the frontier mentality liberalism of the 1960s, epitomized by the Kennedy
+and Johnson presidencies, and the experimental projects of the counterculture
+ground to a halt in a recession that was not only economic but also emotional, and
+that was compounded by the retrenchment of the conservative Right.19
+Nixon’s victory in the 1968 presidential campaign, buoyed by the so-called
+“Silent Majority” of conservative Americans (a phrase Nixon first used in his
+address to the nation on November 3, 1969), represented a rejection of the eightyear-old
+Democratic program of expansion in domestic and foreign commitments.
+The first and second Nixon administrations (1969–1972, 1973–1974) prioritized a
+measured but militarily robust withdrawal from Vietnam (“Peace with Honor”)
+and, at home, a restriction of federal spending on the social programs of the Great
+Society matched by a rise in federal spending on the maintenance of law and
+order.20 This strategy did not turn around the economy: an annual trade deficit
+was announced in 1971 for the first time since the end of the nineteenth century
+102 Cinema Journal 46, No. 2, Winter 2007
+Shiel.qxp  2/16/07  10:42 AM  Page 102
+ and was followed by a temporary freeze on wages and prices, the withdrawal of the
+dollar from the international gold standard and its forced devaluation, and the oil
+crisis that enveloped the nation in October 1973.21
+The Nixon administration’s emphasis on law and order, however, did bring
+with it a proactive prosecution of countercultural, New Left, and Black Power dissent,
+and an aggressive approach to the use of policing and intelligence power that
+would culminate in the Watergate scandal of 1972–1974.22 As John Mitchell,
+Attorney General under Nixon from 1969 to 1972, declared: “This country is going
+so far to the right you won’t recognize it.”23 The ideological terrain of American
+public life experienced a new degree of polarization between the left and right
+while the liberal “center” was thrown deeper into disarray. For the left, in particular,
+this led to increased disillusion and internal conflict, as well as to more fre-
+quent and violent confrontations with the law and order apparatuses of the State.
+The objective realities of policing the United States had been growing more
+difficult throughout the post-WWII era, which was characterized by a general
+expansion of the scale and powers of law enforcement agencies and the judicial
+and penal systems. Federal spending on criminal justice as a percentage of U.S.
+Gross National Product  (GNP) doubled from 0.5 percent in 1955 to 1.0 percent
+($10.5 billion) in 1971.24 But this expansion was particularly dramatic during the
+Nixon era when spending on criminal justice as a percentage of U.S. GNP
+increased from 1.0 percent ($10.5 billion) to 1.4 percent ($15.0 billion) from 1971
+to 1974 alone.25 Over the same short period, federal spending on the judicial system
+grew by 62 percent and on policing by 52 percent, while the number of police
+nationally grew 13.6 percent, from 575,000 to 653,000 personnel.26 Much of this
+growth took place in response to long-term trends: the annual incidence of crime
+per thousand of the U.S. population grew from 1.1 in 1957 to 5.9 in 1977, and the
+annual incidence of serious crime grew 158 percent from 1960 to 1971.27 But this
+objective growth was outpaced by an increasing prominence of crime and, therefore,
+law and order as a structuring factor in the public consciousness. Crime was
+identified by 4 percent of Americans as the most urgent public issue in 1948. The
+percentage rose dramatically to 21 percent in 1972.28
+The notable growth of the state apparatus of law and order in the Nixon era,
+and of law and order as a public concern, ushered in the heyday of the police officer
+as dramatic protagonist. On television, McCloud (1970–1977), Police Story
+(1973–1977), Kojak (1973–1978), and other new prime time shows brought law
+and order into the private home and the public eye with an unprecedented everyday
+regularity.29 In cinema, law and order was the central theme in Bullitt (Peter
+Yates, 1968), Coogan’s Bluff (Don Siegel, 1968), The French Connection (William
+Friedkin, 1971), and Magnum Force (Ted Post, 1973), as noted with deep misgivings
+by such critics as Pauline Kael in the New Yorker and David Denby 
+in Harper’s.30
+With a strong hint of irony, public fascination with the materiality and power
+of the police unit informs the opening sequences of Electra Glide in Blue where
+Cinema Journal 46, No. 2, Winter 2007 103
+Shiel.qxp  2/16/07  10:42 AM  Page 103
+ Wintergreen’s donning of his uniform, the leather and steel textures of the police
+motorcycle, and the militarism of the highway patrol on morning parade are
+methodical in a manner that connotes professional competence. But Wintergreen’s
+solemn “dressing up” is also fetishistic in a manner more in keeping with the
+antiauthoritarian aesthetics and politics of underground filmmaker Kenneth
+Anger to whose film Scorpio Rising (1963) Electra Glide in Blue pays implicit
+tribute (figure 4).
+Electra Glide in Blue postdates Anger’s film by ten years of bitter confrontation
+between counterculture and the State, and it is the product of a moment in
+history far removed from the peaceful protest sit-ins of the Civil Rights era or the
+1967 Summer of Love. Crucial to the growth of public concern with criminality in
+the 1960s was the rise of new forms of political protest. Peaceful sit-ins had given
+way to the mass mobilizations of the antiwar movement, inner-city riots, and
+armed revolutionary cadres. The representation of the police and hippie counterculture
+in the film registers the hardening of attitudes that overcame both sides
+throughout the era, especially at the peak of the antiwar movement in the
+“Mobilization” and “Moratorium” demonstrations in October 1967 and November
+1969, respectively, and then in the protests following the shooting dead of four students
+by the Ohio National Guard at a demonstration at Kent State University in
+May 1970. The film draws attention to the blurring of the concepts of criminality,
+on the one hand, and resistance and dissent, on the other, which constituted official
+policy in the Nixon era when the FBI’s COINTELPRO (Counter Intelligence
+Program, 1956–1971) and the CIA’s CHAOS program (1959–1974) and Project
+Resistance (1967–1973) were deployed against radical groups such as the Black
+Panther Party, Students for a Democratic Society (SDS), Weatherman, and the
+Yippies.31
+The 1960s saw six million Americans participate in political protest, resulting
+in 100,000 arrests, 12,000 injuries, and 350 deaths.32 Political violence was serious
+and real, but 80 percent of the incidents of political protest passed off peacefully.
+104 Cinema Journal 46, No. 2, Winter 2007
+Figure 4. The materiality and power of the police unit—Harley-Davidson
+Electra Glide motorcycles in Electra Glide in Blue (United Artists, 1973).
+Shiel.qxp  2/16/07  10:42 AM  Page 104
+ The death rate from political protest, at 18.3 per ten million population per year,
+was always substantially lower than the 580 deaths per ten million of the population
+due to murder or the 2700 deaths per ten million due to road accidents. The
+widespread sense of crisis and threat prompted within the dominant culture, but
+especially among conservatives, was explored by Atlantic Monthly magazine in
+October 1970 under the semi-ironic headline “The Army is the only damn thing
+holding this country together.”33 In fact, as Hugh Graham and Ted Gurr explain
+in Violence in America, the threat from armed radical groups such as the Black
+Panther Party was well-contained:
+…most terrorist attacks on whites seem to have been carried out by free-lancers…and
+the Panthers, outnumbered and outgunned, lost their handful of dramatic confrontations
+with the police.34
+Despite this reality, in prominent American crime films of the era, responsibility
+for the country’s social, political, and moral crisis was often placed on the
+shoulders of the black community and the counterculture: in Don Siegel’s Dirty
+Harry, the protagonist, Detective Harry Callahan (Clint Eastwood), begins the
+film by dramatically intervening against a gang of African American bank robbers
+with his .357 Magnum, famously challenging one of them to “Go ahead, make my
+day.”; and a serial killer hippie sporting a peace symbol is allowed to roam free by
+a left-liberal establishment based in San Francisco City Hall and the University of
+California Berkeley.
+In Electra Glide in Blue, a confusion of criminality and dissent mirroring that
+of the Nixon administration and the Silent Majority is evident in the unshakeable
+belief of Wintergreen’s megalomaniac superior officer, Detective Harve Poole
+(Mitch Ryan), that the hippie counterculture is dedicated to a program of “systematic
+police genocide.” Through Poole the film provides a critique of that confusion
+achieved by only a small number of other films of the era, such as John G.
+Avildsen’s Joe (1970). Poole’s tough masculinity, inviting comparison with the vigilante
+aggression evident in Dirty Harry, The French Connection (1971), Magnum
+Force (1973), and Death Wish (1974), is underpinned by his sense of supreme
+moral and professional infallibility—epitomized by his declaration, “My religion is
+myself. When I talk to myself, the whole world is listening”—and by his predisposition
+towards reactionary, sudden violence and his vocal contempt for the coun-
+terculture and the liberal legal establishment. As Harve explains to some hippies
+from whom he is trying to extract information about the supposed dope dealer
+Bob Zemko:
+In the interests of ‘police-community relations’, I don’t want to have to shoot anybody
+today…
+But this moral and physical self-importance is decisively undercut three times.
+First, when he is promoted to detective by Harve, Wintergreen repeats his
+fetishistic dressing-up in uniform of the opening sequences, but this time in a crisp
+tan suit, stetson, cowboy boots, and cigar, strutting proudly on his front porch, only
+Cinema Journal 46, No. 2, Winter 2007 105
+Shiel.qxp  2/16/07  10:42 AM  Page 105
+ to realize he has forgotten to put on his pants. Second, Jolene, Wintergreen’s
+sometime lover but also Harve’s steady girlfriend, ridicules Harve’s middle-aged
+impotence in a fit of drunken melancholy set off by her disillusion with her smalltown
+life as a bartender and nostalgia for her youth as a chorus-line starlet. Third,
+towards the end of the film, Wintergreen explodes Harve’s theory that drug-dealing
+hippies must have been responsible for Frank’s murder and lashes out at his
+egoism and prejudice with the words, “All I care about is that you were wrong…
+You’re full of horseshit, Harve!”
+For their part, hippies in Electra Glide in Blue appear to share the sense of
+cynical fatigue that dominates the demeanor, attitudes, actions, and words of many
+of the film’s major and minor characters. In an environment in which police brutality
+has become the norm, they appear lethargic, unable to communicate or
+defend themselves, and lacking pride and productivity in their alternative way of
+life. Where Easy Rider emphasized the dedicated labor and celebration of the hippie
+commune and its creation of a natural refuge from urban-industrial space, at
+the commune that Harve Poole and Wintergreen visit during their investigation
+hippies live a life of unmotivated squalor among ruined outbuildings overflowing
+with pig shit.
+The open conflict between hippie counterculture and straight society is further
+developed in the film around the issue of “police-community relations,” a hot-
+button issue of the day that grew out of the liberal attempt in the 1960s to mediate
+between the policing demands of an increasingly violent and fractured society, on
+the one hand, and an accelerating public concern with the rights of individuals, on
+the other. Contemporary discourse on police-community relations—including,
+most famously, President Johnson’s Commission on the Causes and Prevention of
+Violence—focused on the perceived lack of accountability of the police and the
+mutual alienation of police, youth, and minorities, particularly in the aftermath of
+such events as the 1968 Chicago Democratic convention.35 However, reform
+proved persistently difficult to implement, particularly due to resistance among
+police officers who were increasingly subject to physical attack in their work,
+police who felt that the judicial system was too lenient on criminals, and police
+who saw themselves outflanked by a largely liberal (some said “anti-American”)
+judicial system and a dangerous counterculture. These circumstances increasingly
+led to instances of police harassment, corruption, career alienation, and intense
+frustration on the job. As the sociologist Albert J. Reiss has pointed out, a significant
+proportion of police in the late 1960s came to support, and were perceived to
+support, radical right politics.36
+In this context, John Wintergreen in Electra Glide in Blue operates (for his
+time and place) as a very atypical police officer, a personification of good policecommunity
+relations, dedicated, principled, fair, respectful towards all those he
+meets in his work, and reluctant to tolerate corruption or brutality on the part of
+his fellow officers. His moral certitude and professional propriety makes him the
+subject of widespread hostility within the police force. He books a speeding, off106
+Cinema Journal 46, No. 2, Winter 2007
+Shiel.qxp  2/16/07  10:42 AM  Page 106
+ duty cop from LA despite the man’s badge and angry protests; he books the driver
+of an overloaded truck despite the driver’s recent return from service in
+Vietnam and his pleas for understanding; he discourages his partner, Zipper, from
+harassing hippies for sport and refuses to turn a blind eye to Zipper’s secret recovery
+of cash from the scene of Frank’s murder; he treats the delirious Willy with
+respect and sensitivity rather than the contempt that others show; and he attempts
+“proper police procedure” when dealing with an uncooperative hippie commune,
+where Harve resorts to verbal abuse and physical violence to extract information.
+Wintergreen therefore appears as a mediator between a right-wing Silent
+Majority and a disintegrating counterculture in the ideologically determinate
+space of the West in a way that accurately reflects what D. W. Meinig has
+explained as the dominance in Arizona during the 1960s of a particularly conservative
+ideology and brand of politics given national prominence by the 1964
+Republican presidential campaign of Barry Goldwater.37 Wintergreen’s colleagues,
+Harve, Zipper, and the Captain (and, by implication, the police in general) occupy
+the space of the Right—corrupt, violent, bigoted, intolerant, and arrogant. The
+hippies at the commune, Dave in the VW van, Bob Zemko and his biker companions,
+and the young audience at the weekend rock concert occupy the space of the
+Left, a disaffected population whose behavior it is Wintergreen’s job to monitor
+and control. Electra Glide in Blue reconfigures what Thomas Schatz has identified
+as the fundamental conflict between “Order” and “Anarchy” at the heart of the
+classical Hollywood western’s moral structure, where Order eventually triumphs
+over or at least contains Anarchy through the agency of the heroic protagonist.38
+Wintergreen as heroic protagonist mediates not between Order and Anarchy but
+between one Anarchy, in the guise of the forces of law and order working on behalf
+of a resurgent and reactionary Silent Majority, and another form of Anarchy,
+in the form of a counterculture in crisis now itself implicated in the cynicism and
+paranoia of the later Vietnam era. By the end of the film he is profoundly alienated
+from the established Order and shows certain sympathies with the countercul-
+ture, the modern counterpart of the classical western’s Anarchy, lashing out at
+Harve’s bigoted brutalization of what Wintergreen comes to see as mostly harmless
+hippie kids.
+Through this characterization, Electra Glide in Blue also mediates as a film
+between what Robert B. Ray identified in his book A Certain Tendency of the
+Hollywood Cinema as the divergent tendencies of “Left” and “Right” filmmaking
+in the era, between the “outlaw heroes” of films on the Left such as Bonnie and
+Clyde (Arthur Penn, 1967), The Wild Bunch (1969), and The Parallax View (Alan
+J. Pakula, 1974) and the “official heroes” of films on the Right such as The Green
+Berets (Ryan Kellogg and John Wayne, 1968), Coogan’s Bluff (1968), and Death
+Wish (1973).39 Electra Glide in Blue inverts the structure of Dirty Harry, in which
+a right-wing policeman finds himself at odds with a liberal Establishment, by portraying
+Wintergreen as a liberal cop in a right-wing Establishment, emblemati-
+cally locating the police officer at the center of the ideological vortex of Sixties
+Cinema Journal 46, No. 2, Winter 2007 107
+Shiel.qxp  2/16/07  10:42 AM  Page 107
+ America in a very different but arguably more accurate manner than Siegel’s film.
+In this respect, Wintergreen’s narrative corroborates Marsha Kinder’s observation,
+in reviewing the film in 1973, of a contemporary vogue in police films for “the
+double-bind situation” in which the efforts of an honest cop to combat crime are
+complicated by his membership in a corrupt institution, a situation powerfully
+dramatized in Sidney Lumet’s Serpico (1973).40
+“The double-bind situation.” In Electra Glide in Blue, Wintergreen finds
+himself caught between Left and Right in an environment in which American
+liberalism—the bogey man of Dirty Harry and the inspiration of Serpico—
+struggles to survive. He gradually defects from the Right and shows increasing
+sympathy for the Left, his evolution providing an allegory of contemporary reallife
+events such as the leaking of the top-secret “Pentagon Papers” by the disaffect-
+ed government strategist Daniel Ellsberg in 1971, the testimony against the Nixon
+administration of former White House counsel John Dean at the 1973 Watergate
+hearings, and the antiwar movement’s growing interest in the experiences and
+opinions of returning Vietnam veterans.41 The film’s writer-producer Rupert
+Hitzig was himself a young Vietnam veteran in the early 1970s, having served two
+tours of duty in the Marines. In the early 1970s, Hitzig found himself “radicalizing
+to the left” in opposition to Nixon, the Silent Majority, and the war.42 Hitzig
+developed the story with a conscious focus on the pervasiveness of “labels” such as
+“hippie,” “longhair,” “cowboy,” “hardhat,” and “pig” in what had become a polarized
+society.43 This is the sense in which Electra Glide in Blue was conceived as
+“the flip-side of Easy Rider”: as an exhortation to reconciliation through the dissolution
+of the stereotypes of Right and Left.
+Indeed, the film’s narrativization of a deeply polarized ideological terrain, and
+of attempts to mediate within it, also finds deep resonances with the 1972 presidential
+campaign of Democratic Senator George McGovern, which was taking
+place while the film was in production but whose defeat by incumbent President
+Richard Nixon seemed to put the final nail in the coffin of 1960s liberalism. The
+McGovern campaign was engineered by party activists interested in modernizing
+and broadening the range of constituencies represented by appealing for support
+beyond the party’s traditional power blocs of Southern Democrats, labor unions,
+and blue-collar workers. By 1972, McGovern had enlisted the allegiance of what
+Theodore White characterized in The Making of the President 1972 as an idealistic
+“guerilla army on the move,” including students, African Americans, feminists,
+environmentalists, and other radicalized groups whose energy McGovern attempted
+to redirect from protest in the streets to the convention hall and voting booth.44
+This effort pushed the Democratic ticket further to the left, prompting McGovern
+to declare, “My one unique position, with reference to the competition, is to be to
+the left of them of all.”45 Long a vocal opponent of U.S. policy in Southeast Asia,
+he proposed a total cutoff of funds to Vietnam operations, an amnesty for draft
+dodgers and antiwar protesters, and taxes on the wealthy to reduce inner-city
+108 Cinema Journal 46, No. 2, Winter 2007
+Shiel.qxp  2/16/07  10:42 AM  Page 108
+ poverty. He came out in favor of a woman’s right to choose, gun control, affirmative
+action, and busing to combat the segregation of schools.46
+His platform, his attempt to reach out to radicals from the mainstream, found
+favor in the entertainment industry. The association of high-profile figures on the
+left-liberal wing of Hollywood cinema, such as Warren Beatty, Robert Redford,
+Jane Fonda, Donald Sutherland, and Peter Boyle, added to what appeared to be
+the McGovern campaign’s credibility with young people. James William Guercio,
+who directed Electra Glide in Blue, was an important record producer to groups
+such as Blood, Sweat, and Tears, and Chicago, and he and the members of
+Chicago participated in fund-raising events for McGovern and in voter registration
+drives among young people at their concerts.47 The members of Chicago, all
+of whom played minor roles in the film, including lead singer Peter Cetera in the
+role of Bob Zemko, were presented as politically conscious musicians whose
+songs responded to specific events (such as the invasion of Cambodia in 1970
+in the song “Better End Soon”). The band and Guercio also met with prominent
+liberal and progressive politicians and activists such as Senator J. William Fulbright
+and Ralph Nader.
+As we all know now, this entertainment industry support was not enough to
+propel McGovern into the presidency. His platform collapsed in the last days of
+the campaign largely due to a backlash from traditional Democrats and the refusal
+of the AFL-CIO labor union to endorse him. Echoes of this collapse are evident
+in the final moments of Electra Glide in Blue where, like McGovern’s campaign,
+Wintergreen’s narrative ends in defeat. In the final scene, after the anticlimax of
+solving Frank’s murder, he seems destined to sit out the rest of his life on the seat
+of his motorcycle, his idealistic belief in the police force in tatters, his hopes for
+promotion dashed, his best friend Zipper dead, Willy institutionalized, and deserted
+by Jolene. But in the last seconds of the film, the counterculture too, with
+which Wintergreen appears to sympathize, misunderstands and refuses to communicate
+with him. Once again encountering the psychedelic VW van on the high-
+way in Monument Valley, Wintergreen stops the vehicle for a routine check but
+forgets to return the hippie driver’s license and sets off in a neighborly way to catch
+up with the van and return it. Raising his hand in a friendly wave to get the driver’s
+attention, his gesture is met by a sudden shotgun blast from the back of the
+van, which blows him off his motorcycle (figure 5). This extinguishes the last hope
+for mediation in a deeply fractured society. Up to this point the film has addressed
+liberal and leftist fears of the moral corruption of the police, but now it issues a
+stark warning against complacency and against the demonization of the police,
+suggesting that the brutality of the forces of law and order has created its perverse
+alter ego in the guise of an armed and dangerous counterculture.
+By placing a gun in the hands of a hippie, Electra Glide in Blue registers what
+political historian Allen J. Matusow has called the “loss of moral authority” by the
+American Left in the early 1970s as “the rhetoric of love” was replaced by a reckless
+“politics of rage.”48 Wintergreen’s death highlights the historical failure of
+Cinema Journal 46, No. 2, Winter 2007 109
+Shiel.qxp  2/16/07  10:42 AM  Page 109
+ communication, evident in the McGovern campaign, between the radical constituencies
+of the counterculture and New Left, on the one hand, and the white
+working class, on the other. Undercutting simple distinctions between hippies and
+the police in terms of nonviolence and violence, it also recalls the perversion of
+hippie ideals by the exploits of the Manson family a few years earlier and the
+breakup of the counterculture into a plethora of bedraggled and isolated groups
+such as the Symbionese Liberation Army leaning more than ever in the direction
+of armed revolution and eventually losing any sensible identity or achievable program
+of aims. Wintergreen dies as a result of a pincer movement by extremes of
+Right and Left, which echoes the demise of official attempts at mediation, the
+debilitation of liberal politics, and the failure of police-community relations, reinforcing
+the film’s suggestion of America in a “no-win” scenario. As Michael
+Goodwin put it in Take One in June 1972, the American cinema of the day seemed
+to show a nation “Tooling up for Armageddon.”49
+The only evident compensation for this rather despairing narrative ending, I
+would argue, comes through a recourse to Nature and the representation of rural
+space in the closing sequence of the film. This sequence provides a tentative
+metaphor of the hope for reconciliation through a long and slow reverse tracking
+shot of Wintergreen’s dead body receding into Monument Valley, together with
+the emotive song “Tell Me,” written and composed by the film’s director James
+William Guercio and, in part, an adaptation of “God Bless America” (figure 6).
+The shot locates the protagonist—in death as in life—within the small, mobile,
+mortal, temporary scale of human affairs and against the vast, immobile,
+immutable grandeur of the natural space of the West. In this it would seem to
+invoke the highly influential principles of the nineteenth century transcendentalism
+of Henry David Thoreau for whom wilderness provided a route to universal
+salvation and for whose writings Guercio expressed admiration in an interview
+with Newsweek in 1973.50 The sequence appears as a Thoreauvian plea for social
+110 Cinema Journal 46, No. 2, Winter 2007
+Figure 5. An armed and dangerous counterculture—a hippie takes aim at
+John Wintergreen in the closing moments of Electra Glide in Blue (United
+Artists, 1973).
+Shiel.qxp  2/16/07  10:42 AM  Page 110
+ tolerance despite repressive policing and armed conflict, despite the corrupting
+urbanization of rural space, and despite the ascendancy of Nixon’s Silent Majority.
+In the final image of desert landscape, the film speaks to an ecology of awe with
+regard to the sublime beauty and grandeur of the American West—a sentiment
+evident in the writings of the region’s first explorers, and of nature writers such as
+John Muir and Mary Austin.51 It also rescues from the rather bleak image of hippie
+counterculture the wilderness tradition, which it rejuvenated in the 1960s and
+which emerged as one of that era’s most important and lasting legacies. Guercio
+preferred to characterize the film as “realistic” rather than “pessimistic,” insisting
+that, despite its bleakness, the closing of the film suggested to contemporary
+America that “there’s still time for us to change.”52
+That said, if the final sequence implicitly valorizes ecology as one valuable
+legacy of the counterculture in the 1970s, it seems to struggle to respond to the
+darkness of the film’s prognosis on the future of American society, providing, at
+best, a highly unstable sense of closure. Coming as it does after the film’s discrediting
+of the countercultural enterprise of “back to the land,” it also points forward
+to the ideological containment of environmentalism as an acceptable agenda for
+the 1970s: as Mike Davis has shown, environmental concerns subsequently
+became the preserve of conservative as much as radical interests in American society.53
+In its final sequence, which is a tour de force of film style and music, Electra
+Glide in Blue strains for a resolution of which it does not seem entirely convinced,
+having unforgivingly portrayed the death of mediation in America in 1973 in spite
+of the profound wish and need for its success.
+Social Critique, Product Placement, and the New Hollywood. Electra
+Glide in Blue opened in August 1973 and performed below box-office expectations,
+grossing just $923,672 in the first ten weeks of its release. By way of com-
+parison, Cleopatra Jones (Jack Starrett, 1973), Jesus Christ Superstar (Norman
+Cinema Journal 46, No. 2, Winter 2007 111
+Figure 6. John Wintergreen’s dead body recedes into Monument Valley in
+the closing shot of Electra Glide in Blue (United Artists, 1973).
+Shiel.qxp  2/16/07  10:42 AM  Page 111
+ Jewison, 1973), Enter the Dragon (Robert Clouse, 1973), and The Way We Were
+(Sydney Pollack, 1973) earned $2.54 million, $3.05 million, $3.71 million, and $10
+million, respectively, in the same period.54 Electra Glide in Blue generated an
+ambivalent response among critics. Although its director and writer-producers
+were in their late twenties, and the film was pitched at a youth audience with
+its road movie template, dystopian analysis of the nation’s social ills, and rock
+music soundtrack, Kevin Thomas in the Los Angeles Times and John Simon in the
+New York Times saw its message as dated and looked forward to the emergence of
+a new Hollywood cinema beyond the divisions and trauma of the 1960s.55 Jay
+Cocks in Time was suspicious that the film seemed excessively “calculated for
+effect,” and Joseph Gelmis in the Washington Post dismissed its expensive marketing
+campaign by United Artists as a “plastic package.”56 Its production budget of
+$1.1 million, while modest, was significantly larger than the $350,000 budget of
+Easy Rider, and its cinematography, editing, and sound did not display quite so
+many of the rough edges that the latter had carried as a mark of its debt to
+exploitation cinema.57 In Variety, the reviewer Frank Segers made a point of noting
+that Guercio had contributed $200,000 of his personal funds in order to pay
+for the Panavision process.58
+David Picker, chief executive of United Artists, and one of the industry’s
+young and broad-minded managers, immediately gave Electra Glide in Blue the
+green light when it was presented to him in 1971 though Guercio had never
+worked in film before, let alone directed.59 United Artists, which had recently
+been bought by Transamerica Corporation, had set a record level of investment in
+films of $259 million in 1969 only to report a $35 million operating loss as an
+industry-wide recession gripped Hollywood.60 Its fifteen releases of 1973, including
+Live and Let Die (Guy Hamilton), Serpico, Sleeper (Woody Allen), and The
+Spook Who Sat By the Door (Ivan Dixon), achieved mixed success as the studio
+struggled through a period of corporate reorganization largely dependent on
+diversifying its interests into television and recorded music. Much of the press
+generated by Electra Glide in Blue focused on Guercio’s achievements as a businessman,
+a rock music producer at the helm of what The Los Angeles Herald-
+Examiner described as a “media empire” based around the Caribou Ranch in
+Colorado, “one of the most modern recording facilities in the world,” a sort of capital-intensive
+adaptation of the hippie commune frequented by Stephen Stills and
+other rock superstars of the day.61 For Charles Champlin in the Chicago SunTimes,
+the film represented “the first attempt to deploy the organizing skills and
+audience-awareness of the potent record industry to the movies…”62
+With a soundtrack composed and produced by Guercio himself, members of
+the band Chicago acting in the film, and the inclusion of an extended piece of live
+concert footage of another band, Madura, which Guercio also managed, Electra
+Glide in Blue demonstrated an early form of product placement, integrating music
+and film with a greater seamlessness than Easy Rider, Zabriskie Point, or other
+films of the day with prominent rock music soundtracks. In fact, Guercio stated
+112 Cinema Journal 46, No. 2, Winter 2007
+Shiel.qxp  2/16/07  10:42 AM  Page 112
+ that he expected the record sales of the film’s soundtrack alone to recuperate the
+costs of the film.63 In this respect, the uncertainty implicit in the film’s content was
+ultimately at odds with the emerging certainties of a new Hollywood economics
+based upon corporate synergies and power through which the countercultural
+genie that had forcefully emerged in American cinema in the Sixties was gradually
+put back in its box.
+Notes
+1. David James, Allegories of Cinema: American Film in the Sixties (Princeton, NJ:
+Princeton University Press, 1989).
+2. On the countercultural conception of Nature, see Charles Reich’s best-selling countercultural
+manifesto of 1970, The Greening of America (New York: Random House,
+1970); Roderick Nash, Wilderness and the American Mind (New Haven: Yale University
+Press, 1973 [1967]), 96–140; and Max Oelschlaeger, The Idea of Wilderness (New
+Haven: Yale University Press, 1991), 172–202. On the counterculture and pastoral, see
+Leo Marx, “Pastoralism in America,” in Ideology and Classic American Literature, ed.
+Sacvan Bercovitch and Myra Jehlen (New York: Cambridge University Press, 1986);
+and Leo Marx, The Machine in the Garden: Technology and the Pastoral Ideal in
+America (New York: Oxford University Press, 1967), 34–72.
+3. Penelope Gilliatt, “The Current Cinema: Into the Eye of the Storm,” The New Yorker,
+July 19, 1969, 70.
+4. Fredric Jameson, “Periodizing the Sixties,” in The Sixties Without Apology, ed. Sohnya
+Sayres, Anders Stephenson, Stanley Aronowitz, and Fredric Jameson (Minneapolis:
+University of Minnesota Press, 1988), 183.
+5. Rupert Hitzig, interview with the author, Los Angeles, December 2, 1996.
+6. Robert B. Ray, A Certain Tendency of the Hollywood Cinema, 1930–1980 (Princeton,
+NJ: Princeton University Press, 1985), 306.
+7. See Robert M. Collins, “Growth Liberalism in the Sixties,” in The Sixties: From
+Memory to History, ed. David Farber (Chapel Hill: University of North Carolina Press,
+1994), 11–44.
+8. The film was shot on location in Scottsdale, Arizona. The cities of Phoenix and
+Scottsdale refused the production permission to use real place-names in the film—
+hence the fictional town of Stockburn was created.
+9. Thomas Schatz, Old Hollywood/New Hollywood: Ritual, Art and Industry, Studies in
+Cinema, no.15 (Ann Arbor, MI: UMI Research Press, 1983), 69–70.
+10. For contemporary discussions of the urbanization of the western, see Pauline Kael,
+“Saint Cop,” in The New Yorker, January 15, 1972, 78–82; and Isidore Silver, “Police
+as Folk Heroes,” Society 9 (May 1972): 45–46.
+11. D. W. Meinig, The Southwest: Three Peoples in Geographical Change, 1600–1970
+(New York: Oxford University Press, 1971), 77–81.
+12. Hitzig, interview with the author.
+13. Lynn I. Perrigo, The American Southwest: Its Peoples and Cultures (New York: Holt,
+Rinehart, and Winston, 1971), 348–49. See also Meinig, The Southwest, 85.
+14. Perrigo, The American Southwest, 348–49.
+15. Robert Lang, Metropolitan Institute at Virginia Institute of Technology, “Understanding
+Metropolitan Change: The Urban Turnaround, Boomburbs, and Growth Counties”
+(paper delivered at the Census 2000 Conference, University of California Berkeley,
+November 1, 2002).
+16. David Lavender, The Southwest (Albuquerque: University of New Mexico Press, 1980),
+287–88.
+Cinema Journal 46, No. 2, Winter 2007 113
+Shiel.qxp  2/16/07  10:42 AM  Page 113
+ 17. Wallace C. Peterson, Income, Employment, and Economic Growth, 4th ed. (New York:
+W. W. Norton & Co., 1978), 448–52; and Walter W. Heller, The Economy: Old Myths
+and New Realities (New York: W. W. Norton, 1975), 14–15. See also Joel Popkin, ed.,
+Analysis of Inflation, 1965–74 (Cambridge, MA: National Bureau of Economic Research
+and Ballinger Publishing Corp., 1977), 67–112; and U.S. Congressional Budget Office,
+“Historical Budget Data,” January 26, 2006, p. 12.
+18. See Collins, “Growth Liberalism in the Sixties”; David M. Barrett, Uncertain Warriors:
+Lyndon Johnson and his Vietnam Advisors (Lawrence, KS: University Press of Kansas,
+1993); Richard A. Melanson, Reconstructing Consensus: American Foreign Policy
+Since the Vietnam War (New York: St. Martin’s Press, 1991); Michael Charlton and
+Anthony Moncrieff, Many Reasons Why: The American Involvement in Vietnam, 2nd
+ed. (New York: Hill & Wang, 1989).
+19. Marshall Berman, All That Is Solid Melts Into Air: The Experience of Modernity (New
+York: Verso, 1983), 330.
+20. Useful contemporary accounts of the Nixon presidency include Theodore H. White,
+Breach of Faith: The Fall of Richard Nixon (New York: Dell Publishing, 1975); Alden
+Whitman, “Who and What is Richard Nixon?” and Robert B. Semple Jr., “The Political
+Man Miscalculates,” in New York Times staff, The End of a Presidency (New York:
+Bantam Books, 1974), 9-21 and 22–27, respectively.
+21. Geoffrey Barraclough, “The End of an Era,” New York Review, June 27, 1974, 14–20;
+and James O’Connor, The Fiscal Crisis of the State (New York: St Martin’s Press, 1973).
+See also Peter N. Carroll and David W. Noble, The Free and the Unfree: A New
+History of the United States, 2nd ed. (Harmondsworth, Middlesex: Penguin Books,
+1988), 383–400.
+22. See Jon Wiener, “Inside the Nixon Liebrary” and “Tocqueville, Marx, Weber, Nixon:
+Watergate in Theory,” in Professors, Politics and Pop (London: Verso, 1991), 270–77
+and 308–24, respectively. See also San Francisco Bay Area Kapitalistate Group,
+“Watergate, or the Eighteenth Brumaire of Richard Nixon,” Kapitalistate, no.3 (Spring
+1975): 3–14; and David Farber, “The Silent Majority and Talk of Revolution,” in The
+Sixties, ed. Farber, 291–316.
+23. John N. Mitchell, quoted in Wiener, Professors, Politics and Pop, 321.
+24. U.S. Department of Justice, Law Enforcement Assistance Administration, “Trends in
+Expenditure and Employment Data for the Criminal Justice System, 1971–74”
+(Washington, D.C.: U.S. Government Printing Office, 1976), 2–3; cited in Center for
+Research on Criminal Justice, The Iron Fist and the Velvet Glove: An Analysis of the
+US Police, 2nd ed. (Berkeley, CA: Center for Research on Criminal Justice, 1977), 5.
+25. Center for Research on Criminal Justice, The Iron Fist and the Velvet Glove, 5. For
+statistical evidence of the growth of federal expenditure on law and order under Nixon,
+see Center for National Security Studies, Law and Disorder IV (Washington, D.C.:
+Center for National Security Studies, 1976), 3; and J. D. Brewer, A. Guelke, I. Hume,
+E. Moxon-Browne, and R. Wilford, The Police, Public Order and the State (London:
+Macmillan, 1988), 111.
+26. Center for Research on Criminal Justice, The Iron Fist and the Velvet Glove, 9.
+27. John D. Brewer et al., eds., The Police, Public Order and the State, 111; U.S. Department
+of Justice, Law Enforcement Assistance Administration, “Sourcebook of Criminal
+Justice Statistics” (Washington, D.C.: U.S. Government Printing Office, 1973), 198.
+On the proliferation of private and official gun culture in the 1960s, see Lee Kennett
+and James LaVerne Anderson, The Gun in America: The Origins of a National
+Dilemma (Westport, CT: Greenwood Press, 1976), 216–45; and Robert J. Spitzer, The
+Politics of Gun Control (Newark, NJ: Chatham House Publishing, 1995), 67.
+28. U.S. Department of Justice, Law Enforcement Assistance Administration, “Sourcebook
+of Criminal Justice Statistics,” 171.
+114 Cinema Journal 46, No. 2, Winter 2007
+Shiel.qxp  2/16/07  10:42 AM  Page 114
+ 29. Robert Blake, who starred as John Wintergreen in Electra Glide in Blue, would subsequently
+win an Emmy and a Golden Globe award for his performances in the lead role
+in the popular TV show Baretta (1975–1978), based around the exploits of a maverick
+undercover New York City detective.
+30. Kael, “Saint Cop,” 78–82; David Denby, “Law and Disorder: The Cinema Cop as Sap
+and Sadist,” Harper’s 248, March 1974, 82–4. For contextualization of these representations
+in the larger history of cinematic representations of the police, see Robert
+Reiner, “From Keystone to Kojak: The Hollywood Cop,” in Philip Davies and Brian Neve,
+Cinema, Politics and Society in America (Manchester and New York: Manchester
+University Press, 1981), 195–220.
+31. See Center for Research on Criminal Justice, The Iron Fist and the Velvet Glove, 123;
+Richard Polenberg, One Nation Divisible: Class, Race, and Ethnicity in the United
+States Since 1938 (Harmondsworth, Middlesex: Penguin Books, 1988 [1980]), 218–20;
+Nelson Blackstock, COINTELPRO: The FBI’s Secret War on Political Freedom (New
+York: Anchor Foundation/Pathfinder, 1990 [1975]).
+32. Hugh Davis Graham and Ted Robert Gurr, Violence in America: Historical and
+Comparative Perspectives (Los Angeles, CA: Sage Publications, 1979), 47–61.
+33. “The Army is the only damn thing holding this country together,” cover feature on the
+United States military, Atlantic Monthly, October 1970.
+34. Graham and Gurr, Violence in America, 57.
+35. President Johnson’s Commission on the Causes and Prevention of Violence was only the
+highest profile in a long line of official and academic studies of the issue, including
+those by the National Center on Police and Community Relations (at Michigan State
+University, 1966), the President’s Commission on Law Enforcement and Administration
+of Justice (1966), the National Advisory Commission on Civil Disorders (the Kerner
+Report, 1968), and the National Advisory Commission on Criminal Justice Standards
+and Goals (1973). See National Commission on the Causes and Prevention of Violence,
+Rights in Conflict: The Violent Confrontation of Demonstrators and Police in the Parks
+and Streets of Chicago during the week of the Democratic National Convention, by
+Daniel Walker et al. (New York: Bantam Books, 1968). See also P. C. Kratcoski and D.
+B. Walker, Criminal Justice in America (Glenview: Scott Foreman & Co., 1978), 116–119;
+T. A. Johnson, G. E. Misner, and L. P. Brown, The Police and Society: An Environment
+for Collaboration and Confrontation (Englewood Cliffs, NJ: Prentice-Hall Inc., 1981), 17.
+36. Albert J. Reiss Jr., The Police and the Public (New Haven: Yale University Press, 1971),
+138.
+37. Meinig, The Southwest, 93. On the distinctive propensity of the southwest for Radical
+Right politics in the 1960s, see also Sheila R. Koeppen, “Anger on the Right,” Annals
+of the American Academy of Political and Social Science, no. 382 (March 1969): 73–82.
+38. Schatz, Old Hollywood/New Hollywood, 103–4.
+39. Ray, A Certain Tendency of the Hollywood Cinema, 298.
+40. Marsha Kinder, “The Return of the Outlaw Couple,” Film Quarterly 27, no. 4
+(Summer 1974): 2–10.
+41. For accounts of Daniel Ellsberg and Vietnam veterans against the war, see Tom
+Engelhardt, The End of Victory Culture: Cold War America and the Disillusioning of
+a Generation (New York: Basic Books, 1995), 227–54.
+42. Hitzig, interview with the author.
+43. Ibid.
+44. Theodore White, The Making of a President 1972 (London: Jonathan Cape, 1973), 96–97.
+45. McGovern quoted in White, The Making of a President, 43.
+46. See Robert Sam Anson, McGovern: A Biography (New York: Holt, Rinehart and
+Winston, 1972), 239–40; White, The Making of a President, 115–19; Spitzer, The
+Politics of Gun Control, 124; and Michael X Della Carpini, “The Making of a
+Cinema Journal 46, No. 2, Winter 2007 115
+Shiel.qxp  2/16/07  10:42 AM  Page 115
+ Consensual Majority”, in An American Half-Century: Postwar Culture and Politics in
+the USA, ed. Michael Klein (London: Pluto Press, 1994), 232–73.
+47. See Maureen Orth, “American Dreamer,” an interview with James William Guercio,
+Newsweek, September 10, 1973, 52; and Edwin Miller, “The Sound of Chicago,”
+Seventeen, December 1973, 111.
+48. Allen J. Matusow, The Unraveling of America: A History of Liberalism in the 1960s
+(New York: Harper & Row, 1984), 303, 343. On the increasing use of firearms by radical
+left groups, see Lee Kennett and James LaVerne Anderson, The Gun in America:
+The Origins of a National Dilemma (Westport, CT: Greenwood Press, 1976), 237.
+49. Michael Goodwin, “Tooling Up For Armageddon,” Take One 3, no. 4 (June 1972): 6–7.
+Similar arguments are evident in William J. Crotty, “Violence in America,” Society 9
+(May 1972): 20–29; Dan Wakefield, “The War at Home,” Atlantic Monthly 224, no. 4,
+October 1969, 119–24; and Donald P. Costello, “From Counter-Culture to AntiCulture,”
+Commonweal, vol. 46, no. 16, July 14, 1972, 383–86.
+50. See Orth, “American Dreamer,” 52.
+51. See Thomas J. Lyon, “The Nature Essay in the West,” in A Literary History of the
+American West, ed. J. Golden Taylor et al., (produced by The Western Literature
+Association, Fort Worth: Texas Christian University Press, 1987), 228–236; and Nash,
+Wilderness and the American Mind, 84–95.
+52. Quoted in Charles Champlin, “Rock Producer’s Film Hits the Charts at Cannes,”
+Chicago Sun-Times, Monday, May 21, 1973, 28.
+53. Mike Davis, City of Quartz: Excavating the Future in Los Angeles (London: Vintage,
+1992), 171–74.
+54. “50 Top-Grossing Films,” Variety, December 12, 1973, 9, and “Big Rental Films of
+1973,” Variety, January 9, 1974, 19.
+55. Kevin Thomas, Los Angeles Times, August 29, 1973, Part 2, 1; John Simon, New York
+Times, August 26, 1973, 1, 11.
+56. Jay Cocks, Time, September 10, 1973, 70; Joseph Gelmis, Washington Post, August 20,
+1973, 47. See also Charles Champlin, Los Angeles Times, August 5, 1973, 1, 64; Charles
+Champlin, Washington Post, August 26, 1973, 60; Peter Ainslie, Interview, October
+1973, 34–5; Roger Greenspun, New York Times, August 20, 1973, 21.
+57. Frank Segers, “Guercio, Tunester Turned Filmmaker, Hits Economics,” Variety,
+August 29, 1973, 1. Segers explains that “James William Guercio espouses a financial
+code that makes new line studio bosses sound like profligate spenders.”
+58. Segers, 1. $970,000 was provided by United Artists.
+59. See Orth, “American Dreamer,” 52.
+60. Tino Balio, United Artists: The Company that Changed the Film Industry (Madison:
+University of Wisconsin Press, 1987), 69–74. Indeed, David Picker did not survive long
+as president of United Artists, leaving to work in independent production in October
+1973, just a few months after the release of Electra Glide in Blue.
+61. Ray Loynd, “A Media Empire in the Rockies,” Los Angeles Herald-Examiner, August
+5, 1973, 1, 6. In addition to music producing and the Caribou Ranch recording facilities,
+Guercio developed his business into Country Music Television, a corporation that
+was eventually sold to Opryland USA Inc., a division of Gaylord Broadcasting and
+Westinghouse Broadcasting Company in 1991. The Caribou Ranch was described as a
+haven for Guercio, his family, friends, and other rock superstars of the day. See also
+Peter Ainslie, “James Guercio: The Electra Director,” Interview, October 1973, 34–35.
+62. Charles Champlin, “Rock Producer’s Film Hits the Charts at Cannes,” Chicago SunTimes,
+Monday, May 21, 1973, 28.
+63. Miller, “The Sound of Chicago,” 123. See also Gene Moskowitz, review of Electra
+Glide in Blue, Variety, May 23, 1973, 18.
+116 Cinema Journal 46, No. 2, Winter 2007
+Shiel.qxp  2/16/07  10:42 AM  Page 116

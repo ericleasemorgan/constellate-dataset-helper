@@ -1,0 +1,738 @@
+UVA-ENT-0027 
+ 
+ 
+This case was prepared by Andrea Larson, Assistant Professor of Business Administration. It was written as a basis for 
+class discussion rather than to illustrate effective or ineffective handling of an administrative situation. Copyright  1997 
+by the University of Virginia Darden School Foundation, Charlottesville, VA. All rights reserved. To order copies, send 
+an e-mail to sales@dardenpublishing.com. No part of this publication may be reproduced, stored in a retrieval system, 
+used in a spreadsheet, or transmitted in any form or by any means—electronic, mechanical, photocopying, recording, or 
+otherwise—without the permission of the Darden School Foundation. Rev. 1/99.  
+  
+ 
+ 
+ 
+WALDEN PADDLERS 
+ 
+ 
+In late 1995, Paul Farrow, at age 45, could look back with satisfaction and pleasure at the 
+path his company, Walden Paddlers, had traversed in the three years since he first wrote his business 
+plan. The company had produced its first kayak, made from recycled plastic milk bottles, in April 
+1993. Since then, Walden Paddlers had sold over 5,000 boats. Three models had been successfully 
+designed and built, and then had been sold through leading national retailers to consumers who were 
+looking for good value. Although competition was growing, the market yet to be reached was 
+significant. With over $1 million in sales and a comfortable cash flow, Farrow, along with his 
+partner Dale Vetter, was ready to take the company in a new direction. But the precise course was 
+not entirely clear. 
+ 
+For the past few months, Farrow had considered alternative products, possible new markets, 
+capital requirements, the implications for growth, and whether the company could continue as a twoperson
+virtual corporation through the next stage. One option was to stay the course, focusing on the 
+low end of the kayak market and producing a limited number of models. A second path was to 
+expand aggressively into more kayak segments, moving up from recreational boats all the way to 
+white-water and sea-going kayaks. A third option was to diversify into other recreational products 
+for outdoor use made of recycled plastics. Farrow and Vetter had also looked at recycled products 
+targeted at automotive and footwear markets. Each direction had its pluses and minuses, and Farrow 
+needed to make some commitments soon. Looking back over the past three years, he commented, “I 
+hate to think what I might be doing if I hadn’t started the business. I’d probably be overweight, 
+working in an office somewhere, constantly bored or at least anguished.” He now faced some tough 
+decisions and if these questions caused anguish, at least it was the right kind of anguish. His business 
+was already successful, but what should come next? 
+ 
+ 
+Founder’s Background  
+ 
+Farrow typically dismissed his Wharton undergraduate degree in finance, claiming he had 
+learned more about business selling new Toyotas during those same years. But in the 1970s, his 
+finance education enabled him to work as the budget and planning manager for Environmental 
+Research and Technology, a small new firm that designed air quality monitoring programs and 
+conducted meteorological research. By the end of the 1980s, he had worked in financial and general 
+management positions (strategic and corporate planning) with several environmentally related 
+  -2- UVA-ENT-0027 
+ 
+corporations that had experienced rapid growth. Because of his love for the outdoors, Farrow made a 
+point of working with environmentally-conscious corporations. This emphasis, however, did not 
+hamper his success as a manager: one firm Farrow had worked for grew from $7 million to $20 
+million under his direction as CFO, and later CEO. In another situation, he participated in a small 
+company turnaround that had required significant layoffs and reinvention of the product line. Farrow 
+tended to become deeply involved with whatever he did and as his experience base grew he became 
+more particular about what type of work he wanted. At one point, he left his position as president of 
+an electronic equipment manufacturing company because, as he later explained, “It wasn’t 
+satisfying, in a soul sense.” In the late 1980s and early 1990s, Farrow served as general manager of 
+the ORS Environmental Equipment division of Groundwater Technology, where he had 
+responsibility for 100 employees and $10 million in revenues. 
+ 
+As early as his twenties, Farrow had set out specific criteria for the type of work he wanted. 
+He wanted to do something independent, he wanted to make something rather than work in a service 
+business, he wanted to do something that connected to healthy outdoor exercise, and he wanted to 
+have fun. When he was laid off from Groundwater Technologies in a downsizing in the summer of 
+1992, Farrow took the time to reflect on the criteria and vision he had set out earlier in his life. The 
+termination agreement provided him with corporate out-placement resources of an office, telephone, 
+staff, and research facilities. The question was whether he would take this opportunity to start 
+something new or go back into a traditional corporate environment. No ideas for a business had yet 
+presented themselves. 
+ 
+While on a family vacation in Maine he observed that well-made kayaks were available for 
+expert kayakers, but the novice had little choice but to spend over $400 on a boat that usually lacked 
+the design characteristics that would allow him or her to easily master and enjoy the experience. 
+Farrow’s knowledge of plastic prices enabled him to do some back-of-the-envelope calculations. 
+When he and his sons went out in their boat, they were riding in 35 pounds of 40 cent-per-pound 
+plastic. Was there an opportunity here? A vision began to take hold on that Maine trip. Why couldn’t 
+Farrow use recycled plastic to produce an inexpensive boat that had many of the outstanding design 
+features of more expensive kayaks? 
+ 
+ 
+Industry and Competition 
+ 
+He returned home and began to research the kayak market. The paddlesports market 
+consisted of canoeing, kayaking, and rafting. Although in the mid-1980s there were no industry 
+statistics and no one had ever done a comprehensive market study, by the early 1990s some figures 
+had emerged. A 1992 Paddlesports Market Overview report by Judy Harrison, publisher of Canoe 
+magazine, stated that the market “makes up one of the most vibrant and affluent segments of today’s 
+outdoor recreation industry” and that participation was growing “at a strong rate.” Yankelovich 
+Clancy Shulman, the national market research firm, reported that 14 million Americans over the age  
+of 16 participated in paddlesports in 1991, while another 16 million said they “intended to” do so in 
+the next few years. Prime time television coverage of several paddlesports events in the 1992 
+summer Olympics only fed this growing interest. 
+  -3- UVA-ENT-0027 
+ 
+Because participation numbers for kayaking were often combined into canoeing and/or 
+rafting statistics, precise calculations were difficult. In 1992, it was reported that kayaking and 
+rafting participation numbers were tabulated together and had been tracked since 1988. The report 
+showed that participation in the combined category had increased 33% since 1988, a significant 
+growth rate when compared with participation in other outdoor recreation and sports activities. 
+There were three segments in the kayak market: the white-water kayakers, who represented less than 
+5% of the market; touring and sea kayakers, who accounted for 5-7% of the market; and recreational 
+kayakers, who made up the remainder. The high-end touring and white-water kayaks made of 
+fiberglass could cost from $600 to $3,500. Recreational kayaks were in the $400-to-$600 price 
+range. The weighted average per unit price for a kayak was $600 to $700 since far more boats were 
+sold at the bottom end of the market.   
+ 
+The 1991 Canoe magazine Buyers Guide listed 85 manufacturers of canoes and 75 
+manufacturers of kayaks and sea kayaks. 
+ 
+ Perception/Aquaterra was the biggest competitor in kayaks, with revenues of approximately 
+$25 million to 35 million. Based in South Carolina, they dominated the American market, 
+selling twenty-five models, ranging from small children’s kayaks to high-end fiberglass 
+boats. Their “Keowee” recreation kayak was the world’s best-selling kayak; they had sold 
+more of these than all their other units combined. 
+ Dagger Canoe and Kayak Company, based in Tennessee, offered a comprehensive line of 
+canoes and kayaks that cut off at the top end of the recreational market. Although they did 
+lower volume compared to Perception/Aquaterra, they had an excellent reputation and were 
+respected as a major player. 
+ Wilderness Systems from North Carolina was third in the market. It had a broader line than 
+either Perception/Aquaterra or Dagger, a devout dealer base, and an aggressive “go-for-it” 
+reputation, but low market penetration.  
+ Maine-based Old Town Canoe, over 100 years old, was the traditional player. With over 800 
+dealers in the United States, Old Town had incredible market power but had always sold to 
+the recreational market and to hunting and fishing dealers. 
+ Ocean Kayak in Washington had popularized the sit-on-top kayaks used in warm climates 
+and had become a strong niche player, selling about 15,000 to 20,000 units annually.  
+ Kiwi, based in California, specialized in the less versatile, lower-end boats, and dominated 
+that state’s market.  
+ 
+Farrow described Kiwi’s product as the tricycle of the kayak world: beginners enjoyed learning the 
+rudiments of kayaking on it, but soon wanted to move up to a “bicycle.” Farrow’s goal was to 
+provide the two-wheeler. 
+ 
+Farrow estimated that 80% of the plastic nonwhitewater kayak market was accounted for by 
+Perception/Aquaterra, Dagger, Wilderness, and Old Town. Most of the 75 kayak companies were 
+small operations, with the top eight to ten producing 90% of the units. It was difficult to get 
+information on the leading competitors because they were all privately held, but from what Farrow 
+  -4- UVA-ENT-0027 
+ 
+could gather all manufacturers were busy and working at maximum capacity. He knew that the highend
+producers were starting to produce low-end boats, and thus represented a potential threat. 
+ 
+But the relatively small market size suggested that if an appealing boat could be built, it 
+could develop the low-end recreational segment. The more research Farrow did, the more he was 
+convinced that a well-designed boat without the performance characteristics of the specialized and 
+expensive racing kayaks but significantly better than canoes and the existing recreational kayaks 
+could change the market. Farrow read the leading magazines, Paddler, Sea Kayaker, Canoe, and 
+Canoe and Kayak, searching for information that would confirm or challenge his perceptions. In 
+order to identify the top American dealers (there were over 300 paddler sports retailers in the United 
+States), Farrow consulted the magazines’ own lists of stores that carried their publications. He 
+determined significant entry thresholds to hurdle. Novices found boats hard to get into and out of 
+and were often scared of tipping over and being stuck inside the cockpit. Furthermore, prices were 
+high since white-water and touring kayaks were the only options for an enjoyable time in a kayak. 
+These weeks in the early fall of 1992 were busy for Farrow as he contacted trade associations, talked 
+with boating organizations, interviewed kayakers, and visited retail outdoor sports stores. These 
+discussions confirmed Farrow’s suspicions that selection of products was very limited and 
+performance standards were low.   
+ 
+The kayak industry was small but appeared to be growing fast. Although the industry had 
+traditionally categorized kayaks and canoes as similar products, this definition was changing. In the 
+1990s, canoe sales grew slowly while kayak sales expanded more rapidly, forcing the industry 
+analysts to separate the two segments. Farrow estimated that 35,000 kayaks were sold each year and 
+that the industry was experiencing a 20% to 50% growth rate annually. It was hard to predict what 
+would happen with the kayak market. Mountain biking had rapidly gained in popularity during the 
+late 1980s, but was leveling off in the mid-1990s. Windsurfing had peaked and declined—Would 
+kayaks have a similar story? 
+ 
+ 
+Paddlesports Consumers 
+ 
+National polls and consumer questionnaires from trade shows provided some data on users 
+prior to 1992. Sixty-one percent were males between 25 and 49 years old. The average paddler 
+tended to be a 44-year-old male college graduate who owned his own home and who had a 
+household income of $66,000 per year. One survey revealed that while 90% of paddlesports 
+participants engaged in flatwater canoeing, 38% kayaked and 32% owned their own kayaks. It was 
+clear that many paddlesports participants were cross-over paddlers involved with canoeing and 
+kayaking. Canoeing appeared to be more of a family activity whereas kayaking was more of a single 
+participant sport. 
+ 
+Farrow noticed that the average age of paddlesports participants was shifting upward, with 
+more adults over 40 showing interest in the activity. Studies indicated the consumer was not overly 
+price sensitive when purchasing equipment, focusing more on quality, performance, and value than 
+on cost. Beginner kayakers did not ask many specific questions about the product, but they wanted to 
+feel confident that they could handle it and have fun. It was only after gaining some experience that 
+they would inquire about tracking ability and seat comfort prior to purchase. More advanced 
+  -5- UVA-ENT-0027 
+ 
+kayakers had other concerns, including maneuverability and the durability of the hull. White-water 
+kayakers were very design conscious, buying a new kayak every other year as the technology 
+advanced at that end of the market. Sea kayakers were to white-water kayakers as cross-country 
+skiers were to downhill skiers. Canoeing and kayaking participants tended to own their equipment 
+and bought a wide range of accessories and apparel in addition to their boats and paddles. Two areas 
+of the novice kayak market had shown only limited growth: women and older children and the over 
+55 age group. Farrow believed that by using a targeted marketing approach he could reach these 
+overlooked segments. 
+ 
+ 
+Recycled Plastics Market 
+ 
+Farrow also researched the recycled plastics market, which was still in its infancy. Collection 
+programs generated an abundance of post-consumer material, but many product designers, 
+concerned both about the quality of recycled plastic and the lack of technical data, were hesitant to 
+use it. In 1994, only 2% of collected plastic was recycled into new products, despite the fact that 
+curbside and other collection programs had grown from 600 in 1989 to over 8,500 in 1994. Of the 45 
+plastics used in various products, only six were collected on a national scale: polyester terephthalate 
+(PET), high-density polyethylene (HDPE), low-density polyethylene (LDPE), vinyl/polyvinyl 
+chloride (PVC), polypropylene (PP), and polystyrene (PS). The appeal of these plastics was that they 
+retained most of their original performance abilities and materials characteristics after recycling. 
+Reclaimers—national firms that handled recycled plastics—would pelletize, clean, flake or grind, 
+and then sort all six plastics for further use. 
+  
+  Farrow wanted Walden to be a pioneer in manufacturing with recycled plastic. Having been 
+involved with environmental cleanup projects in the past, Farrow felt strongly about reducing the 
+amount of waste going into landfills and encouraging the growth of secondary materials markets. 
+Farrow was particularly mindful of the fact that because there was next to no market for recycled 
+plastic, most collected materials ultimately ended up in landfills anyway. Walden Paddlers’ products 
+would divert materials from the waste stream and help to expand the recycled plastics markets. The 
+name Walden Paddlers linked to environmental values as well (see Exhibit 1) and Walden Pond was 
+only a short distance from Farrow’s home. 
+ 
+Having decided to establish Walden Paddlers, Farrow moved quickly. He completed the 
+business plan by late fall 1992, he incorporated the company in October 1992, and the manufacturer 
+produced the first boats by April 1993. During these extremely busy months, Farrow also established 
+a complex set of relationships with his suppliers. With capitalization of just over $100,000, he 
+launched his company. 
+ 
+In December 1993, Farrow welcomed Dale Vetter as a partner. With a background in 
+engineering and a B.S. in business, Vetter had held the responsibility for operations (manufacturing, 
+logistics, and quality) in Groundwater Technology. During the fall of 1993, Farrow had talked 
+frequently with Vetter about logistical questions. Anticipating the sale of Vetter’s division Farrow 
+had been urging Vetter to join forces with him since October. The marriage was a good one: Farrow 
+had responsibility for financial matters and sales, and Vetter handled manufacturing and logistics. 
+Vetter described himself as thriving on detail; Farrow had the vision. Furthermore, Vetter was happy 
+  -6- UVA-ENT-0027 
+ 
+to move from a steadily worsening circumstance to a high-energy situation working with someone 
+he respected and trusted. The partners had a contract that determined compensation and that could 
+be renegotiated on a yearly basis. 
+ 
+ 
+Setting Up the Company 
+ 
+Manufacturing 
+ 
+Farrow knew that the key link would be the manufacturer who would actually mold the new 
+kayak. When he and Vetter were with Groundwater Technology they had engaged a molder, Hardigg 
+Industries in South Deerfield, Massachusetts (a two-hour drive from Walden’s location). ORS, the 
+Groundwater Technology division Farrow had run, had been the first business to approach Hardigg 
+with an environmental product. Hardigg, a company with twenty-five years experience in molding 
+plastics, was one of only a dozen American companies using rotomolding machines large enough to 
+produce kayaks. Of those twelve, only five took on custom work; the only one of the five located in 
+the northeast was Hardigg. The rotomold technology created a boat in one piece and a uniform color. 
+The metal mold opened lengthwise like an envelope and was filled with plastic powder. The 
+equipment was then placed into an oven and rotated. As the powder melted it coated the mold. 
+Taken out of the oven after a precise length of time and at a set temperature, the mold continued to 
+rotate as the plastic cooled and solidified. This technology was typical in the kayak business. 
+ 
+In the fall of 1992, recession pressures combined with a drop in military contracts had 
+created excess capacity for Hardigg. Joe Strzegowski was responsible for building up custom 
+business, which would make use of that capacity and relieve Hardigg from its historical 99% 
+reliance on defense contractors. Typically, custom clients paid for the cost of new molds up front. 
+This could be a significant initial sum with the cost of subsequent production less of an investment 
+binder. 
+ 
+After talking with Farrow, Strzegowski knew that the typical transaction, based on current 
+production techniques and a high up-front price for the first molded piece, would not suffice. 
+Strzegowski listened to Farrow’s plans and his hopes for the product and was impressed with his 
+knowledge and openness to input. They crafted an exception to the typical arrangement, a flexible 
+two-year agreement, closer to an understanding than a legal document. Rather than charge a 
+prohibitively large amount for the first kayak and then taper off the cost of subsequent units, Hardigg 
+would share the start-up cost with Walden Paddlers. Balancing out the agreement, Hardigg made a 
+$200,000 capital investment in new technology to produce the innovative kayaks. The agreement 
+allowed each party an escape clause should volume targets not be realized; it also included two-year 
+non-compete language. Finally, since Farrow was determined to increase the percentage of recycled 
+material in the boats, he agreed to absorb the additional costs of that effort with both parties agreeing 
+to share the savings realized. This three-page understanding enabled Walden Paddlers to start 
+business. Hardigg, by being unusually flexible, had created a new and potentially growing customer 
+for the company’s custom business. Extra support came from the son of Hardigg’s founder, a 
+committed white-water kayaker who had tried in the past to get the company involved in kayak 
+manufacturing.  
+  -7- UVA-ENT-0027 
+ 
+Over time, Farrow realized the fit with Hardigg made sense from another angle. Hardigg was 
+a special kind of company with a long history in its community. Compared to many company 
+owners, the founder was advanced in his management thinking and in his commitment to his 
+employees’ quality of life. Employees were seen as partners and the company was in it for the long 
+haul with both employees and partner-customers. Farrow, who shared these values called Hardigg “a 
+blue chip partner.” Hardigg offered 60-day terms and Walden paid on the 59th day, without 
+exception. These practices, combined with the win-win collaboration on new products, resulted in a 
+high degree of trust between the two companies. This trust translated into real dollar savings for 
+Walden, because Hardigg would hold inventory for Farrow.  
+ 
+Product design 
+ 
+At the same time that negotiations were underway with Hardigg, Farrow was looking for a 
+designer to assist with the technical specifications of the kayak. After meeting with no success in 
+contacting engineering departments in the Boston area’s major technical universities, he asked his 
+brother-in-law if he had any suggestions. The brother-in-law, who was working toward his doctorate 
+in materials engineering at Rensselaer Polytechnic Institute (RPI) in Troy, New York, put Farrow in 
+touch with one of his professors, Steve Winckler. Winckler was considered one of the foremost 
+materials scientists in the country and understood Farrow’s objectives and concerns. He introduced 
+Farrow to Jeff Allott, his partner in a company called General Composites based in Clifton Park, 
+New York. Allott was fascinated by the challenge of designing Walden’s kayak, his enthusiasm 
+driven by his own passion for canoeing and his practical knowledge of the performance 
+characteristics Farrow sought. The timing was good for General Composite’s business as well. 
+Winckler and Allott were trying to reposition their firm away from defense and aerospace revenues 
+toward sporting goods, an area in which both their hearts lay. They too were impressed with 
+Farrow’s homework on the market and his financial skills. They saw him as sharp, passionate about 
+his goals, and eager to learn. 
+ 
+After several lengthy phone conversations, in October 1992 Farrow drove to New York to 
+meet Allott for the first time. They agreed on design features and set up a schedule that would spread 
+Farrow’s payments out over the eight months from design to final production. Two-thirds of the 
+payment was pegged to milestones such as the design of the first and second prototypes and approval 
+of the first product out of the mold. In that way, Allott was tied into the whole process, an 
+arrangement that enabled both sides to continuously learn and adapt their plans. The final third of 
+Allott’s payment would come as a fixed unit royalty on each boat sold. Because of his personal 
+interest in the initiative, Allott also agreed to be a sales representative for Walden Paddlers in upstate 
+New York and Vermont, a natural fit as he was well connected with the regional white-water racing 
+community in those areas. Allott’s level of commitment became clear following an electrical fire 
+that burned General Composite’s shop to the ground just a week after Farrow and he had signed their 
+agreement. In order to complete the design on time, Allott worked long hours from November to 
+January out of his house. The actual prototypes had to be built at another shop several hours away, 
+and Allott drove through the harsh New England winter several times a week to complete the 
+construction.  
+  -8- UVA-ENT-0027 
+ 
+Materials 
+ 
+During the same time period, and after many efforts and dead-ends, Farrow established a 
+connection with Clearvue Plastics in Amsterdam, New York, a vendor of recycled plastics made 
+from industrial and consumer waste. Clearvue, a small firm, had a reputation for being open to new 
+ideas. Farrow and Strzegowski convinced Clearvue to produce a high-quality plastic pellet that 
+previously no one had thought technically feasible. To do so Clearvue had to meet Walden’s quality, 
+consistency, and color requirements and also maintain a consistent melt index (the temperature at 
+which the plastic would melt). 
+ 
+Walden’s first two kayaks used a twin-wall construction, which combined a virgin plastic 
+outer skin (LDPE) with a recycled foam core consisting of a combination of 30% post-consumer 
+HDPE (milk bottles) and 70% postindustrial LDPE (factory trim scrap). Using virgin material on the 
+outside reduced the tendency of the boat to adhere to the manufacturer’s mold and allowed a wider 
+choice of colors. Both Strzegowski and Farrow were active in the selection of pellets, learning 
+together each step of the way. 
+ 
+Marketing and sales 
+ 
+By April 1993, the prototypes had been tested and boats were emerging from Hardigg’s 
+molds in western Massachusetts, just seven months after Farrow had started writing his business 
+plan. Farrow’s strategy was to approach a small number of leading retailers. He had already 
+introduced the concept of his kayaks to dealers such as Eastern Mountain Sports (EMS). Now he 
+was able to offer them test boats. Because of his low cost production process, he could offer dealers 
+a margin ten percentage points higher than the competition. Farrow prepared a clean and 
+straightforward brochure for retailers and gave them demonstration boats for thirty days to test, sell, 
+or take apart. He only asked that at the end of thirty days they either pay for them or return them. 
+The strategy worked. EMS, a leading national outdoor equipment retailer with forty-seven stores in 
+the eastern United States, was very interested after receiving the demo boats. Soon after, Farrow 
+headed to Recreational Equipment Inc. (REI), the leading retailer on the west coast with thirty-six 
+stores and a long and successful history of catalog sales. By May 1993, L.L. Bean had picked up the 
+kayak. Farrow also turned to a hotbed of kayaking, the Charles River Canoe and Kayak organization 
+in Newton, Massachusetts to invite kayakers to trial test the boats and feed future design suggestions 
+back into Walden. He buttressed these initiatives by establishing a relationship with IMTRA, a New 
+Bedford, Massachusetts wholesale marine distributor that sent Walden boats out into its network of 
+1,600 dealers. He also contacted Boy Scout camps and sent boats with superficial flaws to YMCA 
+camp organizations. 
+ 
+As retailers ordered more boats, the logic of the relationships became more visible. Walden 
+offered a compact product line and a flexible order system that enabled dealers to keep low 
+inventory. In addition, Walden’s business values and culture matched those of the dealers. 
+Companies like REI, L.L. Bean, and EMS emphasized environmental responsibility and used it as 
+strong selling point. Perhaps even more so than their customers, these companies’ managements 
+were committed to environmentally responsible products. Because of this they were willing to make 
+helpful suggestions as partners in an environmental vision. Farrow quickly learned from them and 
+tailored his products and practices to their needs, locking up these accounts in a relatively short 
+  -9- UVA-ENT-0027 
+ 
+period. EMS became an especially valuable source of information about retail behavior. While 
+Farrow thought of his kayaks as the lowest-cost products, the dealer told him emphatically not to 
+have lowest cost at retail because the second product up the price category was usually the biggest 
+seller. At EMS’s suggestion, he took the retail price of his first kayak up from $329 to $399. Walden 
+also produced a video to reach customers through its key retailers. Because the typical retail store 
+had a high annual turnover of salespeople (many high school and college students who worked for 
+two to three months), Walden’s challenge was to communicate the kayaks’ unique features directly 
+to customers in some 200 retail locations. The video shown inside the stores demonstrated the 
+design, performance, and safety features of the Walden kayaks, and enabled Walden to reach 
+through the stores to their customers. By 1995, 250 retail dealers sold Walden’s kayaks. Reaching 
+the EMS and REI stores that carried boats enabled Walden to cover a considerable portion of the 
+market. Those two companies sold an estimated 10 to 20% of all kayaks in North America. See 
+Exhibit 2 for a copy of the company’s sales brochure. 
+ 
+Company mission 
+ 
+Farrow’s commitment to the product, his willingness to learn and adapt, and his business 
+know-how all contributed to the positive reception he received as he contacted the various players. 
+But the company’s formal mission statement, articulated in October 1993, also helped prospective 
+partners to understand and evaluate this newcomer. When he visited the headquarters of Ben and 
+Jerry’s, a successful and growing socially responsible ice-cream maker, he read the company 
+mission statement hanging on the wall. Farrow then decided to put his vision for Walden Paddlers 
+into a statement that could be clearly understood. The Company Mission was straightforward: 
+ 
+Walden Paddlers
+tm
+ is dedicated to three simple objectives: 
+ 
+ First, to help more people pursue the healthy outdoor pleasures of paddling, so they can 
+enjoy Nature and help to preserve it for our children. 
+ Second, to divert waste from the landfills of our towns by making it into high quality, high 
+value, useful, reusable/recyclable products. 
+ Third, to provide a decent living for our company’s family and those of its affiliated 
+companies, dealers, and suppliers. 
+ 
+By 1995, Hardigg was making over 3,000 boats—up from 2,000 boats in 1994—at a cost to 
+Walden of less than $100 per boat. Being able to sell at a higher price than he originally planned 
+enabled Farrow not only to generate the revenues he had projected, but to attain higher profitability. 
+As Walden’s distribution experience grew, so did new opportunities for environmentally responsible 
+product features. Walden’s unprecedented environmental product design extended to the kayak’s 
+storage bag. Kayaks arrived at the retailers in attractive bright colored storage bags that could be 
+purchased as part of the product and reused to store either the kayak or other items. The goal was to 
+avoid using packaging that created landfill-destined waste. In Farrow’s words, “A cardboard box 
+would have added $10 to the freight cost, someone’s having to pay for its removal, and it ends up in 
+a landfill. It doesn’t make sense.” Half the dealers sent the colored shipping/storage bags back to be 
+reused on future boats. (Walden could get a dozen turns out of these.) Other dealers sold the new 
+bags or gave them away for promotional purposes. 
+  -10- UVA-ENT-0027 
+ 
+Product line 
+ 
+The first kayak model, the Naturalist, was built in the spring of 1993 and sold for $399. The 
+Naturalist was ten feet long (305 cm.), 27 inches wide (69 cm.), 13 inches tall (33 cm.), and weighed 
+34 pounds (16 kg.), light enough for most children over twelve to carry. The cockpit featured a 
+comfortable full back bucket seat that could be detached for camp use. Key to the design was the 
+superior tracking (a measure of how straight the kayak moved when paddled through still water). 
+This boat was followed by the Walden Experience, which added a nylon spray skirt that could be 
+wrapped around the paddler’s waist to protect against rain, and deck rigging consisting of a one-half 
+inch bungee cord that crossed the kayak to secure the skirt or hold a jacket. The boats could be 
+ordered in forest green, blue, or yellow. For $40, the sturdy recyclable plastic zippered cover bag 
+mentioned above provided an effective protection for the kayak on car roof racks. The cockpits were 
+designed for easy entry and exit and the hull design provided stability for performance in the water 
+and for getting in and out of the boat. The promotional brochure, produced on unbleached beige 
+paper with dark green lettering, promised quality, toughness, beauty, and value for the dollar for a 
+boat that contained more than 50% recycled content. The company pledged in the literature to work 
+toward kayaks constructed entirely of recycled and recyclable materials.  
+ 
+By December 1994, Walden was “buried in orders for the spring” with Hardigg busy 
+producing for the 1995 season. Because Farrow was operating only with Vetter, he kept the number 
+of sales accounts low. By maintaining only a small number of key strategic accounts Farrow was 
+able to talk to all his clients bi-monthly, and had virtually daily contact with EMS and REI stores. 
+The constant communication allowed him to provide just-in-time inventory.  He always kept a small 
+buffer stock to exchange colors and at least 25% additional inventory was readily accessible should 
+an account ask for additional kayaks. By the end of 1994, after several months of cultivating  
+key relationships, Farrow reflected on the pattern he could see. He called it his four-point transaction 
+test and applied it to the relationships he had and to the ones he wanted to create. 
+ 
+ Clear mission 
+ Clear expectations 
+ Mutual benefits 
+ Trust 
+ 
+ 
+New Product in 1995 
+ 
+In January 1995, Walden introduced the Vision, a bigger kayak made for more experienced 
+paddlers. Targeted toward a different market niche, the Vision was a versatile, light, and affordable 
+twelve-and-one-half-foot touring boat. Marketed as a new concept in kayaks, this compact boat 
+handled as well as the fifteen-foot touring kayaks and had a strong ability for tracking, accelerating, 
+and gliding. A new seat and foot brace system accommodated a wide range of paddler heights 
+without compromising performance. It included amenities such as a water bottle loop, map holder, 
+and a tray for sunglasses, flares, or wallets. The Vision could be used in up to level 2 rivers with flat, 
+fast-moving water because it had a keel and therefore could track easily through such water. The 
+  -11- UVA-ENT-0027 
+ 
+kayaks made for rougher conditions had no keels on the bottom of the hull, enabling them to move 
+quickly in any direction. 
+ 
+Allott from General Composites designed the Vision, but Hardigg did not have the 
+capabilities to serve again as the manufacturer. Hardigg was experienced in rotomolding but not in 
+the thermoforming technology required for the new boat. After talking with several manufacturers 
+within reasonable distance, Walden began working with Universal (Walden continued to work with 
+Hardigg on rotomolding technology), a 60-year-old company located in Chicopee, an hour and a half 
+from West Concord. Universal had extensive experience with thermoform production and knew of 
+Hardigg’s experience with Walden Paddlers. Walden explained the quality, materials consistency, 
+and color requirements they needed.  
+ 
+Universal was looking for bigger capacity and new products. They were somewhat unusual 
+in their industry in their willingness to take on new projects, experiment and take the initiative where 
+others might shy away. They were opportunistic and flexible and saw Walden Paddlers’ business as 
+an opportunity to learn and to expand their products. Even though they could not pay off the cost of 
+the machine on Walden’s business alone, Universal invested about $200,000 in a new machine for 
+the mold. This equipment held the mold, heated the plastic sheet, and pulled the plastic to the mold 
+for the forming process. Walden paid the full price of the new molds that were required. 
+ 
+Thermoform technology molded one-half of the boat at a time. A flat piece of plastic was 
+heated up and pulled over on top of a boat mold that then sucked the plastic down into the mold. The 
+top and bottom were made at Universal and then brought to the West Concord Walden facility where 
+a seat with foot braces was installed in the hull and the two sides were joined and sealed, and a 
+decorative strip was placed over the seal. One advantage to the thermomolding technique was that 
+the top could be made of one color and the bottom another. This enabled Walden to make the Vision 
+look like the much higher-priced fiberglass racing kayaks. The efficient performance and smaller 
+cockpit were suited to the more aggressive and advanced paddler Walden was trying to attract. The 
+Vision sold for $629 at retail and was the first kayak Walden had made of 100% recycled  
+materials. Walden described the new product as “a kayak that looks and acts like the high priced 
+touring boats, but delivers on the Walden Paddlers’ mission of excellent value and maximum 
+environmental responsibility.”  
+ 
+Farrow started a newsletter in the fall of 1994 to stay in touch with people who had 
+purchased Walden kayaks. Sent quarterly, these friendly communications on the front and back of 
+one page brought readers up to date on the company’s growth, publicity, and new product 
+information and schedules; it also invited customers to provide feedback and suggestions for 
+improving the kayaks. The Company Mission was included and the company’s environmental 
+commitment was consistently reinforced.  
+ 
+ 
+Virtual Corporation 
+ 
+By 1995, INC Magazine, the Boston Globe, Esquire, and other publications had cited Walden 
+Paddlers as a prime example of a virtual corporation for the 1990s. NBC’s Today Show interviewed 
+Farrow, emphasizing the Walden’s concern for the environment and its unique features as a virtual 
+  -12- UVA-ENT-0027 
+ 
+corporation. A virtual corporation had no employees; it operated successfully by farming out key 
+functions to specialized firms rather than managing those same functions in-house. A virtual 
+corporation outsourced, often through flexible and informal subcontracts, as many tasks as possible, 
+and devoted itself primarily to coordinating all the various activities. This arrangement eliminated 
+the need for investments in fixed assets and kept overhead low. It also resulted in a flexible network 
+organization of suppliers and customers that could adapt to the market and that could be highly 
+productive when the alliance relationships were managed well. 
+ 
+It was a fact that Walden operated in an unusual way. Until December 1993, when Vetter 
+joined the company, Walden consisted of Paul Farrow. In August 1995, the company had two 
+partners, but still no payroll. As the company’s sales grew Farrow and Vetter could not handle 
+everything themselves. To help with final preparation of the kayaks for transportation from West 
+Concord, two full-time people were leased from Friday Management Company in Framingham, 
+Massachusetts, a town within an hour’s drive of Concord. Farrow’s son Ben also helped during the 
+summers readying the kayaks for transport. In addition, a relatively young retired executive from 
+Dun and Bradstreet, who was also an active canoeist and kayaker, was available to help with crisis 
+deadlines. But through the leasing of employees, Friday Management became another relationship in 
+the network web. The firm handled Walden’s entire payroll and personnel functions, an arrangement 
+that was ideal for the fledgling firm that could now “hire” two people for considerably less per week 
+than it would have cost to hire and pay benefits in-house. Friday Management was managing 
+approximately 18,000 people in 1995, so it could get good insurance and health rates for its people. 
+Both sides saw the attractiveness of the partnership. Farrow and Vetter could select the people they 
+wanted, train them, and then put them on Friday Management’s payroll. Thus far, the arrangement 
+with those hired had worked out fine. 
+ 
+What motivated Paul Farrow to start as a virtual corporation? “It was so much faster,” he 
+recollected. He did, however, express some caution about managing a virtual corporation: “The 
+downside is that it means you are constantly selling.” He went on,  
+ 
+It shows you the difference between a large corporation and someone like Walden 
+Paddlers. The large firms are run to a large extent on control, power, and fear. I can’t 
+use fear, power, or any traditional form of explicit control. I have to help people 
+believe in what we are doing, find ways to get them to buy in. You have to be willing 
+to hear “no” over and over—yet still keep going. 
+ 
+ 
+Conditions in Late 1995 
+ 
+By August 1995, Walden Paddlers was struggling to keep its 250 North American retailers 
+stocked as demand continued longer into the season than Farrow had anticipated. The sustained 
+inventory demand was driven in part by a late summer that extended from the Rocky Mountains to 
+the West Coast. The region had experienced snow late the previous spring, then a late spring, and 
+was now still feeling the effects of that winter in its waterways with some rivers still moving so fast 
+they couldn’t be used for recreational paddling. To service distant accounts more satisfactorily, the 
+company had added a sales representative who covered the West from Washington state to Mexico. 
+A former editor of Paddler magazine, the rep was well connected, although most accounts were 
+  -13- UVA-ENT-0027 
+ 
+small, and volume was not substantial compared with East Coast sales. Shipping had presented a 
+cost problem but Vetter had arranged to pack 50 to 100 boats into containers that they filled 
+themselves at the West Concord facility. This had brought the transportation expenses down 
+considerably.  
+ 
+Sales of the new Vision touring kayak, introduced the previous December, were doing well. 
+Customers loved its paddling ability; it was a logical step up from the Naturalist for the less 
+seasoned but advancing kayaker. Vetter complained in August 1995, “I never have inventory.” Due 
+in large measure to REI’s and EMS’s successful efforts, over 500 Vision kayaks had sold already, 
+exceeding Farrow’s sales projections. 
+ 
+Overall sales had been enhanced in the summer of 1995 by substantial demand from Canada. 
+Distribution was possible through agreements with Mountain Equipment Coop and Mid-Canada 
+Fiberglass. The latter made fiberglass canoes that they shipped to the United States. Their trucks 
+would deliver the canoes to distribution points in the United States and return with Walden’s kayaks, 
+which they, in turn, would distribute through their dealers in Canada. Indeed, because that market 
+held such potential for the company, Farrow attended the Canada Outdoor Retailer Market show in 
+September. 
+ 
+By this time, Farrow and Vetter had converted the Naturalist to 100% recycled plastic 
+content. They had tested plastic materials in the fall of 1994 and resolved the cracking problems that 
+first appeared. By January 1995, all the bugs were worked out and they began molding and shipping 
+the 100% kayak in March. This objective had been reached only through determined persistence. 
+Vetter described their attitudes: “You can’t compromise on these goals, finding the right cost, 
+vendor, materials. You can’t take no for an answer. If you keep saying it enough times you can get 
+the vendors to believe. It is too late [on environmental issues] to compromise, it will happen, people 
+will come around.” An example of their uncompromising environmental stance with suppliers was 
+the position they took with New England Foam, who supplied foam foot braces and foam pads 
+inserted under the seats. The company was sending their products to Walden Paddlers’ facility in 
+thick cardboard paper packaging that Walden had to dispose of. Vetter declined to accept the 
+packages and told New England Foam that they had to take their boxes back or they could find 
+another customer. “You have to take that attitude,” he said. “You can’t accept that this is the way it 
+is, you have to insist on change. You have to demand that things change.” By 1995, New England 
+Foam was delivering its product in large cardboard boxes, taking the foam out, and carrying the 
+boxes back to their factory to be reused until they deteriorated and could be recycled.  
+ 
+Walden Paddlers success was having an effect on the industry. While there was still no direct 
+competition in New England, the competition elsewhere was heating up. Old Town Canoe was now 
+producing kayaks and had introduced a competitive boat similar to the Naturalist at the same price 
+point. The Outdoor Retailers Show in Reno in mid-August proved Walden Paddlers’ boats had 
+attracted attention. Perception/Aquaterra, the largest competitor and sales leader, introduced two 
+new models at the show that competed directly with the Naturalist and the Vision.  
+ 
+Yet the new products were not just a response to Walden. In 1995, the National Sporting 
+Goods Association reported a 32% growth in canoe use (the number included kayaks), ranking it the 
+third-fastest growing sport behind roller blading and roller hockey. Canoe magazine’s publisher, 
+  -14- UVA-ENT-0027 
+ 
+who visited every kayak manufacturer at the show, noted that anecdotal reports indicated a 35% to 
+60% increase in production. (Precise industry statistics were difficult to get since all the 
+manufacturers were privately owned.) The increased use of canoes and kayaks was only one part of 
+the larger trend toward outdoor activity. The National Hiking Society reported that over 70 million 
+people in the United States and Canada had recently participated in “an outdoor adventure.” 
+Numerous trend indicators suggested a continued upward climb in public participation in outdoor 
+sports and activities connected with the natural environment. On a broader societal level, public 
+opinion was strongly in support of a clean and healthy environment that could be enjoyed by 
+grandchildren, with the younger generation, the so-called “Generation-X,” particularly concerned 
+about environmental issues.  
+ 
+With Vetter’s attention to logistics and efficiencies, the company had a simple yet sound 
+distribution system. Originally, Farrow had carried the kayaks from Hardigg in his own vehicle. 
+Realizing that this arrangement could not continue, they had looked at common carriers to transport 
+the boats from the manufacturer to their firm and then to retailers. The typical common-carrier cost 
+of a run to Hardigg and back was $400 to $450. Vetter designed a cart that enabled trucks to carry 
+more boats per load: the cart could move a larger number of boats to Hardigg’s dock in a single trip, 
+and the entire unit could then be set easily into the truck. Seventy-two boats could be put on the 
+truck in fifteen minutes with the cart system, a process that had shown steady cost improvement as it 
+was refined. Palmer Trucking, who agreed to use the carts, was able to transport a full load of kayaks 
+from Hardigg and return with the empty carts for $230 per run. Vetter estimated average 
+transportation costs of $3 per boat. Once the kayaks arrived at the Walden warehouse, they were 
+shipped to the dealers: local retailers provided their own transportation and out-of-town retailers 
+used common carriers. Walden had an arrangement with a Florida warehouse for distribution in that 
+region, paying a fee to the warehouse manager to ship from that location.  
+ 
+Rapid growth had forced the firm to move from its first facility in Acton, Massachusetts to 
+West Concord. In September 1995, they moved to a location 400 yards away that gave them three 
+times the square footage. Here they finally had real office space and an assembly area separate from 
+their warehouse, so that they would not unnecessarily heat and cool inventory in order to keep 
+temperatures comfortable for work.   
+  
+The recycled plastics market was evolving rapidly in the 1990s. Just a few years before, 
+everyone in the plastics business had said that recycled materials could not compete structurally with 
+virgin plastics. Furthermore, buyers had said they could not trust the quality of the stream of material 
+and that reliable vendors were impossible to find. Walden Paddlers had already bucked common 
+wisdom by setting high standards for its materials content and by finding dependable vendors who 
+were willing to help Walden build its business because Walden was willing to service them as a 
+customer. 
+ 
+The president of Perception/Aquaterra had purchased a Walden Paddlers’ kayak 
+surreptitiously to check out the new competitor. But Farrow was not focused on his competitors or 
+interested in going up against the large players for a share of the market. His objective was to open 
+up the market. This would only happen if more people were enticed into trying an introductory 
+kayak and had a good experience. 
+  -15- UVA-ENT-0027 
+ 
+The Alternatives in Late 1995 
+ 
+Farrow knew what his options were, but he didn’t know which one to pick—nor could he 
+clearly establish a strategic rationale for choosing any of them. He could keep the firm’s operations 
+compact and focused on his original vision of providing high performance, reasonably priced kayaks 
+for novice users. Gradual growth to $5 million in sales with continuous design improvements but a 
+limited line of boats could provide a comfortable life for Farrow and Vetter. They could gradually 
+expand internationally. Conversations with some Japanese distributors were underway; REI had 
+already distributed Walden’s boats in Japan. But the size and nature of this market were unclear. 
+There were no manufacturers in Japan and boats sold for from two to four times the price paid in the 
+United States and Canada. Boot sales indicated that the Japanese had embraced hiking, but would 
+there be a similar expansion of demand for other types of outdoor equipment?  
+ 
+Alternatively, Walden could fill out the product line in North America, bring in more capital, 
+perhaps giving up equity, and broaden distribution aggressively to catalogs. The Vision model 
+appeared to be successful. Walden could continue its move up from the less experienced paddler and 
+make upper-end products, including white-water kayaks, for the more advanced enthusiast. 
+  
+The company had challenged accepted thinking about using recycled plastics for kayak 
+production. The partners could see other possibilities for using recycled materials. They even had 
+some specific ideas about new products made from recycled plastic. Vetter was looking at product 
+design issues for these while Farrow focused on markets. This would be consistent with the firm’s 
+commitment to grow the market for recycled materials. One thing they had learned in the past four 
+years was that people were unlikely to pay more for environmentally responsible products. If the 
+product was not price and quality competitive, it was not going to sell. Should they put new outdoorrelated
+products through the distribution pipelines already set up, or should they create new products 
+for new markets and distribute them through other channels that they would develop in the same 
+way that Farrow had for Walden’s kayaks? If they were going to try their ideas for new outdoor 
+equipment, they had to move quickly. Product samples needed to be in the retailers’ hands by the 
+end of November or early December to allow for production and shipping by late spring 1996. 
+Regardless of the specific products, they were committed to continuing the low overhead strategy of 
+collaborative efforts with other firms. At all costs they wished to avoid evolving into a bureaucratic 
+giant consumed by detail and overhead. Each path they were considering held potential for financial 
+success and personal satisfaction. Each also involved tradeoffs and significant challenges.  
+ 
+  -16- UVA-ENT-0027 
+ 
+Exhibit 1 
+WALDEN PADDLERS 
+Walden 
+ 
+Henry David Thoreau (1817-1862), writer, poet, and philosopher, is recognized as one of the 
+outstanding American social and political thinkers. His most famous works include Walden and his 
+famous essay “Civil Disobedience.” Walden was an intellectual and spiritual exploration based on 
+his two-year solitary residence at Walden Pond, a small body of water surrounded by natural 
+wilderness close to the town of Concord, Massachusetts. Concerned with society becoming rapidly 
+urban and industrial, Thoreau held to a life shaped by inner principles and nurtured by the natural 
+world. He called for individuals to be authentic, to follow their ideals and create unique life styles, 
+making living itself an art. He was a naturalist in the sense that nature was his field of action, his 
+spiritual base, and a source of inspiration. “Civil Disobedience,” his most famous essay, expressed 
+his defense of the private conscience against majority opinion and shallow expediency that lacked 
+basis in moral principle. “In a restless expanding society dedicated to practical action, he 
+demonstrated the uses and values of leisure, contemplation, and a harmonious appreciation of an 
+coexistence with nature.”1 Thoreau was also a handyman, appreciated in his community for his 
+work, and a gifted boat builder. He also successfully turned around his family’s failing pencil 
+business. 
+                                                 
+1 Taken from the WEB listing for Henry David Thoreau, Encyclopedia Britannica, 1995. 
+ UVA-ENT-0027 
+ 
+-17- 
+Exhibit 2  
+WALDEN PADDLERS 
+Company Brochure 
+ 
+ 
+ UVA-ENT-0027 
+ 
+-18- 
+ 
+ Exhibit 2 (continued) 
+ 
+ 
+ 

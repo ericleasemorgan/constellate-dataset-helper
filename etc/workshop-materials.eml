@@ -1,0 +1,472 @@
+Received: from 10.196.199.78
+ by atlas101.sbc.mail.bf1.yahoo.com pod-id NONE with HTTPS; Thu, 16 Mar 2023 14:25:17 +0000
+Return-Path: <emorgan+caf_=eric.lease.morgan=att.net@nd.edu>
+X-Originating-Ip: [209.85.219.171]
+Received-SPF: pass (domain of nd.edu designates 209.85.219.171 as permitted sender)
+Authentication-Results: atlas101.sbc.mail.bf1.yahoo.com;
+ dkim=pass header.i=@mailchimpapp.net header.s=k3;
+ spf=pass smtp.mailfrom=nd.edu;
+ dmarc=fail(p=NONE) header.from=ithaka.org;
+X-Apparently-To: eric.lease.morgan@att.net; Thu, 16 Mar 2023 14:25:17 +0000
+X-YMailAVSC: nn5XqmU3bBtfvhKU1nhRrB8M61hHbH6K95Kfiw7ujIkh5L8
+ GYmTpz98krYO_IrNSBD.zVE5S0ZmQGb_WouZaisB1a2K544WeGOC3IrPVIvz
+ L2XE9mu48vpIuqyfM0kYcBRDxIHVXjt_Pp6cMShoWtC.kW7jSHWgY5vXoLMa
+ Qw7mIfWTFmQexmxSjOuC_Py0zIgS8PXFj1sjUrjKoN3ckJ6DxprYCMCxyDTD
+ ffo2SZdE1YYsiGP6uwATEIYDff4ZiV7AMDV9jFEzXry3cNZtwCo_sHA2k4o1
+ sRgwvNFYn9gXla.5UwdLUlDgH_rj5B4PKFym9aJ.OZRWrJzAVaZ4iQFq_arC
+ 9dyJVsO12QyVHiovk5JW6fWiv5k68VN_eg298klg_yBJfqoc7xtzSzG.Z6XX
+ TeuxmRHaWDE6ZcS.PAtG2l6FajT6Et.TR9uJcJP9htGUitMusZYeeJLnXEN.
+ DVx5rQtXa939g0nU7C6hGIZ09IXzAVzgzY7QnfzGagVISR0I.cf92eNIRaXW
+ 7U251moY4pLyyhuLzzgGGy_vey9spfHM9hWMidEYqYk5QrJ3gs.d9Sarki9M
+ 08QwmPNpGmeASv27imjUhHB2vfykJRyo2S195KzcjohWfu9hrhGxtpmYisWd
+ 3Aw8hStzmhC8jW6mO1OYFlzHte7kOomnIGaxzE43OZZ1xi_wOEzuLXo0Zj.f
+ o6hmTuA1t1hA_sr6Kqre2nXmZJwu8o58OtU4D0iXUTA65hqpGIUCPTApHwt7
+ QxVb9bBv0BUbN.ZYiP2DsY9pXL4x.U4UuNc8byX6wzgzJjF.chUIjiCw3cAo
+ ClzTGddDLkY3gS6x2AXel1oeSoXcTFEzIb4VRfiLpkhIwxD55sOhYfUVvCl4
+ H7ZFflZeSt6HIkLXlt0.OAbYk9d_S3F8MQ8VrtFPq_7pqbbScA8AdnmFQcrR
+ Gw0UW4rX2B7DjFO3oU_OSGuUCYBIEZlYe2t_0pdxV0O_eJQUeMnTMfHExg3M
+ KuUpYTWn2BfUQ_wm8nchZwWYT1Ma_9ZAnbQHhGUK3YuODZaBa5StnlcKxXWR
+ fY.zk2oBECp.AQ5UE.zgQ4awTUxXzVeYrkleDlFtO62jijuY6ji1T6VahtlX
+ pA9zNfmzCqmyRV6DbrkLctpWyapQfUM5h40i0OB8gf3zKIlAZAg5Y8iKi6Oe
+ wt.elfwK7ENSW6GVPOO2794DNUoQov4iTFDJ_8udGcHF044aGHanNVqQmXKU
+ NttuaBj6dQrYKlPw.muwPPVu4yKcqnkobsWuCDCg6p7np88U9WxeTEMWk3Sn
+ 81bIn1rjRKMfBo9_HY6enrXhCWJChQT.1nJVHb8J.pfBA4_rT5A7YLyZ_m7r
+ jDL7V4mZLixT3PbOOtVexqgboE3bIzlJGeLE1QIP1UG7K.0mFw.ZcCXt_NaD
+ vAnStMKHQa7Sulh6xHHq8Wx_neKnWn5taaoz9FrLeor7t5bhVEF64rVgeSm.
+ y.xf_mvWxm66ldOoCEYBQ9McZ0ALr_mp4eUEvHdWixvQyiCbTzY8O7ui4SJ6
+ DBao-
+X-YMailISG: gCESFXMWLDuKifAFVDEZRF2GEU11lkGbEnNVpjjtt1iSa63g
+ 7YgxQbnchxH_tJUUMXLCiN3smkAQvpg2O4Hf0H90MjZyt40YzV2KCtus4sEe
+ awyHLkMG1GZpGIU12ZF_LPJxofy9i5lqVkEXBaJNG.b6E7pNNOmVgpAh3Pw0
+ VJob9q2oN7uzDtWarQqq68hgFALGcyOJYeCLC7zr56dzhTZA6n3pU8dAXgjR
+ PJDzzLDSAlcW6IPMffIHdmqIQUf19KOAKwMXdsfuoBM9dOcFeuaexwqUOtlG
+ Q4D.gFkgmBSL69SLNvKw8cFBLmUeXkfkvJ2hQY6f_OIRYXQcPZXoCpaJhfo0
+ CtfAdMMnc2kLEeBZBFr3dHukdWuRZMiTKuaETm.ILqJQc8a8p_T7PasK88fx
+ 9zFNivCfOi5OYn897WvGdpm.v_l6P5iQrTq._WV228f6T3oo4fFQL9BfJYUj
+ QcDnX_sBuL74KfiqCxZGZn.ySVdnKioPlPEJ45kniLyABjy8AGS9ru8ofWgm
+ AKXw.bKSBUv82vZmZ711wMzVSJ1PSOPL1UdqiRR.GZxlnqAy8hqToUGCX1LU
+ RC1psPgaOBEQ1__cD3BHchOWb0AVsVxqDdNHRBZXc0Ben7YYMrdkUm2zRbMG
+ Jr.qn2TpA42WbGyDPLJteZe689SDpw6BlSJbWgvmB.0RrOMSsknWkWihzvE8
+ 0SK8Lsr0vBkoRlP4YJ_bbbF.XRuYA3odRQVd_102CjlWk8ol9am4_XdDX5Eb
+ V5GIQr8UMTeJFbnruPuv9GBSS0KCYjq4edrCvseKRsg2kGZEuzJaXYqcKrj9
+ 4u5ZE6xt.sik9KSnmAyS8m151qV0oz7EHf3rafWFsClGwejxqalC5tJbHW_x
+ IRFl44_1SVj2A3sS3cIAXenUqImfk9pgoNDJPqG1QK9TwGGPkKXgrTl0lWnx
+ jes8vZJYZ9qPdJgsr4kxxSd3RlWAc9Nm1FFOR_gXuN4zV0iCi5Jj_zvt.oFd
+ CdlwKVuk0E5QahFGBdKGZzeqIHzcbZdvzzQs4ma3y3yadVFqiifSDhK8nuDI
+ p4s2dyzGgZDc8ozw4sxl3GybF_AEViURReSS6is2iRmBAnuRpcEFrM6kDWzX
+ 3dLNzQwk3CGK.P9SbsoUjiuosa8wE66NWNB7BF5uwYpwQHpcFdl7ctvewdM1
+ mloClV0_vKbVZ9IAGBCanD7PNrd2.xDpZrlNUkNLf0sT0243bC6DV8g6A28s
+ hEgf7i1j_gg0gwOWPSAY70Qa.KIZKS_Z2JUmMgW_s8zRzK5M5C0f4EBcha.j
+ vw1QmVd.kSpSSvdbtYaoWO3idHMUpItyHx5IHtarMqAu8uWew_rtiZujZ5tP
+ Ow4PE9p6IYLY5MYhRy0GDu3JcKS3P4zVAlSPxmWZsQTzu4h6wLUlTjkk0M53
+ YbSS2Rggo9b6jEO3
+Received: from 144.160.244.40 (EHLO alph773.prodigy.net)
+ by 10.196.199.78 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 16 Mar 2023 14:25:17 +0000
+X-Originating-IP: [209.85.219.171]
+Received: from mail-yb1-f171.google.com (mail-yb1-f171.google.com [209.85.219.171])
+	by alph773.prodigy.net (Inbound 8.15.2/8.15.2) with ESMTPS id 32GEP3tO067404
+	(version=TLSv1.2 cipher=AES128-GCM-SHA256 bits=128 verify=FAIL)
+	for <eric.lease.morgan@att.net>; Thu, 16 Mar 2023 10:25:17 -0400
+Received: by mail-yb1-f171.google.com with SMTP id r1so2106936ybu.5
+        for <eric.lease.morgan@att.net>; Thu, 16 Mar 2023 07:25:17 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112; t=1678976717;
+        h=mime-version:list-unsubscribe-post:list-unsubscribe:list-id
+         :feedback-id:message-id:date:to:reply-to:from:subject:dkim-signature
+         :delivered-to:x-gm-message-state:from:to:cc:subject:date:message-id
+         :reply-to;
+        bh=LGLv6X4WO5Juu3DmM6lN3OhrzgMd4LuCZHrL50xKGes=;
+        b=ITJgWdZBXA7kMHQK6Bl3xHNLAQw10eBPrLsl9OsTWMy2b48ZckMJiIJhyWicU2wZwa
+         i0dQLHUTx+a6qTAfp3pZDMzW4KJh4CJN478VNsi4hP9gYbqoeacxJV8JSKhL0C3eYgOH
+         OcE5AvPiUQPM9GIVZqJUbED/okw4J6o7wlvpFzrdTyFCWNwnqnyvlpIk+X0SSHEe+1x1
+         vUBR1EdENvzAgZuWeHDZghhMmLDGgJL9UUWd9yBu1d/86BRkJ2pkKPzcwW1+sLx+IAhG
+         gCKHdy3sC2vkxsfBS0t0DlquaUAveC7j/BVau1Y8mYnQmP5bWa2F7OIPSsRYC64qtr8r
+         9ANw==
+X-Gm-Message-State: AO0yUKU03wWFheiN3c2Ggt8FOKyiOwSY4qsvER3FA4pBHCqQg0kXabkU
+	bDsnd65PITw2zsSgELI/37rvfjJuP0FM3sqXN5TDxbbsNWbbgW2TwA0n2lS6Ew==
+X-Received: by 2002:a5b:98f:0:b0:b3f:f831:bfdd with SMTP id c15-20020a5b098f000000b00b3ff831bfddmr7726513ybq.13.1678976716738;
+        Thu, 16 Mar 2023 07:25:16 -0700 (PDT)
+X-Forwarded-To: eric.lease.morgan@att.net
+X-Forwarded-For: emorgan@nd.edu eric.lease.morgan@att.net
+Delivered-To: emorgan@nd.edu
+Received: by 2002:a05:7108:8604:b0:2d3:1f40:bb9 with SMTP id gn4csp2579161gdb;
+        Thu, 16 Mar 2023 07:25:15 -0700 (PDT)
+X-Google-Smtp-Source: AK7set8a+rsWeAcsrlPAaYuwKm6CvP3eO211OVGCu1hc4LRfGBv7AqZXveWS3Ir9myKo5uYDbwCB
+X-Received: by 2002:a81:4ac3:0:b0:533:7e58:2f84 with SMTP id x186-20020a814ac3000000b005337e582f84mr3195175ywa.7.1678976714864;
+        Thu, 16 Mar 2023 07:25:14 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1678976714; cv=none;
+        d=google.com; s=arc-20160816;
+        b=kne/dWjr8Iv3eAYWz88kKNSBBGjbvDaGnVbQcOONLNsZ/FCxztwP983IeXiVQD694I
+         TTyyvMM+bEPpeTrxZe6p/OLNrDy7X1UwevrfFBBXGqrHNDCvtoiEstiXQVlY92Z9M9dN
+         hDKy9y0wqyR1XHa7y9WJisYKOs5kyaUUTGUqKwRrfd9pck+T8FfMR8yyVmM+XDBDOR2x
+         c4U4NzsdT7CDHXH8i7LwWYTuxWn+uFyfxsFeV/Zaw1DyaA3DE8xpRrZo1NNDiO1Gl+hr
+         NZRDDDKyxXYJQ4pNky8Ri0G0icDjuFc90WBemG/ONK+5is78ze52FHa2PWcp0K2ZGGTl
+         Ci3g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:list-unsubscribe-post:list-unsubscribe:list-id
+         :feedback-id:message-id:date:to:reply-to:from:subject:dkim-signature;
+        bh=LGLv6X4WO5Juu3DmM6lN3OhrzgMd4LuCZHrL50xKGes=;
+        b=rlxYeXur40ESTEgGLIR2rudxLT+SlHD2w89/znNdrk3rE3J2W9X+kJDcjyE8fLu7Xh
+         reOqT3x2CWEBgRgTgU+CwtHDKa7r4vu7WQ5r1SoN/NxO1ziKPnEOmstoRlnq0zxxzxzY
+         ZMeWwvINsA8gFnuoD5uAIprxUPbgSAI7p08x/u3QPhO6gJ/pgESRbSXLBmUo3HyIKcUH
+         818Ve13qTE4cYR7FFQPx1vHMuBHr+R8/ufrgzYh7+TU6FIFxwuH0pAUz0x1ecqBicR2S
+         Hb+joG4F6yq1zmvj8h0lBq1UyxxJcnFJwQmJcqZubOrLitk3donacgcoIsoZPyK8vZP4
+         vwxw==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@mailchimpapp.net header.s=k3 header.b=arDImjX9;
+       spf=pass (google.com: domain of bounce-mc.us7_152585266.14583076-32b3778aed@mail184.suw14.mcdlv.net designates 198.2.183.184 as permitted sender) smtp.mailfrom=bounce-mc.us7_152585266.14583076-32b3778aed@mail184.suw14.mcdlv.net;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=ithaka.org
+Received: from mail184.suw14.mcdlv.net (mail184.suw14.mcdlv.net. [198.2.183.184])
+        by mx.google.com with ESMTPS id q133-20020a815c8b000000b00536ce4f16absi7746586ywb.250.2023.03.16.07.25.14
+        for <emorgan@nd.edu>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Thu, 16 Mar 2023 07:25:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mailchimpapp.net;
+	s=k3; t=1678976714; x=1679034314;
+	i=amy.kirchhoff=3Dithaka.org@mailchimpapp.net;
+	bh=LGLv6X4WO5Juu3DmM6lN3OhrzgMd4LuCZHrL50xKGes=;
+	h=Subject:From:Reply-To:To:Date:Message-ID:X-MC-User:Feedback-ID:
+	 List-ID:List-Unsubscribe:List-Unsubscribe-Post:Content-Type:
+	 MIME-Version:CC:Date:Subject:From;
+	b=arDImjX9XGfp257P9dbbAohHmmK/sch1JaqpbVh7H7pnq1B5sa4SFOQH49tx6u9kf
+	 LGw8edJNVFyPLTFsIAGWmYf7eQgzQpHU52waQZz3oTm42RxONCxloTRpOTCq1O7w3h
+	 XiFzzArYq2KLjUJ0r9UvuOyifk71NZsCbsIrFARRUcpL71Z+f1Top8xUuIeTtDahAm
+	 v5brecBidBLLP57M1O5JoVTcPo2s4cJ6bb3cg/trvQiKok/wWa76GRdgenzmJnto52
+	 L7FvZdd7D/qmo5QGfdzxcwdMAL1+Oebdb+SYnZc2LlK5mUaSFXpTw0wf0/FubIFfAd
+	 anRK+AyAYxEfg==
+Received: from localhost (localhost [127.0.0.1])
+	by mail184.suw14.mcdlv.net (Mailchimp) with ESMTP id 4PcqKk3s2jz6D4FP7
+	for <emorgan@nd.edu>; Thu, 16 Mar 2023 14:25:14 +0000 (GMT)
+Subject: =?utf-8?Q?Materials=20from=20Code4Lib=20text=20analysis=20pre=2Dconference=20session?=
+From: =?utf-8?Q?Amy=20Kirchhoff?= <amy.kirchhoff@ithaka.org>
+Reply-To: =?utf-8?Q?Amy=20Kirchhoff?= <amy.kirchhoff@ithaka.org>
+To: =?utf-8?Q?Eric=20Morgan?= <emorgan@nd.edu>
+Date: Thu, 16 Mar 2023 14:25:14 +0000
+Message-ID: <0f85d988b227aeea9acbfd8a6.32b3778aed.20230316142507.2cd0d2dd06.0209166f@mail184.suw14.mcdlv.net>
+X-Mailer: Mailchimp Mailer - **CID2cd0d2dd0632b3778aed**
+X-Campaign: mailchimp0f85d988b227aeea9acbfd8a6.2cd0d2dd06
+X-campaignid: mailchimp0f85d988b227aeea9acbfd8a6.2cd0d2dd06
+X-Report-Abuse: Please report abuse for this campaign here: https://mailchimp.com/contact/abuse/?u=0f85d988b227aeea9acbfd8a6&id=2cd0d2dd06&e=32b3778aed
+X-MC-User: 0f85d988b227aeea9acbfd8a6
+Feedback-ID: 152585266:152585266.14583076:us7:mc
+List-ID: 0f85d988b227aeea9acbfd8a6mc list <0f85d988b227aeea9acbfd8a6.547929.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <https://ithaka.us7.list-manage.com/unsubscribe?u=0f85d988b227aeea9acbfd8a6&id=e5161f35ff&e=32b3778aed&c=2cd0d2dd06>, <mailto:unsubscribe-mc.us7_0f85d988b227aeea9acbfd8a6.2cd0d2dd06-32b3778aed@unsubscribe.mailchimpapp.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_2069235995"
+MIME-Version: 1.0
+Content-Length: 18885
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_2069235995
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Dear Eric ~
+
+Thank you for joining us at our text-analysis=2C Code4Lib=2C pre-conferenc=
+e workshop.
+
+We=E2=80=99ve rounded up some resources for you.
+
+The Programming Historian (https://programminghistorian.org/)=2C is a wond=
+erful resources for folks wanting to learn about digital tools and techniq=
+ues (including text-analysis.) One of their lessons is about detecting nea=
+r-duplicates of strings=2C https://programminghistorian.org/en/lessons/com=
+mon-similarity-measures.
+
+For those interested in finding parts of documents that reuse text from so=
+me documents within a large corpus (a related=2C but distinct problem from=
+ just finding near duplicates of strings)=2C here is an R package that pro=
+vides functions for measuring similarity among documents and detecting pas=
+sages which have been reused=2C https://github.com/ropensci/textreuse.
+
+Cameron Blevins=E2=80=99 blog posts about his text analysis work in Martha=
+ Ballard=E2=80=99s Diary are very readable and a great introduction to tex=
+t-analysis in research=2C https://www.cameronblevins.org/martha-ballards-d=
+iary/
+
+If you are interested in Amy=E2=80=99s datasets:
+* Obituaries=2C https://constellate.org/dataset/49a1816e-5f69-767b-a850-77=
+28ae475d3c/
+* The Papers of Thomas Jefferson=2C https://constellate.org/dataset/a1bbaa=
+4d-1abc-1f32-1086-a863d9e8f15f/
+* Feminist newsletters from Reveal Digital=E2=80=99s Independent Voices=2C=
+ https://constellate.org/dataset/8526f5fb-402e-90db-c713-c0c7afd0edcd/
+* Foster care is secondary literature=2C https://constellate.org/dataset/f=
+359dbdf-a178-41d3-4492-fb841bcce1d6/
+
+If you want to learn some Python=2C we ran our Python Basics series for AC=
+RL last year and the recordings are publicly available=2C https://constell=
+ate.org/events/acrl.
+
+The Constellate Jupyter Notebooks are publicly available in our GitHub rep=
+ository here=2C https://github.com/ithaka/tdm-notebooks. If you fork them=
+ or use them in your own teaching or research=2C we=E2=80=99d love to know=
+=2E
+
+We also had a question about metadata standards for text tokens. At the re=
+cent NISO+ conference=2C we did a presentation with HathiTrust Research Ce=
+nter about non-consumptive data that ended with a call to action to build=
+ a standard in this space=2C but it looks like the recording is only avail=
+able to registrants. If folks want to talk more about this=2C reach out an=
+d we=E2=80=99d be happy to chat.
+
+Thank you for spending a few hours of your Tuesday with us this week and l=
+et us know if you have any questions.
+
+~ Amy
+
+--
+
+Amy J. Kirchhoff (she/her)
+
+Constellate (https://constellate.org/) Sr. Manager / ITHAKA
+
+Twitter: @AmyPlusFour
+
+Take your research further with text and data analysis skills!
+Logo
+
+Copyright (C) 2023 ITHAKA. All rights reserved.
+You are receiving this email because you opted in via our website.
+Our mailing address is:
+ITHAKA
+301 E Liberty St Ste 201
+Ann Arbor=2C MI 48104-2262
+USA
+Want to change how you receive these emails?
+You can update your preferences (https://ithaka.us7.list-manage.com/profil=
+e?u=3D0f85d988b227aeea9acbfd8a6&id=3De5161f35ff&e=3D32b3778aed&c=3D2cd0d2dd0=
+6) or unsubscribe (https://ithaka.us7.list-manage.com/unsubscribe?u=3D0f85=
+d988b227aeea9acbfd8a6&id=3De5161f35ff&e=3D32b3778aed&c=3D2cd0d2dd06)
+--_----------=_MCPart_2069235995
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn=
+:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:of=
+fice"><head>
+<!--[if gte mso 15]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<meta charset=3D"UTF-8" />
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial-scale=
+=3D1" />
+<title>Materials from Code4Lib text analysis pre-conference session</title=
+>
+<style> img{-ms-interpolation-mode:bicubic;} table=2C td{mso-table-lspace:=
+0pt; mso-table-rspace:0pt;} .mceStandardButton=2C .mceStandardButton td=2C=
+ .mceStandardButton td a{mso-hide:all !important;} p=2C a=2C li=2C td=2C b=
+lockquote{mso-line-height-rule:exactly;} p=2C a=2C li=2C td=2C body=2C tab=
+le=2C blockquote{-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;=
+} @media only screen and (max-width: 480px){ body=2C table=2C td=2C p=2C a=
+=2C li=2C blockquote{-webkit-text-size-adjust:none !important;} } .mcnPrev=
+iewText{display: none !important;} .bodyCell{margin:0 auto; padding:0; wid=
+th:100%;} .ExternalClass=2C .ExternalClass p=2C .ExternalClass td=2C .Exte=
+rnalClass div=2C .ExternalClass span=2C .ExternalClass font{line-height:10=
+0%;} .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} a[x-apple-data=
+-detectors]{color:inherit !important; text-decoration:none !important; fon=
+t-size:inherit !important; font-family:inherit !important; font-weight:inh=
+erit !important; line-height:inherit !important;} body { height: 100%; mar=
+gin: 0px; padding: 0px; width: 100%; background: rgb(255=2C 255=2C 255); }=
+p { margin: 0px; padding: 0px; }table { border-collapse: collapse; }td=2C=
+ p=2C a { word-break: break-word; }img=2C a img { border: 0px; height: aut=
+o; outline: none; text-decoration: none; }li p { margin: 0px !important; }=
+@media only screen and (max-width: 480px) {body { width: 100% !important;=
+ min-width: 100% !important; }img { height: auto !important; }.mceColumn {=
+ display: block !important; width: 100% !important; }.mceBlockContainer {=
+ padding-right: 16px !important; padding-left: 16px !important; }.mceFoote=
+rSection .mceText=2C .mceFooterSection .mceText p { font-size: 16px !impor=
+tant; line-height: 140% !important; }.mceText=2C .mceText p { font-size: 1=
+6px !important; line-height: 140% !important; }} .mceWrapperOuter { backgr=
+ound-color: rgb(255=2C 255=2C 255); }.mceText=2C .mceLabel { font-family:=
+ "Helvetica Neue"=2C Helvetica=2C Arial=2C Verdana=2C sans-serif; }.mceTex=
+t=2C .mceLabel { color: rgb(32=2C 32=2C 32); }.mceText p { margin-bottom:=
+ 0px; }.mceText ul { margin-bottom: 0px; }.mceText label { margin-bottom:=
+ 0px; }.mceText input { margin-bottom: 0px; }.mceSpacing-12 .mceInput + .m=
+ceErrorMessage { margin-top: -6px; }.mceText p { margin-bottom: 0px; }.mce=
+Text ul { margin-bottom: 0px; }.mceText label { margin-bottom: 0px; }.mceT=
+ext input { margin-bottom: 0px; }.mceSpacing-24 .mceInput + .mceErrorMessa=
+ge { margin-top: -12px; }.mceInput { background-color: transparent; border=
+: 2px solid rgb(208=2C 208=2C 208); width: 60%; color: rgb(77=2C 77=2C 77)=
+; display: block; }.mceInput[type=3D"radio"]=2C .mceInput[type=3D"checkb=
+ox"] { float: left; margin-right: 12px; display: inline; width: auto !impo=
+rtant; }.mceLabel > .mceInput { margin-bottom: 0px; margin-top: 2px; }.mce=
+Label { display: block; }.mceText p { color: rgb(32=2C 32=2C 32); font-fam=
+ily: "Helvetica Neue"=2C Helvetica=2C Arial=2C Verdana=2C sans-serif; font=
+-size: 16px; }.mceText a { color: rgb(0=2C 124=2C 137); }</style></head>
+<body>
+<!--
+-->
+<center>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" wi=
+dth=3D"100%" id=3D"bodyTable" style=3D"background-color: rgb(255=2C 255=2C=
+ 255);">
+<tbody><tr>
+<td class=3D"bodyCell" align=3D"center" valign=3D"top">
+<table id=3D"root" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody class=3D"mceWrapper"><tr><td align=3D"center" valign=3D"t=
+op" class=3D"mceWrapperOuter"><!--[if (gte mso 9)|(IE)]><table align=3D"c=
+enter" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"660" styl=
+e=3D"width:660px;"><tr><td><![endif]--><table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" style=3D"max-width:660px" role=3D"pre=
+sentation"><tbody><tr><td style=3D"background-color:#ffffff;background-pos=
+ition:center;background-repeat:no-repeat;background-size:cover" class=3D"m=
+ceWrapperInner" valign=3D"top"><table align=3D"center" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbody>=
+<tr class=3D"mceRow"><td style=3D"background-position:center;background-re=
+peat:no-repeat;background-size:cover" valign=3D"top"><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><t=
+body><tr><td style=3D"padding-top:0;padding-bottom:0" class=3D"mceColumn"=
+ valign=3D"top" colspan=3D"12" width=3D"100%"><table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation"><tbody><t=
+r><td style=3D"background-color:transparent;padding-top:12px;padding-botto=
+m:12px;padding-right:24px;padding-left:24px" class=3D"mceBlockContainer" v=
+align=3D"top"><div class=3D"mceText" style=3D"width:100%;font-size:16px;li=
+ne-height:1.5;text-align:left"><p><span style=3D"font-size: 11.0pt">Dear Eric ~</span></p><p><br /></p><p><span style=3D"font-size: 11.0=
+pt">Thank you for joining us at our text-analysis=2C Code4Lib=2C pre-confe=
+rence workshop.</span></p><p><br /></p><p><span style=3D"font-size: 11.0pt=
+">We=E2=80=99ve rounded up some resources for you.</span></p><p><br /></p>=
+<p><span style=3D"font-size: 11.0pt">The Programming Historian (</span><a=
+ href=3D"https://ithaka.us7.list-manage.com/track/click?u=3D0f85d988b227ae=
+ea9acbfd8a6&id=3D1c7dcaa79c&e=3D32b3778aed"><span style=3D"font-size: 11.=
+0pt">https://programminghistorian.org/</span></a><span style=3D"font-size:=
+ 11.0pt">)=2C is a wonderful resources for folks wanting to learn about di=
+gital tools and techniques (including text-analysis.) One of their lessons=
+ is about detecting near-duplicates of strings=2C </span><a href=3D"https:=
+//ithaka.us7.list-manage.com/track/click?u=3D0f85d988b227aeea9acbfd8a6&id=
+=3D4b212e3553&e=3D32b3778aed"><span style=3D"font-size: 11.0pt">https://p=
+rogramminghistorian.org/en/lessons/common-similarity-measures</span></a><s=
+pan style=3D"font-size: 11.0pt">.</span></p><p><br /></p><p><span style=3D=
+"font-size: 11.0pt">For those interested in finding parts of documents tha=
+t reuse text from some documents within a large corpus (a related=2C but d=
+istinct problem from just finding near duplicates of strings)=2C here is a=
+n R package that provides functions for measuring similarity among documen=
+ts and detecting passages which have been reused=2C </span><a href=3D"http=
+s://ithaka.us7.list-manage.com/track/click?u=3D0f85d988b227aeea9acbfd8a6&i=
+d=3D2bb5274330&e=3D32b3778aed"><span style=3D"font-size: 11.0pt">https://=
+github.com/ropensci/textreuse</span></a><span style=3D"font-size: 11.0pt">=
+=2E</span></p><p><br /></p><p><span style=3D"font-size: 11.0pt">Cameron Blev=
+ins=E2=80=99 blog posts about his text analysis work in Martha Ballard=E2=
+=80=99s Diary are very readable and a great introduction to text-analysis=
+ in research=2C </span><a href=3D"https://ithaka.us7.list-manage.com/track=
+/click?u=3D0f85d988b227aeea9acbfd8a6&id=3D1e59a986e5&e=3D32b3778aed"><spa=
+n style=3D"font-size: 11.0pt">https://www.cameronblevins.org/martha-ballar=
+ds-diary/</span></a></p><p><br /></p><p><span style=3D"font-size: 11.0pt">=
+If you are interested in Amy=E2=80=99s datasets:</span></p><ul><li><p><spa=
+n style=3D"font-size: 11.0pt">Obituaries=2C </span><a href=3D"https://itha=
+ka.us7.list-manage.com/track/click?u=3D0f85d988b227aeea9acbfd8a6&id=3Dfb57=
+3bcc0c&e=3D32b3778aed"><span style=3D"font-size: 11.0pt">https://constell=
+ate.org/dataset/49a1816e-5f69-767b-a850-7728ae475d3c/</span></a></p></li><=
+li><p><span style=3D"font-size: 11.0pt">The Papers of Thomas Jefferson=2C=
+ </span><a href=3D"https://ithaka.us7.list-manage.com/track/click?u=3D0f85=
+d988b227aeea9acbfd8a6&id=3Da31afdea32&e=3D32b3778aed"><span style=3D"font=
+-size: 11.0pt">https://constellate.org/dataset/a1bbaa4d-1abc-1f32-1086-a86=
+3d9e8f15f/</span></a></p></li><li><p><span style=3D"font-size: 11.0pt">Fem=
+inist newsletters from Reveal Digital=E2=80=99s Independent Voices=2C </sp=
+an><a href=3D"https://ithaka.us7.list-manage.com/track/click?u=3D0f85d988b=
+227aeea9acbfd8a6&id=3De951ae549f&e=3D32b3778aed"><span style=3D"font-size=
+: 11.0pt">https://constellate.org/dataset/8526f5fb-402e-90db-c713-c0c7afd0=
+edcd/</span></a></p></li><li><p><span style=3D"font-size: 11.0pt">Foster c=
+are is secondary literature=2C </span><a href=3D"https://ithaka.us7.list-m=
+anage.com/track/click?u=3D0f85d988b227aeea9acbfd8a6&id=3Dc3d2f04aa9&e=3D32b3778aed"><span style=3D"font-size: 11.0pt">https://constellate.org/datas=
+et/f359dbdf-a178-41d3-4492-fb841bcce1d6/</span></a></p></li></ul><p><br />=
+</p><p><span style=3D"font-size: 11.0pt">If you want to learn some Python=
+=2C we ran our Python Basics series for ACRL last year and the recordings=
+ are publicly available=2C </span><a href=3D"https://ithaka.us7.list-manag=
+e.com/track/click?u=3D0f85d988b227aeea9acbfd8a6&id=3Deabf3dc907&e=3D32b3778aed"><span style=3D"font-size: 11.0pt">https://constellate.org/events/ac=
+rl</span></a><span style=3D"font-size: 11.0pt">.</span></p><p><br /></p><p=
+><span style=3D"font-size: 11.0pt">The Constellate Jupyter Notebooks are p=
+ublicly available in our GitHub repository here=2C </span><a href=3D"https=
+://ithaka.us7.list-manage.com/track/click?u=3D0f85d988b227aeea9acbfd8a6&id=
+=3Dfee09de36c&e=3D32b3778aed"><span style=3D"font-size: 11.0pt">https://g=
+ithub.com/ithaka/tdm-notebooks</span></a><span style=3D"font-size: 11.0pt"=
+>. If you fork them or use them in your own teaching or research=2C we=E2=
+=80=99d love to know.</span></p><p><br /></p><p><span style=3D"font-size:=
+ 11.0pt">We also had a question about metadata standards for text tokens.=
+ At the recent NISO+ conference=2C we did a presentation with HathiTrust R=
+esearch Center about non-consumptive data that ended with a call to action=
+ to build a standard in this space=2C but it looks like the recording is o=
+nly available to registrants. If folks want to talk more about this=2C rea=
+ch out and we=E2=80=99d be happy to chat.</span></p><p><br /></p><p><span=
+ style=3D"font-size: 11.0pt">Thank you for spending a few hours of your Tu=
+esday with us this week and let us know if you have any questions.</span><=
+/p><p><br /></p><p><span style=3D"font-size: 11.0pt">~ Amy</span></p><p><b=
+r /></p><p><span style=3D"font-size: 11.0pt">--</span></p><p><span style=
+=3D"font-size: 11.0pt">Amy J. Kirchhoff (she/her)</span></p><p><a href=3D"=
+https://ithaka.us7.list-manage.com/track/click?u=3D0f85d988b227aeea9acbfd8=
+a6&id=3D31f20eaef1&e=3D32b3778aed"><span style=3D"font-size: 11.0pt">Cons=
+tellate</span></a><span style=3D"font-size: 11.0pt"> Sr. Manager / ITHAKA<=
+/span></p><p><span style=3D"font-size: 11.0pt">Twitter: @AmyPlusFour</span=
+></p><p><br /></p><p class=3D"last-child"><span style=3D"font-size: 11.0pt=
+">Take your research further with text and data analysis skills!</span></p=
+></div></td></tr><tr><td style=3D"padding-top:8px;padding-bottom:8px;paddi=
+ng-right:8px;padding-left:8px" class=3D"mceLayoutContainer" valign=3D"top"=
+><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" role=3D"presentation" id=3D"section_78f5f93676ae9f99cf3296=
+2fa86418b3" class=3D"mceFooterSection"><tbody><tr class=3D"mceRow"><td sty=
+le=3D"background-position:center;background-repeat:no-repeat;background-si=
+ze:cover" valign=3D"top"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"12" width=3D"100%" role=3D"presentation"><tbody><tr><td style=3D"paddi=
+ng-top:0;padding-bottom:0" class=3D"mceColumn" valign=3D"top" colspan=3D"1=
+2" width=3D"100%"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" role=3D"presentation"><tbody><tr><td style=3D"padding-top:=
+12px;padding-bottom:12px;padding-right:0;padding-left:0" class=3D"mceBlock=
+Container" align=3D"center" valign=3D"top"><img width=3D"110" style=3D"wid=
+th:110px;height:auto;max-width:100%;display:block" alt=3D"Logo" src=3D"htt=
+ps://dim.mcusercontent.com/cs/0f85d988b227aeea9acbfd8a6/images/4b4191e1-54=
+be-9e14-177e-0d669da72866.png?w=3D110&dpr=3D2" class=3D"" /></td></tr><tr>=
+<td style=3D"padding-top:12px;padding-bottom:12px;padding-right:24px;paddi=
+ng-left:24px" class=3D"mceBlockContainer" align=3D"center" valign=3D"top">=
+<div class=3D"mceText" style=3D"display:inline-block;width:100%;font-size:=
+16px;text-align:center"><p class=3D"last-child"><em><span style=3D"font-si=
+ze: 12px">Copyright (C) 2023 ITHAKA. All rights reserved.</span></em><br /=
+><span style=3D"font-size: 12px">
+You are receiving this email because you opted in via our website.
+</span><br /><br /><span style=3D"font-size: 12px">Our mailing address is:=
+</span><br /><span style=3D"font-size: 12px">
+<div class=3D"vcard"><span class=3D"org fn">ITHAKA</span><div class=3D"adr=
+"><div class=3D"street-address">301 E Liberty St Ste 201</div><span class=
+=3D"locality">Ann Arbor</span>=2C <span class=3D"region">MI</span> <span c=
+lass=3D"postal-code">48104-2262</span></div><br><a href=3D"https://ithaka.=
+us7.list-manage.com/vcard?u=3D0f85d988b227aeea9acbfd8a6&id=3De5161f35ff" c=
+lass=3D"hcard-download">Add us to your address book</a></div>
+</span><br /><br /><span style=3D"font-size: 12px">Want to change how you=
+ receive these emails?</span><br /><span style=3D"font-size: 12px">You can=
+ </span><a href=3D"https://ithaka.us7.list-manage.com/profile?u=3D0f85d988=
+b227aeea9acbfd8a6&id=3De5161f35ff&e=3D32b3778aed&c=3D2cd0d2dd06"><span style=
+=3D"font-size: 12px">update your preferences</span></a><span style=3D"font=
+-size: 12px"> or </span><a href=3D"https://ithaka.us7.list-manage.com/unsu=
+bscribe?u=3D0f85d988b227aeea9acbfd8a6&id=3De5161f35ff&e=3D32b3778aed&c=3D2cd=
+0d2dd06"><span style=3D"font-size: 12px">unsubscribe</span></a></p></div><=
+/td></tr><tr><td class=3D"mceLayoutContainer" align=3D"center" valign=3D"t=
+op"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"100%" role=3D"presentation"><tbody><tr class=3D"mceRow"><td st=
+yle=3D"background-position:center;background-repeat:no-repeat;background-s=
+ize:cover;padding-top:0px;padding-bottom:0px" valign=3D"top"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"24" width=3D"100%" role=3D"present=
+ation"><tbody></tbody></table></td></tr></tbody></table></td></tr></tbody>=
+</table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tb=
+ody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr>=
+</tbody></table><!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->=
+</td></tr></tbody></table>
+</td>
+</tr>
+</tbody></table>
+</center>
+<img src=3D"https://ithaka.us7.list-manage.com/track/open.php?u=3D0f85d988=
+b227aeea9acbfd8a6&id=3D2cd0d2dd06&e=3D32b3778aed" height=3D"1" width=3D"1=
+" alt=3D""></body></html>
+--_----------=_MCPart_2069235995--

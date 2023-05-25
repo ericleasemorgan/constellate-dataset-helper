@@ -1,0 +1,1873 @@
+15
+SEALS AS CONCEPTUAL AND RITUAL TOOLS 
+IN CHINESE BUDDHISM, CA. 600– 1000 CE
+PAUL COPP
+AS ELSEWHERE IN the premodern world, seals— and, even more importantly, 
+conceptions of seals, and of the human behaviours that featured them— were central
+to the practice of religion in premodern China. They are perhaps most famous 
+in what are called the “Esoteric,” or Tantric, forms of Buddhism in China, which, as 
+in India, feature hand gestures and bodily postures known as mudrās— literally 
+“seal” in Sanskrit— a word that in Chinese is straightforwardly translated by the 
+main word for seal (and stamp) in that language: yin 印. Beyond ritual postures, 
+and again following Indic conventions, seals in the Esoteric traditions also provided 
+central metaphors for a range of practices and ideas in the Esoteric traditions. The 
+most startling of these is described by David Gray in a recent study of mudrā as 
+a term of art in Indian Buddhist literature whereby, drawn in part from the heterosexual
+male imagination of seal- like sexual union, mudrā “designates a female 
+deity, and later, by extension, a human female.”1 Although in Chinese versions of 
+the Esoteric traditions this particular conception was less emphasized, as we will 
+see the intimacy of physical contact and, in particular, the physical transmission 
+of likeness intrinsic to practices of sealing were adapted to a great variety of uses 
+not only in Buddhism but in Daoism as well. Seals indeed— in part due to the infusion
+of Indic conceptions and practices— possessed a nearly unmatched richness 
+of polysemy in Chinese religious discourse and practice.2 But they did more than 
+provide metaphors for practice: actual seals (and stamps) also had their places in 
+the hand of Chinese religious specialists of a range of traditions and styles. Echoing 
+both older Chinese and Indic techniques alike, seals in the period treated here (ca. 
+600– 1000 CE, an age sometimes called “late medieval”) were key tools of ritualists, 
+employed either as adjuncts to spells or as the delivery mechanisms of inscribed 
+spells or talismanic texts and images. These metaphors and physical practices, and 
+the interplay between them, are the subject of this brief survey.
+The scholar attempting a cross- cultural study of conceptual and physical seals 
+immediately encounters a difficulty: the rich semantic fields of the words mudrā, yin, 
+I am grateful to Brigitte Bedos- Rezak, Carla Nappi, Carol Symes, and the two anonymous 
+reviewers for the journal for insights that improved this study. The research in this article 
+was supported by Project 16zD173絲綢之路中外藝術交流圖誌.
+1 Gray, “Imprints,” 422. See also Gonda, “Mudrā.”
+2 on its polysemy in Indian Buddhist literature, see Gray, “Imprints,” 469– 74.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16 PAuL CoPP
+16
+and “seal” do not fully overlap, and one must be careful not to let the various senses 
+of these terms get entangled. Let me thus begin with a brief word on important 
+distinctions not only between yin and “seal” but also between Chinese and Western 
+studies of seals (since my subject is China, I will not explore the uses of Indic terms 
+or the traditions of their study in any detail). First, we can note simply that yin does 
+not denote “a seal” in the sense defined by Merriam- Webster as “a tight and perfect 
+closure.” This is true even though seals were used in China, as elsewhere, to seal things 
+closed for various reasons. But, more importantly, this study is structured by a distinction
+between seals proper and a much broader category of stamps. Seals, in this study, 
+are stamps whose forms and practices were governed by logics of personal or institutional
+identity; the priest’s seal, for example, bore his identity— and, by extension his 
+power— and was thus a potent object in itself. Stamps, in contrast, were simple tools 
+for the multiple reproduction of images or texts and bore no special significance in 
+themselves. Whatever potency was said to inhere in them, on this view, was entirely 
+due to the images or texts they bore.3 The distinction in Chinese practice is not always a 
+sharp one: the two are ideal types lying at opposite ends of an analytical spectrum, with 
+some objects and practices best understood as partaking of both types. Indeed, the 
+distinction is not usually made at all in premodern Chinese linguistic usage. In Chinese 
+texts from the period treated here, the same term, yin, is used for all kinds of stamps 
+and stamping techniques, including block printing, though seals as I define them here 
+did, at times, have their own technical vocabulary. Furthermore, most scholars of this 
+material have not drawn a distinction between seals and stamps, tending to call all 
+such object seals (an exception is T. H. Barrett, a scholar who, as we will see at several 
+points, has blazed a trail through this material that I will often follow).4 Yet, despite 
+these difficulties, I believe the distinction between seals and stamps is crucial to an 
+understanding of the techniques and objects this article surveys.
+Seals as Conceptual Tools
+We start with seals as conceptual tools, for the importance of seals in Buddhist practice
+and thought is clearest in the key metaphors they provided the religion as it 
+was carried eastward out of India and transformed in various local cultures. Their 
+3 In this study, I employ a range of terms for seals, stamps, and their impressions. “Seal,” 
+“sigil,” “seal die,” and “seal matrix” refer to seals as imprinting objects; “sealing” refers generally
+to the images or marks made by seals, while “impression” and “imprint” refer to those 
+products made by either seals proper or stamps of other kinds; “sealing,” “bulla,” and— 
+sometimes— “token” refer to physical objects (usually lumps or discs of clay or terracotta) 
+made to carry the impressions of seals.
+4 Barrett, “Images of Printing,” 84.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17SEALS AS CoNCEPTuAL AND RITuAL TooLS
+17
+pervasiveness in Buddhist thought, indeed, might be an illustration of the dictum 
+of Henry David Thoreau: “All perception of truth is the detection of an analogy; we 
+reason from our hands to our head.”5 Such analogies in the Buddhist case concern, 
+among other things, the nature of the Buddha’s teachings and their mastery (“Seal of 
+Truth,” “Seal of the Dharma,” “Seal of the Buddha”), states of meditative attainment in 
+which these teachings are realized (“Samādhi of the ocean Seal”), and the relationship
+between teacher and student (“Mind Seal” and “Seal of Approval”), as well as the 
+postures taken by Buddhist deities and practitioners (Skt. mudrā, “seal”).
+Probably the most important set of seal metaphors in Buddhist thought is the one 
+constituted by images of seals of truth or reality, which often took the name of the 
+Buddha or of his teachings, the Dharma. In such images we see a first vivid illustration
+of the essential logic of seals: the extension of identity in play, as when a seal was 
+understood to represent the person of the monarch stamped on his documents or 
+carried by his officials. In extending the power of the throne to the object bearing it, the 
+impression left by such royal sigils transformed what they marked with the authority 
+and presence of the state. The official bearing the seal matrix also bore with him that 
+authority, the aegis of which defined his own social identity. He was in this way both 
+subsumed within the state’s protective aura and himself the granter and keeper of that 
+protection. We see the same semiotic logic of identity extension in simpler practices, 
+such as the use of seals as personal signatures or as merchants’ marks.6 We also see it 
+in the metaphorical Seals of Truth, of the Dharma, and of the Buddha himself that are 
+said, in a wide range of Buddhist texts, to be stamped on scriptures as well as on the 
+phenomena of normal human experience, which are thereby marked as identical with 
+the deepest truths and realities told of in the religion.
+one of the earliest extant descriptions of such a seal occurs in Lokakṣema’s (zhi 
+Loujiachen 支婁迦讖, second century CE) rendering of the Pratyutpanna Samādhi 
+Sutra (Banzhou sanmei jing 般舟三昧經), The Meditation of Direct Encounter with 
+the Buddhas of the Present. Here the Buddha is describing the true nature of a seal 
+that is to be used to seal the text of the sutra that tells of it:
+What is the Seal of the Buddha? It is, namely, that which cannot act, is 
+without cravings, without desires, without conceptual thoughts, without 
+attachments, without aspirations, without rebirth, without preferences, 
+birthless, nonexistent, non- grasping, non- caring, unabiding, unobstructed, 
+nonexistent, unbound, exhausted of what exists, exhausted of desires, not 
+5 Thoreau, The Journal, 76.
+6 Descriptions of the basic logics of religious seals in China include Strickmann, Chinese 
+Magical Medicine, 142– 43; Barrett, “Images of Printing,” 84ff.; and Paper, The Spirits Are 
+Drunk, 202– 7, 214– 15.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18 PAuL CoPP
+18
+produced from anywhere, imperishable, indestructible, ineradicable, the 
+essence of the Way, and the root of the Way. As to this seal, the arhats and 
+the pratyekabuddhas cannot destroy it, cannot ruin it, and cannot impair it. 
+Fools then doubt this seal. This seal is the Seal of the Buddha.7
+In China, perhaps the most vivid and important use of the idea of the Seal of 
+the Buddha is found in descriptions of the state of meditative consciousness 
+known as the “Samādhi of the ocean Seal” (haiyin sanmei 海印三昧; Skt. sāgara- 
+mudrā- samādhi)— the state in which one realizes that all things are marked by 
+the Seal of Reality. A helpful discussion is found in the Xiu Huayan aozhi wangjin 
+huanyuan guan 修華嚴奧旨妄盡還源觀 (“Contemplation of How, Cultivating the 
+Innermost Teachings of the Huayan, Delusions are Exhausted and one Returns to 
+the Source”), a work attributed to the Buddhist exegete Fazang 法藏 (643– 712). 
+Here the samādhi, or deep state of meditative consciousness, is described as the 
+condition wherein all phenomena of the cosmos appear in the mind as if reflected 
+on a great ocean that has, since the “winds” of delusion have been made to cease, 
+become perfectly still and clear. In this state, one is said to see that, despite their 
+seeming differentiation, all phenomena are in fact “sealed” by— that is, identical 
+with— the ocean itself, here an image both of the mind and of reality as such.
+During the seventh through the tenth centuries CE, arguably the most intensely 
+formative period of Buddhism in China, Buddhists adopted and reworked seal 
+metaphors and added new examples of their own. Seals from this period became 
+central to pictures of the intimate communication of truths from one mind to 
+another (like the perfect impression of a stamp) and of the person transformed 
+by those truths (as if by wearing a seal of authority). Most famously, seals became 
+guiding figures of practice in the Chan 禪 tradition— better known in the West by 
+its Japanese name, zen— in which received metaphors, such as “mind seal” (Ch. 
+xinyin 心印) and “seal of approval” (Ch. yinke 印可), framed the ideal spiritual 
+careers of monks, especially in their relationships with their teachers and with the 
+traditional past. The awakened mind of the teacher, it was said, was like a seal recreating
+its image perfectly in the person of the disciple, a process— in which seal 
+impression becomes in turn seal matrix— repeated from generation to generation, 
+and constituting a key aspect of the tradition’s self- understanding.8
+7 Banzhou sanmei jing, trans. Lokakṣema, T no. 418, 13: 919b. The translation is from 
+Harrison, The Pratyutpanna Samādhi Sutra, 103. I have capitalized “seal” in “Seal of the 
+Buddha,” to make it conform to usage elsewhere in this study.
+8 See T. Griffith Foulk’s concise discussion of these metaphors in his definition of the term 
+佛心印, “Seal of the Buddha- Mind,” in the Digital Dictionary of Buddhism (www.buddhism- 
+dict.net), accessed September 23, 2011.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 19SEALS AS CoNCEPTuAL AND RITuAL TooLS
+19
+The truths said to be embodied in the Chan teacher were also, naturally, found 
+in the religion’s scriptures. Their words, too, were at times described as seals that 
+could be impressed into the minds of students. The Jingde chuandeng lu 景德傳燈錄 
+(“Jingde- Era Records of the Transmission of the Light”), a foundational text of the 
+Chan tradition presented to the Song imperial throne in 1004, speaks in just these 
+terms when it has the influential Chan teacher Mazu 馬祖 (709– 788) state that 
+he “cites the words of the Laṅkāvatāra sūtra to seal the minds of living beings.”9 
+Such seals of perfect understanding, it was said, could at times also be found naturally
+occurring in priests of native genius, such as the monk Yongjia Xuanjue 
+永嘉玄覺 (665– 713), whose biography in the late tenth- century collection Song 
+gaoseng zhuan 宋高僧傳 (“Song Traditions of Eminent Monks”) states that, in him, 
+the “mind- source retained its aboriginal purity; in him the complete text of the 
+wisdom seal was present.”10
+Notable, too, in this period were images of mastery drawn from particular 
+native styles of the extremely widespread practice of wearing seals at the sash or 
+belt. The famed literatus and minister of the Tang state (618– 907) Pei Xiu 裴休 
+(791– 846), in his preface to the Chan monk Huangbo’s 黄檗 (d. 850?) Chuanxin 
+fayao 傳心法要 (“Essentials of the Transmission of Mind”), praised Huangbo as 
+being one “who alone wore at his sash the seal of the Highest Vehicle that is apart 
+from words.”11 A Chinese account of the nature of the practice of a Buddhist monk 
+at Nālanda, the great monastic university of medieval India, in a related image, 
+said that the monk “held in his palm the secret key to meditation and wore at his 
+sash the mystic seal of the Thus- Come one.”12 Drawing on another long- standing 
+Chinese practice— using seals as tokens guaranteeing the authenticity of orders 
+on the battlefield— zongmi 宗密 (780– 841), in his Chanyuan zhuquan ji duxu 
+禪源諸詮集都序 (“Preface to the Collected Writings on the Sources of Chan”), 
+related contemporary accounts of the “Sixth Patriarch” Huineng’s bestowal of the 
+teachings on his students in this way: “All reported that, within, he bestowed the 
+secret words; without, he transmitted the robe as a token. Teachings and robe, 
+given together, in this way acted as tally and seal.”13
+9 引楞伽經文以印衆生心地. Jingde chuandeng lu, 219c (see also 246a). Jinhua Jia argues 
+that this statement dates to sayings collected during Mazu’s lifetime in the late eighth century:
+Jia, The Hongzhou School of Chan Buddhism, 119– 20.
+10 心源本淨智印全文. Song gaoseng zhuan 宋高僧傳, T no. 2061, 50: 758a.
+11 獨佩最上乘離文字之印. Huangbo shan Duanji chanshi chuanxin fayao 黄檗山斷際禪師傳
+心法要, T no. 2012A, 48: 379b.
+12 掌定門之祕鑰佩如來之密印. Song gaoseng zhuan 宋高僧傳, T no. 2061, 50: 714c.
+13 内授密語外傳信衣衣法相資以爲符印. Chanyuan zhuquan ji duxu 禪源諸詮集都序, T 
+no. 2015, 48: 401b.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 20 PAuL CoPP
+20
+The omnipresence of such imagery in Buddhism is easy to understand. Seals 
+had long been central to the practices of the civilizations, Indian and Chinese 
+most prominently, in which Buddhism took on its most powerfully influential
+cultural forms. Indeed, beyond Buddhist Asia, seals and stamps had been in 
+wide use for millennia in cultures “upstream” (as it were) from the seal cultures 
+of Buddhist India and China, including those of ancient Mesopotamia, Egypt, and 
+the Mediterranean, all of which were marked at very early stages by many of the 
+same techniques and concepts found in the much later behaviours of Chinese 
+Buddhists. Seals— which the scholar of ancient Mesopotamia Elena Cassin has 
+simply called “facts of civilization”14— were crucial elements in a range of early 
+cultures: techniques for ensuring privacy in written communication; markers of 
+good faith in political and trade relations; emblems of institutional, personal, and 
+divine identities; and, from an early stage, tokens worn on the body or employed 
+in rituals as talismans.15 Seals were worn suspended on cords as amulets and as 
+social markers in civilizations as disparate as those of the ancient Near East, the 
+Graeco- Roman world, and India.16 Surveying the broad connections illuminated by 
+this material, Pierfrancesco Callieri has said that, “[in] the vast cultural domain in 
+which the interaction of Hellenism with the civilizations of Western, Central, and 
+Southern Asia is a constant feature, few categories of material offered me such 
+rich possibilities for … research on the relations between East and West as seals 
+and sealings.”17 The present brief study seeks, among other things, to demonstrate 
+that, to the east of this landscape, we must also add China and the rest of East Asia.
+Corresponding continuities in the use of seals as metaphors occur across an 
+astonishingly vast landscape of culture and geography.18 As Brigitte Bedos- Rezak 
+14 See Cassin, “Le sceau.”
+15 Dominique Charpin (Reading and Writing in Babylon, 92) notes that the inscriptions on 
+the earliest Babylonian seals were prayers. For a broad study of seals focusing on East Asian 
+practices, see Niizeki, Tōzai yinshōshi. For a convenient overview of ancient and medieval seal 
+practices from around the world, see Collon, ed., 7000 Years of Seals. For a vividly illustrated 
+survey that focuses on later eras, see Rosaia, Ratti, and Capellini, Les sceaux.
+16 See Parpola, “Seals of the Greater Indus Valley,” 49; Betts, “Minoan and Mycenaean 
+Seals,” 66; Dikshit, “Cunningham Collection,” 129; Schlingloff, “Stamp Seal,” 70; Bedos- Rezak, 
+When Ego Was Imago and “From Ego to Imago”; Platt, “Making an Impression” and “Burning 
+Butterflies;” and Callieri, Seals and Sealings.
+17 Callieri, Seals and Sealings, 11.
+18 Note that, in a seminar paper from 1997, T. H. Barrett was already calling for the Buddhist 
+evidence of sealing, stamping, and printing to be placed within as historically broad a context 
+as possible (Barrett, “Images of Printing,” 92– 93, especially note 36). I hope this study— and 
+the much larger one from which it is drawn— can be considered a response to this call and at 
+least a small step in achieving this important goal.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 21SEALS AS CoNCEPTuAL AND RITuAL TooLS
+21
+notes, “Mesopotamian and biblical texts, Platonic and Aristotelian treatises, 
+patristic and early medieval commentaries, all incorporate sealing imagery as a 
+conceptual tool.”19 Seals, from Britain to China, were prominent in images of the 
+relationship between teacher and student and of the human apprehension and 
+embodiment of truth. Sealing an impression into a person, in such images, is a 
+figure of the reformation of the person in the image of the seal, in which the seal 
+matrix stands for the prototype, the original, whether God, in Christian examples, 
+or, in Buddhist cases, the Buddha (or a living master understood as buddha) and 
+the truth he awakened to. Bedos- Rezak quotes the exhortation of the Cistercian 
+abbot of Swineshead Abbey (Linconshire), Gilbert de Hoiland (d. 1172): “Imprint 
+yourself to him [God] so that his image may be expressed in you, make yourself 
+conform to his seal.”20 Crucial to the nature of such metaphors, whether in medieval
+Britain or Tang China, is the intimate contact implied by it. Bedos- Rezak, 
+describing medieval Christian cases, notes that they figured the relationship 
+between sign and referent as being “one of origin, participation, and resemblance,” 
+in terms that are highly suggestive of the Buddhist (or, as we will see, Daoist) case:
+[The] imprint forever and doubly retains the marks of its derivation. As a 
+trace, it represents the causality of its cause; as an image, it represents the 
+cause with respect to its likeness. This may account for the extensive use of 
+the term impressio to describe the filiation, kinship, and affinity, between 
+God and creatures marked by His imprint. Impressio thus came to project 
+the notion of image as personal, as a presence which linked cognition of 
+the self and recognition of God within oneself. It was the inner nature of 
+man, that fabric imprinted by God, which enabled him to comprehend 
+his “being- image” … The imprint could not only articulate that filiation 
+and achieve that formal resemblance (despite a difference in substance) 
+between image and archetype which was necessary for man to be able to 
+evolve a knowledge of God, but it could also imply that direct contact which 
+rendered man’s soul God- like as it took on the sculptural form of the divine 
+seal.21
+We see much here that echoes Chinese Buddhist conceptual seals: the intimate contact 
+and attained resemblance implied by the image of the “mind seal,” especially when it is 
+19 Bedos- Rezak, When Ego Was Imago, 55.
+20 Bedos- Rezak, “From Ego to Imago,” 160– 61.
+21 Bedos- Rezak, “From Ego to Imago,” 171, 163– 64. For equally illuminating discussions of 
+seal metaphors in the classical world, see Platt, “Making an Impression,” especially 250– 51, 
+and “Burning Butterflies,” passim.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 22 PAuL CoPP
+2
+properly understood as an integral part of “mind- to- mind transmission” in the larger 
+Chan context; and also the “filiation, kinship, and affinity” of that transmission, effected 
+and marked by the seal, in which one takes a position within an imagined spiritual 
+bloodline anchored in “ancestors” (zong 宗, zu 祖). But, deeper than this, as we have 
+seen, conceptual seals in Buddhism were often key elements in images of the structure
+of reality itself, in particular (and in part, no doubt, because the logic of sealing 
+implies two entities: impressing matrix and impressed substance) of the relationship 
+between the truly real and the merely apparently or understood- to- be real— that is, 
+the “two truths” featured in Buddhist doctrine. In terms of seals, this relationship 
+was perhaps most vivid in the figures of the “Seal of the Buddha” or the “ocean Seal,” 
+described above, wherein the infinite welter of phenomenal experience is seen as 
+impressed with— as identical to— true reality, whether that is understood in terms of 
+the metaphors of “emptiness,” the “one mind,” or others.
+This basic conceptual figure clearly had great power in Tang China beyond 
+the confines of Buddhist thought. The Daoist Xuanzhu lu 玄珠錄 (“Record of the 
+Mysterious Pearl”), compiled by Wang Daxiao 王大霄 (zi Taixiao 太霄, b. ca. 671) 
+and said to contain the writings of Wang Hui王暉 (hao Xuanluan 玄覽, 626– 697), 
+makes a now familiar claim: “Moving outwards: things everywhere; entering 
+inwards: nothing at all; all being is sealed with the talisman of emptiness …”22 
+Elsewhere in the work, Wang and a later commentator, whose remarks are set off 
+here in parentheses, elaborate the trope in greater detail:
+The ten thousand things are born endowed with the Way (Dao). However, 
+though the ten thousand things change and differ from each other, the Way 
+itself does not change or differ. Thus, its actions do not distort its tranquility. 
+(Like the words carved on a seal.) Yet, since things are endowed with the 
+Way, when things differ from each other, the Way differs in accordance with 
+them. This is the Way responding to things. (Like words impressed on clay.) In 
+stamping clay with a seal, the clay will bear any number of words but the original
+words on the seal itself are not thereby diminished. (This illustrates that 
+the actions of the Dao do not distort its own tranquility.) one may impress any 
+amount of clay with a seal— in all of it the words will be the same as the original
+words on the seal, yet those original words are not thereby diminished. 
+(This illustrates that when things shift, the Dao for its part shifts.) Thus [the 
+Laozi] says: “The more one gives, the more one has.”23
+22 出則徧諸法入則一毫無持一空符以印諸有. Xuanzhu lu (Daozang ed.), 2.8b. See also 
+Barrett, “Images of Printing,” 90n29.
+23 Xuanzhu lu 1.1a– b. I consulted and sometimes quote Barrett’s translation (Barrett, 
+“Images of Printing,” 90).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 23SEALS AS CoNCEPTuAL AND RITuAL TooLS
+23
+For readers unused to Daoist rhetoric, this is perhaps an enigmatic passage. The 
+Way (Dao)— that is, for Daoists, the truly real, whose nature can be studied and 
+emulated— is likened to a cosmic seal, which, although it imprints its “words” on 
+the infinite, and infinitely disparate, phenomena of the world, itself remains unitary
+and singular. That is, although the Dao- imprinted phenomena and situations 
+of the cosmos all endlessly “change” and “shift” (in the language of the text), the 
+Dao itself does not; it simply “responds to things,” suffusing them in whatever 
+form they take but remaining in itself unchanged and infinitely responsive. In the 
+final words of the passage, via a quote from  chapter 81 of the Laozi (aka Daodejing 
+道德經)— a work of immense importance for the much later Daoist religious 
+tradition— this unchangeability and inexhaustible responsiveness is presented as 
+a model the adept should emulate.
+While their similarities are striking, however, the contrasts revealed in medieval
+British and Tang Chinese seal- inspired imaginings are just as telling, and reflect 
+the very different conceptions of the relationships between the human mind and 
+the really real (or the divine) found in each culture. In Chinese Buddhist conceptual
+seals, a single all- at- once impression, figuring, in the language of the tradition, 
+“sudden” or “primordial” enlightenment, was key to the logic of the ideas they were 
+used to illustrate. In contrast, imprinting in the Christian cases, for Bedos- Rezak, 
+was “a repetitive process, [warranting] gradual human reformation because it 
+permits a progressive resemblance to the divine model. By ‘imprinting himself to 
+God’s seal’, man is conceived as participating in and pursuing God’s creation, while 
+self- reformation through repeated imprinting is made possible by the presence of 
+God’s seal within man.”24 Along with the images of the Mind and ocean Seals, or, 
+indeed, of Wang Hui’s sealing by the Dao— all, again, governed by logics of a single 
+all- at- once, at times even primordial stamping— we can take one final example of 
+a Chinese account. Returning to the writings of the Tang Buddhist thinker Fazang, 
+we see, as in his discussion of the imagery of the ocean Seal, emphasis on the all- 
+at- once nature of the impressions made by seals (or here perhaps more simply 
+stamps) in illustrations of the structures of truth and of the teachings attributed to 
+the Buddha. As in all the conceptual seals we have surveyed, the point here is not 
+simple description but the positing of a model for thinking and for an approach to 
+the world:
+All the doctrines of the Buddha were preached together on the fourteenth 
+day [after his awakening], at once from beginning to end, from beginning to 
+end at once. This is just as in this world, in the method of stamping, we read 
+texts as having meaning that proceeds from beginning to end, but when 
+24 Bedos- Rezak, “From Ego to Imago,” 160– 61.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 PAuL CoPP
+24
+they are stamped [that text] appears all at once. Yet, in this, the principles of 
+“all at once” and “from beginning to end” do not contradict each other. You 
+should know that the principles of this Middle Way [that is, of Buddhism] 
+are also like this, and let it guide your thinking.25
+Seals as Ritual Tools
+Buddhist Ritual Seals in China
+Turning now from philosophy to physical practices of ritual sealing, it is clear that the 
+efficacies claimed for talismanic or otherwise spiritual seal practices also derived from 
+the basic social logics of seals. For example, the spiritual protection said to be offered 
+those dwelling behind a door sealed against demonic intrusion was an extension of 
+the protection offered to the contents of envelopes or containers of trade goods by 
+personal sigils. A seal’s social power is, after all, always in part “spiritual.” As Verity Platt 
+notes in her study of Graeco- Roman seal stones, a “seal’s impression … establishes a 
+set of moral obligations which bind those who encounter it: to break or forge a seal is 
+an act which everyone knows is wrong.”26 The form of social magic most widespread 
+in medieval Chinese religious seal practice was, again, that of identity. We find seal 
+matrices inscribed with the names or images of gods and buddhas that made physically
+present the powers and principalities to which they were dedicated, both in their 
+material forms of cast bronze or carved wood and in the persons of those who used 
+them, whether they were trained ritualists employing wooden seals that they themselves
+had carved, or laypeople wearing sigils obtained as charms against the dangers 
+of the road.27
+In China, seals were key tools of social practice at every level, and the 
+imagery of seals in the metaphors of the age, in both literature and social life, 
+was correspondingly potent. In the Tang period (618– 907 CE), seal use was 
+the site of new and widespread practices of personal engagement with the 
+world, most famously as tools in the self- fashioning and self- presentation of the 
+25 一切佛法並於第二七日一時前後説前後一時説如世間印法讀文則句義前後印之則同
+時顯現同時前後理不相違當知此中道理亦爾準以思之. Huayan yisheng jiaoyi fenqi zhang, 
+482c1– 5. The translation once again in part quotes that of Barrett (“Images of Printing,” 92), 
+who notes that Fazang likely adapted the language of what was by then a classic Buddhist 
+metaphor featuring the imagery of lost- wax moulds.
+26 Platt, “Making an Impression,” 234.
+27 The classic Western- language study of magical seals in medieval China is Strickmann, 
+Chinese Magical Medicine, 123– 93. More recent studies better grounded in the archaeological 
+record include Liu, Kaogu faxian yu zaoqi Daojiao yanjiu, 131– 74; Wang, Daojiao fayin lingpai 
+tan’ao; Li, Daojiao fayin mizang; and zhou, ed., Ershi shiji chutu xiyin jicheng.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 25SEALS AS CoNCEPTuAL AND RITuAL TooLS
+25
+literatus— signatures stamped on his letters and documents, and, as marks of 
+his connoisseurship, on the paintings he owned or appreciated. In this way, to 
+return to an example given earlier, the “seal” worn by the Chan teacher Huangbo 
+at his belt marked him as a master in a way vividly and intimately recognizable 
+by his and Pei Xiu’s fellow literati.
+Buddhist seals and their techniques also underwent transformations in 
+ritual practices of healing, exorcism, and spiritual liberation widespread in 
+the culture. By at least the turn of the eighth century, stamp seals had become 
+prominent tools in Chinese Buddhist ritual practice. Manuals from the period 
+describe techniques that range from the stamping of healing or supernatural 
+potencies into bodies, to those said to shatter hells beneath the earth, and to 
+the related ceremony of “stamping sand-buddhas” (yinshafo 印 沙 佛 ) practised 
+by local Buddhist communities at Dunhuang, wherein buddha images were 
+stamped into stream banks at the turn of the New Year to aid in the renewal 
+and purification of the cosmos.28 Although Buddhists in China had begun to use 
+seals in rites of exorcism and various forms of spiritual enhancement at least 
+300 years earlier, when the first scriptural evidence for their practices appears 
+in the transmitted record, it was only in the early eighth century that stamps 
+appear in iconography in the hands of bodhisattvas and as normal instruments 
+of Buddhist practice in the accounts and ritual manuals of major Buddhist 
+writers such as the Huayan exegete Li Tongxuan 李通玄 (ca. 635– 730).29 Before 
+the eighth century seal techniques had mainly been practised and elaborated 
+within relatively obscure rituals centring on dhāraṇī incantations, techniques 
+that led to the production of native scriptures such as the Guanding jing 灌頂經 
+(the Consecration Scripture), the Azhapoju guishen da jiangshang fo tuoluoni 
+jing 阿吒婆拘鬼神大將上佛陀羅尼經 (the Scripture of the Dhāraṇīs of the Great 
+Demon General Āṭavaka), and the Foshuo Changjuli dunü tuoluoni zhou jing 
+佛説常瞿利毒女陀羅尼呪經 (the Scripture of the Dhāraṇī- Incantations of the 
+Poison Woman Jāṅgulī).30
+With the rise in cultural status of these practices in eighth- century China— 
+and perhaps especially those prescribed in Buddhist incantation scriptures— 
+seals began to appear much more prominently in the material and visual 
+28 Major studies of yinshafo include Hou, “La cérémonie”; Tan, “Yinsha, tuofo, tuota”; and 
+Wang and Wang, “Dunhuang wenxian yinshafo wen.”
+29 For a study of the iconography of seal- bearing bodhisattvas in Chinese Buddhism that 
+focuses especially on the later Song and late imperial periods, see Sørensen and Suchan, 
+“Seal- Bearing Bodhisattvas.” on Li Tongxuan’s account of seals, see below.
+30 Strickmann, Chinese Magical Medicine, 123– 93.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 26 PAuL CoPP
+26
+components of the religion. We see them in the forms of ornate and intricate 
+bronze “thousand buddha” stamps commissioned by wealthy officials and as 
+simpler implements borne in the hands of sculpted and painted bodhisattvas, 
+most often of Guanyin in one of his new guises associated with dhāraṇī 
+traditions, especially his Eleven- Headed and Thousand- Armed versions.31 The 
+earliest clearly datable example is a relief sculpture of a two- armed and eleven- 
+headed bodhisattva adorning the Qibaotai 七寶臺 (Tower of Seven Treasures) in 
+the Guangzhai si 光宅寺 of Chang’an (modern Xi’an), which was commissioned 
+around the year 703 by the Empress Wu zetian.32 In it, Guanyin holds upraised 
+in his right hand a seal bearing the Chinese phrase miezui 滅罪, “Elimination 
+of Sins,” a ritual statement that connects the image in a general way with the 
+arcane arts of the seal practitioner, many of whose techniques, as we will see, 
+heal through the elimination of the karmic burden of sins borne by the afflicted. 
+Much more specifically, however, these words echo, and may have been an adaptation
+of, a scriptural account of another bodhisattva’s seal, one employed to 
+stamp the sign of the successful extinction of sin onto the body of the practitioner
+of a form of Buddhist visionary repentance.
+This seal is featured in an account from the kashmiri monk Tanmomiduo’s 
+曇摩蜜多 (Dharmamitra, 356– 442, active in China after 424) translation of the 
+Guan Xukongzang pusa jing 觀虛空藏菩薩經 (The Scripture on the Contemplation 
+of the Bodhisattva Ākāśagarbha), a passage that, in Wu zetian’s day, had recently 
+been republished in Daoshi’s 道世 (d. 683) thematic anthology of Buddhist 
+teachings, Fayuan zhulin (“A Grove of Pearls from the Garden of the Dharma”). In 
+the technique described, the practitioner is to beseech the aid of the bodhisattva 
+Ākāśagarbha, whom he has envisioned in his mind (xiang 想) complete with a 
+purple- gold maṇi gem, or “Wish- Fulfilling Jewel,” adorning the deity’s head. The 
+scripture claims that the practitioner will have evidence that his prayers have 
+worked if, later, either in a dream or in a vision attained during seated meditation,
+the bodhisattva appears to him and stamps the practitioner’s arm with his 
+maṇi gem.33 The text says that the seal will be marked with “words that wipe away 
+sin” (chumie zi 除罪字), but that, if one does not see these words in the dream or 
+vision, a voice will intone from the sky that “the sins are extinguished, the sins are 
+31 See, for example, Wang, “Buddha Seal.”
+32 Yen, “The Sculptures,” 53, 70– 74. See also Wong, “The Art of Avataṃsaka Buddhism,” 8; 
+and Sørensen and Suchan, “Seal- Bearing Bodhisattvas,” 409– 10, and fig. 1.
+33 one might speculate that the close connections between seals and maṇi gems in Buddhist 
+ritual language and imagery, which is found across a wide body of material, may reflect the 
+wide use of intaglio gems as seals across the ancient world.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 27SEALS AS CoNCEPTuAL AND RITuAL TooLS
+27
+extinguished!” (zuimie zuimie 罪滅罪滅), using the very words (albeit in a different 
+order) engraved on the seal of the Qibaotai Guanyin.34
+The popularity of seal- bearing bodhisattvas in Buddhist visual culture 
+through at least the Song period (960– 1279) appears to have been significant 
+in areas ranging from the imperial capital to Dunhuang in the northwest and 
+the Sichuan region in the southwest.35 other surviving Tang sculpted examples 
+include a small (9.3 x 3.5 x 2.5 cm) gilt copper alloy votive statue in the collection 
+of the Art Institute of Chicago of an eleven- headed and six- armed Guanyin, who 
+bears in his middle right hand a stamp seal (see Plates 2.1 and 2.2). Painted icons 
+of seal- bearing bodhisattvas from the Tang and the tenth century include at least 
+four portable silk paintings of Guanyin grasping seals bearing swastikas— an 
+image of blessings that is among the oldest and most important of all ritual seal 
+emblems. These paintings were among the hoard of documents and images 
+discovered in Mogao cave 17, near the city of Dunhuang, the ancient site of 
+caravanserais along the overland Eurasian trade routes known today as the “silk 
+roads.” of the four examples, three depict Thousand- Armed Guanyins: two (Stein 
+Paintings 35 and 167) are eleven- headed and thousand- armed versions bearing 
+their swastika seals in forward- positioned right hands; the other (Musée Guimet 
+no. 17659) has a single head and bears its seal in a left hand at about shoulder 
+height. The fourth (Musée Guimet no. 23076) depicts an image of a six- armed 
+Amoghapāśa Guanyin bearing its swastika seal in its upper right hand. Perhaps 
+the most striking image of all, and possibly the earliest of the extant painted 
+images, is the mural of a Thousand- Armed Guanyin found in Mogao cave 148, 
+dated as a whole to 776, where it is part of a very important program of dhāraṇī 
+iconography— a fact that, along with the images just described, is striking evidence
+of the place of seals within Buddhist incantatory traditions.36 The bodhi-
+sattva holds in one of its most prominent and forward- positioned hands a seal 
+inscribed with what appears to be a stylized swastika (perhaps integrated within 
+a larger design intended to suggest the Chinese talismanic glyphs known as fu 符, 
+or “cloud script,” among other names).37
+34 Fayuan zhulin, Daoshi, comp., T no. 2122, 53: 913c, quoting Guan xukongzang pusa jing, 
+Tanmomiduo, tr., T no. 409, 13: 677c.
+35 Sørensen and Suchan, “Seal- Bearing Bodhisattvas.”
+36 on the dhāraṇī bodhisattva programme in this cave, see, for example, Wong, “Divergent 
+Paths.”
+37 For an image of this bodhisattva and his seal, see Copp, “Manuscript Culture,” 208. 
+on fu talismans and the broader category of talismanic writing in China, see Bumbacher, 
+Empowered Writing, 57– 80, and passim.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 28 PAuL CoPP
+28
+The Dunhuang swastika emblems mark clear connections between Tang 
+China and cultures to its west. one can, in fact, follow swastika- bearing objects 
+seemingly like breadcrumbs from Indic and Central Asian sites to Dunhuang and 
+beyond to Chang’an. The British Museum, for example, has a number of coins and 
+tokens bearing the image discovered by Aurel Stein at various sites on the trade 
+and pilgrimage routes to the west of Dunhuang. These, as well as a large number 
+of seals and religious stamps discovered in India and Central Asia, provide ample 
+evidence of the ways that Tang Buddhist seal practices drew in part on cultural 
+sources outside China.38 But the evidence for Chinese sources for the practices and 
+object figured in the bodhisattva icons is also compelling, and in many ways much 
+more richly detailed. I explore the Indic and Central Asian sources elsewhere; in 
+the remainder of this study I will turn my attention to the long history of ritualists’ 
+seals in China and consider the ways that the Tang Buddhist material carried this 
+history forward in new forms.
+Plate 2.2. Detail of Plate 2.1: the hand 
+bearing a stamp seal.
+38 See my forthcoming book, Seal and Scroll.
+Plate 2.1. Eleven- headed and six- armed Guanyin 
+(Avalokiteśvara) standing on a lotus. China, Tang 
+dynasty (618– 907), ca. ninth century. Gilt copper 
+alloy, 9.3 x 3.5 x 2.5. Gift of C. A. Islinger in memory 
+of his mother, Helen Islinger, 1982. Chicago, Art 
+Institute of Chicago, 1676. Photo: the Art Institute of 
+Chicago / Art Resource, NY.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 29SEALS AS CoNCEPTuAL AND RITuAL TooLS
+29
+Ritualist’s Seals in Non- Buddhist China
+Seals were everywhere in Chinese culture, dating back at least to the “Springs and 
+Autumns” and “Warring States” periods, stretching from the end of the Western 
+zhou Dynasty in 771 BCE to the full establishment of the Qin Empire in 221 BCE. 
+Worn on the body or used to stamp clay bullas (fengni 封泥) or paper and silk 
+documents and, later, paintings, seals were integral to a wide range of cultural 
+practices, most prominently those of politics and commerce, but also those of 
+romance and friendship, of connoisseurship and literati style, of Confucian ethical 
+paths, and, most importantly for the purposes of this article, of a great variety of 
+ways of healing, exorcism, protection, and conferring blessings.
+one group of these religious seals, drawing on the logics of extended identity
+and power inherent in uses of royal seals, bears the names of deities or the 
+titles of the ritualists who invoked them. The “monarchs” represented in these 
+practices were cosmic principalities, deities, and heavenly sovereigns. Certain 
+tombs of the first century CE in China were found to contain small bronze seals 
+whose inscriptions point directly to their bearers’ roles as agents of deities. We 
+find inscriptions on the seals such as “Yellow Spirit” (huangshen 黃神), “Seal of 
+the Yellow Spirit” (huangshen zhi yin 黃神之印), “Seal of the Heavenly Thearch” 
+(tiandi zhi yin 天帝之印), “Seal of the Emissary of the Yellow Spirit” (huangshen 
+shizhe yinzhang 黃神使者印章), and “Spiritual Master of the Heavenly Thearch” 
+(tiandi shenshi 天帝神師), among others that reflect the ancient civil and cosmic 
+functions of imperial seals. Aside from naming the titles of their bearers and the 
+deities for whom the seals acted as agents, some early religious seals also named 
+the particular rites for which they were crafted: in general, they were those that 
+summoned and commanded spirits for the ritualists’ own uses or to expel or kill 
+them in exorcistic rites. These examples include the seals marked “High Lord of the 
+August Heaven’s Seal for the Control of the Myriad Spirits” (Huangtian shangdi zhi 
+wanshen zhang 皇天上帝制萬神章) and the “Heavenly Thearch’s Demon- killing 
+Seal” (Tiandi shagui zhi yin 天帝殺鬼之印).
+Seals bearing the phrase Huangshen yuezhang 黃神越章, “Conquering 
+Emblem of the Yellow Spirit,” are among the oldest and most storied of all 
+Chinese ritual seals.39 The name invokes the renowned exorcistic might of the 
+39 I follow Donald Harper’s convincing (but as yet tentative) reading of yue as having 
+the sense of “overcoming” (personal communication, July 31, 2013), which draws on 
+usage found on a bamboo manuscript dated ca. 209 BCE, from zhoujiatai 周家臺 tomb 
+30, Hubei, and then later on the verso of the Dunhuang paper manuscript known today 
+as Pelliot chinois no. 2661, where it is found in the text Zhu zalüe deyao chaozi yiben 
+諸雜略得要抄子 (“Summation of the Various Miscellanies that obtains Their Essentials”). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30 PAuL CoPP
+30
+Yellow Spirit, a version of the figure later better known as the Yellow Thearch 
+(or “Emperor”), whose association in early China with a range of demonifugic 
+techniques is widely evidenced.40 Seals with this name figure prominently in Ge 
+Hong’s normative collection of religious lore, the Baopuzi 抱朴子, or The Master 
+Who Embraces the Unhewn, and are singled out for excoriation by the fifth- century 
+Buddhist monk Xuanguang 玄光 in his Bianhuo lun 辯惑論 (On Delusions). A tale 
+of the potencies of the seal, furthermore, is contained in Du Guangting’s 杜光庭 
+(850– 933) tenth- century collection of Daoist tales, Daojiao lingyan ji 道教靈驗記 
+(Records of the Proven Efficacies of Daoism). The seal remained an important 
+ritual implement in Daoist canons beyond the Song period, a fact made clear 
+by the place of the seal in the great ritual collection titled the Daofa huiyuan 
+道法會元 (Collected Daoist Rites). The history of the seal, in fact, is emblematic 
+of the wider history of ritualists’ seals in China, which began as tools of Han- 
+era spirit mediums and other occult masters and, over time, were borrowed by 
+Buddhist and Daoist ritualists, and ultimately systematized within later Daoist 
+and Buddhist traditions.
+Among the earliest surviving actual examples of the seal is a Han- period 
+stamp inscribed on two sides (Figure 2.1 a–b). Aside from “Huangshen yuezhang,” 
+on its sealing face, it bears on its back a longer inscription, now largely illegible, 
+which clearly marks the object as a demonifugic agent: the phrase “shagui zhi yin” 
+殺鬼之印 (“demon- killing seal”) is among the few readable portions remaining.41 
+Ge Hong’s account of the Huangshen yuezhang seal is part of his answer to the 
+following question: “Those who practice the Way [weidaozhe 為道者] often find 
+themselves in mountains and forests, where they are in danger from tigers and 
+wolves— how can one avoid them?” Ge Hong replies,
+Those of old who entered the mountains all wore on their belts the 
+Huangshen yuezhang seal.42 In width it is four inches (cun 寸); its words 
+In these cases, yue refers to the “overcoming” described in the “conquest sequence” of five 
+agent theory. Compare Strickmann, Chinese Magical Medicine, 14. Strickmann also notes 
+that some sources, such as Qianjin yifang, appear to take yuezhang as a proper name (ibid., 
+318n43).
+40 Liu, Kaogu faxian, 146– 47. See also zhao, “Luoyang chutu,” 69– 71. on the historical relationship
+between the Yellow Spirit and the Yellow Thearch, etc., see Espesset, “Latter Han 
+Religious Mass Movements,” 1077– 81, especially 1080.
+41 Liu, Kaogu faxian, 140.
+42 See Strickmann, Chinese Magical Medicine, 141, for a close paraphrase of this passage. 
+I have followed his understanding of the passage at times in my translation.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 31SEALS AS CoNCEPTuAL AND RITuAL TooLS
+31
+number one hundred and twenty.43 use it to stamp clay bullas (fengni 封泥) 
+and place them at the four directions, one hundred paces out, and neither 
+tigers nor wolves will dare to enter it.
+If, when traveling, you see fresh tiger tracks, then seal them in the same 
+direction (shunyin zhi 順印之) if you want to make the tiger continue on 
+as it was, or in the opposite direction (niyin zhi 逆印之) to make it turn 
+around. Wear this seal when you travel in mountains and forests and you 
+will not fear tigers or wolves. Not only will you not fear beasts, in fact, but 
+should you come upon mountain and river shrines to blood- eating evil 
+spirits, you will have the power to pass them by— take the seal and stamp 
+clay bullas and use them to cut off their paths: they will no longer have the 
+means to be spirits (bu fu neng shen 不復能神). of old, there was a great 
+turtle- demon (dayuan 大黿) that dwelled within a deep pool of the Yangzi 
+River, which for this reason people called the Turtle- Demon Pool. This creature
+could perform devilries and spread illnesses among the people. In the 
+Wu region there was a daoshi named Dai Bing 戴昞, who encountered it. He 
+made a few hundred sealings in clay with his Yue Emblem, and then took 
+43 Liu zhaorui notes that Ge Hong’s description of the seal does not match excavated Han- 
+period examples, which he takes to indicate the likelihood that Huangshen yuezhang seals 
+had fallen out of use by Ge’s time; not surprising, he notes, given that the cult of the Yellow 
+Thearch itself had greatly diminished in the early medieval period— though, as we will see 
+below, perhaps in part due to the importance of the Baopuzi itself, seals bearing the inscription
+Huangshen yuezhang later appear to have remained in use through at least the Song 
+period. Thus, Liu strongly implies, the Baopuzi’s accounts of “ancient” practices must be used 
+with caution, and compared carefully with excavated evidence (Liu, Kaogu faxian, 151); this 
+is a point whose importance I would like to underscore.
+Figure 2.1a–b. Huangshen yuezhang seal, front (a) and back (b). After Wang, 
+Daojiao fayin lingpai tan’ao, 20, figs. 21– 1, 21– 2.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 32 PAuL CoPP
+32
+a boat out onto the pool, dropping the sealings into it. After a good long 
+while, the great turtle- demon— measuring over ten feet in length— floated 
+paralyzed to the surface, where it was killed. All those afflicted with the 
+illness were cured.44
+Xuanguang’s text, from a century or so later, simply mentions the seal in passing, 
+but lets us see that it was still understood as a demon killer: “Adepts [gaoxian 
+高賢] … make the Huangshen yuezhang and use it to kill demons” [yongchi sha gui 
+用持殺鬼].45
+Further evidence of the seal’s storied demonifugic efficacies may be seen in 
+the tenth- century Daojiao lingyan ji (Records of the Efficacies of Daoism) tale of 
+the madman zhang Rang 張讓 and the Daoist adept (daoshi) Yuan Guizhen 袁歸真 
+and his seal. zhang Rang, a native of Guizhou, was out travelling one day when 
+he was struck down by a strange illness of the heart- mind. The symptoms at first 
+were simple forgetfulness and a tendency to get easily lost and disoriented, but 
+after several months their severity worsened, to the extent that zhang was often 
+to be seen running around naked, utterly heedless of danger, and in fact injuring 
+himself at times. To his rescue comes a Daoist named Yuan Guizhen wielding his 
+newly carved Huangshen yuezhang seal. After completing the ritual preparations, 
+Yuan takes his seal and seals zhang on his heart and back. zhang reacts violently 
+and attempts to flee, but Yuan grabs hold of him and seals him once again, causing 
+zhang to fall into a slumber. At this point, the tale reports, Yuan became confident
+of the potency of his new seal. Employing cinnabar and burning incense, Yuan 
+seals zhang once more upon his heart, which brings about his patient’s healing: a 
+birdlike creature climbs out of zhang’s mouth and tries to fly away, but after a 
+short distance it falls to the ground, where it is revealed to be a great bat, upon 
+whose back the impression of Yuan’s seal is clear and distinct. zhang Rang makes a 
+full recovery, and we are told that Yuan Guizhen went on to heal many others with 
+his powerful sigil.46
+The presence of this tale in the Daoist Canon suggests that the Huangshen 
+yuezhang seal had been absorbed within certain of Daoism’s ritual canons by at 
+44 Baopuzi neipian jiaoshi, 313. For other discussions of this last use of clay sealings as 
+“depth charges,” see Strickmann, Chinese Magical Medicine, 141; and Barrett, “The Rise and 
+Spread,” 9. For a clearly related use of a written Buddhist spell, see Tang Dajianfu si gu sizhu 
+fanjing dade Fazang heshang zhuan, 284b.
+45 Xuanguang, Bianhuo lun, in Sengyou 僧祐 (445– 518), comp. Hongmingji 弘明集 8, T 
+no. 2102, 52: 49b.
+46 Daojiao lingyan ji, 2650– 51. on this collection, see Verellen, “Evidential Miracles.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 33SEALS AS CoNCEPTuAL AND RITuAL TooLS
+3
+least the Tang; and the rites for the seal contained in the Ming Daoist collection 
+Daofa huiyuan, as elsewhere, demonstrate its full presence later in the religion— 
+one in which seals had played a key role since its inception.47 In fact, although 
+seals were employed in the Daoist religion from an early stage, and had become 
+standard tools (along with spells, fu talismans, registers of spirits, the “Paces 
+of Yu,” etc.) of Daoist priests by at least the Tang, scholars of Daoist seals seem 
+unanimous in holding that the Song was the great period of their systematic 
+absorption within the ritual systems of the religion. Li Yuanguo, for example, 
+notes that most accounts of the nature and uses of seals in the Daoist Canon date 
+to the Song and Yuan periods, and he emphasizes throughout his work the great 
+richness of the material dating to this period (which lies beyond the purview of 
+this survey).48
+Buddhist Incantations and Seals in the Eighth and Ninth Centuries
+As scholars such as Michel Strickmann have shown, Chinese Buddhists had 
+incorporated these forms of religious seal practice into their scriptures by at least 
+the middle of the fifth century, when the compilers of the Foshuo da guanding 
+shenzhou jing 佛説大灌頂神呪經, the Great Spirit- Incantation Scripture of 
+Consecration (hereafter, The Consecration Scripture), included a chapter featuring 
+instructions for the making and use of stamp seals bearing the names of deities, 
+the Foshuo guanding fumo fengyin da shenzhou jing 佛説灌頂伏魔封印大神呪經 
+(“Demon- Defeating Seals of the Great Spirit- Incantation Scripture of Consecration”).49
+Canonization in a scripture was likely a late stage in the absorption of 
+a new practice, however; seals borrowed from native techniques would almost 
+certainly have been found in the repertoires of Buddhist ritualists well before 
+their scriptural enshrinements. In turn, the new forms, infused with the imagery 
+and ideals of Buddhist dhāraṇī rites, helped to reshape the seal practices of non- 
+Buddhists in later centuries. Their ongoing presence, and at times prominence, in 
+47 on this collection, see Schipper and Verellen, eds., The Daoist Canon, 1105– 13. on the seal 
+in this collection, see Wang, Daojiao fayin, 17. on seals in Daoism, see now Huang, “Daoist 
+Seals, Part one.”
+48 See, for example, Li, Daojiao fayin, 25– 27, 16ff. See also Ren, Daojiao zhangbiao fuyin 
+wenhua, 251– 56.
+49 The best studies in a Western language of this scripture remain those of Michel Strickmann, 
+in his article “The Consecration Sūtra” and in his book Chinese Magical Medicine, 132– 40. The 
+“scripture,” as scholars have pointed out, is in fact best understood as a collection of previously
+independent scriptures, translated by a range of people. on the life of the seventh of 
+its scriptures in seventh- century Silla korea, see kim, “(Dis)Assembling the National Canon.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 34 PAuL CoPP
+34
+Buddhist practice and iconography into the tenth century would very likely have 
+been one reason for the new central places of seals in Daoist ritual beginning 
+around that time.
+The Consecration Scripture provides early evidence for new forms of religious
+seal practice in China that would remain important through the tenth cen-
+tury. Aside from corroborating the fact of their use by Chinese Buddhists in this 
+period, the text makes clear that, by the fifth century, seals were to be made 
+from wood, rather than bronze, the standard material of earlier seals.50 This 
+was a key innovation in seal technology, which, as Wang Yucheng has noted, 
+allowed for their easy manufacture by individual ritualists according to local 
+requirements and timetables, and freed them from reliance on bronze smiths 
+and expensive materials.51 Wood also enabled continuity with traditional 
+practices of wearing seals on cords hanging from the belt, which were more 
+and more out of date given newer trends in the Tang in both state and Daoist 
+practice towards larger and heavier bronze seals, and eventually stone seals, 
+representing not the individual minister but the office of the ministry itself. 
+These seals, because of their new nature as well as their new heft, were to be 
+kept and transported in special cases, rather than worn at the belt.52 This new 
+practice left empty a space on the person that had long been a site of identity 
+and social power. The re- emergence of personal non- state seals in the Tang, and 
+the great growth of their popularity in later ages, can in part be traced to this 
+change. Connected with these new trends, wooden religious seals could still be 
+worn comfortably on a cord, and the Dunhuang Buddhist seal manuals to be 
+discussed shortly call for this practice— as Daoist texts also continued to do at 
+times. Another possibility enabled by wood as a material was a new emphasis, 
+in seal accounts, on particular kinds of wood (and other substances) to be used 
+in the making of the seals— practices that drew on long- standing Indic and 
+Chinese medicinal and magical traditions about the special qualities of woods 
+such as peach, pear, aloes, and others, including the “root of the Bodhi- Tree,” 
+the species under which Gautama is said to have sat when he awoke as the 
+Buddha. These innovations served to bring seals more tightly within the family 
+of amuletic objects characteristic of medieval Chinese, and Chinese Buddhist, 
+50 Wang (Daojiao fayin, 14) describes three phases in the history of ritual seals, in terms of 
+their standard materials: bronze for early examples, bronze but also wood during the medieval
+period, and then stone, beginning in the Song.
+51 Wang, Daojiao fayin, 37.
+52 Ibid. See also Wagner, “Chinese Seals,” 212.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 35SEALS AS CoNCEPTuAL AND RITuAL TooLS
+35
+religious and medical practice. Finally, although it was not part of ritual practice,
+another feature of wooden seals was the relative ease with which they 
+could be forged, a possibility especially helpful in the faking of paintings and 
+calligraphy, which by the Song commonly bore upon them the seal impressions 
+of painters, collectors, and admiring literati.53
+The relative freedom of the ritualist represented by (and in part made possible
+by) wooden seals is vividly in evidence on manuscripts from ninth- and 
+tenth- century Dunhuang, where it is clear that it was part of a larger culture of 
+ritual modularity and improvisation. Four manuscripts now held in the Pelliot 
+collection at the Bibliothèque nationale de France in Paris (Pelliot chinois nos. 
+2153, 2602, 3835, and 3874) contain versions of a manual for the making and 
+use of Buddhist talisman- seals (that is, seals inscribed with Chinese talismanic 
+writing) that invoke the bodhisattva Guanshiyin Ruyilun 觀世音如意輪, a form 
+of Guanyin popular in western China in the late Tang and tenth century, and the 
+Indic deity Maṇibhadra (monibatuo 摩尼跋陀), often a patron of travellers.54 
+The four manuscripts containing the seal manual seem to have been handbooks 
+composed and used by practitioners of a local style of Buddhist ritual practice
+strongly shaped throughout not only by Buddhist incantatory arts but also 
+by native Chinese forms of the sort explored especially in preceding section of 
+this study.
+The seal manuals in particular appear to offer instructions for the manufacture
+of instruments for the practices of Buddhist ritualists steeped in the 
+same family of techniques employed by Daoists such as Yang Guizhen with his 
+Huangshen yuezhang seal. Instead of embodying the powers of the Chinese Yellow 
+Spirit, however, they invoked Buddhist spirits such as Guanyin, Maṇibhadra, and 
+the Buddha himself; Buddhist spiritual states such as the meditative absorption 
+known as samādhi; or spiritual and talismanic emblems of the tradition such as 
+the lotus. The section on the “padma” (“lotus”) seal from Pelliot chinois no. 3835 
+(Figure 2.2) gives a representative account of the making and use of a seal from 
+53 See Wagner, “Chinese Seals,” 210. on the problems of forgery caused by the durability of 
+seal impressions, see Platt, “Making an Impression,” 234.
+54 The manuscripts lie at the heart of my forthcoming book, Seal and Scroll. For a preliminary
+study of their importance for our understanding of Chinese Buddhist practice in the 
+ninth and tenth centuries, see Copp, “Manuscript Culture.” other studies of one or two of 
+the manuscript versions include Wang, Daojiao fayin, 41– 53; Li, Dunhuang Mijiao wenxian, 
+104– 17; Gao, Zhongguo wushu shi, 451– 55; Xiao, Daojiao yu Mizong, 187– 94; and Strickmann, 
+Chinese Magical Medicine, 166– 69.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 36 PAuL CoPP
+36
+Figure 2.2. Padma seal: detail from Pelliot chinois no. 3835 verso. The inscription on 
+the seal face reads: “Guanshiyin. The talisman is an announcement.” After Bibliothèque 
+nationale de France, ed., Faguo guojia tushuguan cang Dunhuang xiyu wenxian, vol. 28, 312.
+the manuals. As with the other seal accounts, it is framed as the words of Guanyin 
+spoken to the Buddha:
+World- Honored one, this seal is the padma seal. It has great spiritual 
+power. Carve the seal from white sandalwood and if you seal the body, 
+[the body] will immediately glow with great radiance and the great earth 
+will move with the six kinds of earthquakes. If you take the seal and seal 
+the great earth it will transform into gold and jade. Wherever you stand, 
+if you take the seal and shine it upon the four quarters all will be made 
+jewel- like. If one desires to see me, use the seal to seal one’s eyes— one 
+will immediately see my true body. If one desires to see the pure lands of 
+the ten quarters all together before one’s eyes, one must only be pure and 
+not chaotic [in one’s body and mind]. If one is chaotic in body and mind 
+then the seal will not work and one’s only hope is to call out to the Buddha 
+for help.
+At least three of the characteristic elements of religious seal use in medieval China are 
+present in this account: the use of special woods chosen for their particular efficacies 
+in ritual and medicine (elsewhere in the manuals aloeswood, birthwort, and three 
+forms of sandalwood, including the white and purple varieties, are prescribed); the 
+association of the seal with a deity, here the bodhisattva Guanyin, whose name is 
+to be inscribed on the face of the stamp just as that of the Yellow Spirit was on the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 37SEALS AS CoNCEPTuAL AND RITuAL TooLS
+37
+Huangshen yuezhang seals; and the ritual gesture of “shining,” or pointing, the seal 
+as a way of directing its potencies, recalling the ritual use of mirrors in Chinese religious
+practice. Such continuities with traditional accounts of native Chinese sealing 
+rites (and they include wider connections with native claims about spells and 
+amulets) offer especially vivid evidence, both because of their extended and explicit 
+nature and for the simple fact that they are found in excavated sources, of the place 
+of Buddhists within the broader Chinese culture of religious ritual practice.55
+The padma seal, and the manuscript manuals more generally, also represent one 
+of the most striking transformations in the nature of Buddhist seal matrices in the 
+Tang: the increased presence on them of the Chinese religious pseudo- script known 
+loosely as fu, or “talismans,” in studies of Chinese religion, and the attendant birth 
+of the “talisman seal” (fuyin), which by this time had become a standard form of 
+ritual seal in religious practice.56 Note that the normal Chinese text to be inscribed 
+on the padma seal, which is paired with talismanic script, explicitly labels it a fu, 
+while the other seals in the manuals, though not so labelled, all feature versions of 
+the talismanic script on their faces. Whereas earlier ritual seals, as we have seen, 
+had tended to be in scripts legible to most educated Chinese, the combination of fu 
+talisman and seal made the latter objects as mysterious and esoteric as the former.57 
+This trend over time towards talisman seals (and, in what was likely a parallel trend, 
+swastika seals) is evident in the Buddhist material. While the early seal inscriptions 
+described in the Consecration Sūtra— simple names of deities, echoing early seal 
+practice— were clearly to be written legibly, already by the early Tang talisman seals 
+had become normal in Buddhism. They may have been widespread in other Tang 
+practical traditions, as well: Sun Simiao’s 孫思邈 (trad. 581– 682) Qianjin yifang 
+千金翼方 (Ancillary Methods Worth a Thousand Gold), for example, lists talisman 
+seals among five techniques for emergency medical care, along with medicinal soup 
+(tangyao 湯藥), acupuncture and moxibustion (zhenjiu 鍼灸), incantations (jinzhou 
+禁咒), and psycho- physical training (daoyin 導引).58
+55 For broad studies of this culture, see Harper, “Warring States” (along with many other of 
+his works); Mollier, Buddhism and Daoism; and Campany, Making Transcendents.
+56 As noted earlier, for a recent comprehensive study of fu talismans and talismanic writing 
+in medieval Chinese religion, see Bumbacher, Empowered Writing.
+57 Wang, Daojiao fayin, 38. It should be noted, however, that even early seals at times 
+contained diagrams and (apparently) simple pictures, which made their distinction with 
+the “mysteriousness” of fu talismans less sharp. See, for example, the Tiandi shagui zhi yin 
+天帝殺鬼之印 seals discussed in Liu, Kaogu faxian, 139.
+58 Sun, Qianjin yifang jiaozhu, 813. It should be noted that fayin might also refer to “talismans 
+and seals.”
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 38 PAuL CoPP
+38
+Seals as Both Conceptual and Ritual Tools
+As noted earlier, ritual seals (such as fu talismans and other Chinese ritual 
+instruments and techniques) were mainly absorbed within dhāraṇī incantation 
+rites of Buddhism, and later within the more systematic texts and practices of 
+the Tang (and Japanese) Esoteric traditions, which drew heavily on the earlier 
+incantatory traditions.59 Seals, indeed, were key parts of the East Asian dhāraṇī 
+and Esoteric movements, and not only because of the presence of actual seals 
+in their rites. Just as importantly, seals (drawing from the received Indic tradition)
+provided a chief metaphor for spells and for the natures of deities invoked 
+in their rites. We have already seen, in the opening section of this study, some of 
+the metaphorical functions of “seal” in Buddhist conceptions of reality and of the 
+relationships between teachers and students. Here in the incantatory literature 
+we see seals as foundational to conceptions of ritual action. Incantations themselves
+were often called seals, and dhāraṇīs in particular were seen in Buddhism to 
+bear essential likenesses to seals. We see this in the term “dhāraṇī- seal,” common 
+across the Buddhist world, which the scholar of Tibetan Buddhism Janet Gyatso 
+has described as “the condensation of many symbols into one via the principles 
+of dhāraṇī practice.” Spells in this sense, she goes on— and reflecting the “Seal 
+of the Buddha” discussed earlier— “function as concrete and tangible emblems” 
+employed to “seal all phenomena.”60 These shared features of spell and seal in 
+Buddhist incantatory literature contributed, at times, to a shared logic of ritual 
+action and marked their membership in a tight family of ritual techniques.
+A final example— that of the functional identity of stamp seal and hand seal 
+(or mudrā) in Buddhist incantatory discourse and practice— sheds further light on 
+the marriage of the conceptual and the physical at the heart of Chinese religious 
+sealing. As Strickmann notes in his study of the early Chinese Buddhist seal texts, 
+the authors of those works took both forms of seal to be members of the same 
+class of thing.61 Both the early scriptures studied by Strickmann and the much later 
+Dunhuang texts tell ritualists to bring “seals,” whether carved blocks or their own 
+interwoven fingers, to bear on clients’ bodies for much the same purposes and 
+in much the same ways. Their common membership within the same continuum 
+of “seal” is not only found in manuals of incantatory ritual that can seem marginal
+to the mainstream of medieval Chinese Buddhism (especially when they are 
+parts of texts found only in scarce manuscript editions from peripheral locales); 
+59 See, for example, Xiao, Daojiao yu Mizong, 187, which provides a list of texts featuring seals.
+60 Gyatso, “Letter Magic,” 186.
+61 Strickmann, Chinese Magical Medicine, 137.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 39SEALS AS CoNCEPTuAL AND RITuAL TooLS
+39
+it also occurs in at least one text of an elite Buddhist thinker of the cultural 
+centre. Li Tongxuan 李通玄 (ca. 635– 730), a pre- eminent exegete and philosopher
+of the Tang Huayan 華嚴 tradition (and a writer much cited in later korean 
+and Japanese Buddhism), in a comment on the referents of the words for seal, 
+yin 印 and xi 璽, used in the Avataṃsaka Sūtra (Huayan jing 華嚴經), the Flower 
+Garland Scripture, appears to equate three basic kinds of seals. He explains that 
+the terms refer to “the hand- seals formed during incantation practice” (zhouzhong 
+jie shouyin 咒中結手印); to the jade seals (xi) employed by kings; and to bronze, 
+iron, and wooden seals (yin). Li associates the latter seals with precisely the kinds 
+of Buddhist ritual stamps that are the focus of this essay, in particular the “talisman
+seals of Nāgārjuna, and others” (Longshu deng fuyin 龍樹等符印), clearly 
+a reference to the Chinese tradition of exorcistic and therapeutic rites associated 
+with Nāgārjuna (and separately, or often with him, of Aśvaghosa), which thrived 
+during the Tang and Song periods. The Dunhuang Ruyilun seal manuals appear to 
+have been part of this loose tradition; they are attributed in part to Aśvaghosa, and 
+Nāgārjuna’s shows up in associated materials.
+By far the most vivid representative, however, is the collection of talisman, 
+seal, and other ritual methods known as the Longshu wuming lun 龍樹五明論 
+(Nāgārjuna’s Treatise on the Five Sciences), a fascinating manual of rites that 
+apparently circulated widely in some form in early eighth- century China (though 
+it survives today only in a single manuscript held in the collection of Ishiyama- 
+dera 石山寺 in Japan).62 It is not possible to know if Li Tongxuan was referring 
+specifically to some version of this text or to others in the broad family of occult 
+techniques associated with Nāgārjuna, some of which were reported as late as the 
+twelfth century by Hong Mai 洪邁 (1123– 1202) in his Yijian zhi 夷堅志, where 
+they were part of a culture of widely available demonifugic amulets and devices 
+of various kinds.63 Yet it is clear that Li saw demonifugic stamps as being forms of 
+seals comparable to mudrās formed by the hands.
+Mudrās were employed in a wide range of Esoteric and incantatory rituals in 
+the same ways that stamp seals were. In the Tuoluoni ji jing 陀羅尼集經 (Dhāraṇī 
+Collection Scripture), for example, a work dating from the early 650s, one finds 
+accounts such as the description of the “Seal and Spell of the Buddha- vajra that 
+stops all poisonous creatures” (Fo bazhela zhi yiqie duchong yin zhou 佛跋折囉止
+一切毒蟲印呪). After describing how to interlock the fingers of one’s two hands 
+62 Xin Huayan jing lun, 895b.
+63 For a translation of a Yijian zhi passage describing occult techniques, invoking Nāgārjuna, 
+that Hongmai claims were practised by his own brother, see Davis, Society and the 
+Supernatural, 149. on the wide availability of talismans, spells, and other occult techniques 
+in Hong Mai’s day, see Boltz, “Not by the Seal,” 266.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 40 PAuL CoPP
+40
+in a precise way and giving the spell to be intoned, the text describes how one 
+should “seal” the afflicted area with the hand seal. Hand seals may have simply 
+been substituted for stamp seals in certain healing rites, at least in passages such 
+as these. The application of the hand seal is described in the text— and in many 
+others— in the same way as that of stamp seals: “[S] eal them with the seal” (yi yin 
+yinzhi 以印印之).
+The use of hand seals in these rites likely contributed to the decline in the 
+popularity of stamps, at least within the formal ritual traditions evidenced by 
+canonical texts. Simply as a matter of convenience, after all, mudrās were quite 
+literally readier to hand.64 The centrality of hand seals in rituals (and texts and 
+images) of the then burgeoning Esoteric Buddhist tradition— imported from India 
+and Central Asia, which did not share China’s ancient culture of ritualist seals— 
+would likely also have been a factor in this change. It is clear, at any rate, that, in 
+transmitted texts of the seventh century and later, stamps are rarely seen, while 
+hand seals and talismanic spell inscriptions are common. Li Tongxuan’s comments 
+aside, the term yin in Buddhist ritual texts of the Tang nearly always indicates a 
+hand seal rather than a stamp.
+This is not to say that stamp seals disappeared entirely from Buddhist practice
+in China. Although they do seem to have vanished, at least for the most part, 
+from the high ritual canons, their practices continued to be viable not only in the 
+Dunhuang region (and in Japan), where ritual manuals for their use survive, but 
+also in a much wider region, stretching at least from the Shazhou area of the northwest
+to Sichuan in the southwest and beyond, where paintings and sculptures from 
+the eighth century through the end of the imperial period suggest the presence 
+of the practice— and are further suggestive as well, especially in the cases of the 
+multi- armed Guanyin imagery, of the continued interchangeability of stamp seal 
+and mudrā in some ritual contexts.65
+Conclusion
+Seals and ideas of seals, as this survey has begun to show, were central to many 
+forms of medieval Chinese religious practice and thought. Moreover, essentially 
+all elements of sealing were taken into them: the central trope of identity and the 
+central function of physical transmission; the various styles of wearing seals and 
+of using them to make impressions; and both seal matrices and seal impressions 
+64 Strickmann, Chinese Magical Medicine, 159.
+65 See Sørensen and Suchan, “Seal- Bearing Bodhisattvas,” for a few later examples of seals 
+found in Esoteric ritual manuals from China and Japan.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 41SEALS AS CoNCEPTuAL AND RITuAL TooLS
+41
+in various styles. The forms of everyday social magic associated with seals readily 
+translated to Chinese religious and philosophical use.
+Within Buddhism in medieval China, and reflecting its history there more 
+generally, the use of ritual and conceptual seals was an amalgam of local Chinese 
+and imported Indic and Central Asian practices and ideas. The history of religious 
+seals and sealing in China, indeed, provides especially clear evidence for the transformations
+in eastern Eurasian religious practice that followed upon the eastward 
+spread of Buddhism. The nature of these transformations can be understood, at 
+least initially, through an analytical dyad with its own long history in the study of 
+Chinese Buddhism: sinification versus Indic conquest.66 From one angle, the seals 
+and their practices provide especially clear examples of what scholars have long 
+called the “sinification” of Buddhism— the ways that Buddhism was transformed 
+in Chinese history to make it conform to Chinese practices and worldviews. The 
+bodhisattva Guanyin, the Chinese form of the South Asian figure Avalokiteśvara, 
+to take one example from this study, was reimagined in seal practices in part as 
+a traditional Chinese healer and ritualist, wielding a stamp of the kind that— and 
+in ways that— Chinese spirit mediums and Daoist priests had done for centuries. 
+Indeed, as we have seen, more than simply as a Chinese ritualist, Avalokiteśvara 
+was reimagined as a Chinese deity, his identity embodied in the form of a seal. on 
+the more purely conceptual side, received Indic philosophical metaphors of the 
+“Seal of the Buddha” and the “Mind Seal” were, during the period studied here, 
+fully translated into local styles of the Chinese literatus and the Chan master, both 
+figured as members of family lineages.
+Applying the “conquest” framework, in contrast, we see that Indic images 
+and practices just as clearly wrought profound transformations on centuries- old 
+Chinese techniques and concepts of ritual sealing. Indic, or Indic- inspired, mudrās, 
+or “seals,” made with the hands, replaced Chinese stamp seals in most Buddhist 
+rituals— as well as (in material not covered in this survey) in many rites of the 
+Daoist religion from around the year 1000 CE onwards. on the more purely conceptual
+side here, too, Indic Buddhist metaphors of “Buddha Seals” profoundly shaped 
+Chinese understandings of the nature of reality. And not only in Buddhism: as this 
+study has also shown, it found its way into Daoist religious discourse as well, providing
+new discourses of the very Dao itself.
+The hybrid ways of sealing born from the marriage of Indic and Chinese 
+practices helped to provide new and vital forms of Chinese Buddhist ritual practice 
+in the period studied in this article. Although the prominence of physical seals in 
+66 The two frameworks are well represented by Gregory, Tsung- mi; and zürcher, The 
+Buddhist Conquest.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 42 PAuL CoPP
+42
+medieval Chinese Buddhism is most famous within the highly systematic imported 
+versions of the religion known as Esoteric, or Tantric, it was within a much broader 
+and looser family of localized ritual practices centring incantations, amulets, and 
+a range of ritual techniques and objects— including seals— that this hybrid culture
+of seal practice had its most vibrant life. In them, Indic mudrā and the seals 
+of the Chinese spirit medium were combined in artful ways, and substituted for 
+each other in a range of practices. These objects and techniques, as this study 
+has begun to explore, are widely evidenced in material culture and manuscript 
+finds across East Asia. Notably, however, they are much less apparent in the elite 
+printed scriptural canons that have mainly shaped modern understandings of 
+the nature of Buddhism in the Chinese medieval period. Close study of Buddhist 
+seals, in all their forms, thus helps to unearth what has long been a hidden, perhaps
+even a suppressed, mainstream of medieval Chinese Buddhist practice: a 
+world of Buddhist (and Daoist) ritualists, and of the painters and sculptors who 
+depicted them.
+ 
+ 
+ 43SEALS AS CoNCEPTuAL AND RITuAL TooLS
+43
+Bibliography
+Abbreviations
+T. Takakusu Juǌirō, Watanabe kaigyoku, and ono Gemyo, eds. Taishō shinshū 
+daizōkyō 大正新修大藏經, 100 vols. Tokyo: Taishō issaikyō kankōkai, 1924– 32.
+Primary Sources
+Bibliothèque nationale de France, ed. Faguo guojia tushuguan cang Dunhuang xiyu 
+wenxian 法國國家圖書館藏敦煌西域文獻, 34 vols. Shanghai: Shanghai guji, 
+1994.
+Du Guangting. Daojiao lingyan ji. Yunji qiqian 雲笈七籤 ed. Beijing: zhonghua 
+shuju, 2003.
+Huayan yisheng jiaoyi fenqi zhang 華嚴一乘教義分齊章. T no. 1866.
+Jingde chuandeng lu 景德傳燈錄. T no. 2076.
+Tang Dajianfu si gu sizhu fanjing dade Fazang heshang zhuan 
+唐大薦福寺故寺主翻經大德法 藏和尚傳. T no. 2054.
+Xin Huayan jing lun 新華嚴經論. T no. 1739.
+Secondary Sources
+Barrett, T. H. “Images of Printing in Seventh Century Chinese Literature.” Chinese 
+Science 15 (1998): 81– 93.
+——  . “The Rise and Spread of Printing: A New Account of Religious Factors.” 
+Working Paper in the Study of Religions. London: School of oriental and 
+African Studies, 2001.
+Bedos- Rezak, Brigitte Miriam. “From Ego to Imago: Mediation and Agency in 
+Medieval France (1000– 1250).” Haskins Society Journal 14 (2003): 151– 74.
+—— . When Ego Was Imago: Signs of Identity in the Middle Ages. Leiden: Brill, 2011.
+Betts, John H. “Minoan and Mycenaean Seals.” In 7000 Years of Seals, edited by 
+Dominique Collon, 54– 73.
+Boltz, Judith Magee. “Not by the Seal of office Alone: New Weapons in Battles with 
+the Supernatural.” In Religion and Society in T’ang and Sung China, edited by 
+Patricia Buckley Ebrey and Peter N. Gregory, 241– 305. Honolulu: university of 
+Hawaii Press, 1993.
+Bumbacher, Stephan Peter. Empowered Writing: Exorcistic and Apotropaic Rituals 
+in Medieval China. St. Petersburg: Three Pines Press, 2012.
+Callieri, Pierfrancesco. Seals and Sealings from the North- West of the Indian 
+Subcontinent and Afghanistan (4th Century BC– 11th Century AD): Local, Indian, 
+Sasanian, Graeco- Persian, Sogdian, Roman. Naples: Istituto universitario 
+orientale di Napoli, 1997.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 44 PAuL CoPP
+4
+Campany, Robert. Making Transcendents: Ascetics and Social Memory in Early 
+Medieval China. Honolulu: university of Hawaii Press, 2009.
+Cassin, Elena. “Le sceau: un fait de civilization dans la Mésopotamie ancienne.” 
+Annales: Économies, sociétés, civilisations 15 (1960): 742– 51.
+Charpin, Dominique. Reading and Writing in Babylon. Translated by Jane Marie 
+Todd. Cambridge, MA: Harvard university Press, 2010.
+Collon, Dominique, ed. 7000 Years of Seals. London: British Museum Press, 1997.
+Copp, Paul. “Manuscript Culture as Ritual Culture in Late Medieval Dunhuang: 
+Buddhist Talisman- Seals and Their Manuals.” Cahiers d’Extrême- Asie 20 (2011): 
+193– 226.
+Davis, Edward L. Society and the Supernatural in Song China. Honolulu: university 
+of Hawaii Press, 2002.
+Dikshit, M. G. “Cunningham Collection of Seals in the British Museum.” Journal of 
+the Numismatic Society of India 22 (1960): 123– 90.
+Espesset, Grégoire. “Latter Han Religious Mass Movements and the Early Daoist 
+Church.” In Early Chinese Religion, part 1: Shang through Han (1250 BC– 220 AD), 
+edited by John Lagerwey and Marc kalinowski, vol. 2, 1117– 58. Leiden: Brill, 2007.
+Gao Guofan 高國藩. Zhongguo wushu shi 中國巫術史. Shanghai: Shanghai 
+Sanlian, 1999.
+Gonda, Jan. “Mudrā.” Studies in the History of Religions 12 (1972): 21– 31.
+Gray, David B. “Imprints of the ‘Great Seal:’ on the Expanding Semantic Range 
+of the Term of Mudrā in Eighth through Eleventh Century Indian Buddhist 
+Literature.” Journal of the International Association of Buddhist Studies 34 
+(2011): 421– 82.
+Gregory, Peter N. Tsung- mi and the Sinification of Buddhism. Honolulu: university 
+of Hawaii Press, 2002.
+Gyatso, Janet. “Letter Magic: A Peircean Perspective on the Semiotics of Rdo Grub- 
+Chen’s Dhāraṇī Memory.” In In the Mirror of Memory: Reflections on Mindfulness 
+and Remembrance in Indian and Tibetan Buddhism, edited by Janet Gyatso, 
+173– 213. Albany: State university of New York Press, 1992.
+Harper, Donald. “Warring States: Natural Philosophy and occult Thought.” In The 
+Cambridge History of Ancient China, edited by Michael Loewe and Edward L. 
+Shaughnessy, 813– 84. Cambridge: Cambridge university Press, 1999.
+Harrison, Paul. The Pratyutpanna Samādhi Sutra (with The Śūraṅgama Samādhi 
+Sutra). Translated by John McRae. BDk English Tripiṭaka 25- II, 25- III. 
+Berkeley: Numata Center for Buddhist Translation and Research, 1998.
+Hou Chin- lang. “La cérémonie du yin- cha- fo d’après les manuscrits de Touen- 
+houang.” In Contributions aux études sur Touen- houang, edited by Michel Soymié, 
+vol. 3, 205– 35. Paris: École française d’Extrême- orient, 1984.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 45SEALS AS CoNCEPTuAL AND RITuAL TooLS
+45
+Huang, Shih- Shan Susan. “Daoist Seals, Part one: Activation and Fashioning.” 
+Journal of Daoist Studies 10 (2017): 70– 101.
+Jia, Jinhua. The Hongzhou School of Chan Buddhism in Eighth- through Tenth- 
+Century China. Albany: State university of New York Press, 2006.
+kim, Youn- mi. “(Dis)Assembling the National Canon: Seventh- Century ‘Esoteric’ 
+Buddhist Ritual, the Samguk Yusa, and Sach’ǒngwang- Sa.” In New Perspectives 
+on Early Korean Art: From Silla to Koryŏ, edited by Youn- mi kim, 123– 91. 
+Cambridge, MA: korea Institute, Harvard university, 2013.
+Li Xiaorong 李小榮. Dunhuang Mijiao wenxian lungao 敦煌密教文獻論稿. Beijing: 
+Renmin wenxue, 2003.
+Li Yuanguo 李遠國. Daojiao fayin mizang 道教法印秘藏. zhanghua: Lingbao 
+chubanshe, 2002.
+Liu zhaorui 劉昭瑞. Kaogu faxian yu zaoqi Daojiao yanjiu 考古發現與早期道教
+研究. Beijing: Wenwu, 2007.
+Mollier, Christine. Buddhism and Daoism Face to Face: Scripture, Ritual, and 
+Iconographic Exchange in Medieval China. Honolulu: university of Hawaii 
+Press, 2008.
+—— . “Talismans.” In Divination et société dans le Chine médiévale: étude des 
+manuscrits de Dunhuang de la Bibliothèque nationale de France et de la British 
+Library, edited by Marc kalinowski, 405– 29. Paris: Bibliothèque nationale de 
+France, 2004.
+Niizeki kinya 新関欽哉. Tōzai yinshōshi 東西印章史. Tokyo: Tokyodo, 1995.
+Paper, Jordan. The Spirits Are Drunk: Comparative Approaches to Chinese Religion. 
+Albany: State university of New York Press, 1995.
+Parpola, Asko. “Seals of the Greater Indus Valley.” In 7000 Years of Seals, edited by 
+Dominique Collon, 47– 53.
+Platt, Verity. “Burning Butterflies: Seals, Symbols, and the Soul in Antiquity.” In 
+Pagans and Christians— from Antiquity to the Middle Ages: Papers in Honour of 
+Martin Henig, Presented on the Occasion of His 65th Birthday, edited by Lauren 
+Gilmour, 89– 99. oxford: Archaeopress, 2007.
+—— . “Making an Impression: Replication and the ontology of the Graeco- Roman 
+Seal Stone.” Art History 29 (2006): 233–57.
+Ren zongquan 任宗权. Daojiao zhangbiao fuyin wenhua yanjiu 
+道教章表符印文化研究. Beijing: zongjiao wenhua chubanshe, 2006.
+Rosaia, Roberto Lucio, Marzia Ratti, and Euro Capellini. Les sceaux: empreintes du 
+pouvoir. Translated [from the Italian] by Maria Laura Bardinet Broso. Paris: 
+Éditions Langlaude, 2001.
+Schipper, kristofer, and Franciscus Verellen, eds. The Daoist Canon: A Historical 
+Companion to the Daozang. Chicago: university of Chicago Press, 2004.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 46 PAuL CoPP
+46
+Schlingloff, D. “Stamp Seal of a Buddhist Monastery.” Journal of the Numismatic 
+Society of India 31 (1969): 69– 70.
+Sørensen, Henrik, and Tom Suchan. “Seal- Bearing Bodhisattvas in the Sculptural 
+Art of Sichuan and the Significance of Seals within the Esoteric Buddhist 
+Tradition.” Artibus Asiae 73 (2013): 403– 43.
+Strickmann, Michel. Chinese Magical Medicine. Stanford: Stanford University 
+Press, 2002.
+—— . “The Consecration Sūtra.” In Chinese Buddhist Apocrypha, edited by Robert 
+Buswell, 75– 118. Honolulu: university of Hawaii Press, 1990.
+Sun Simiao 孙思邈. Qianjin yifang jiaozhu 千金翼方校注. Shanghai: Shanghai 
+guji, 1999.
+Tan Chanxue 譚蟬雪. “Yinsha, tuofo, tuota” 印沙, 脫佛, 脫塔. Dunhuang yanjiu 
+(1989): 19– 29.
+Thoreau, Henry David. The Journal 1837– 1861. New York: New York Review Books 
+Classics, 2009.
+Verellen, Franciscus. “Evidential Miracles in Support of Taoism: The Inversion 
+of a Buddhist Apologetic Tradition in Late Tang China.” T’oung Pao 78 
+(1992): 217– 63.
+Wagner, Lothar. “Chinese Seals.” In 7000 Years of Seals, edited by Dominique Collon, 
+205– 22.
+Wang, Eugene. “Buddha Seal.” In Buddhist Sculpture from China: Selections from the 
+Xi’an Beilin Museum, Fifth through Ninth Centuries, edited by Annette L. Juliano, 
+118– 22. New York: China Institute Gallery, 2007.
+Wang Sanqing 王三慶 and Wang Yayi 王雅儀. “Dunhuang wenxian yinshafo 
+wen de zhengli yanjiu” 敦煌文獻印沙佛文的整理研究. Dunhuang xue 26 
+(2005): 45– 74.
+Wang Yucheng 王育成. Daojiao fayin lingpai tan’ao 道教法印令牌探奧. 
+Beijing: zongjiao wenhua, 2000.
+Wong, Dorothy. “The Art of Avataṃsaka Buddhism at the Courts of Empress Wu 
+and Emperor Shōmu/ Empress kōmyō.” In Avataṃsaka Buddhism in East 
+Asia: Huayan, Kegon, Flower Ornament Buddhism: Origins and Adaptation of 
+a Visual Culture, edited by Robert Gimello, Frédéric Girard, and Imre Hamar, 
+223– 60. Wiesbaden: Harrassowitz, 2012.
+—— . “Divergent Paths: Representations of Amoghapāśa in East, South, and 
+Southeast Asia.” unpublished paper.
+Xiao Dengfu 蕭登福. Daojiao yu Mizong 道教與密宗. Taipei: Hsin- wen- feng, 1993.
+Yen, Chuan- ying. “The Sculptures from the Tower of Seven Jewels: The Style, 
+Patronage and Iconography of the Monument.” unpublished PhD diss., Harvard 
+university, 1986.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 47SEALS AS CoNCEPTuAL AND RITuAL TooLS
+47
+zhao zhenhua 趙振華. “Luoyang chutu ‘huangshen,’ ‘zhidu zongshe’ Daojiao fayin 
+kao” 洛陽 出土“黃神，“治都總攝,’ 道教法印考. Zhongyuan wenwu 中原文物 
+(2007): 69– 71.
+zhou Xiaolu 周曉陸, ed. Ershi shiji chutu xiyin jicheng 二十世紀出土璽印集成, 
+3 vols. Beijing: zhonghua shuju, 2010.
+zürcher, Erik. The Buddhist Conquest of China: The Spread and Adaptation of 
+Buddhism in Early Medieval China. Leiden: Brill, 1959.
+ 
+ 
+ 
+ 
+ 
+ 48 PAuL CoPP
+48
+Paul Copp (pcopp@uchicago.edu; PhD Princeton university, 2005) is associate 
+professor in Chinese religion and thought at the university of Chicago. His work 
+centres on the material history of personal religious practice in eighth- through 
+thirteenth- century China, focusing especially on manuscripts, xylographs, and 
+other archaeological evidence discovered at “silk road” sites such as Dunhuang, 
+Turfan, and khara- khoto. He is the author of The Body Incantatory: Spells and 
+the Ritual Imagination in Medieval Chinese Buddhism (Columbia university 
+Press, 2014) and is co- editor, with Wu Hung, of Refiguring East Asian Religious 
+Art: Buddhist Devotion and Funerary Practice (university of Chicago Press, 2018). 
+The present study is drawn from work towards a new book, tentatively titled “Seal 
+and Scroll: Manuscripts and the Ritualist’s Craft at Dunhuang and Beyond.”
+Abstract In medieval China, this article demonstrates, nearly all forms of seals 
+and sealing— both physical and metaphorical— were translated to use in religious 
+practice: tropes of identity and material transmission; multiple styles of wearing 
+and impressing seals; and the many forms of physical matrix and impression. This 
+article focuses on the place of seals within Buddhism in China, especially within 
+a broad family of localized ritual practices centring on incantations, amulets, and 
+other ritual techniques and objects. Reflecting Buddhism’s history there more generally,
+its uses of seals were amalgams of local Chinese and imported Indic and 
+Central Asian practices.
+Keywords seals, sealing, Buddhism, Daoism, China, ritual, ritualist, talismans, 
+amulets, metaphor

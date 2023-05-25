@@ -1,0 +1,1066 @@
+american science 
+comes of age 
+an institutional 
+perspective, 1850-1930 
+hamilton cravens 
+By the 1930's America indisputably had "come of age" in international 
+science. America was the critical center of the world's scientific research. 
+American scientists did perhaps the lion's share of the world's scientific 
+work—and won consistent recognition for the quality of their work, as 
+America's shift from fourth to first place in Nobel science laureates in 
+the 1930's suggests.1 In a special issue focused on long-term changes in 
+American society and culture, the question of America's rise to inter­
+national leadership in science is appropriate to pose. Yet students of 
+American culture and science have discovered that it is far easier to 
+agree upon the fact of America's rise to world power in science by the 
+1930's than to explain the phenomenon. We can cull two explanations 
+from the scholarly literature. In 1948 Richard H. Shryock advanced the 
+"indifference thesis." Shryock insisted that nineteenth century Amer­
+icans were "indifferent" to basic scientific research; consequently Amer­
+ica's contributions to basic science lagged behind Europe's. In the 
+twentieth century basic science came into its own in American culture; 
+now business leaders supported basic scientific research because in­
+dustrial technology demonstrated the social and economic benefits of 
+basic research.2 More recently several historians of nineteenth century 
+American science have criticized the indifference thesis.3 And although 
+they do not agree on many substantive issues, their work has left the 
+impression (however unintentionally) that the origins of modern Amer­
+ican scientific leadership lay in institutional and intellectual develop­
+ments in the ante-bellum era—such as the development of scientific 
+professionalization, of national scientific institutions and of "mature" 
+research communities.4 
+49 
+ Each explanation, moreover, raises special difficulties. The indif­
+ference thesis posits inappropriate comparisons between nineteenth 
+century American and European culture. And it rests on unprovable 
+assumptions; is it really demonstrable, for example, that most Americans 
+have been less "indifferent" to basic science in the twentieth than in the 
+nineteenth century? And since much basic research has had relatively 
+little industrial or economic application, Shryock's argument appears 
+highly questionable. The historians of ante-bellum American science 
+are probably closer to the mark when they stress the importance of 
+developments within the scientific community. Yet this view overlooks 
+the fundamental changes in science after the mid-nineteenth century, 
+the radical discontinuities in the culture of science, in the ideas of 
+science, which drastically raised the standards for participation in 
+scientific research. In the nineteenth century scientific disciplines grew 
+in many ways: new sciences and sub-sciences emerged; higher mathe­
+matics became an integral part of the physical sciences; new skills, instru­
+ments and techniques became important to the natural sciences, and, 
+in most fields, grand paradigms crystallized. The modern sciences were 
+taking shape as distinct intellectual structures, a complex development 
+that began, haltingly, in the eighteenth century, but which in the 
+nineteenth century gathered new momentum. The fragmentation and 
+multiplication of disciplines occasioned also an enormous information 
+explosion which mandated specialization and professionalization—the 
+ability to identify with a particular area as an inquirer and as a person 
+with a full-time science-related career. And the number of investigators 
+in the sciences mushroomed, contributing to an information explosion. 
+It was probably not until after the ante-bellum era that the full effects 
+of these internal developments began to alter the groundrules for partici­
+pating in the culture of science; and correspondingly, these internal 
+changes in science required a new set of institutional arrangements in 
+post-Appomattox America. 
+i 
+Thus in the sixty years between John Dalton's atomic theory and 
+Mendeleev's periodical table chemistry became a distinct science (and 
+an identifiable research community) fully independent of natural philos­
+ophy with its subdivisions of organic and inorganic chemistry—and more 
+finite areas of chemical knowledge. By the 1860's and 1870's modern 
+physics was emerging as both a recognizable discipline and a community 
+of physics researchers, thanks to the work of such men as Faraday, Max­
+well, Kelvin, Stokes, Joule, Henry and others; and physics' subspecialties 
+—electricity, magnetism, optics, astronomy, for example—had acquired 
+so much new information and so many new methods that each had its 
+own distinct research community. In the nineteenth century the earth 
+sciences, now autonomous from other sciences, underwent an elaborate 
+50 
+ sequence of inner changes, aided by the explanatory power of the uniformitarian
+hypothesis and the development of such specialties as ter­
+restrial magnetism, meteorology and geodesy. And in the nineteenth 
+century natural history fragmented into many new disciplines, such as 
+anatomy, botany, zoology, physiology and ethnology (and such exotic 
+specialties as oology, ornithology, mammology and paleontology) which 
+stood for vast new quantities of information, new skills—and distinct 
+groups of specialists.5 
+The intellectual revolution within nineteenth century science made 
+specialization imperative by the late nineteenth century. Specialization 
+mandated a host of innovations in scientific institutions which would 
+enable the researcher-specialist to receive appropriately cosmopolitan 
+training, to communicate regularly with other specialists and to pursue 
+an occupation related to his or her scientific work. Specialization and 
+the information explosion made it increasingly difficult, as the nine­
+teenth century wore on, for an individual to keep abreast unless that 
+individual held a scientific position; this was even more true in those 
+disciplines which became experimental, for experimentation demanded 
+not merely time, but also the physical, the financial and the human 
+resources of the laboratory. In turn specialization also implied, not 
+simply the creation of science-related occupations, or the founding and 
+funding of laboratories, libraries, and the like, but a host of new institu­
+tional arrangements that would guarantee universalistic scientific stand­
+ards of training, competence and performance, and, in institutional 
+terms, the continued development of specialized research communities 
+whose members could directly determine the circumstances of their work. 
+Above all, these institutional arrangements necessitated the creation of 
+a new social role for the scientist in American society—the trained, spe­
+cialized researcher who could continue to participate in, contribute to, 
+and assume leadership in, the work of his or her international scientific 
+colleagues.6 
+I suggest that the clues to America's rise to world power in science 
+are located in the character of American scientific and educational insti­
+tutions in particular historical epochs—those epochs which were them­
+selves defined, for our purposes, by the intellectual revolution of nine­
+teenth century science. In turn those scientific institutions were tangible 
+responses to changes American scientists perceived in the structures and 
+processes of nineteenth century science. Most critical to our under­
+standing is the social role of the scientist which American scientific insti­
+tutions created in response to the internal changes in contemporary 
+science. Before the later nineteenth century, before specialization and 
+professionalization were virtually mandatory, American scientific institu­
+tions helped shape a particular social role for the scientist which distin­
+guished between those persons who were interested in participating in 
+the culture of science, as compared with those who were not, and thus 
+51 
+ drew a line between the scientist, on the one hand, and the man of 
+letters or the clergyman, the manufacturer and the farmer on the other. 
+But the social role of the ante-bellum scientist could not distinguish 
+between the specialized researcher who sought original knowledge and 
+the generalist student of nature fascinated by nature's mysteries. Indeed, 
+it was only in the 1840's that the terms "scientist" and "man of science" 
+were coined and came into common usage in America. Yet in midcentury
+America there were so few researchers and so little demand for 
+their skills and services that they had to include within their ranks both 
+specialized researchers such as Joseph Henry and transcendentalists and 
+students of nature such as Henry David Thoreau—as Thoreau's reaction 
+to an invitation to join the fledgling American Association for the 
+Advancement of Science, below, shows. Only with such an inclusionary 
+definition of scientist could ante-bellum scientific institutions function.7 
+Thoreau's "poor part" 
+March 5 1853 . . . . The secretary of the American Association for the Advance­
+ment of Science requests me, as he probably has thousands of others, by a 
+printed circular letter from Washington the other day, to fill the blank against 
+certain questions, among which the most important one was what branch of 
+science I was most especially interested in, using the term science in the most 
+comprehensive sense possible. Now, though I could state to a select few that 
+department of human inquiry which engages me, and should be rejoiced at 
+any opportunity to do so, I felt that it would be to make myself the laughing­
+stock of the scientific community to describe or attempt to describe to them 
+that branch of science which deals with the higher law. So I was obliged to 
+speak to their condition and describe to them that poor part of me which alone 
+they can understand. The fact is I am a mystic, a transcendentalist, and a 
+natural philosopher to boot. Now I think of it, I should have told them at 
+once that I was a transcendentalist. That would have been the shortest 
+way of telling them that they would not understand my explanations. 
+Quoted in Perry Miller, éd., The American Transcendentalists: Their Prose 
+and Poetry (Garden City, N.Y., 1957), 1-2. Thoreau refers to the volume Ad­
+dresses of Scientific Men [circa 1853, Spencer F. Baird Papers, Smithsonian In­
+stitution Archives, Washington, D.C.], which Baird, acting as secretary of the 
+new AAAS, used to try to create an address-book of all possible scientists who 
+in turn would be a national constituency for the Association. This illustrates 
+the necessary imprecision of the concept—and hence the role—of the scientist 
+in ante-bellum America. 
+By the later nineteenth century the continuing intellectual revolu­
+tion of science made unworkable the ante-bellum social role of the 
+American scientist. A severe crisis was at hand. Correspondingly a new 
+system of scientific and educational institutions—centered in the new 
+graduate universities—emerged and thus created a new social role for 
+the American scientist more appropriate for the demands of contem­
+porary science: the trained, specialized researcher who identified in52
+
+ tellectually and occupationally professionally with a particular disci­
+pline. The incredible internal changes of nineteenth century science, 
+now so evident, mandated scientific professionalization in specific disci­
+plines as the minimum institutional prerequisite of further American 
+participation in scientific culture. That such institutional innovations 
+could and did occur at the nineteenth century's close provided aspiring 
+American scientists with new and unparalleled opportunities for inter­
+national scientific leadership—thanks to the novel possibilities created 
+by the institutional changes which came with the arrival of a new 
+epoch in American cultural history. 
+The years 1825-1860 marked a definite watershed in the institutional 
+history of American science. Before the ante-bellum epoch, there was 
+no organized, self-sustaining scientific community identifiable in Amer­
+ican culture; no clear distinction between general cultural institutions 
+and generically scientific institutions; no evident demarcation between 
+the cultured gentleman and the man of science; no conspicuously Amer­
+ican centers of scientific inquiry; and, for that matter, no large body of 
+American scientific discoveries.8 By 1860 much had changed, institu­
+tionally and intellectually—and rather against strong trends in the 
+larger society. In an era of retrogression for most colleges, a handful of 
+Northeastern colleges imported the latest European science, installed it 
+prominently in their curricula and appointed many professors of science. 
+In a time of increasing popularity for laissez-faire public policies, gov­
+ernments began employing scientists regularly for scientific projects. In 
+a period notable for mass evangelical movements in religion and stern 
+practicality in business, private philanthropists endowed scientific re­
+search institutions and provided research funds for individual scientists. 
+In an epoch allegedly characterized by widespread social and institu­
+tional disorganization, distinctively scientific societies and journals were 
+founded—and often survived. In a day supposedly dominated by 
+romanticism and religious enthusiasm, some Americans made empirical 
+contributions to international science. And in an age of the "common 
+man" and supposed public distrust of elites, a recognizable scientific 
+community, distinct from other cultural groups, emerged. Indeed, the 
+institutional revolutions in higher education, in government, in philan­
+thropy and in scientific societies interacted upon each other in complex 
+ways to shape a recognizable social role for the ante-bellum American 
+scientist. Each group of institutions—the colleges, government, philan­
+thropy and scientific organizations—defined and redefined the Amer­
+ican scientist's social role in various yet ultimately similar ways. As 
+might have been expected in a formative era, specialized researchers 
+necessarily shared power, authority and control of scientific institutions 
+with those who merely consumed scientific culture—with trustees, presi53
+
+ dents and alumni in the colleges, with elected and appointed officials in 
+government, with non-scientist patrons of research and with such culti­
+vators and consumers of scientific knowledge as Thoreau. 
+Consider the social role that fifteen Northeastern liberal arts colleges 
+created for American scientists between 1825 and 1860. These colleges 
+made contemporary science one-third of their curricula, quadrupled 
+their science faculty from one to four men each and purchased expensive 
+instruments, specimens and books, thus exposing about half of Amer­
+ica's college students to the latest scientific knowledge and giving that 
+knowledge a firm institutional base in American culture. The colleges 
+institutionalized the explosion of disciplines and information. After 
+1815 Samuel Latham Mitchill at Columbia, Benjamin Silliman, Sr., at 
+Yale and the chemistry professors at the Pennsylvania, Harvard and 
+Columbia medical schools rapidly imported the era's new chemical 
+knowledge—for example, Dalton's atomic theory. By the 1830's the col­
+leges taught chemistry apart from the natural philosophy course—half as 
+a year's offering. In the 1840's the colleges had laboratories, apparatus 
+and full-time specialized chemistry professors.9 The colleges also carried 
+forward the work of pioneer American geologists, notably Mitchill, 
+Silliman, Parker Cleaveland, William Maclure and the American Geo­
+logical Society's other members.10 In the 1830's many of these colleges 
+offered distinct geology courses, complete with mineral cabinets; Amer­
+ican geology professors now published their own uniformitarian texts— 
+most notably Amherst professor Edward Hitchcock's Elementary Geology 
+(1840), which passed through thirty editions by I860.11 After 1830 these 
+colleges installed higher mathematics through calculus and abandoned 
+natural philosophy texts of the 1780's for contemporary texts in physics 
+and its subdivisions. New mathematics, physics and astronomy became 
+separate courses. The colleges fortified astronomy by purchasing expen­
+sive modern equipment from Europe.12 And in the 1840's the fifteen 
+colleges dropped the one-year natural history course for separate offerings 
+in its various branches,13 thus responding to both the information ex­
+plosion about North America's flora and fauna evidenced in a growing 
+number of natural history volumes which Americans published,14 and 
+to the arrival from Europe of new theories, methods and instruments— 
+for example, the cell theory of Schleiden and Schwann, intricate systems 
+of classification and the compound microscope.15 Obviously these col­
+leges both diffused and preserved European science. 
+If these colleges largely created and institutionalized the social role 
+of the professor of science, they did not create our modern role of uni­
+versity specialist-researcher. The ante-bellum science professor's role or 
+job, even in the best institutions, was to teach undergraduates. Original 
+investigation he could do only outside his jot)—or, more precisely, out­
+side his institutional role—on his own, for essentially personal rather 
+than institutional reasons.16 The ante-bellum science professors did have 
+54 
+ a science-related career, but in virtually every instance they carried 
+crushing teaching burdens. Some overcame the obstacles and published 
+original work. Joseph Henry wrote forty-six of his most important 
+papers while teaching heavy loads at Princeton, and Spencer F. Baird 
+contributed a large number of ornithological contributions while teach­
+ing over six contact hours a day at Dickinson College.17 Such achieve­
+ments were testimony to personal drive, discipline and ability, not to 
+the institutional role which these men and most ante-bellum college 
+professors of science necessarily played. Only the famous Swiss naturalist 
+Louis Agassiz taught under circumstances resembling those of a modern 
+university professor of science—and precisely because of a personal at­
+tribute, his international reputation.18 In a different way this suggests 
+again that it was not a part of the institutional role of the ante-bellum 
+college professor to be an independent specialist-researcher. Those who 
+did did so because of their personal circumstances. Professors were 
+employees, subject to the power of presidents and trustees, without 
+academic freedom, tenure, rank and the other attributes of professional 
+autonomy associated with the modern university professor. In the ante­
+bellum college, unless personal factors intervened, much of the formal 
+institutional power lay not with the scientists but with nonscientists. 
+In general outline the social role governments created for scientists 
+was much the same as in the colleges. Laymen, not scientists, defined 
+the scientist's role; laymen held ultimate power—and much direct 
+authority too, for that matter. In government as in the colleges scientists 
+were employees far more than they were independent professionals. Ap­
+pointed and elected public officials called the tune. Thus while Spencer 
+F. Baird was quietly lobbying to win appointment as Assistant Secretary 
+of the Smithsonian Institution, James D. Dana, one of his friends and 
+supporters in the scientific community, told Baird that " . . . a word from 
+a Political [sic] man is perhaps quite as important as from Scientific, 
+[sic] since much depends on favor in all Washington appointments."19 
+In an age often characterized by spoils politics, moreover, the politicians' 
+power over government science and thus the scientist's role in govern­
+ment went further than initial appointments. Responding to various 
+citizen and special interest pressures, politicians also shaped the missions 
+of governmental scientific enterprises, except in those instances in which 
+the scientists themselves possessed the personal and political gifts that 
+would enable them to transcend their employee-dependent status within 
+the enterprise and influence policies by persuading the politicians who 
+controlled the pursestrings. In other words, in government as in the 
+colleges the scientist's personal attributes mattered as much as his scien­
+tific competence, if not more, in allowing him to rise above the clearly 
+defined institutional role of dependent employee and function as an 
+autonomous scientific expert. The social role of the ante-bellum scientist 
+did not really include the modern concept of the scientist as the 
+authoritative specialist to be taken on his own terms. 
+55 
+ Consider the social role of the scientist in the state geological surveys. 
+In the 1830's sixteen states sponsored geological surveys, in the 1840's 
+another five did, and in the 1850's another fourteen, including eight for 
+the first time. The surveys provided many geologists with invaluable 
+opportunities to acquire skills, hold science-related jobs and develop a 
+professional geology subculture. The surveys themselves varied widely 
+in the quality of work done, the balance between applied and basic 
+work, and in their institutional size and financial security. In the last 
+respect the critical factor was always the political relationship between 
+the geologists and the legislators.20 The New York survey, authorized in 
+1836, was perhaps the largest and most successful in an institutional 
+sense, employing eight full-time geologists, a full-time botanist, a fulltime
+zoologist and several assistants, all of whom did respectable scien­
+tific work, much of it noncommercial in its implications. Director James 
+Hall was a brilliant lobbyist in the New York Assembly, persuading the 
+solons to keep the survey going a decade past its termination date. The 
+survey used about half a million dollars—a bonanza for science.21 Geol­
+ogists could and did do basic research on the sly, especially if they 
+presented a parsimonious front to legislators, as Edward Hitchcock did 
+for Massachusetts.22 But proper political stroking was always indis­
+pensable, as the example of the Pennsylvania survey shows. Professor 
+Henry D. Rogers of the University of Pennsylvania ran the Pennsylvania 
+survey with as many as seven paid assistants from 1836 to the early 1850's 
+and eventually consumed $82,000 in public funds. The Pennsylvania 
+geologists made important theoretical contributions and were on the 
+verge of significant commercial discoveries with regard to coal when 
+the impatient legislators cut the funds. Rogers' attempts at negotiation 
+and compromise were futile. In every instance—Douglass Houghton in 
+Michigan, William B. Rogers in Virginia, Charles T. Jackson in Maine 
+and New Hampshire, Dr. J. C. Booth in Delaware, J. C. Ducatel in 
+Maryland, Henry D. Rogers in New Jersey, and W. W. Mather in 
+Kentucky—despite wide variations in the institutional size, the budget, 
+the quality and quantity of information, the orientation toward basic or 
+applied concerns, the geologists had to cultivate the politicians and their 
+constituents to keep the surveys alive.23 
+As historian A. Hunter Dupree persuasively showed many years ago, 
+the actual role of the scientist in the federal government was always 
+roughly the same. Scientists executed politicians' mandates except in 
+those rare instances in which a scientist could develop his own political 
+ties with public decision-makers.24 In the ante-bellum years, the United 
+States Coast Survey was perhaps the largest and most successful federal 
+scientific operation; its example will suffice to make my point here. The 
+contrasting experiences of the Survey's two ante-bellum superintendents 
+underline the real social role of the government scientist. Congress 
+authorized the Survey in 1807; it began operations in 1815 under the 
+56 
+ Swiss-born Ferdinand Hassler, a good scientist and administrator who 
+nevertheless was less than effective at keeping his political fences in good 
+repair.25 In 1818 Congress stopped funding the Survey, largely for 
+political reasons. In 1832 Congress re-established the Survey to aid 
+commerce—and commercial special interest groups. Again Hassler was 
+superintendent. Thanks to some good luck and fortunate initial dis­
+coveries, Congress did not question Hassler closely until the early 1840's, 
+when the economic downturn and Hassler's lack of political expertise 
+sparked a Congressional investigation.26 In 1843 Hassler died; an 
+American with many important connections in the worlds of ante-bellum 
+science and politics, Alexander Dallas Bache, succeeded Hassler.27 Bache 
+was a good scientist and administrator too, but perhaps even more im­
+portantly, he had superior political skills; and this combination enabled 
+him to transform the Survey into the largest single federal scientific mis­
+sion, with an annual budget of half a million dollars by the 1850's.28 
+After the late 1830's American scientists' research resources demon­
+strably improved; especially important were such new institutional re­
+sources as astronomical observatories, natural history museums and 
+the Smithsonian Institution. But both ultimate and direct control of 
+such research resources resided in the hands of nonscientific laymen, not 
+scientists—unless those scientists could exert extraordinary influence 
+over their patrons, again suggesting that the social role of the scientist 
+in these institutions was much the same as in the colleges and in govern­
+ment. Lay patrons donated funds for scientific research institutions, 
+mainly for their own purposes, not primarily for those of the scientists. 
+Thus between the late 1830's and the Civil War about twenty modern 
+observatories were founded with the latest equipment, including the 
+famous Merz and Mahler telescopes. These observatories made possible 
+by the 1860's the emergence of a small but highly skilled American 
+school of astronomers. Yet laymen controlled the purse strings; their 
+interests in the heavens were not those of the astronomers. Thus Wil­
+liams College's trustees established an observatory because they were 
+persuaded students would learn natural theology by studying the stars.29 
+The Cincinnati Observatory, opened in 1845, was the brainchild of 
+enterprising astronomer Ormsby MacKnight Mitchel: he sold sub­
+scriptions to Cincinnati citizens who purchased the right to view the 
+heavens. Eventually this conflicted with Mitchel's ambitious research 
+plans.30 When institutions such as West Point, Georgetown College, 
+Amherst, Dartmouth, Union, Harvard and Dickinson founded observa­
+tories, the relations between scientists and lay patrons were not as com­
+plex as in Cincinnati;31 but lay patrons, not astronomers, called the tune. 
+Thus it was the largess of Boston Brahmins that built the marvellous 
+Harvard installation, which opened in 1847 with an expensive fifteen 
+inch telescope with 2000 magnification. The impulse to raise the funds 
+for the new facility on the Charles was a response to the spectacle of up57
+
+ start Cincinnati having a better observatory than Harvard—or Boston.32 
+Scientists had to handle their potential patrons with some care; thus 
+the Dudley Observatory, of Albany, New York, floundered essentially 
+because its director, Benjamin A. Gould, treated those members of the 
+local gentry who supported the Observatory in so tactless, arrogant, and 
+jejune a manner that they finally washed their hands of the project.33 
+And in the other instances of ante-bellum research institutions, much 
+the same was true: the balance of power rested with lay patrons, not 
+with the scientists—unless the scientists had unusual personal skills 
+which transcended the limitations of their social role. Harvard's mag­
+nificent Museum of Comparative Zoology, which opened in 1859 after 
+a brilliant fund-raising campaign directed by the enormously influential 
+Agassiz, was a monument to the awe with which local citizens regarded 
+him as a scientist and his own skills in dealing with the Boston gentry.34 
+The Lawrence and Sheffield scientific schools, which opened at Harvard 
+and Yale in 1847 and 1861 respectively, became important centers of 
+scientific research. But wealthy philanthropists donated funds because 
+of the promise these schools held for economic and commercial benefits.35 
+And the Smithsonian, which Congress founded in 1846 with James 
+Smithson's half million dollar bequest, certainly became in the ante­
+bellum years an important nerve center of American scientific institu­
+tions. Its international exchange program brought precious foreign 
+scientific literature to America; its annual Contributions series carried 
+specialized reports of original research; its data-gathering operations— 
+as in natural history specimens and meteorological observations—were 
+invaluable for the progress of science; and the Smithsonian became, with 
+the American Association for the Advancement of Science, the visible 
+institutional manifestation of an emerging national scientific community. 
+Yet these achievements flowed neither from Smithson's will (which was 
+highly ambiguous) nor from the certainties of American politics (several 
+groups had different ideas about the proper disposal of the gift) but 
+from the determined efforts of such scientists as Coast Survey super­
+intendent Bache and the Smithsonian's first secretary, Joseph Henry, 
+who fought hard—and well—to make the Smithsonian a distinctively 
+scientific institution.36 We must not overestimate institutional resources 
+for scientific research in the ante-bellum era. Funds were scarce; the 
+Smithson's total annual budget was $30,000; except for the Harvard 
+and the Naval Observatories, American observatories did not have the 
+necessary funds for all the latest equipment in use in Europe, let alone 
+for sufficient staff; colleges were not research institutions. In most in­
+stances, scientists paid the costs of their research; a few famous men, 
+such as Agassiz, were fortunate enough to stitch together their own 
+private networks of patrons for their research.37 In the ante-bellum era, 
+scientists had no "broker" institutions, such as the gigantic private 
+foundations of the twentieth century or the National Science Founda58
+
+ tion, to raise and redistribute their research funds. Hence laymen, not 
+scientists, determined many of the research priorities. 
+In the three decades following 1830 American scientific societies, 
+academies and associations took on a new, vigorous level of existence 
+with new possibilities for survival.38 Yet the social role of the scientist 
+in such societies was limited in much the same way it was in other ante­
+bellum scientific institutions which I have discussed, for the specialists 
+had to share power with nonspecialists for such societies to be viable in 
+an organizational sense. With the signal exceptions of the American 
+Association for the Advancement of Science and the American Medical 
+Association, all ante-bellum scientific societies were local institutions, 
+rooted in a particular urban social ecology; they were like fragile orchids, 
+dependent upon the right combination of circumstances. Obviously an 
+urban milieu, a modicum of economic prosperity, the presence of an 
+active, competent research community and enough of a followership of 
+nonresearchers to make the society self-sustaining—these were minimum 
+requirements. Scientific societies rose and fell according to local circum­
+stances; but, as John C. Greene has perceptively insisted, once higher 
+mathematics was introduced into physical science, such societies could 
+exist only for the nonmathematical natural sciences.39 Dozens of such 
+natural history societies appeared after 1830 on both sides of the Alleghenies,
+and the relations between the specialists and the cultivators 
+or consumers of scientific culture were absolutely critical. Thus New 
+York City remained essentially in the prescientific "societies of the arts" 
+phase, because the city's scientific community was small, so small that 
+it was overshadowed by Albany's impressive scientific cadre.40 The Al­
+bany Institute, founded in 1824, became a roaring success for about two 
+decades because distinguished researchers and local gentry could work 
+together; as their goals became different, the Institute floundered.41 In 
+Boston, the American Academy of Arts and Sciences and the Boston 
+Society of Natural History, founded in 1780 and 1830 respectively, came 
+alive when both specialized researchers and local gentlemen of culture 
+worked together.42 In the West after the mid-1830's more than a dozen 
+scientific academies and societies emerged—in Cincinnati in 1835, St. 
+Louis in 1836 and again in 1856, Little Rock in 1837, Cleveland in 
+1845, Milwaukee in 1848 and in 1857, Louisville in 1851 and again 
+in 1857, Flint in 1853, Grand Rapids in 1854 and Chicago in 1856.43 
+Especially in these western cities, such natural history societies needed 
+both competent researchers who could keep abreast of new developments 
+and methods, and, at the same time, loyal followers, for there were 
+never enough specialists in the western cities to make a society institu­
+tionally viable.44 
+And on a national scale the same dilemma of too few producers and 
+too many consumers of scientific culture bedevilled the American Asso­
+ciation for the Advancement of Science. The AAAS was founded in 
+59 
+ 1848 by a pre-existing group of specialists in the American Association 
+of Geologists and Naturalists. The small elite of specialists which ran it 
+in ante-bellum years had grandiose plans to use the Association to create 
+a national culture of American science and a national constituency of 
+American scientists.45 Its leaders sought to invent a national culture of 
+American science by pre-empting many issues of scientific public policy 
+from nonscientists. They formed lobbying committees on an American 
+prime meridian, uniform weights and measures, promotion of fish cul­
+ture, a federal system of meteorological observers, ethnological surveys, a 
+North Polar Sea expedition—and gave Bache's Coast Survey a ringing 
+endorsement.46 The Association's elite corps of specialists tried to create 
+a national constituency of scientists by collaborating with the Smith­
+sonian, by preparing natural history handbooks for nonspecialists and 
+by instructing Spencer F. Baird, the Association's secretary, to prepare 
+an accurate roster of all potential and actual members, complete with 
+names, addresses, occupations, scientific interests and scientific collec­
+tions and equipment. The roster (see "Thoreau box"), which still 
+exists, obviously suggests that the Association's leaders had in mind a 
+systematic inventory of American scientific talent for the use of such 
+"national" scientific institutions as the Association, the Smithsonian, 
+and perhaps the Coast Survey.47 
+Yet on balance the Association's grand plans were limited by the 
+context of the age—in particular by the possibilities of the social role 
+of the scientist in ante-bellum America. The Association's specialistresearchers
+had some power; they could torpedo the National Institute 
+for the Promotion of Science when they came to suspect its scientific 
+character, and they could influence the direction the Smithsonian would 
+take.48 But the Association's ambitious plans to invent a national 
+culture of American science and thus affect scientific public policy came 
+to naught. So did the effort to create a national scientific constituency, 
+even though the Association held its annual meetings in different cities 
+to stimulate that constituency. The Association's membership had a 
+high turnover; of the more than 2100 individuals who joined the Asso­
+ciation before 1861 only 23 percent were still members by then.49 It 
+was only after the Civil War (which the Association barely survived) 
+that membership stopped fluctuating and began to grow steadily.50 
+While the small coterie of specialists who dominated the Association 
+probably made the membership problem worse by often using the 
+Association for their own private ends, the real cause of the member­
+ship problem was the wide intellectual, professional and experiential 
+gap between specialist-researchers in science and consumers of scientific 
+culture.51 The Association's elite had not yet created an impersonal 
+scientific community for the simple reason that it was probably im­
+possible. In a larger sense the Association's difficulties and promises 
+reflected those of ante-bellum scientific institutions generally. Ante60
+
+ bellum scientific institutions helped shape and define a generalized 
+social role for the scientist, but they did not and could not create two 
+indispensable preconditions for scientific professionalization and pro­
+fessionalism—a culture of scientific professionalism, a body of imper­
+sonal, cosmopolitan values and symbols of authority permeating the 
+functions of institutions and the roles of men; and, even more im­
+portantly, direct institutional autonomy, or scientific self-determination. 
+In a sense scientific professionalization and professionalism are political 
+phenomena in the history of culture and of science, for they mean the 
+extent of self-determination which a cultural elite successfully claims for 
+itself in the larger society. The social role of the ante-bellum scientist 
+facilitated the expression of professionalism by some scientists, but it 
+could not underwrite the social and institutional processes of profes­
+sionalization. That had to await the dawning of a new epoch in Amer­
+ican cultural history. 
+By the early 1900's a new network of American scientific and educa­
+tional institutions had taken shape as an interrelated system in response 
+to the drastic inner changes in the structures and processes of science 
+so manifest at the nineteenth century's close. At the center of the new 
+network were the graduate universities, which began to exert an influence 
+on national cultural trends by the 1890's. For our purposes what the 
+new universities did was create new possibilities and a new social role 
+for the American scientist not feasible in the ante-bellum era, save under 
+extraordinary and perhaps singular circumstances. That social role 
+was the academically trained researcher who professionally identified 
+with a particular science. Such an individual could and did keep abreast 
+of the latest work in his field. The possibilities inherent in his social 
+role meant that, given a decent chance, he could contribute to knowledge 
+and perhaps become distinguished. What the universities in particular 
+did was to introduce impersonal and universalistic standards of training, 
+competence and performance for all sciences, and, as importantly, insti­
+tutional mechanism for achieving these standards for whole generations 
+of aspiring and practicing scientists—through graduate programs, full 
+time scientific careers, research facilities, and, above all, high social and 
+institutional approval for original research, or at least, for the academic 
+motto of publish and profit. Now American scientific institutions could 
+produce entire generations of specialist-researchers across the whole 
+spread of scientific disciplines, from the hard physical sciences to the 
+softer social and behavioral disciplines. The emergence of generations 
+of researchers did not depend upon the accidents of personality and 
+biography, at least not primarily. Parenthetically this shift can be 
+followed in the American Association's post-Appomattox history. Mem­
+bership doubled from 953 in 1877 to 1,922 in 1882, and remained on 
+61 
+ that plateau until the early 1900's, when it doubled again, to about 
+4,000, and it increased to about 8,000 in 1910. In 1882, in response to 
+the inner changes in science, a new generation of Association leaders 
+abolished the old generalized physical and natural science meeting sec­
+tions for nine "lettered" sections representing distinct disciplines, so that 
+specialists in each could meet together for professional intercourse. Im­
+plicit in the 1882 reorganization was the shared recognition that it was 
+necessary to distinguish both among the many legitimate sciences and 
+between specialists and nonspecialists. By the early 1900's the rising 
+academic scientists in the Association moved the date of the annual 
+meeting from late August, a time presumably convenient for persons 
+in many different occupations, to Christmas-week, a time specifically 
+convenient for academics.52 
+By the early 1900's enough of the private graduate universities, such 
+as Johns Hopkins, Cornell, Chicago, Clark and Stanford, together with 
+older institutions, such as Harvard, Yale and Columbia, were setting a 
+newer and higher standard in scientific and scholarly life. This en­
+couraged a growing number of state universities, such as California, 
+Wisconsin and Michigan, to imitate them and become centers of ad­
+vanced, specialized research and instruction. Less favored public insti­
+tutions, including land-grant, polytechnic and agricultural schools, fol­
+lowed suit to the limits of their resources and abilities, often providing 
+undergraduate training for the new generations of scientists and then 
+providing post-doctoral professional employment. This institutional 
+revolution in American higher education provided many more possibil­
+ities for scientific specialization and professionalization than had the 
+rather limited ante-bellum revolution in the fifteen Northeastern liberal 
+arts colleges. Of course the new universities benefited from far more 
+prosperous times than did the ante-bellum colleges. By the close of the 
+Gilded Age, college degrees were worth something vocationally. Even 
+more importantly, the universities could create the social role of the 
+autonomous research-specialist, with academic freedom, tenure, facilities, 
+intellectual stimuli and the like, because the inner revolution of science 
+made evident to educated laymen the wisdom of scientific self-determi­
+nation, because ambitious university presidents wanted the best faculty 
+and competed with one another for them, and because in many instances 
+the university professorate created its own external client populations 
+and pressure groups which would concede much freedom to the pro­
+fessors.53 
+Consider the blossoming of chemistry in America. More than any 
+other science, chemistry had major support from business and industry 
+in its institutional development. Yet the social role which the new 
+scientific institutions, especially the new universities, created mattered a 
+great deal. It influenced both the direction and the velocity of chem­
+istry's institutional growth. Sophisticated chemistry instruction began 
+at Harvard in 1848, but had a heavily applied bias in the Lawrence 
+62 
+ school—as Harvard called its technical department—until 1863 when 
+German-trained Oliver Wolcott Gibbs, newly appointed, introduced 
+graduate courses in basic chemistry. In the 1870's and 1880's the Harvard 
+College and Lawrence chemistry courses were combined and new chem­
+istry faculty were appointed to do original research. In 1875 Charles 
+Loring Brace synthesized the first organic compound at Harvard; within 
+twenty-five years Harvard chemists had synthesized over 4,000 organic 
+compounds and had done much basic research in hygenic, inorganic and 
+physiological chemistry. Theodore W. Richards' brilliant work in 
+atomic chemistry won him a Nobel prize and a growing number of 
+German students.54 In broad outline Yale's pattern of institutional 
+development in chemistry was similar to Harvard's, as was Johns Hop­
+kins', where the able chemist Ira Remsen developed a first class chemistry 
+graduate program on the classic German model, immersing graduate 
+students in the latest literature and the most exacting methods, and, 
+above all, making original investigation the central experience for all 
+Hopkins faculty and students. Most of the Hopkins chemical research 
+was basic, not applied—although someone discovered saccharin by acci­
+dent.55 By the late 1870's at least sixty colleges offered a minimum of 
+three undergraduate years of chemistry, usually with the laboratory, 
+and some, like Iowa State College, launched chemistry with the lab­
+oratory.56 Not surprisingly the number of professional chemists mush­
+roomed from about 450 in 1850 to almost 10,000 in 1900. The influence 
+of the universities upon the chemistry profession is suggested by the 
+fact that in the early 1920's about two-thirds of all chemists held the 
+doctoral degree and about forty percent held academic appointments.57 
+Obviously chemistry benefited from industrial patronage, but the new 
+universities provided advanced training, supplied professional creden­
+tials, gave chemical research a strong basic focus and created full time 
+scientific careers for a large minority of professional chemists. 
+In many respects physics lagged behind chemistry institutionally and 
+intellectually until the 1890's. Most American physicists taught experi­
+mental and mechanical physics—not the most exciting fields of physics. 
+The number of physicists as late as the 1880's was perhaps 150, and 
+there were few high-grade physics laboratories or graduate programs.58 
+In the 1890's enormous changes took place in the science of physics in 
+Europe—the discovery of X-rays, radioactivity, and relativity. American 
+physicists responded to these exciting new intellectual challenges in many 
+ways. The better graduate universities upgraded the importance of 
+physics research, even though it had little apparent economic or in­
+dustrial application. It was only after physics instruction and research 
+were in the process of being improved that the industrial and economic 
+applications of physics became obvious, especially to the electrical in­
+dustry, which, in the years 1900 to 1920, became a major source of energy 
+for urban centers for lighting and trolley-cars, and in industry, especially 
+63 
+ in the production of aluminum. Such electrical firms as Westinghouse 
+now began to employ electrical engineers who really understood physics. 
+This meant that engineering schools now demanded that their students 
+take physics courses, which gave the academic physics profession a grow­
+ing student clientele. In turn the growth of physics as an undergraduate 
+"service" offering permitted the expansion of graduate and basic re­
+search programs in physics in the better graduate universities. By the 
+early 1920's perhaps eighty percent of American physicists held academic 
+appointments and seventy percent held the doctorate. By the late 1920's 
+the American physics profession had grown sufficiently in certain major 
+universities, and enough American physicists had learned the new theo­
+retical physics in Europe, that American physicists could participate in 
+the new quantum mechanics and atomic physics.59 Doubtless physics 
+developed in part because of its potential for applied work; but even 
+more important were the interactions of the new universities, the chang­
+ing American physics community and the radically transformed science 
+of physics, which together made the United States an important center 
+of international physics work by the 1930's. 
+The biological sciences also underwent a rapid institutional develop­
+ment, thanks in no small measure to the new scientific institutions, 
+especially the graduate university. Biology's potential for economic 
+application helped its institutional development in the Gilded Age. 
+Farmers and other pressure groups, for example, encouraged the U.S. 
+Department of Agriculture to develop certain lines of research—eco­
+nomic entomology, for example—which later benefited both basic 
+research and the development of scientific institutions.60 And they per­
+suaded agricultural colleges to launch programs in agricultural chemistry 
+and agricultural hybridization, programs which perhaps ironically as­
+sisted the development of basic chemistry and genetics programs later 
+on.61 Generally speaking, however, it was the prestigious graduate uni­
+versities which imported the new experimental biology from Europe 
+and thus provided, through the development of advanced programs of 
+research and instruction, the institutional basis for American scientific 
+eminence in biology after 1900. Columbia University, for example, pro­
+moted a brilliant department of zoology after the early 1890's, not from 
+any particular dream for a higher gross national product, but because 
+presidents Seth Low and Nicholas Murray Butler were ambitious to 
+have the best department in America if not the world. On Morningside 
+Heights Thomas H. Morgan began the genetics work which won him 
+a Nobel prize; Edmund Beecher Wilson did outstanding work on the 
+cell; and Henry Fairfield Osborn was a most prolific paleontologist.62 
+Other universities—Harvard, Clark, Chicago, Johns Hopkins and Wis­
+consin, for example—followed a similar pattern of development, as did 
+a host of land-grant institutions a little later, partly because of their 
+political commitment to agricultural hybridization.63 Thus was devel­
+oped the institutional foundation of modern experimental biology 
+64 
+ in America. Modern biology, and certainly genetics, had some applied 
+economic potential which assisted their institutional development, but 
+far more important were the opportunities the graduate universities 
+offered to the new academic scientist. By the early 1920's almost sixty 
+percent of all botanists and seventy-five percent of all zoologists held 
+academic appointments. And most of the rest were government scientists, 
+which suggests that the relations between professional biology and the 
+larger economy were quite indirect, not direct. As in the instance of 
+physics, it was basically student demands for service courses (in the case 
+of biology, for such fields as forestry, agriculture and pre-health studies) 
+which provided the institutional endowment for the elaboration of 
+graduate programs in basic biology.64 
+Modern experimental psychology essentially grew up with the new 
+universities and then acquired something of an applied base. In Amer­
+ica psychology emerged as a scientific alternative to the old-time moral 
+philosophy; it experienced its most rapid institutional and intellectual 
+development in the new universities (not the old-time colleges) after 
+1890. At Harvard, William James created a psychology program within 
+the philosophy department. In the 1890's he hired the German psychol­
+ogist Hugo Muensterberg to direct the laboratory, train the graduate 
+students, and teach the undergraduate psychology course.65 At Harvard 
+and elsewhere, psychology became a popular course with students; 
+Muensterberg's basic Harvard College course soon enrolled over 360 
+students. He worried, ". . . what will the country do with all of these 
+psychologists?"66 Most undergraduates took psychology as preparation 
+for such growing careers as social work and teaching. On the graduate 
+level psychology grew enormously—largely in response to the demand 
+for undergraduate psychology teachers with the Ph.D. Between 1884 
+and 1918 about two score American universities granted 427 doctorates 
+in psychology; as early as 1900 or so, there were strong graduate pro­
+grams on native soil—at Harvard, Clark, Cornell, Columbia, Chicago 
+and elsewhere. These early experimental psychologists were acutely 
+aware they had to make upstart psychology a respectable science in the 
+university; as one such pioneer put it, when he ". . . came into the field, 
+the important thing for experimental psychology was to make it an 
+academic subject, to assure its collegiate and university status. Labora­
+tories had to be organized, and textbooks had to be written."67 Psycholo­
+gists founded over eighty laboratories and more than a dozen journals— 
+the latter first as private nonprofit ventures, later as owned by associa­
+tions and societies impersonally.68 Even though many academic pioneers 
+of psychology sang the promises of applied psychology, as late as World 
+War I barely ten percent of all professional psychologists held nonacademic
+appointments.69 This essentially academic institutional devel­
+opment of psychology was the institutional platform from which Amer­
+ican psychologists elaborated modern learning theory in the 1920's.70 
+It was only in the 1920's and later that psychologists began to enter 
+65 
+ non-academic positions or to consult much with private business clients.71 
+By then a self-sustaining profession and science of psychology had long 
+existed. Thus was the importance of the new social role created by the 
+graduate universities. 
+And the new universities made possible other redefinitions of the 
+social role of the American scientist simply not possible in ante-bellum 
+years. The universities could create enough specialist-researchers, for 
+example, to make genuinely specialized scientific societies a social possibil­
+ity—or, perhaps, an inevitability. These new scientific societies were na­
+tional in outlook; they drew sharp distinctions between the professional 
+and the amateur, and excluded the latter by various means. Together 
+university and scientific society helped create professional scientific sub­
+cultures and a role for the scientist-specialist. Consider the American 
+Chemical Society, initially founded in 1876, and reconstituted in 1891 
+by a new generation of professional chemists.72 The revitalized society 
+rapidly enrolled most of the nation's working chemists. It organized 
+thirteen local sections, which met monthly, thus permitting many chem­
+ists to participate in the discipline, the Society and the profession regu­
+larly. The Society imposed new cosmopolitan standards of professional 
+participation, new definitions of the social role of the professional chem­
+ist not possible in ante-bellum years. Membership was by nomination 
+and election only. The Society's Council conferred full membership on 
+those with formal training when there was evidence that they were 
+productive and respected chemists. Increasingly specialized training, in­
+cluding the doctorate, and research productivity became criteria for 
+membership. The Society also took over the Journal of the American 
+Chemical Society, upgrading its standards by publishing annual bibli­
+ographies and summaries of chemical research with global comprehen­
+siveness, and even publishing an annually revised atomic weight table.73 
+Such societies emerged in the other sciences, too. In 1899 a wellestablished
+group of astronomers founded the Astronomical and Astro-
+physical Society of America when they became convinced there were 
+enough specialist-researchers to make such an organization viable. As in 
+other instances, a pre-existing elite determined membership criteria. 
+AASA members could nominate candidates for membership, but only 
+the powerful Council could elect them. The AASA's founders announced 
+that the society's purpose was ". . . the advancement of astronomy, astro­
+physics, and related branches of physics." Mere interest was insufficient; 
+only a ". . . person deemed capable of preparing an acceptable paper on 
+some subject of astronomy, astrophysics, or related branch of physics . . . " 
+was eligible. The American Physical Society, also launched in 1899, was 
+organizationally quite similar to the AASA, and functioned according to 
+the same kinds of rules, criteria and definition of the role of the scien­
+tist.74 In the biological sciences, the American Society of Naturalists was 
+founded in 1883 just for "professionals." "Professional" meant, in the 
+1880's and 1890's, a full-time science-related career; after 1900, it came 
+66 
+ to mean higher standards, usually the earned doctorate and some evi­
+dence of research activity.75 The Society for Experimental Biology and 
+Medicine recruited by invitation only and expelled all members who did 
+not present an original paper at least once every two years.76 The psy­
+chologists created the American Psychological Association in 1892. In­
+creasingly the Association upgraded its standards to include only the 
+academically trained researcher in much the same fashion as other 
+scientific societies.77 Quite obviously, a new social role for the American 
+scientist had been created by the new possibilities of American culture. 
+Finally, the new social role of the scientist as researcher-specialist re­
+ceived institutional recognition and sanctification in both the govern­
+ment and in the new research institutes funded by the gigantic philan­
+thropic foundations of the twentieth century. By the 1920's, the federal 
+scientific bureaus were usually run by specialists who now possessed the 
+power to determine how their appropriations would be spent, to identify 
+new research areas as they emerged, and to determine their own inner 
+institutional affairs. In other words, in the federal scientific establish­
+ment as in the universities and the new societies, there was not only open 
+recognition of the professional autonomy of the specialized expert, but 
+a buffer of scientific administrators between the lay decision-makers and 
+the scientific researchers. For all practical purposes the scientific admin­
+istrators, who functioned in a sense as brokers for the researchers, and 
+the researchers ran things together.78 And thus the new social role of the 
+scientist was reinforced again. Similarly, private foundations began ced­
+ing a large measure of autonomy to scientific researchers after 1900 or so; 
+often a new class of professional foundation managers came to the fore 
+(many of them products of the new university culture). They made the 
+actual decisions about which projects received funding.79 The most spec­
+tacular example was the Carnegie Institution of Washington, created in 
+1902 by Andrew Carnegie with an endowment of ten million dollars—all 
+for scientific and scholarly research. Carnegie gave the trustees enormous 
+discretion: they could define critical areas for support, select particular 
+projects to fund, and, in the largest sense, determine research priorities 
+and policies. Before the World War, the Institution had established ten 
+major departments of research, each of which carried on its own autono­
+mous research programs—the Department of Terrestrial Magnetism cor­
+rected many navigational maps, the Solar Observatory on Mount Wilson, 
+in California, made many contributions to astrophysics, and the Depart­
+ment for Experimental Evolution became a major research laboratory in 
+the new science of genetics, providing much support to both resident and 
+temporary investigators over the years.80 With the appearance of the 
+large-scale foundation and the scientific research institute, the American 
+scientific professoriate now had benefited from a long-term institutional 
+revolution which made possible America's rise to world eminence in 
+science. 
+Iowa State University 
+67 
+ footnotes 
+1. Joseph Ben-David, The Scientist's Role in Society: A Comparative Study (Englewood 
+Cliffs, 1971), 13-20, 193. 
+2. Richard H. Shryock, "American Indifference to Basic Science during the Nineteenth 
+Century," Archives Internationales d'Histoire des Sciences, 28 (1948-1949), 3-18. 
+3. Nathan Reingold, "American Indifference to Basic Research: A Reappraisal," in 
+George H. Daniels, éd., Nineteenth Century American Science: A Reappraisal (Evanston, 
+1972), 38-62; George H. Daniels, American Science in the Age of Jackson (New York, 1968), 
+passim. 
+4. In addition to several essays in Daniels, éd., Nineteenth Century American Science: A 
+Reappraisal, see also Sally G. Kohlstedt, The Formation of the American Scientific Com­
+munity: The American Association for tJie Advancement of Science, 1848-1860 (Urbana, 
+1976); Daniels, American Science in the Age of Jackson; Daniels, "The Process of Professionalization
+in American Science: The Emergent Period, 1820-1860," Isis 58 (1967), 151-166. 
+5. See the remarkable E. S. Dana, A Century of Science in America (New Haven, 1918), 
+especially thorough on 19th century American scientific work. 
+6. Ben-David, The Scientist's Role in Society, 139-168, has a different perspective on the 
+ante-bellum era. 
+7. Kohlstedt, The Formation of the American Scientific Community, 190-223, discusses the 
+problem of membership retention for the American Association for the Advancement of 
+Science—and shows that a fellowship was as indispensable as a leadership. 
+8. Brooke Hindle, The Pursuit of Science in Revolutionary America 1735-1789 (Chapel 
+Hill, 1956); Raymond P. Stearns, Science in the British Colonies of America (Urbana, 1970). 
+9. Stanley M. Guralnick, Science and the Ante-Bellum American College, Memoirs of the 
+American Philosophical Society 109 (Philadelphia, 1975), 94-104; see also Dana, A Century 
+of Science in America, 60-192. 
+10. George P. Merrill, The First One Hundred Years of American Geology (New Haven, 
+1924), 1-126; Dana, A Century of Science in America, 60-192; Cecil J. Schneer, "Ebenezer 
+Emmons and the Foundations of American Geology," Isis 40 (1969), 439-450. 
+11. Guralnick, Science and the Ante-Bellum American College, 107-109. George P. Merrill, 
+"Contributions to the History of American Geology," Annual Report of the Smithsonian 
+Institution (1904) (Washington, 1906); Merrill, Contributions to a History of American State 
+Geological and Natural History Surveys: Bulletin of the United States National Museum, 
+109 (Washington, 1920); Merrill, The First Hundred Years of American Geology (New Haven, 
+1924), are detailed accounts of geology in America. 
+12. Guralnick, Science and the Ante-Bellum College, 47-77. 
+13. Ibid., 109-114. 
+14. William M. and Mabel Smallwood, Natural History and the American Mind (New 
+York, 1941), 285-351; Dana, A Century of Science in America, 391-401, 439-454. 
+15. William Coleman, Biology in the Nineteenth Century: Problems of Forum, Function, 
+and Transformation (New York, 1971), 16-56. 
+16. Guralnick, Science and the Ante-Bellum American College, 109-114; Hofstadter and 
+Metzger, The Development of Academic Freedom in the United States, 209-234. 
+17. Guralnick, Science and the Ante-Bellum College, 192; Charles Weiner, "Science and 
+Higher Education," in David Van Tassel and Michael G. Hall, eds., Science and Society in 
+the United States (Homewood, Illinois, 1966), 170-175; William H. Dall, Spencer Fullerton 
+Baird. A Biography (Philadelphia and London, 1915), 1-220 and Dean Conrad Allard, Jr., 
+"Spencer Fullerton Baird and the U.S. Fish Commission: A Study in the History of 
+American Science" (Unpublished doctoral dissertation, George Washington University, 1967), 
+1-24. 
+18. Nathaniel Southgate Shaler, The Autobiography of Nathaniel Southgate Shaler (Boston 
+and New York, 1909), 95-100. 
+19. As cited in Dall, Spencer Fullerton Baird, 156. 
+20. Merrill, The First One Hundred Years of American Geology, 127-390; Merrill, Con­
+tributions to a History of American State Geological and Natural History Surveys; Walter B. 
+Hendrickson, "Nineteenth Century State Geological Surveys: Early Government Support of 
+Science," Isis LI I (1961), 357-370. 
+21. Merrill, Contributions to a History of American State Geological and Natural History 
+Surveys, 327-362; John M. Clarke, James Hall of Albany, Geologist and Paleontologist (Albany, 
+1921), and Nathan Reingold, éd., Science in Nineteenth Century America: A Documentary 
+History (New York, 1964), 162-174. 
+22. Merrill, Contributions to a History of American State Geological and Natural History 
+Surveys, 149-158; Stanley M. Guralnick, "Theology and Religion Before Darwin: The Case 
+of Edward Hitchcock, Theologian and Geologist (1793-1864)," Isis 43 (1972), 529-543. 
+23. Merrill, Contributions to a History of American State Geological and Natural History 
+Surveys, 428-455, 158-238, 507-511, 129-136, 299-306, 51-52, 137-148, 307-326, 102-103. 
+68 
+ 24. A. Hunter Dupree, Science in the Federal Government: A History of Policies and 
+Activities to 1940 (Cambridge, 1957), 20-119. 
+25. Florian Cajori, The Career of Ferdinand Rudolph Hassler, First Superintendant of 
+the United States Coast Survey: A Chapter in the History of Science in America (Boston, 
+1929). 
+26. Dupree, Science in the Federal Government, 29-33, 51-56. 
+27. Merle M. Odgers, Alexander Dallas Bache, Scientist and Educator (Philadelphia, 
+1947); B. A. Gould, "Eulogy on Prof. Alexander Dallas Bache," Proceedings of the American 
+Association for the Advancement of Science (1869), 1-47. 
+28. Dupree, Science in the Federal Government, 100-105. 
+29. Howard S. Miller, Dollars for Research: Science and Its Patrons in Nineteenth Cen­
+tury America (Seattle, 1970), 26-27. 
+30. Ibid., 29-33. 
+31. Guralnick, Science and the Ante-Bellum College, 83-93. 
+32. Miller, Dollars for Research, 34-39. 
+33. Ibid., 39-47; The Alexander Dallas Bache Papers, Manuscripts Division, Library of 
+Congress, Washington, D.C., contain interesting materials on the Dudley Observatory affair. 
+34. Edward Lurie, Louis Agassiz: A Life in Science (abr. éd.: Chicago, 1960), 212-251. 
+35. Miller, Dollars for Research, 71-97. See also Russell H . Chittenden, History of the 
+Sheffield Scientific School of Yale University 1846-1922 (2 vols.; New Haven, 1928) and Samuel 
+Eliot Morison, Three Centuries of Harvard (Cambridge, 1937). 
+36. Dupree, Science in the Federal Government, 66-90; Miller, Dollars for Research, 3-23; 
+W. J. Rhees, comp. and éd., The Smithsonian Institution Documents Relative to Its Origin 
+and History 1835-1899 (Smithsonian Institution, Miscellaneous Collections, 4-43, Washington, 
+1901), I, 5-439; George Brown Goode, éd., The Smithsonian Institution 1845-1896, The History 
+of Its First Half Century (Washington, 1897), 1-58; Geoffrey T . Hellman, The Smithsonian: 
+Octopus on the Mall (Philadelphia, 1966), 26-55. 
+37. Guralnick, Science and the Ante-Bellum American College, 47-118, discusses conditions 
+of research in the colleges. Charles Weiner, "Joseph Henry's Lectures in Natural Philosophy: 
+Teaching and Research in Physics, 1832-1847" (Unpublished doctoral dissertation, Case 
+Institute of Technology, 1965), 28-47, says that at the Albany Academy Joseph Henry had 
+35 teaching/contact hours a week and taught all but five weeks of the calendar year. On 
+personal relationships in the philanthropy of science, see Miller, Dollars for Research, 48-70. 
+38. Ralph S. Bates, Scientific Societies in the United States, Second edition (New York, 
+1958), 28-84. 
+39. John C. Greene, "Science, Learning, and Utility: Patterns of Organization in the 
+Early American Republic," in Alexandra Oleson and Sanborn C. Brown, eds., The Pursuit 
+of Knowledge in the Early American Republic: American Scientific and Learned Societies 
+from Colonial Times to the Civil War (Baltimore and London, 1976), 19. 
+40. Brooke Hindle, "The Underside of the Learned Society in New York, 1754-1854," in 
+Oleson and Brown, eds., The Pursuit of Knowledge in the Early American Republic, 84-113. 
+41. James M. Hobbins, "Shaping a Provincial Learned Society: The Early History of the 
+Albany Institute," in Oleson and Brown, eds., The Pursuit of Knowledge in the Early 
+American Republic, 117-143. 
+42. Greene, "Science, Learning, and Utility," 9-16. 
+43. Walter B. Hendrickson, "Science and Culture in the American Middle West," Isis 64 
+(1973), 326-340. 
+44. Henry D. Shapiro, "The Western Academy of Natural Sciences and the Structure of 
+Science in the Ohio Valley, 1810-1850," in Oleson and Brown, eds., The Pursuit of Knowledge 
+in the Early American Republic, 219-242. 
+45. I am deeply indebted to Professor Henry D. Shapiro of the University of Cincinnati for 
+these and other insights. 
+46. Based on my research in AAAS Proceedings, 1848-1866. 
+47 ., Addresses of Scientific Men, bound volume of circulars, circa 1853, Spencer 
+F. Baird Papers, Smithsonian Institution Archives, Washington, D.C. 
+48. Sally G. Kohlstedt, "A Step Toward Scientific Self-Identity in the United States: T h e 
+Failure of the National Institute," Isis 62 (1971), 339-362. 
+49. Kohlstedt, "Savants and Professionals: The American Association for the Advance­
+ment of Science," in Oleson and Brown, eds., The Pursuit of Knowledge in the Early 
+Republic, 303. 
+50. Ibid., 304. 
+51. Daniel deB. Beaver, "The American Scientific Community, 1800-1860: A StatisticalHistorical
+Study" (Unpublished doctoral dissertation, Yale University, 1966), 156-185, 359, 
+361, shows the most active authors of scientific papers lived in but several Northeastern 
+cities, followed full time scientific careers, and had a college degree—thus most unlike 
+many "amateurs." 
+52. See the table in AAAS Proceedings, 62 (1910), 21. The L. O. Howard Files, James 
+69 
+ McKeen Cattell Papers, Manuscripts Division, Library of Congress, Washington, D.C., illus­
+trate academic scientists' influence on the Association. 
+53. Laurence Veysey, The Rise of the American University (Chicago, 1965). 
+54. Edward H. Beardsley, The Rise of the American Chemistry Profession 1850-1900 
+(Gainesville, 1964), 7-11; S. E. Morison, éd., The Development of Harvard University Since the 
+Inauguration of President Eliot 1869-1929 (Cambridge, 1930), 258-276. 
+55. Beardsley, The Rise of the American Chemistry Profession 1850-1900, 1-7, 11-13, 19-22; 
+Chittenden, History of the Sheffield Scientific School, I, 65-72, 236; Hugh Hawkins, Pioneer: 
+A History of the Johns Hopkins University 1874-1889 (Ithaca, 1960), 47-48, 140-142, 223-224. 
+56. Earle D. Ross, The History of Iowa State College of Agriculture and Mechanic Arts 
+(Ames, 1942), 140, 158-159. 
+57. Beardsley, The Rise of the American Chemistry Profession 1850-1900, 12-13, 22; 
+Margret W. Rossiter, "Women Scientists in America Before 1920," American Scientist 62 
+(1974), 313. 
+58. Daniel J. Kevles, "The Study of Physics, 1865-1916" (Unpublished doctoral dissertation, 
+Princeton University, 1964), 1-76, 112-164. 
+59. Ibid., 165-287; see also Stanley Coben, "The Scientific Establishment and the Trans­
+mission of Quantum Mechanics to the United States, 1919-1932," American Historical Review 
+76 (1971), 442-446, Rossiter, "Women Scientists in America Before 1920," 313. 
+60. Dupree, Science in the Federal Government, 149-183. 
+61. L. E. Noland, "History of the Department of Zoology, University of Wisconsin," Bios 
+21 (1950), 83-109; Morison, éd., The Development of Harvard University, 508-517; Edward 
+H . Beardsley, Harry L. Russell and Agricultural Science in Wisconsin (Madison, 1969); 
+Charles Rosenberg, "Science, Technology and Economic Growth: The Case of the Agri­
+cultural Experiment Station Scientist, 1875-1914," in Daniels, éd., Nineteenth Century Amer­
+ican Science: A Reappraisal, 181-209. 
+62. Henry E. Crampton, The Department of Zoology at Columbia University (New York, 
+1942), 3-24. 
+63. Based on my research in two dozen manuscript collections; list available upon re­
+quest. See also Hamilton Cravens, "The Role of Universities in the Rise of Experimental 
+Biology," The Science Teacher, 44 (Jan. 1977), 33-37. 
+64. Rossiter, "Women Scientists in America Before 1920," 313. 
+65. William James to Hugo Muensterberg, February 21, March 23, April 13, April 19, 
+1892, William James Papers, Houghton Library, Harvard University, Cambridge. 
+66. Hugo Muensterberg to James McKeen Cattell, February 25, 1899, Cattell Papers. See 
+also: Robert M. Yerkes, "The Scientific Way," typescript autobiography, 83-109, Robert M. 
+Yerkes Papers, Yale University Medical Library; Hugo Muensterberg, "Report of the Psycho­
+logical Laboratory 1909," "Report to the President—1904," Hugo Muensterberg Papers, Boston 
+Public Library, Boston. 
+67. Edward Bradford Titchener to Robert M. Yerkes, August 14, 1914, Yerkes Papers. 
+68. T h e James Mark Baldwin Files, 1892-1903, Cattell Papers, illustrate how personal 
+ownership of journals worked. 
+69. James McKeen Cattell, "Psychology in America," Science 70 (1929), 339-340. 
+70. Hamilton Cravens and John C. Burnham, "Psychology and Evolutionary Naturalism 
+in American Thought, 1890-1940," American Quarterly, 23 (1971), 635-657. 
+71. Loren Baritz, Servants of Power (Middletown, Connecticut, 1960) covers the rise of 
+industrial and applied psychology. 
+72. Beardsley, The Rise of the American Chemistry Profession 1850-1900, 23-30; Charles 
+A. Browne and Mary E. Weeks, A History of the American Chemical Society. Seventy-Five 
+Years (Washington, D.C., 1952), 14-40. 
+73. Beardsley, The Rise of the American Chemistry Profession 1850-1900, 30-42; Browne 
+and Weeks, A History of the American Chemical Society, 41-67. 
+74. E. B. Frost, "The Astronomical and Astrophysical Society of America," Science (New 
+Series) 10 (1899), 785-795, quotes on 786, 787; A. G. Webster, "Societies and Academies," Science 
+(New Series) 9 (1899), 784-785; Kevles, "The Study of Physics, 1865-1916," 233-243, 269-287. 
+75. C. S. Minot, et al., "The Relation of the Society of American Naturalists to other 
+Societies," Science (N.S.) 15 (1902), 242. Comments about changes in membership require­
+ments based on my analyses of membership lists in American Society of Naturalists, Records 
+of the Society of Naturalists, E U. S. / t i t l e varies/ vols. 1-30 (1884-1911). 
+76 , "Report of the Society of Experimental Biology and Medicine," Science (N.S.), 
+19 (1904), 829. See also William Gies folder, Conklin Papers. 
+77. Samuel W. Fernberger, "The American Psychological Association: A Historical Sum­
+mary, 1892-1930," Psychological Bulletin 29 (1932), 1-89; The John B. Watson folders, Yerkes 
+Papers, illuminate many aspects of the psychology profession. 
+78. Dupree, Science in the Federal Government, 149-183, 232-301. 
+79. Merle E. Curti and Roderick Nash, Private Philanthrophy in the Shaping of American 
+Higher Education (New Brunswick, 1965), 212-214. 
+80. For annual reports of each department, see Carnegie Institution of Washington, 
+Year Book No. 1 (Washington, D.C., 1902), et seq. 
+70 

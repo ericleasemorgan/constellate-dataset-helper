@@ -1,0 +1,1036 @@
+The Smeller’s (Almost Always) a Feller: A Sensory Studies 
+Approach to Examining Gender and Sexuality across Nine 
+Faulkner Texts 
+Laura Davis
+The Faulkner Journal, Volume 28, Number 2, Fall 2014, pp. 53-77 (Article)
+Published by Johns Hopkins University Press
+DOI:
+For additional information about this article
+Access provided at 28 Feb 2020 04:38 GMT from JHU Libraries
+https://doi.org/10.1353/fau.2014.0003
+https://muse.jhu.edu/article/708728/summary
+ The Smeller’s (Almost Always) a Feller: 
+A Sensory Studies Approach to Examining Gen­
+der and Sexuality across Nine Faulkner Texts
+... maybe smell is one of my sharper senses, maybe its sharper 
+than sight.... [Smell] to me is as noticeable as the ear which 
+hears the turns of speech ....
+—William Faulkner, Faulkner in the University (253)
+A
+s a variety of critics have noted over the years, William Faulkner’s 
+stories, vividly and descriptively set in the US South, not only con­
+tain intricate characters and plots, but also depict a rich and detailed 
+sensory world. Much of the extant criticism engaged in Faulkners 
+use of the senses centers on a short story in The Unvanquished, “An Odor of 
+Verbena.” For example, Robert Witt links the pervasive smell of verbena with 
+courage; subsequently, Maryanne M. Gobble interprets the smell of verbena as 
+a symbol of courage, peace, and a new era in the South. Other similar “scent- 
+as-symbol” analyses of Faulkner include pieces by Patricia Beam (who exam­
+ines scent in The Wild Palms)-, Lorie Watkins Fulton (who focuses on scent in 
+The Sound and the Fury and Absalom, Absalom!); and Paul Carmignani, who 
+traces the symbolic meaning of scents across multiple Faulkner texts. The com­
+monality in all of this important work is an attempt to connect a specific sense 
+(in these cases, the sense of smell) with a certain symbolic meaning within 
+individual texts. In other words, critics have tended to assert that if we can find 
+a repeated mention of a certain smell, such as the scent of verbena, and identify 
+what it symbolizes, we can give it meaning, which has been a valuable strategy 
+in interpreting Faulkner’s work.
+Recently, however, a critically important new framework has begun 
+emerging for the study of the senses, one which could prove a useful aid to the 
+study of the senses in Faulkners fiction. Sensory studies, a relatively recent but 
+rapidly growing field, draws on the work of notable anthropologists, histori­
+ans, and others in the humanities and social sciences who study the intersec­
+tion of senses and society. As David Howes writes, “Sensory studies involves 
+a cultural approach to the study of the senses and a sensory approach to the 
+study of culture ... by foregrounding the sociality of sensation” (“Expanding”). 
+Namely, rather than examining the description of a particular scent (or sound 
+or taste) as a symbol to be interpreted as holding a certain meaning, sensory 
+studies scholars focus more on the senses as a biased human act, an act that is
+53
+ 54 Laura Davis A Sensory Studies Approach to Nine Faulkner Texts
+committed and interpreted differently depending on who is doing the sensing 
+and when, as well as what historical and cultural beliefs that person may hold.
+Sensory historian Mark Smith gives the following example about studying 
+depictions of smell in historical print sources:
+[B]reezy, implicit reference to the senses can amount to an unwitting surrender to the 
+power structures of the past and comes perilously near to repeating them. Historians 
+who quote a nineteenth-century observers characterization of immigrant homes as 
+reeking—“The filth and smell are intolerable”—leave the impression that the descrip­
+tion was objectively and universally “true.” What we really need to know is whose 
+nose was doing the smelling, how the definition of “smell” changed over time and 
+according to constituency (did the people living in the “filth” agree?) and how the 
+characterization was used to justify actions by middle class reformers. Absent such 
+explicit commentary, we present the past on the terms set by the reformer’s nose and 
+all of the prejudices and values that inhered in that nose. (“Producing” 843)
+In addition to the work of historians like Smith, a significant breadth of work 
+focused on sensory studies has emerged in both anthropology and geography. 
+It should be noted that in both of these fields this turn toward studying the 
+juncture of the senses and human behavior has been employed frequently via 
+the immediacy of fieldwork or ethnography. Though literary studies by nature 
+involves a more linguistically mediated representation of human society, lit­
+erature’s overarching focus on characters and their actions still provides an in­
+triguing, albeit fictional, realm in which to study the interaction of culture and 
+the use of the senses. Indeed, there are at least two notable pieces of Faulkner 
+criticism that point to the potential value of a sensory studies approach to liter­
+ary criticism: Karl F. Zender’s “Faulkner and the Power of Sound,” which is one 
+of the few aural studies of Faulkner, and Terri Smith Ruckel’s doctoral disserta­
+tion, “The Scent of a New World Novel: Translating the Olfactory Language 
+of Faulkner and Garcia Marquez.” Both of these authors begin to explore how 
+non-visual senses, behavior, and cultural beliefs are intertwined in Faulkners 
+works.
+However, since Zender and Ruckel’s work centers on only three of 
+Faulkners texts, given Faulkner’s prolific output, this article utilizes a sensory 
+studies approach to studying gender and sexuality in nine of Faulkner’s texts, 
+particularly how characters use their senses of smell (and occasionally their re­
+lated senses of taste) to make and/or avoid judgments and to navigate a web of 
+social values regarding gender and sexual taboos. In essence, it asks what larger 
+sensory and cultural patterns or tropes might emerge in Faulkner’s fiction if we 
+pivot from the established study of scent as symbolic noun to a new examination 
+of smelling as an active verb. By querying who gets to smell whom and who is 
+interpreted as smelling like what, patterns reveal the characters’ beliefs about 
+gender and sexual mores.
+ The Faulkner Journal Fall 2014 55
+I. Sensory Studies and Literature
+In his 2013 overview of the current state of sensory studies, David Howes cites 
+the origins of the field as emerging in the 1980s and 90s with the publication of 
+several seminal works, primarily in anthropology and history, and with a veri­
+table explosion of work in these fields and others during the first decade and a 
+half of this century (“Expanding”). The 1994 publication of Aroma: The Cultur­
+al History of Smell by Constance Classen, David Howes, and Anthony Synnott 
+is particularly relevant to an exploration of smell in Faulkner. Respectively, the 
+three authors hold doctoral degrees in religious studies, anthropology, and so­
+ciology, and the resulting text is a truly interdisciplinary examination of smell 
+and its impact on a variety of social structures. In particular, the authors cover 
+the changing interpretations of smells from antiquity through the Middle Ages 
+and into to the present day, successfully refuting the premise that the ways hu­
+mans interpret smells stays constant over time or across cultures.
+Additionally, the text is powerful in its examination of how smell affects 
+social and anthropological rites and rituals and how it may even shape political 
+beliefs. Sensory studies texts like this one that insist upon examining beliefs 
+about the senses in terms of social and political power structures can be very 
+useful for literary critics searching for similar hierarchical structures in litera­
+ture. As the authors of Aroma write, “[S]mell is hardly ever considered as a po­
+litical vehicle or a medium for the expression of class allegiances and struggles. 
+None the less, olfaction does indeed enter into the construction of relations of 
+power in our society, on both popular and institutional levels” (161).
+Howes examines these issues more broadly across all of the senses (not just 
+smell) in his 2003 text, Sensual Relations: Engaging the Senses in Culture and 
+Social Theory, and, more recently, Classen authored The Book of Touch (2005). 
+Both texts continue to explore how beliefs about the senses impact a number of 
+social and political structures and practices. Shortly thereafter in 2006, Howes 
+and Michael Bull launched the academic journal The Senses and Society to pro­
+mote the dissemination of work in sensory studies. Another text of note that 
+engages in sensory theory from a variety of fields is Empire of the Senses: The 
+Sensual Culture Reader (2005), which contains pieces by twenty-two different 
+scholars. Significantly, only one of these chapters is devoted to a study of the 
+senses in literature: Victor Carl Friesens essay “A Tonic of Wildness: Sensuous­
+ness in Henry David Thoreau.” The lack of literary analysis in a study that is 
+otherwise thoroughly interdisciplinary is echoed in its bibliographical appen­
+dix, which is entitled “Fifty Ways to Come to Your Senses,” and is a list of books 
+that the editor describes as “a cross-section of current sensory research in the 
+humanities, social sciences, and the arts” (404). Unfortunately, however, only 
+three of the fifty entries appear to be focused on literature or literary analysis, 
+which points to a pressing need for literary scholars to engage further in this 
+field. Finally, and most recently, much of this work has culminated in an inter­
+ 56 Laura Davis A Sensory Studies Approach to Nine Faulkner Texts
+disciplinary project uniting the primary voices in the field of sensory studies in 
+a project of vast scope—Classens six-volume series, A Cultural History of the 
+Senses, which was published at the end of 2014 and traces cultural beliefs about 
+the senses from antiquity to the present day.1
+Clearly, even from this brief list, the interdisciplinary field of sensory stud­
+ies is burgeoning, but literary scholars continue to be rather underrepresented 
+compared to other disciplines. As mentioned previously, there are of course 
+key differences between fields like anthropology and that of literary studies, 
+which may explain this disciplinary gap, so it is logical to ask before begin­
+ning such an endeavor if it is even possible or wise to apply sensory studies 
+to a field that is mediated by written language versus primary observations of 
+human behavior. Sensory historian Mark Smith provides a significant answer 
+to this question by mentioning the importance of the written word when he 
+explores the “perils and prospects” of sensory history in a recent article entitled 
+“Producing Sense, Consuming Sense, Making Sense: Perils and Prospects for 
+Sensory History.” In fact, he overtly states that, ironically, some of the most 
+important sources for sensory historians to explore are print sources. Although 
+Smith is referencing historical print documents such as court records and let­
+ters, his argument can apply to fiction as well. Though fieldwork or other forms 
+of media might seem more important for exploring the senses, (such as aural 
+historians listening to the recordings of slave songs) Smith points out that there 
+is an important difference between producing something for the senses and 
+consuming something for the senses. While it may be true that we can repro­
+duce sound in the same form it was “heard” seventy years ago, arguably we 
+cannot consume it (hear it) with our modern ears the same way because the 
+social context has changed. As Smith writes, the consumption of the sound is 
+“hostage to the context in which it was produced” (841). Thus, he asserts that 
+in order to truly understand what people originally heard (or smelled for that 
+matter), we are still reliant on their written descriptions rather than our own 
+senses, and in order to understand how the senses functioned in a social con­
+text, we need to read the words of those who were actually living at the time.
+This point is crucial to consider when questioning whether sensory studies 
+can be a useful methodological approach to studying literature. By Smiths own 
+argument, examining writing can be a rich source to add to our understand­
+ing of the social meanings attached to various senses in the past. Faulkner did 
+indeed represent considerable non-visual sensory material in his characteriza­
+tion, frequently describing what characters are smelling, hearing, tasting, and 
+touching. Paying attention to these actions and seeking to understand patterns 
+in how his characters use their senses may give us information about the cul­
+'This is not a comprehensive list of sensory scholarship. Readers interested in learning more might be­
+gin by visiting www.sensorystudies.org, which is a veritable hub of information on the field. Additionally, for a 
+piece published even earlier than the foundational works often cited by sensory scholars, readers of Faulkner 
+might find 1972’s “The Sociology of Odors,” by Gale Peter Largey and David Rodney Watson especially 
+illuminating since it queries what the social beliefs about smells were within 10 years of Faulkners death.
+ The Faulkner Journal Fall 2014 57
+tural and sensory beliefs held by both the characters themselves and by the 
+societies and historical periods Faulkner strove to represent. Indeed, as Smith 
+warns, though the senses can be crucial for showing how people “understood 
+their worlds and why,” we must always be “very careful not to assume that 
+the senses are some sort of ‘natural’ endowment, unchangeable and constant” 
+(“Producing” 842). One way to at least partially overcome this difficulty is to 
+study how people defined and sensed categories such as gender or race differ­
+ently in the past by reading non-fiction and fiction texts produced in different 
+eras and carefully noting how cultural beliefs involving the use of the senses 
+have or have not changed over time.
+Smith, in his book How Race is Made: Slavery, Segregation, and the Senses, 
+makes particular use of this strategy by examining a trove of letters and other 
+print documents that express the sensory beliefs white people had about black 
+people in a variety of eras. For example, Smith describes the prevailing belief in 
+the South that some black senses were more acute than those of whites; because 
+blacks were believed by many whites to be more animal than human, in the 
+white imagination, they were imbued with extraordinary senses of smell and 
+hearing, such as those dogs were observed to have (46). Additionally, Smith 
+explores the longstanding conviction held by southern whites that black people 
+smelled different from whites and that this smell was horrible and innate (not 
+emanating just from their poverty, diet, or living and working conditions). He 
+states that this belief was so entrenched among whites of all classes that it was 
+taken as unquestioned fact to an extreme that can hardly be believed by people 
+today unless one notes the pervasiveness of the references to black smell in the 
+variety of written historical documents that Smith examines (26).
+Comprehending the intensity of the belief that the smell of black skin 
+could cause nausea, intense discomfort, and disease to white people is foreign 
+and shocking to many people now, but Smith’s work is an important reminder 
+of what sensory studies can and frequently do reveal—that sometimes be­
+ing socially acceptable means not just being seen a certain way, but also be­
+ing smelled, heard, touched, and perhaps even tasted a certain way, especially 
+if one wants to be coded as a member of the dominant or acceptable group of 
+one’s era. Knowing Smith’s work on race and smell in the South is important 
+when querying how characters use and interpret their senses in Faulkner in 
+terms of gender. For example, if, as Smith and other historians have argued, 
+the dominant white racial group used codes of smell in order to judge, repress, 
+and distinguish themselves from the dominated black race, can we find in­
+stances where beliefs about gender or sexual norms function in similar ways in 
+Faulkner’s fiction? Do Faulkner’s male and female characters interpret gender 
+power structures in part by sniffing them out? Does Faulkner consistently as­
+sign or deny particular smells (or the power to smell) to certain characters 
+based on their gender or on their sexual choices? What are the meanings vari­
+ous characters give to the smells they perceive as emanating from the bodies
+ 58 Laura Davis A Sensory Studies Approach to Nine Faulkner Texts
+of others? More importantly, if these behavioral codes of the senses do exist in 
+Faulkners fiction, how and when do we recognize disruptions to this code as 
+various characters attempt to use it subversively? The rest of this article seeks to 
+answer these questions, at least in part, from specific examples from Faulkner’s 
+work, which might point to future work that could be done to study sensory 
+patterns further across the Faulkner canon.
+II. Smelly Gender Boundaries and Sexual Taboo Breakers
+“She’s just like a dog! Soon as she passes anything in long pants 
+she begins to give off something. You can smell it! You can smell 
+it ten feet away!”
+—Jody Varner, speaking of Eula (The Hamlet 110)
+Gender and sexual mores are social power structures productively examined 
+by Faulkner critics. As with the concept of race, critical explorations of gender 
+in Faulkner’s fiction are quite prevalent and extensive. In their introduction to 
+Haunted Bodies: Gender and Southern Texts, Susan V. Donaldson and Anne 
+Goodwyn Jones write that “southern sexuality has long been haunted by stories 
+designating hierarchical relationships among race, class, and gender” (1). Don­
+aldson and Jones also assert that “such stories may have appeared all the more 
+reassuring in a region where manhood and womanhood seemed so difficult 
+to control” (6). Another source of criticism centering on gender in Faulkner’s 
+work is found in William Faulkner: Six Decades of Criticism, edited by Linda 
+Wagner-Martin, which contains an entire section entitled “Feminist, Woman- 
+Centered, and Sexualized Approaches.” This collection is of particular interest 
+to a sensory studies approach because it contains Christina Jarvis’s exploration 
+of Faulkner’s female characters and food, which points subtly toward a sen­
+sory approach that could be extended further to incorporate the sense of taste 
+overtly.2
+Jarvis’s work notwithstanding, to date, there seem to be very few published 
+texts that engage with Faulkner, gender, and the non-visual senses, querying 
+how both women and men enact and navigate gender norms by interpretive 
+actions of smelling, sounding, hearing, touching, and tasting. It is important 
+that critics begin to ask whether Faulkner’s male and female characters inter­
+pret gender power structures in part through their non-visual senses. To do so,
+2 This brief mention of sex and gender criticism in Faulkner is not meant to be comprehensive but to 
+establish that there has been a significant scholarly conversation regarding gender and the works of Faulkner 
+for many years and that while some of the most recent criticism comes tantalizingly close to querying gender 
+and the nonvisual senses (such as Jarvis’s work), a more thorough consideration of gender and the nonvi­
+sual senses is needed. For those interested in other voices exploring gender and Faulkner’s work, another 
+good starting point is Minrose Gwin’s The Feminine and Faulkner, as well as Faulkner and Gender, edited 
+by Donald M. Kartiganer. Additionally, Diane Roberts’s Faulkner and Southern Womanhood is helpful in 
+understanding the various “types” of women in Faulkner’s texts, and there are, of course, important others 
+that space alone (rather than significance and quality) precludes referencing here but which influenced this 
+piece.
+ The Faulkner Journal Fall 2014 59
+it is necessary to trace instances of sensory gendering through a close reading 
+of Faulkner’s texts in order to explore gendered conversations and judgments 
+that might otherwise go unnoted.
+As in any fictional or non-fictional society, a variety of both written and 
+unspoken rules maintain the social order in Faulkners depiction of the South. 
+His characters navigate a veritable minefield of taboos and traditions, and such 
+rules, of course, must be enforceable in order to have power. We might expect 
+that, for trespassers of law and custom to be punished, they must be caught by 
+someone who sees them commit the transgression. However, Faulkners fic­
+tional society goes further than this. It is not necessary to see someone do­
+ing something wrong; on the contrary, in Faulkners world, transgressions of 
+the moral code apparently ooze from pores in the form of odors that other 
+characters’ noses seem naturally equipped to detect. Thus, eyewitnesses are not 
+required to condemn characters that break the moral code. In Faulkner’s land­
+scape, the nose just knows if someone has done something bad.
+One transgression Faulkner frequently explores is the flouting of sexu­
+al mores.3 Accordingly, he often writes that community members who meet 
+characters who transgress against the accepted rules of heterosexual behavior 
+seem able to smell sexual deviance even when they have no first-hand visual 
+knowledge that any sexual impropriety has happened. The idea that one’s deep­
+est sexual secrets can be betrayed obviously and easily by one’s body to com­
+plete strangers’ noses has the effect of making these boundaries seem reified 
+and unassailable and helps to explain why Faulkner’s characters sometimes 
+approach public interaction with terror and dread. Other characters who 
+eventually become pregnant out of wedlock or break social taboos of sexual 
+propriety seem to exude so much tainted scent that their very environments 
+retain a smell (ominously, occasionally this even happens before they even 
+break the taboos). For example, in Absalom, Absalom!, the octoroon, whose 
+relationship with Charles Bon is deemed sexually taboo by many of the other 
+characters, has a house that is “cloyed” and “scented” and, most important­
+ly, her room itself is described as “impregnated” with smell (158-59). Harry 
+Wilbourne and Charlotte Rittenmeyer experience a similar exposure in If I 
+Forget Thee, Jerusalem. When Wilbourne first approaches the home of Char­
+lotte (who will later become pregnant in their adulterous relationship), he im­
+mediately notices that the air outside of her dwelling is also “impregnated” 
+with smell (31). Likewise, the dietician who works in the orphanage where 
+Joe Christmas lives as a child sleeps with a doctor out of wedlock in Light in 
+August; later, Doc Hines describes the couple as having “the reek of pollution 
+on them” (384) and says that the dietician’s “lustful” bed is “still astink with sin 
+and fear” (385).
+3For the purpose of this essay, the sexual impropriety I am discussing concerns rules of heterosexual 
+behavior that are being broken as men and women navigate gender roles while in sexual relationships with 
+one another. The sensory coding of the breaking of homosexual taboos is wide enough in scope in its own 
+right that I am treating it separately in another project.
+ 60 Laura Davis A Sensory Studies Approach to Nine Faulkner Texts
+Furthermore, in Faulkner’s texts, it is not only possible for one’s sexual 
+improprieties to become public by the sinful smell one is giving off but also by 
+one’s sudden lack of a certain smell. For example, in the famous scene when 
+Caddy Compson loses her virginity, her brother Benjy, who seems to have 
+especially acute senses, knows immediately through his nose, not his eyes, that 
+she has experienced a profound shift in sexual identity. He wails because Cad­
+dy no longer smells like trees (SF 40). This is a very odd statement considering 
+that Caddy has just emerged from the outdoors and ostensibly meets her lover 
+in the woods among the trees. And yet, her body is an open secret to the power 
+of a nose that can apparently sniff out a change in her identity as her sexuality 
+moves from a pretransgressive to posttransgressive state.
+In addition to the loss of virginity or pregnancy outside of marriage, people 
+who break their marriage vows are also plagued with clouds of odor through­
+out Faulkner’s fiction. In the opening scenes of If I Forget Thee, Jerusalem, Wil- 
+bourne and Charlotte arrive in a small coastal town and fraudulently present 
+themselves as man and wife. The first person they meet, a real estate agent who 
+knows nothing about them and who has never seen them before, immediately 
+declares that they are not married at all. Surprisingly, the man claims that he 
+knows this because he can smell it. “Because I can smell a husband,” he says, 
+continuing “Show me a woman I never saw before on the streets of Mobile or 
+New Orleans either and I can smell whether—” (7). When the real estate agent 
+conveys this olfactory “proof” to his friend, the doctor who rents a cabin to 
+Wilbourne and Charlotte, the doctor, despite being a highly educated man, 
+one whose education is focused on the study of the human body no less, seems 
+to accept this “‘marriage sniffing’” as completely unremarkable and absolutely 
+reliable evidence (10). Thus, the ability to smell sexual impropriety is accepted 
+as a commonplace community belief and moral enforcement method.
+Likewise, when Wilbourne and Charlotte first run away from her husband 
+and board the train where they ultimately have extramarital sex for the first 
+time, Wilbourne looks around the train and says he knew that the strangers 
+aboard could already smell his and Charlotte’s “unsanctity and disaster” even 
+before they had consummated their affair (JER 51). Doc Hines makes similar 
+comments about his daughter (who is also sleeping with a man who is not 
+her husband), asserting that he knew about her sexual sinfulness even before 
+he had “proof” because she was “already stinking in God’s sight” (LA 374), 
+an interesting description that oddly mingles two senses; is this a God so all­
+knowing that he can even smell with his eyes, mingling the power of multiple 
+senses? Gavin Stevens also ties sexual transgression to a smell when he cautions 
+Eula Snopes about her adulterous affair, warning that if she runs away with her 
+lover, Eula’s daughter Linda will be left “here in all the stink” that will arise from 
+the scandal (T 289). Finally, when Hightower’s wife continually visits Memphis 
+to commit adultery in Light in August, we are told that though the town never 
+puts into words the sinful things she was doing, it did not forget either because
+ The Faulkner Journal Fall 2014 61
+the good women in the town have “plenty of time to smell out sin” like the 
+sin being committed by Mrs Hightower (66). While some of these comments 
+are more linguistically metaphorical and some are examples of characters ac­
+tively using their noses to sniff out infidelity, it is intriguing how frequently 
+both these turns of speech and these actions of smelling involve connecting the 
+sense of smell with sexual misconduct.
+The commonality of all of these cross-textual examples is that Faulkners 
+characters consistently express the belief that the nose is as least as reliable as 
+the eye when it comes to identifying and condemning those who break sexual 
+taboos of promiscuity and infidelity; indeed at times, to many characters, the 
+sense of smell seems to be even more reliable than sight since the nose can 
+detect invisible odors that linger before and beyond an actual sexually improp­
+er event that the eye could have observed. Another potential explanation for 
+this connection between the sense of smell and sexual transgression is that, 
+as many sensory scholars have pointed out, there is a “Western hierarchy” of 
+the senses that privileges sight as the lofty and rational sense and the other 
+senses, like smell, as lower and more bodily (Howes, “Craft”). Such a hierarchy 
+might explain in part why something like extramarital sex, which the morals of 
+the era would have defined as bodily, degrading, and low would be connected 
+with the sense of smell rather than sight. Whatever the reason, this gender and 
+sexual norming clearly becomes a whole-body affair for many characters in 
+Faulkner, where the non-visual sense of smell is crucial for understanding the 
+moral customs and values of the society and how offenders are both caught 
+and punished in ways that modern readers might find surprising since the idea 
+of smelling infidelity (particularly before it even happens) seems no longer a 
+commonplace belief. Thus, once again, Faulkner s fiction is consistent with the 
+predictions of many sensory scholars who warn that all of the senses, including 
+the sense of smell, are powerful tools for a society to maintain community rules 
+and boundaries of conduct that pertain to each era.
+III. Smelly Men/Smelly Women
+In addition to sexual taboos, Faulkners depiction of his society and region is 
+also rife with gender laws as well. There are strict codes of behavior for both 
+men and women, and this acceptable masculinity and femininity becomes 
+inscribed onto bodies through the bodily production of smells. Performance 
+of proper masculinity and femininity in Faulkners novels consists of exuding 
+not just the right behavior but also the right odors. And, as with the examples 
+above, when slips are made in this gender performativity, other noses can im­
+mediately sense the flaw; they also impose judgment and attempt to reassert 
+the proper order without visual evidence, and this reveals much about peoples 
+places in the gendered hierarchy.
+ 62 Laura Davis A Sensory Studies Approach to Nine Faulkner Texts
+One of the most pronounced indications that gender has a distinct odor in 
+Faulkner’s landscape occurs in Light in August. When the young Joe Christmas 
+is carried out of the orphanage in the middle of the night, Faulkner writes that 
+Joe knew “by smell that the person who carried him was a man” (135). Interest­
+ingly, this one simple line carries no further explanation or proof; it is as if the 
+trio of Faulkner, his readers, and his characters are all supposed to accept this 
+claim of “smell-able” gender as obvious and unremarkable. The message seems 
+to be that even unschooled children can understand innate bodily markers of 
+gender identity through the sense of smell alone.4 Not only do male bodies 
+carry this “man-smell,” but dwellings that are primarily male domains also be­
+come encoded with man-smell in a similar fashion to the ways that white char­
+acters frequently attribute a “black smell” to black homes in Faulkners texts.5 
+For example, in The Hamlet, the store where the men spend their time together 
+each day has a stove that “radiated the strong good heat which had an actual 
+smell, masculine, almost monastic—a winter’s concentration of unwomaned 
+and deliberate tobacco-spittle” (137).
+Apparently, just like “man,” “woman” is a smell that can be identified as 
+well. For instance, in Light in August, when Joe hides in the dietician’s closet, 
+the closet is described as “womansmelling” (121) and later as “rife, pinkwom­
+ansmelling” (122). The janitor makes a similar comment about the woman’s 
+room saying that it was “warm, littered, womanpinksmelling” (132). Further­
+more, when Joe gets older, he is instructed by his teenage friends on the topic 
+of sex and of women’s bodies. The narrator asserts that if the boy talking about 
+women’s bodies had only described feminine bodies and cycles as a “mental 
+state, something which he only believed” that the other boys would not have 
+believed him (185). But, when the boy draws a picture that reveals women are 
+“to be discerned by the sense of smell” (185), the other boys immediately ac­
+cept his story as truth. Finally, in Go Down, Moses, when Gavin Stevens goes 
+to visit Miss Worsham, an older, unmarried woman, we are told that the bed­
+room smells to Stevens like the “unmistakable faint odor of old maidens” (361). 
+Thus, women’s gender, just like the man who carries Joe out of the orphanage, 
+is also fixed by smell—gendered smell that can be consumed and identified as 
+unquestionable truth by others.
+Importantly, the way white male characters in Faulkner smell to one an­
+other (and the smells they are able to discern on others), often reassert ele­
+ments of masculinity that maintain male power, violence, and virility. For in­
+'Fascinatingly, recent empirical studies show there is some truth to the idea that humans can smell 
+gender and, correspondingly, that the ways in which we smell gender indicate our sexual orientation. See, 
+for example, a well-publicized 2014 study by Wen Zhou and collaborators published in Current Biology, 
+which measured participants’ ability to assign gender to someone via the smell of male or female hormones. 
+The fact that Faulkner and his characters seem well aware of a fact that is considered cutting-edge scientific 
+research in 2014 is intriguing to say the least.
+5 Although gender and race are often complicit and intermingled, and I include a few mentions of race 
+here, due to the breadth of each category, I am primarily treating a sensory studies approach to smell and 
+racial hierarchies in Faulkners work in a separate project.
+ The Faulkner Journal Fall 2014 63
+stance, we are told six times in Absalom, Absalom! that Mr Compson smells like 
+cigars, a product that was a particularly masculine domain, often consumed 
+away from the company of women (23, 71, 141, 147-48, 168, 301). Likewise, 
+Thomas Sutpens father is said to smell like strong alcohol, another product 
+more aligned with the freedoms that were given to men but that were not as ac­
+ceptable for women (187). Men also frequently smell like the all-male environs 
+that they inhabit even when they are away from these habitats. For example, 
+despite the fact that he meets them in a restaurant, Joe says that the group of 
+men who hang around the diner where his lover works all have the “odor of 
+barbershops” (LA 178).
+Additionally, smells that are associated with violence, toughness, and vi­
+rility almost always linger around male characters rather than female, which 
+sends a message that only men possess these qualities. Bayard Sartoris notes 
+the smell of war on his father in the opening pages of The Unvanquished (10), 
+and when Bayard discovers that Granny has been shot by a man, this scene of 
+uncontrolled male violence (which Granny had asserted incorrectly could be 
+controlled through her gender, i.e., the fact she was a white woman), smells 
+overwhelmingly like gunpowder to the young boy. And, lest we note this as a 
+“factual” smell alone, something that Bayard encounters simply because a gun 
+has been discharged nearby, mens affinity for smelling violence seems to be 
+much more complicated than this in other sections of Faulkner’s texts. For ex­
+ample, Quentin and Shreve say they can smell the powder and violence of the 
+Civil War even from their perspective a generation into the future (AA 280). 
+That this is a distinctly male scent mingled with violence is clear when Bayard 
+faces down the man who killed Granny. Right before Bayard murders Grumby, 
+he says he smells sweat and explains that he can distinctly tell from the sweat 
+that Grumby is the villain and that he is male (U 183), and then he shoots him. 
+Thus, once again, even a very young boy is given the power to detect both 
+criminality and gender identity from a smell and then enacts punishment on 
+the man who broke a gender taboo by killing a white woman. Forget due pro­
+cess or a court of law: apparently a nose is enough.
+Several other examples of this trend include Doc Hines, whom we are told 
+has “that quality of outworn violence like a scent, an odor” even after he is old 
+and fairly feeble (LA 343), and likewise, Mr McEachern, another man who 
+frequently displays violence, is said to smell like “an odor of clean hard virile 
+living leather” (LA 149), a description where masculinity is again connected 
+with virility, toughness, and even “clean” morality. The idea of male sexual con­
+quest and virility being interpreted through smell also holds true in The Town, 
+where the three young men who are suspected of fathering Eula Varner’s baby 
+are described as the ones who “ran from the smell of Will Varner’s shotgun” 
+(6). Disturbingly, in this sensory system, young boys, who have not committed 
+violence themselves, can apparently also smell violence even before they know 
+what it is: when Linda’s boyfriend beats her up for having dinner with Gavin
+ 64 Laura Davis A Sensory Studies Approach to Nine Faulkner Texts
+at the Mallison house, Chick Mallison sees her shortly thereafter; although he 
+does not see the violence occur and should have no idea that it has happened, 
+he says of the scene, “[I]t was like I had smelled something, caught a whiff 
+of something for a second that even if I located it again I still wouldn’t know 
+whether I had ever smelled it before or not” (T 163). Therefore, even though 
+Chick is not yet old enough (man enough?) to identify the smell as violence, 
+he still detects it.
+All of these examples vary widely from a linguistic standpoint; as with 
+earlier examples that utilized metaphorical speech, some of these smelly refer­
+ences are similes, while others, like the Bayard example, indicate the nose as 
+leading to an action, and the example of Chick is a simile that nonetheless also 
+references the overt action of actually smelling something. While a sensory 
+studies approach might perhaps privilege how characters are physically using 
+their senses as more significant than metaphors and similes, even the examples 
+that are figures of speech still seem noteworthy for just how frequently they 
+occur and how consistent they are in the ideas or beliefs they represent. In 
+other words, while it is important to distinguish when the author or the char­
+acters are being metaphorical versus when they are actually using their senses 
+of smell, it is also hard to escape just how many times these metaphors and 
+similes circle around the trope of smell or stench.
+Not only can Faulkners men smell each other and the violence that they 
+sometimes commit, they are often given the power to smell women too (a 
+power, as we will see below, that women rarely get in return). Importantly, 
+once again the scenes of men smelling women also have to do with the “ap­
+propriately” masculine values of toughness, violence, or virility. In As I Lay 
+Dying, when the Bundren family makes it to town with their mother’s corpse 
+days after she has died, the narrator tells us that while the women nearby were 
+“scattering up and down the street with handkerchiefs to their noses,” that “a 
+crowd of hard-nosed men and boys” remain and are tough enough to stand 
+around the reeking wagon (203). Likewise, when Joe Christmas is about to 
+sleep with a woman, he says that he can “smell her” and “smell the waiting” 
+for him to be the sexual or physical aggressor. He also asserts that he can smell 
+that she is either waiting for him to initiate their sexual liaison or waiting for 
+him to hit her as if the two things (sex and violence) are one and the same to 
+his nose (LA 187). In another scene, the narrator tells us that Joe can smell the 
+“damp,” “dark,” and “fecund earth” as if he can even smell out the feminine in 
+the physical world around him (229). And, even when men do not want to 
+smell women, they can use their nose as an escape. Joe, who is confused by 
+his relationship with Joanna, wanders instinctively toward the barn one night 
+when he wants to flee from his thoughts of her. We are told, “He was thinking 
+now, aloud now, ‘Why in hell do I want to smell horses?’ Then he said, fum­
+bling: ‘It’s because they are not women. Even a mare horse is a kind of man’” 
+(109).
+ The Faulkner Journal Fall 2014 65
+In addition to the ability to smell women and to smell violence, male noses 
+(particularly white male noses) demonstrate their supremacy through the pow­
+er of smelly judgment over other social institutions, systems, and morals. As 
+mentioned above, in If I Forget Thee, Jerusalem, it is a man who says he can smell 
+the adultery between Charlotte and Wilbourne and who first censures them for 
+their behavior, so his nose is clearly one that can police morality and rules. In 
+the same novel, the doctor who rents his home to the couple also claims that he 
+can tell the time of day by “the staling smell of gumbo” (4-5). In the Faulkneri­
+an landscape, where characters often experience a great deal of confusion and 
+anxiety over the ability to understand and control time, such acute knowledge 
+of time is a real power indeed. Likewise, Benjy Compson even has the power 
+to smell death almost the moment that it happens (SF 34). Bayard, as a male of 
+the dominant race, is able to smell black people and thus identify them as black 
+even without seeing them (U 83, 96,102-03), and Joe Christmas, who may be at 
+least partially if not wholly white, can do the same thing (LA 331). Bayard also 
+says that the Yankee men, once they are the dominant power in the region at 
+the end of the war, have the ability to smell members of the subjugated Sarto- 
+ris family and by doing so, to cause them disaster (U 104). Furthermore, both 
+Benjy and Wilbourne are able to smell changes in the weather (SF 64; JER 99). 
+Clearly, from these examples there is gendered power in having the right (male) 
+nose, which gives men the ability to smell and interpret laws of time, the natural 
+world, death, and morality and to then be able to reassert control over others 
+who do not seem to have the same masculine olfactory powers.
+That men’s hegemony and strength is intimately tied to their sense of smell 
+(both their ability to smell others and their ability to smell a certain way them­
+selves) is especially notable when studying male characters in Faulkners texts 
+who have broken or failed to live up to the code of masculinity in some way. 
+Fascinatingly, these “failed” men seem to lose not just respect but to lose their 
+power of smell as well. Bayard remarks on this in The Unvanquished when he 
+goes to confront Redmond, the man who killed his father. Tellingly, when Ba­
+yard walks into Redmond’s office to duel, his first thoughts center on the lack of 
+smell, much like Benjy’s reaction to Caddy. Bayard is intensely puzzled that he 
+cannot even smell tobacco though he knew that Redmond was a smoker (248). 
+This moment is especially important when we note that previously, Bayard’s 
+father had taunted Redmond’s lack of courage, violence, and virility by saying 
+that he was a failure at warfare, never “having smelled powder” (225). Thus, 
+Redmond, portrayed as a southern man who has failed at the “manly” pursuits 
+of running a business, fighting in a war, and successfully defending himself in 
+a duel, both loses his own ability to smell (he wasn’t able to partake in smell­
+ing the powder of war with other men) and his own personal scent. (Even the 
+manly smell of tobacco smoke in a small room refuses to cling to him or his 
+surroundings, which is rather extraordinary given the typically pungent and 
+pervasive nature of smoke in small spaces.)
+ 66 Laura Davis A Sensory Studies Approach to Nine Faulkner Texts
+A similar situation happens to Gavin Stevens in The Town. Throughout 
+the novel, Gavin fails at traditional Southern manhood in several ways. First, 
+he fails at violence because he gets beaten up twice by other men (66, 167). 
+Secondly, he fails at virility because although he yearns sexually for Eula and 
+later her daughter Linda, he never consummates either relationship though 
+he has the opportunity to do so with both women. Finally, Gavin also fails at 
+courage; when he turns down Eulas offer of her body, she says to him, “Why 
+are you afraid?” (84). Interestingly, Eula is also the person who first notes that 
+something is wrong with Gavins ability to smell like a man. Though as explored 
+above, tobacco is usually a smell associated with men, when Gavin walks into 
+his office and finds her waiting, it is Eula who smells like it as she sits smok­
+ing in his office, not Gavin. He says, “And I know now that I already smelled 
+tobacco smoke even before I put my hand on what I thought was an unlocked 
+door . . . smelling the tobacco while I still tried to turn the knob” (280). Not 
+only does Eula appropriate this masculine smell, she then pointedly remarks 
+on the fact that Gavin does not smell like tobacco and perhaps does not even 
+use it despite his insistence on carrying a pipe: “‘There’s your cob pipe,’ she said. 
+They were in the brass bowl beside the tobacco jar. ‘You’ve got three of them. 
+I’ve never seen you smoke one. When do you smoke them?”’ (281). Thus, Gavin 
+not only fails to perform sexually like a man, he also fails to smell like a man 
+via his phallic unlit pipe.
+Masculine scents continue to fade from Gavin even after Eula’s death. 
+Ratliff goes into Gavin’s office and opens the drawer where Gavin usually keeps 
+liquor (another male-smelling, male-coded product). Puzzlingly, even though 
+Ratliff knows that there was just liquor in the drawer and always has been, he 
+says it suddenly “never even smelled like he used to keep whiskey in it” (310). 
+Not only will the smell of liquor and tobacco not cling to Gavin even in places 
+where he used to store these items, now that Eula has emasculated him by 
+pointing out his failure with his pipe/penis he won’t touch or taste the liquor 
+that Ratliff pours him, which alludes to issues with his other senses (314). In 
+the same scene, Ratliff notices that Gavin once again tries to smoke his (man- 
+smelly) pipe; he even lights the match, but then blows it out carefully without 
+putting it to the pipe and then sets the pipe down unused (314) leaving him 
+once again without an important odor of masculinity.
+Other male characters in Faulkner also encounter analogous disruptive 
+issues with smell and manhood when they fail in their masculinity by becom­
+ing too aligned with the feminine and/or the domestic sphere. For example, in 
+If I Forget Thee, Jerusalem, when Wilbourne decides to write romantic fiction 
+by pretending to be a woman author voicing female concerns, he notices that 
+smells start to bother him so much that he can no longer sleep. He has to stay up 
+and rid himself of the smell of the pulp by smoking (again, a masculine-coded 
+smell) before he can go to bed (103, 107). Apparently, it is only a masculine 
+smell like tobacco smoke that can rid Wilbourne of the anxiety and insomnia
+ The Faulkner Journal Fall 2014 67
+that comes from doing something so dangerous to his masculinity as pretend­
+ing to be a woman. Additionally, during this same time period, Wilbourne be­
+comes acutely bothered by smells of domesticity, such as the smell of children, 
+children’s food, and diapers that he imagines he can smell coming from the 
+park below his window while he writes (113-14). In these smells of feminine 
+domesticity, he worries that he is beginning to smell the “dead corpse” of love 
+(118). In becoming too feminine, Wilbourne, like Redmond, risks losing his 
+masculinity, and his first warning sign of this comes through his nose. Another 
+similar moment where a man begins to smell oddly due to becoming too femi­
+nine occurs in The Hamlet, when Ratliff barges in on a member of the Snopes 
+family (a man who is a teacher, a job that is perhaps a bit gender disruptive 
+since in Faulkners works it is sometimes an occupation held by women too) 
+and catches the man unawares. Ratliff says of the room, “[T]he odor of it was 
+not a bachelor-uncle smell but was curiously enough that of a closet in which a 
+middleaged widow kept her clothes” (220-21). Thus, once again, we encounter 
+situations in Faulkner where identity categories such as gender function not 
+through the visual alone, but through the use of the sense of smell and where 
+characters who are experiencing “gender trouble” in their ability to perform 
+masculinity are revealed through the way they smell (or fail to smell) to others.
+Clearly, via the way that male characters actively use their sense of smell or 
+the ways that similes and metaphors link them to certain smells, in Faulkner’s 
+works there are often consistent connections between olfactory prowess and 
+properly performed masculinity, which certainly begs the question whether 
+the same holds true for the female characters as well. Does a close reading also 
+reveal links between performing socially acceptable femininity and particu­
+lar scents or olfactory actions? Interestingly, in these nine works, the answer 
+turns out to be that the olfactory commonality with women is not what they 
+smell, but rather that it is surprisingly rare for them to be depicted as smelling 
+anything at all. One instance where this becomes clear is around the subject of 
+food. Over the course of the novels examined, men of a variety of races, socio­
+economic classes, and ages frequently express their physical hunger and refer­
+ence their ability to smell food. For example, a brief list of white men who are 
+depicted as smelling food include Roth Edmonds and Henry Beauchamp, who 
+can smell chicken that Mollie is cooking (GDM 110); the doctor in If I Forget 
+Thee, Jerusalem, who smells gumbo (5); Ratliff, who can “smell food cooking in 
+the kitchen behind him” in The Hamlet (92); the townsmen in The Hamlet, who 
+twice walk “through the hot vivid smell of ham” from Mrs Littlejohn’s kitchen 
+(329, 331); and Isaac McCaslin, who can smell “frying meat” (GDM 218) and 
+“cheese and salt meat” (GDM 244). Likewise, the prisoners smell food in If I 
+Forget Thee, Jerusalem (58) and so does Mink Snopes when he is in jail in The 
+Hamlet (285). The young boy Bayard smells food in The Unvanquished (129), 
+and Eck Snopes can smell food when he cooks in the restaurant in The Town 
+(30). The same frequently holds true for black or mixed-race male characters.
+ 68 Laura Davis A Sensory Studies Approach to Nine Faulkner Texts
+When Lucas Beauchamp returns home after going to the courthouse, the nar­
+rator says, “Now he could smell the cooking meat” (GDM 66), and later, he 
+smells “molasses and cheese” when he goes to visit Edmonds (GDM 93).
+In contrast, female characters, despite being depicted in kitchens much 
+more than the male characters, are much less likely to be described as smelling 
+food. In fact, when it comes to smell, Faulkner’s male characters often portray 
+women not as beings who often smell or taste food but as consumable beings 
+who smell and taste like food. For example, the first time that Wilbourne visits 
+Charlottes home in If I Forget Thee, Jerusalem, as he turns to her house and 
+stands on the threshold, he says that from behind the door he is assailed with 
+the strong scent of sugar, bananas, jasmine, and hemp, which are all products 
+that have been used as sources of food (31). Additionally, sugar, bananas, and 
+jasmine are interesting scents for Charlotte to be encoded with since they speak 
+(reek?) of the foreign and the exotic, something mysterious or alluring. Hemp, 
+on the other hand, in addition to being used as food, has also been used as a 
+drug or to make rope. Thus, Charlotte, who later will express her desire to artis­
+tically explore “The Bad Smell,” is initially scent-coded as food. She smells like 
+something to be eaten by Wilbourne, a food that is different, enticing, but that 
+can also be dangerously intoxicating or something that might cause Wilbourne 
+to be tied down or bound.
+Later, after he has slept with her, Wilbourne also says that Charlotte smells 
+like bacon (JER 90), which comes from an animal primarily kept for human 
+consumption. By describing Charlotte as scented like exotic food and spices 
+from colonized regions or scented like a tamed, domesticated animal, despite 
+claiming to love Charlotte’s independence, daring, and liberated attitude, Wil- 
+bourne’s nose seems to insist on identifying her as something quite different 
+than what he professes to value about her. In fact, Wilbourne seems to associate 
+Charlotte’s identity so strongly with these smells that after she dies and he is in 
+prison, anytime he smells the nearby fluidity of the ocean (which, as Minrose 
+Gwin points out in The Feminine and Faulkner is symbolic of the feminine), 
+he also begins smelling jasmine (something from the colonies, feminine, and 
+used in food) and hemp (symbolically binding him just like the prison he is in) 
+almost obsessively as he thinks about Charlotte (248, 251, 254, 255, 257, 258, 
+259, 266, 272). Thus, even after her death, Wilbourne consumes the memory of 
+Charlotte like scented food through what he continually smells.
+In Light in August, there are three other notable instances where men met­
+aphorically consume women as food, either through the sense of smell or the 
+related sense of taste. First, even when Joe is very young, he intuitively associ­
+ates the dietician at the orphanage with eating. We are told, “The dietician was 
+nothing to him yet, save a mechanical adjunct to eating, food, the dining room 
+.. . except as something of pleasing association ... making his mouth think of 
+something sweet and sticky to eat” (120). Second, when the unpopular Joanna 
+Burden’s house burns, the narrator says that in the past people thought her
+ The Faulkner Journal Fall 2014 69
+house should be burned “with a little human fat meat to start it good” (49). 
+Here Joanna is something to be used up, eaten up by the fire just like meat. 
+Third, when foe and his stepfather argue, Joe blames Mrs McEachern for mak­
+ing his punishment worse: “both the man and the boy accepting it [punish­
+ment] as a natural and inescapable fact until she, getting in the way, must give 
+it an odor, an attenuation, an aftertaste” (167). In this instance, Mrs McEachern 
+is positioned as consumable via two non-visual senses, as both a bad smell and 
+a bad taste, when she interferes in what both Joe and Mr McEachern perceive 
+as the business of men.
+Likewise, in both The Hamlet and in The Town, Eula is frequently posi­
+tioned as a food that men want to smell and taste. Her eyes are “like cloudy 
+hothouse grapes” (H 11), and “her entire appearance suggested some symbol­
+ogy out of the old Dionysic times - honey in sunlight and bursting grapes, the 
+writhen bleeding of the crushed fecundated vine” (H 105). The narrator also 
+states that Eula is “female meat” (H 111) and, more overtly, Eula’s suitors are 
+described as having “swarmed like wasps about the ripe peach which her full 
+damp mouth resembled” (H141). Ihus, even Eula’s mouth, which should be an 
+apparatus through which she can taste food, instead becomes tasty, desirable 
+food for the palates of the men around her. Later, Ratliff also thinks of Eula as 
+“just meat, just galmeat” (H 166), and Gavin says that Eula is like a “blinding 
+whiff,” so that her smell is so important that it literally seems to put out his eyes 
+(T 283). Even Eula’s virginity is situated in terms of the sense of taste. When we 
+are told that Eula already seems to know the time when she will lose her vir­
+ginity, she is described as waiting for that moment as if she is waiting “for the 
+eating to start” (H 143). Thus, the first man who has sex with her will literally 
+not just look at her but will be feasting upon her as smelly, tasty food.
+Women are also portrayed as smelling not just like regular food but also 
+as dangerous, rotting, or rancid food in ways that position them as a sensory 
+threat. In As I Lay Dying, Addies son Vardaman constantly confuses her with 
+a fish he has caught, a food known for its strong odor, and Peabody complains 
+when Dewey Dell doesn’t fix him the mother/fish to eat, saying that vegetables 
+alone are “mighty spindling eating” for a man (60). Later, Addie is also de­
+scribed as smelling like rotten cheese (203). This image of women as tasty food 
+for men but also food that is stinking or that will spoil is perpetuated by the 
+Bundren’s neighbor, Tull. In an extended passage, he reflects that his wife Cora 
+is a jar of milk that he knows will eventually turn into smelly soured milk as 
+she goes bad. But, he ponders, at least it is “your milk, sour or not, because you 
+would rather have milk that will sour than to have milk that wont, because you 
+are a man” (139; emphasis mine). Thus, again there is a linguistic linking of 
+women to smelly food, contradictory food that men must consume in order to 
+perform their masculinity but food that can also be dangerously spoiled and 
+reeking. As such, from a sensory perspective, the men in the texts are por­
+trayed as eerily similar to the vultures that constantly circle Addie’s odorous
+ 70 Laura Davis A Sensory Studies Approach to Nine Faulkner Texts
+corpse trying to eat it throughout the narrative of As I Lay Dying; in fact, one 
+of the vultures is described as an “old baldheaded man” (119). The convict in If 
+I Forget Thee, Jerusalem responds similarly, describing his girlfriend in terms 
+more indicative of a farm animal raised for consumption than a woman, saying 
+she smelled sweaty like “soft young female flesh, slightly pneumatic,” a word 
+that refers to the smell of a woman’s breast almost as if she were a chicken he 
+wants to eat (286). Furthermore, in The Town, when the women in the Cotil­
+lion Club wear corsages, Chick tells us their smell was like “mist in a swamp 
+on a cold morning” (64), an interesting image for a perfumed and floral scene 
+since swamps are frequently depicted as both wild and beautiful and as strong­
+ly scented rotting places that are potentially dangerous.
+This scented coding of women as spoiled or dangerous to men’s senses is 
+also expressed through the linkage of odor with feminine sickness and death. 
+For example, in As I Lay Dying, the smell of Addie’s corpse is literally declared 
+a danger to public health (204). Additionally, the elderly and desiccated Miss 
+Rosa in Absalom, Absalom! is well-known by her smells: she and/or her envi­
+rons are frequently depicted as smelling dead, smelling like a coffin, or smelling 
+like camphor (which was used to treat illness and also for embalming) (4, 143, 
+290). Judith is also associated with the smell of camphor (AA 19). In If I Forget 
+Thee, Jerusalem, Wilbourne says that Charlotte smells like balsam (90), which 
+could be used as anointing oil in sacraments of illness and dying. Aunt Louisa 
+of The Unvanquished overwhelms her environs with the smell of dead roses 
+(201), and in The Town, Gavin also thinks of Eula as if she is deadly, like drown­
+ing. He describes her as “just standing there facing me so that what I smelled 
+was not even just woman but that terrible, that drowning envelopment” (84).
+Thus, in Faulkner’s world of gender and the senses, the non-visual senses 
+of smell and sometimes taste are connected with ideas about masculinity and 
+femininity but in different ways. By the smelly rules of this social order, one 
+way men are able to police and perform masculinity consistently in Faulkner’s 
+fiction is by smelling each other. Furthermore, they frequently describe women 
+in terms of how they smell and then, sometimes literally and sometimes figu­
+ratively, they depict these feminine odors in contradictory tropes of tempting, 
+tasty food but also of smelly spoilage or odorous death. Female characters, on 
+the other hand, with the exception of a few notable examples discussed below, 
+are far less likely to be depicted as smelling things or as interpreting the world 
+through scent. This distinction between how the sexes are drawn could be read 
+in a variety of ways, but one thing that does seem clear in these nine texts is that 
+when it comes to smell, the male characters are most often described as having 
+more olfactory agency. In other words, they are far more likely to be portrayed 
+as actively smelling something, and women are far more likely to be described 
+as smelling like something; thus, at least in the terms of the nose, the male 
+characters seem cast more in the role of sensory actors who sniff things out and 
+the women characters as subjects to be discerned in part through their scents.
+ The Faulkner Journal Fall 2014 71
+IV. Smelly Disruptions
+Despite these generalizations, however, there are a few interesting disruptions 
+to these gendered sensory patterns when Faulkner, or at the very least his char­
+acters, seems to be playing with the constructed nature of gendered smells. In 
+Absalom, Absalom!, the narrator writes that pigmentation (race) has no more 
+“moral value” than scent (161). Such a statement implies that there might be 
+moments in his fiction when race, gender, and the smells that code them and 
+give them moral and social value can be exposed as arbitrary and constructed 
+and thus be disrupted. Unfortunately, sometimes even when these subversive 
+moments of sensory gender roles occur, the subversion often gets conflated 
+and entangled with other forms of repression such as racism or socioeconomic 
+class barriers. And yet, these are still important passages to note and inspect.
+First, there are a few rare moments in Faulkner’s fiction where women 
+themselves are able to smell things rather than be smelled by others. Without 
+the framework of sensory studies, these brief scenes in Faulkner’s texts in which 
+women smell things might easily be dismissed as fleeting moments of random 
+background trivia unimportant to the plot or Faulkner’s craft. However, when 
+Faulkner’s fiction is approached through sensory studies, such instances re­
+sound with a great deal more meaning. Indeed, they can become small op­
+portunities of (admittedly limited) liberation and disruption in a society that 
+is otherwise strictly policed by the senses in ways that seek to control more 
+typically subjugated groups like women and non-whites. Once again, this is 
+where the frame of sensory studies can open up new meaning to passages of 
+Faulkner’s fiction and helps us understand his society and characters in fresh 
+ways.
+Addie Bundren, for example, who is perhaps the smelliest woman in all 
+of Faulkner’s novels, at one point gets to express her own sensory desires. As 
+a young woman, she would run away from her job as a school teacher and es­
+cape to a place where she tells the reader that she especially enjoyed the smell 
+of damp and rotting leaves (AILD 169). Admittedly, it is pitiable that a female 
+character who will spend virtually an entire novel being dead and smelling 
+dead gravitates to the smell of dampness, rot, and decay; however, there is some 
+autonomy here—at least in this one instance Addie herself is doing the smell­
+ing, smelling for pleasure, no less, rather than being smelled.
+In the same novel, Addies daughter Dewey Dell sniffs a bottle of medicine 
+proffered to her by an unscrupulous pharmacy worker. On the positive side, 
+Dewey Dell interprets the smell correctly: “Hit smells like turpentine,” she says, 
+which is the conclusion that the young man has reached as well (247). Consid­
+ering that camphor (which is mentioned previously as a scent of sickness and 
+death) and turpentine are related compounds, the reader is given a brief mo­
+ment of hope that Dewey Dell, whose nose has just proven itself to be as sharp 
+and as knowing as that of her male counterpart, will escape his ruse unscathed.
+ 72 Laura Davis A Sensory Studies Approach to Nine Faulkner Texts
+Unfortunately, although her sense of smell has interpreted the scene and the 
+young man’s motives correctly, she still becomes a victim of his sexual trick­
+ery and assault. Nevertheless, for one small moment, Dewey Dell is given the 
+power to smell and interpret. Additionally, in Absalom, Absalom! we find the 
+octoroon being handed a bottle of perfume to smell for her pleasure and com­
+fort (158). This would seem especially important as she is a racial minority and 
+lower in the social hierarchy; however, unfortunately it is another black person, 
+a servant designated as a “negress,” who hands her the perfume, so even though 
+this is somewhat liberating, there are clearly repressive class and racial systems 
+working in this sensory moment as well. Lastly, in The Town, Aleck Sander says 
+that his mother could “see and hear through a wall” (much like Dilsey, who also 
+has the power to see through walls) and that when he got bigger, she could even 
+“smell his breath over the telephone” (55). This ability for a woman to monitor 
+a male via her senses is important; however, it too is somewhat circumscribed 
+by the fact that Aleck and Gowan attribute these powers to Guster being a 
+mother, saying these sensory tricks were something that perhaps all mothers 
+(not all women) could do.
+Furthermore, it must be noted that women as well as men smell Addie ‘s 
+corpse throughout the text of As I Lay Dying. This instance in particular brings 
+up the point of whether being smelled by another person is always an act of 
+consumption and containment or whether being smelled can also be an act 
+of assertion and power. Clearly, as explored above in regards to masculinity 
+especially, when the smeller is in charge of defining moral and social standing 
+in society by judging and interpreting other peoples bodies, this most often 
+results in judgment and discipline for the person being smelled. However, giv­
+ing off smell is also an action—an action that can have an impact on others; in 
+this way, being odorous can also be a statement that is controlled by the person 
+giving off the smell. For example, it is interesting that throughout the text of As 
+I Lay Dying, women have a very unified reaction to Addies smell. Though men 
+note the smell and discuss it, women in the community consistently call Ad­
+dies smell “a outrage” (117,187). This is a compelling word considering that for 
+most of her life, Addie has internalized her anger and unhappiness. With the 
+stench of her body as a weapon, her rage finally turns out—“out raging” into 
+the community. Addie’s body, through its odor, literally moves other bodies out 
+of its way throughout the text, a power Addie did not seem to have in life. Com­
+menting on the situation, one of Addie’s neighbors says, “a woman that’s been 
+dead in a box four days, the best way to respect her is to get her into the ground 
+as quick as you can” (116). On the flip side, a body that remains above ground 
+like Addie’s fails to respect the community and begins to violate and uproot 
+its religious, social, moral, and legal sensibilities. In this way, Addie’s smell be­
+comes a powerful outward/outrage-ous force of challenge and assertion rather 
+than a way in which she can be contained; it is, of course, unfortunate that she 
+literally has to die to gain this power.
+ The Faulkner Journal Fall 2014 73
+In this aspect, Addie is like another of Faulkner’s characters who dies, 
+Charlotte Rittenmeyer oilfJ Forget Thee, Jerusalem, who also seems more in 
+control of smell than might typically be expected of a female. It is Charlotte, 
+after all, as an artist engaged in active creation who makes an effigy of starva­
+tion and deprivation entitled “the Bad Smell,” a statue she uses to make power­
+ful forces like hunger (or possibly even masculinity?) more diminutive when 
+she crafts the idea of bad smells into the body of a little old man she can easily 
+contain within her hands (81, 89, 91, 155). Not only is she powerful enough to 
+make the Bad Smell, she seems to play with the inter-related and overlapping 
+aspects of the senses, naming something a smell that she makes through the 
+sense of touch and that is clearly meant to be consumed visually versus via 
+olfaction. Considering the other notable example of such inter-sensory min­
+gling is a moment where God himself is described as experiencing something 
+as smelling through his eyes, this inter-sensory control says a lot about Char­
+lottes strength and efficacy at harnessing the power of the senses and likewise 
+at flouting taboos that are connected to these senses. Like Addie, Charlotte 
+reveals that she can use sensory control to make others do things when she 
+demonstrates her ability to bestow the Bad Smell onto others, such as the man 
+who visits her and Wilbourne, saying flippantly to him, “Take it... . You must 
+need it much worse than we do”; importantly, he does as she says and takes it 
+(92). In this way, Charlotte shows that even though Wilbourne s nose repeat­
+edly identifies her as a domesticated animal or food source, she is much more 
+than this. Through her recognition of the importance of smell and her ability to 
+employ it via art, she is capable of bestowing the smell of hunger and depriva­
+tion onto a male through her own will and creative powers. Despite Charlottes 
+terrible death owed in part to the way others ultimately “sniff out” and judge 
+her infidelity, this budding artistic/feminine/sensory power, even recontained, 
+remains critically important for that.6
+Finally, in terms of the sense of taste, which is often referenced alongside 
+the sense of smell, there are also a few moments when women are depicted as 
+tasting food, or, at the very least, when they are able to control the tastes of 
+men. Lena Grove is one such character. When she is pregnant and on the road 
+searching for the father of her child, there is a scene where she gets to taste 
+food with great sensory delight: “She eats slowly, steadily, sucking the rich 
+sardine oil from her fingers with slow and complete relish” (LA 29). Of course 
+right in the middle of Lena’s feast, her child moves and causes her pain, and 
+we are told that she is “stilled in midchewing” and her “face has drained of 
+color, of its full, hearty blood” (29). Thus, in a way, this scene depicts how a 
+male can interrupt a woman’s ability to taste and enjoy food even before he 
+is born. Another instance where a woman tastes food is Eula’s mother, Mrs 
+Varner. The narrator describes her by saying that “Her conviction was that
+6 Cousin Drusilla in The Unvanquished is arguably another notable female character capable of actively 
+bestowing smell on others. My exploration of Drusilla’s striking capacity for “gender bending” will be exten­
+sively treated elsewhere in an essay devoted to smell and queerness in Faulkner.
+ 74 Laura Davis A Sensory Studies Approach to Nine Faulkner Texts
+the proper comingling of food ingredients lay not on any printed page but in 
+the taste of the stirring spoon” (H 108). Unfortunately, the passage goes on 
+to talk about Mrs Varner’s illiteracy and her belief that women should not be 
+educated, so this instance is complicated by the fact that she is focused on her 
+sense of taste at the expense of her ability to read. Other disruptions include 
+Addies disparaging remarks on Cora’s cooking in As I Lay Dying (174) and 
+Eula Varner’s consumption of “baked sweet potatoes” and “cold” potatoes in 
+The Hamlet (127, 136), both of which demonstrate female characters using 
+their non-visual senses to express an opinion or preference.
+Moments in these nine texts where female characters are depicted as in­
+terrupting men’s ability to taste and/or moments where men are positioned 
+as food for women are also quite rare but do occasionally exist. For example, 
+we are told that Eula has such an impact on the schoolteacher Labove that 
+he would “eat the food which he would not even taste” (H 131), so in this 
+instance, Eula is in some ways dictating a man’s ability to enjoy his sensory 
+palate. Likewise, when Chick’s father realizes that Gavin’s problem is that he’s 
+in love with Eula, he says, “So that’s what’s been eating you for the past two 
+weeks” (T 41). This is an instance where, through a turn of speech, for once, 
+a woman is metaphorically eating a man, and a man is thus positioned as 
+food for her to taste. Eula’s daughter Linda is described as having a similar 
+moment with Gavin when Gavin chooses to court Linda by buying her treats 
+at the local ice cream parlor. Not only does Linda get to enjoy food in these 
+scenes, but Mr. Mallison even says, “maybe someday she’ll even look at him 
+[Gavin] like she was looking at that banana split” (158-59). In other words, 
+through the sense of taste, Mr. Mallison acknowledges that women also have 
+hungers, even sexual ones, and that men might also be desirable food for 
+them to taste and consume.
+V. Conclusions
+For good reason, critics have long been interested in Faulkner’s depictions 
+of the sense-laden South and have explored the symbolic meanings of cer­
+tain scents especially. However, perhaps even this cursory first exploration 
+of Faulkner’s texts hints that we also owe a debt to our colleagues in fields 
+like history and anthropology who are endeavoring via sensory studies to 
+connect sensory experience with systems of cultural beliefs and moral judg­
+ments. While the study of literature (and often the historical and cultural 
+milieus that such literature represents) involves the reading and interpreting 
+of texts rather than studying behavior through empirical approaches, em­
+ploying a sensory studies framework can still lead us to explore how and 
+why fictional characters use their senses in ways that shed light on cultural 
+ideas and human behavior. As such a project shows, when we employ a close 
+reading of Faulkner’s fiction to examine how characters actively employ their
+ The Faulkner Journal Fall 2014 75
+noses or to explore how their beliefs about smells and tastes help them or­
+ganize and make sense of the world, a surprising number of pervasive and 
+consistent patterns do emerge that shed new light on cultural ideas about 
+gender and sexual behavior as well as on various characters, scenes, and even 
+plot. Hopefully this indicates that there is much more productive work to be 
+done in this area and that literary scholars have a great deal yet to contribute 
+to the field of sensory studies.
+Kennesaw State University
+ 76 Laura Davis A Sensory Studies Approach to Nine Faulkner Texts
+Works Cited
+Beam, Patricia. “Beached on the Sands of Creativity: The Bad Smell of The Wild Palms!' Journal 
+of English 14 (1986): 45-54. ProQuest. Web. 4 Feb. 2016.
+Carmignani, Paul. “Olfaction in Faulkner’s Fiction.” Mississippi Quarterly 43.3 (1990): 305-15.
+Classen, Constance, ed. The Book of Touch. Oxford: Berg, 2005.
+------ , ed. A Cultural History of the Senses. 6 vols. London: Bloomsbury, 2014.
+Classen, Constance, David Howes, and Anthony Synnott. Aroma: The Cultural History of Smell. 
+London: Routledge, 1994.
+Donaldson, Susan V. and Anne Goodwyn Jones. “Haunted Bodies: Rethinking the South through 
+Gender.” Introduction. Haunted Bodies: Gender and Southern Texts. Ed. Donaldson and 
+Jones. Charlottesville: UP of Virginia, 1997. 1-19.
+Faulkner, William. Absalom, Absalom!. 1936. The Corrected Text. New York: Vintage Interna­
+tional, 1990.
+------ . As I Lay Dying. 1930. The Corrected Text. New York: Vintage International, 1990.
+------ . Go Down, Moses. 1942. New York: Vintage International, 1990.
+------ . The Hamlet. 1940. The Corrected Text. New York: Vintage International, 1991.
+------ . If I Forget Thee, Jerusalem [The Wild Palms], 1939. New York: Vintage International, 1995.
+------ . Light in August. 1932. The Corrected Text. New York: Vintage International, 1990.
+------ . The Sound and the Fury. 1929. The Corrected Text. New York: Vintage International, 1990.
+------ . The Town. 1957. William Faulkner: Novels 1957-1962. New York: Lib. of Amer., 1999.
+1-326.
+------ . The Unvanquished. 1938. The Corrected Text. New York: Vintage International, 1991.
+Fulton, Lorie Watkins. “William Faulkners Wistaria: The Tragic Scent of the South.” Southern 
+Studies 11.1-2 (2004): 1-9. ProQuest. Web. 4 Feb. 2016.
+Gobble, Maryanne M. “The Significance of Verbena in William Faulkner’s ‘An Odor of Verbena.’” 
+Mississippi Quarterly 53.4 (2000): 569-82. ProQuest. Web. 4 Feb. 2016.
+Gwin, Minrose C. The Feminine and Faulkner: Reading (Beyond) Sexual Difference. Knoxville: U 
+of Tennessee P, 1990.
+Gwynn, Frederick L. and Joseph L. Blotner, eds. Faulkner in the University. 1959. Charlottesville: 
+UP of Virginia, 1995.
+Howes, David. “The Craft of the Senses.” Centre for Sensory Studies. Concordia University, n.d. 
+Web. 10 June 2015.
+------ , ed. Empire of the Senses: The Sensual Culture Reader. Oxford: Berg, 2005.
+------ . “The Expanding Field of Sensory Studies.” Sensory Studies. N.p., n.d. Web. 15 June 2015.
+------ . Sensual Relations: Engaging the Senses in Culture and Social Theory. Ann Arbor: U of
+Michigan P, 2003. Web. 4 Feb. 2016.
+Jarvis, Christina. ‘“Like a lady I Et’: Faulkner, Food, and Femininity.” Wagner-Martin 59-80.
+Kartiganer, Donald M. and Ann J. Abadie, eds. Faulkner and Gender: Faulkner and Yoknapataw­
+pha, 1994. Jackson: UP of Mississippi, 1996.
+ The Faulkner Journal Fall 2014 77
+Largey, Gale Peter, and David Rodney Watson. “The Sociology of Odors.” American Journal of 
+Sociology 77.6 (1972): 1021-34.
+Roberts, Diane. Faulkner and Southern Womanhood. Athens: U of Georgia P, 1994.
+Ruckel, Terri Smith. “The Scent of a New World Novel: Translating the Olfactory Language of 
+Faulkner and Garcia Marquez.” Diss. Louisiana State U, 2006. ProQuest. Web. 4 Feb. 2016.
+Smith, Mark M. How Race is Made: Slavery, Segregation, and the Senses. Chapel Hill: U of North 
+Carolina P, 2006.
+------ . “Producing Sense, Consuming Sense, Making Sense: Perils and Prospects for Sensory His­
+tory.” Journal of Social History 40.4 (2007): 841-58. Project MUSE. Web. 4 Feb. 2016.
+Wagner-Martin, Linda, ed. William Faulkner: Six Decades of Criticism. East Lansing: Michigan 
+State UP, 2002.
+Witt, Robert W. “On Faulkner and Verbena.” The Southern Literary Journal 27.1 (1994): 73-84. 
+ProQuest. Web. 4 Feb. 2016.
+Zender, Karl F. “Faulkner and the Power of Sound.” PMLA 99.1 (1984): 89-108. ProQuest. Web. 
+4 Feb. 2016.
+Zhou, Wen, et al. “Chemosensory Communication of Gender through Two Human Steroids in 
+a Sexually Dimorphic Manner.” Current Biology 24.10 (2014): 1091-95. Web. 4 Feb. 2016.

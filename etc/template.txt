@@ -1,0 +1,35 @@
+<html>
+<head><title>Constellate Dataset Helper</title>
+</head>
+<body style='margin:3%'>
+
+<h1>Constellate Dataset Helper</h1>
+
+<h2>About</h2>
+
+	<ul>
+	<li><b>date updated</b>: ##DATE##</li>
+	<li><b>query</b>: ##QUERY##</li>
+	<li><b>size in documents</b>: ##HITS##</li>
+	</ul>
+
+<h2>Visualizations</h2>
+
+	<ul>
+		<li><a href="##CATEGORIES##">categories over time</a></li>
+		<li><a href="##CLOUD##">word cloud</a></li>
+		<li><a href="##DOCUMENTS##">documents over time</a></li>
+		<li><a href="##FREQUENCY##">term frequency</a></li>
+		<li><a href="##PHRASES##">keyphrases</a></li>
+		<li><a href="##TREEMAP##">treemap</a></li>
+	</ul>
+
+<h2>Download</h2>
+
+	<ul>
+	<li><b>size in bytes</b>: ##SIZE##</li>
+	<li><b>download</b>: <a href="##URL##">JSONL</a></li>
+	</ul>
+
+</body>
+</html>
